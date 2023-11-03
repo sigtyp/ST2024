@@ -61,6 +61,11 @@ The shared task is hosted on CodaLab. Following the authors of GLUE and SuperGLU
 ## Paper submission 
 Paper submission instructions will be the same as for the workshop. Each team participating in the shared task is expected to submit a paper of 4 to 8 pages, plus additional pages for references, formatted according to the workshop guidelines. The paper should describe the system and the resources used along with the libraries used to develop the system. The methodology/strategy should be documented in such a way that the readers and other researchers are able to replicate the work from the system description in the paper. 
 
+## Important Links
+In order to register for the Shared Task, please fill out the form given in the link below.<br>
+[Registration](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
+
+
 ## Important Dates
  - **05 Nov 2023:** Release of training and validation data
  - **02 Jan 2024:** Release of test data
@@ -73,12 +78,12 @@ Paper submission instructions will be the same as for the workshop. Each team pa
  - **21/22 Mar 2024:** SIGTYP workshop
 
 ## Task Organizers 
-* **Oksana Dereza**, PhD Student, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
-* **Priya Rani**, PhD Student, SFI Centre for Research and Training in AI, Data Science Institute, University of Galway 
-* **Atul Kr. Ojha**, Postdoctoral Researcher, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
-* **Adrian Doyle**, Research Associate, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
-* **Pádraic Moran**, Lecturer in Classics, Associate Director at the Moore Institute, University of Galway
-* **John P. McCrae**, Assistant Professor, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
+* **Oksana Dereza**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
+* **Priya Rani**, SFI Centre for Research and Training in AI, Data Science Institute, University of Galway 
+* **Atul Kr. Ojha**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
+* **Adrian Doyle**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
+* **Pádraic Moran**, Associate Director at the Moore Institute, University of Galway
+* **John P. McCrae**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
 
 
 ## References 
