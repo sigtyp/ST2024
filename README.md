@@ -26,7 +26,7 @@ The shared task involves solving the following problems for 12+ ancient and hist
 For subtask A, participants are not allowed to use any additional data; however, they can reduce and balance provided training datasets if they see fit. For subtask B, participants are allowed to use any additional data in any language, including pre-trained embeddings and LLMs. 
 
 ## Data
-The data for tasks 1-3 is the same and can be found in the "morphology" folder. Tasks 4a and 4b have their own data folders.
+The data for tasks 1-3 is the same and can be found in the "morphology" folder in `conllu` format. Tasks 4a and 4b have their own data folders.
 
 For tasks 1-3, we use [Universal Dependencies](https://universaldependencies.org/) v. 2.12 data (Zeman et al., 2023) in 11 ancient and historical languages, complemented by 5 Old Hungarian codices from the [MGTSZ](http://oldhungariancorpus.nytud.hu/en-codices.html) website (HAS Research Institute for Linguistics, 2018) that are annotated to the same standard as the corpora available through UD.  UD corpora containing less than 1K examples or having only a test set were not taken into account. For task 4, we add historical Irish data from [CELT](https://celt.ucc.ie/publishd.html) (Ó Corráin et al., 1997) and [Corpas Stairiúil na Gaeilge](http://corpas.ria.ie/index.php?fsg_function=1) (Acadamh Ríoga na hÉireann, 2017) as a case study of how performance may vary on different historical stages of the same language. 
 
