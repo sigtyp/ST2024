@@ -2,41 +2,41 @@
 
 ## ANCIENT GREEK
 ### UD: PERSEUS
-- Aesop: Fabulae
-- Aeschylus: Agamemnon
-- Aeschylus: Eumenides
-- Aeschylus: Libation Bearers
-- Aeschylus: Prometheus Bound
-- Aeschylus: Persians
-- Aeschylus: Seven Against Thebes
-- Aeschylus: Supplian Women
-- Anonymous: Hymn to Demeter
-- Apollodorus: Library
-- Athenaeus: The Deipnosophists
-- Diodorus Siculus: Bibliotheca Historica
-- Herodotus: Histories
-- Hesiod: Shield of Heracles
-- Hesiod: Theogony
-- Hesiod: Works and Days
-- Homer: Iliad
-- Lysias: Against Pancleon
-- Lysias: Alcybiades 1
-- Lysias: Alcybiades 2
-- Lysias: On the Murder of Eratosthenes
-- Plutarch: Alcibiades
-- Plutarch: Lycurgus
-- Plybius: Histories
-- Pseudo-Homer: Hymn to Demeter
-- Sophocles: Ajax
-- Sophocles: Antigone
-- Sophocles: Electra
-- Sophocles: Oedipus Tyrannus
-- Sophocles: Trachinae
-- Thucydides: Histories
+- Aesop – Fabulae
+- Aeschylus – Agamemnon
+- Aeschylus – Eumenides
+- Aeschylus – Libation Bearers
+- Aeschylus – Prometheus Bound
+- Aeschylus – Persians
+- Aeschylus – Seven Against Thebes
+- Aeschylus – Supplian Women
+- Anonymous – Hymn to Demeter
+- Apollodorus – Library
+- Athenaeus – The Deipnosophists
+- Diodorus Siculus – Bibliotheca Historica
+- Herodotus – Histories
+- Hesiod – Shield of Heracles
+- Hesiod – Theogony
+- Hesiod – Works and Days
+- Homer – Iliad
+- Lysias – Against Pancleon
+- Lysias – Alcybiades 1
+- Lysias – Alcybiades 2
+- Lysias – On the Murder of Eratosthenes
+- Plutarch – Alcibiades
+- Plutarch – Lycurgus
+- Plybius – Histories
+- Pseudo-Homer – Hymn to Demeter
+- Sophocles – Ajax
+- Sophocles – Antigone
+- Sophocles – Electra
+- Sophocles – Oedipus Tyrannus
+- Sophocles – Trachinae
+- Thucydides – Histories
 
 ### UD: PROIEL
 - New Testament
-- Herodotus: Histories
+- Herodotus – Histories
 
 ## ANCIENT HEBREW
 ### UD: PTNK
@@ -125,24 +125,24 @@
 
 ## LATIN
 ### UD: PERSEUS
-- Augustus: Res Gestae 
-- Cicero: In Catilinam 
-- Jerome: Vulgata 
-- Vergil: Aeneid 
-- Ovid: Metamorphoses 
-- Petronius: Satyricon 
-- Phaerus: Fabulae 
-- Propertius: Elegies 
-- Sallust: Bellum Catilinae 
-- Suetonius: Life of Augustus 
-- Tacitus: Historiae
+- Augustus – Res Gestae 
+- Cicero – In Catilinam 
+- Jerome – Vulgata 
+- Vergil – Aeneid 
+- Ovid – Metamorphoses 
+- Petronius – Satyricon 
+- Phaerus – Fabulae 
+- Propertius – Elegies 
+- Sallust – Bellum Catilinae 
+- Suetonius – Life of Augustus 
+- Tacitus – Historiae
 
 ### UD: PROIEL
-- Jerome: Vulgata
-- Julius Caesar: Commentarii de Bello Gallico (1-6)
-- Cicero: Letters to Atticus
-- Cicero: De Officiis
-- Palladius: Opus Agriculturae
+- Jerome – Vulgata
+- Julius Caesar – Commentarii de Bello Gallico (1-6)
+- Cicero – Letters to Atticus
+- Cicero – De Officiis
+- Palladius – Opus Agriculturae
 
 ## MEDIEVAL LATIN
 ### UD: ITTB 
@@ -156,23 +156,24 @@
 
 ## OLD CHURCH SLAVONIC
 ### UD: PROIEL
-- Codex Marianus: New Testament
-- Codex Zographensis: New Testament
+- Codex Marianus – New Testament
+- Codex Zographensis – New Testament
 - Psalterium Sinaiticum
 - Codex Suprasliensis
 	- John Chrysostom, Homily on the resurrection of Lazarus after four days 2
-	- Patriarch Photios, Homily on Palm Sunday	- Vita of Artemios (24th March)
+	- Patriarch Photios, Homily on Palm Sunday
+	- Vita of Artemios (24th March)
 	- Vita of the 40 Martyrs of Sebasteia
 	- Vita of St. Aninas the Wonderworker
 	- Vita of Basiliskos
 	- Vita of Basil and Kapiton
 	- Vita of Gregory I the Great (11th March)
 	- Vita of Terentios, Afrikanos, and Pompeos (20th March)
-- Kiev Missal:	Mass for every day of the year
+- Kiev Missal –	Mass for every day of the year
 
 ## OLD EAST SLAVIC
 ### UD: TOROT
-- Афанасий Никитин: Хожение за три моря
+- Афанасий Никитин – Хожение за три моря
 - Домострой
 - Житие Сергия Радонежского
 - Житие Стефана Пермского
@@ -235,7 +236,7 @@
 - Отписка приказчика с. Котельников (Москов. у.) В. Гнездова Б. И. Морозову о ходе посадки и прививки плодовых деревьев
 - Отписка приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову о переводе в конюхи трубачей С. Лукьянова и Я. Маршалка
 - Отписка приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову о приезде мастера рудника Михаила и о его работе
-- Отписки 1) приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову и 2) Петра Дмитриева московскому приказчику С. Н. Киселеву — о доставке в Павловское живых лещей и состоянии их
+- Отписки 1) приказчика с. Павловского (Звенигород. у.) А. Дементьева Б. И. Морозову и 2) Петра Дмитриева московскому приказчику С. Н. Киселеву – о доставке в Павловское живых лещей и состоянии их
 - А. Дементьев. Две отписки приказчика с. Павловского (Звенигород. у.) А. Дементьева в Москву Б. И. Морозову и приказчику С. Н. Киселеву о прибытии деловых людей, о ходе работ по расчистке леса, об озорстве и непослушании деловых людей
 - Охотничий заговор
 - Заговор от грыжи
@@ -251,16 +252,16 @@
 ### UD: Birchbark
 Birchbark letters: http://gramoty.ru
 
-* Letters — 61.7% 
-* Household and business records — 21.6% 
-* Official and legal documents — 6.8% 
-* Records for church services — 3.4% 
-* Learner records — 2.2%
-* Mixed genred, varia — 4.3% 
+* Letters – 61.7% 
+* Household and business records – 21.6% 
+* Official and legal documents – 6.8% 
+* Records for church services – 3.4% 
+* Learner records – 2.2%
+* Mixed genred, varia – 4.3% 
 
 ## OLD FRENCH
 ### UD: SRCMF
-- Yvain de Chrestien (1180)
+- Chrestien de Troies – Yvain (1180)
 
 ## VEDIC SANSKRIT
 ### UD: Vedic
@@ -349,7 +350,7 @@ Birchbark letters: http://gramoty.ru
 - Finns Stammbaum und die Fiana
 - Fled Dúin na nGéd
 - Forbuis Droma Damhghaire (Book of Lismore)
-- Four saints — Cormac, Beccan (Emin), Culan, Diarmaid
+- Four saints – Cormac, Beccan (Emin), Culan, Diarmaid
 - Gáir na Gairbe glaídbinne
 - Immacallam in Druad Brain ocus inna Banfháitho Febuil
 - Imrum Snedhghusa ocus Mic Ríagla
