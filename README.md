@@ -75,7 +75,7 @@ Paper submission instructions will be the same as for the workshop. Each team pa
 ## Important Links
 To register for the Shared Task, please fill in the form on the link below.
 
-**[Registration]**(https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
+[**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
 
 ## Task Organizers 
 * **Oksana Dereza**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
