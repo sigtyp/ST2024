@@ -251,12 +251,12 @@
 ### UD: Birchbark
 Birchbark letters: http://gramoty.ru
 
-* letters -- 61.7% 
-* household and business records -- 21.6% 
-* official and legal documents -- 6.8% 
-* records for church services -- 3.4% 
-* learner records -- 2.2%
-* mixed genred, varia -- 4.3% 
+* Letters — 61.7% 
+* Household and business records — 21.6% 
+* Official and legal documents — 6.8% 
+* Records for church services — 3.4% 
+* Learner records — 2.2%
+* Mixed genred, varia — 4.3% 
 
 ## OLD FRENCH
 ### UD: SRCMF
@@ -395,7 +395,7 @@ Birchbark letters: http://gramoty.ru
 - Ranna an aeir
 - The Gaelic abridgment of the Book of Ser Marco Polo
 
-### Corpas Stairiúil ma Gaeilge
+### Corpas Stairiúil na Gaeilge
 - A Seventeenth Century Legal Document
 - Agallamh na Seanórach I
 - Agallamh na Seanórach II
