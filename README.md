@@ -82,7 +82,7 @@ To register for the Shared Task, please fill in the form on the link below.
 * **Priya Rani**, SFI Centre for Research and Training in AI, Data Science Institute, University of Galway 
 * **Atul Kr. Ojha**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
 * **Adrian Doyle**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
-* **Pádraic Moran**, Associate Director at the Moore Institute, University of Galway
+* **Pádraic Moran**, School of Languages, Literatures and Cultures, Moore Institute, University of Galway
 * **John P. McCrae**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
 
 
