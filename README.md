@@ -76,6 +76,9 @@ In order to register for the Shared Task, please fill out the form given in the 
  - **03 Feb 2024:** Camera-ready
  - **15 Mar 2024:** Video recordings due
  - **21/22 Mar 2024:** SIGTYP workshop
+## Important Links
+To register for the Shared Task, please fill out the form given in the link below.<br>
+[Registration](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
 
 ## Task Organizers 
 * **Oksana Dereza**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
