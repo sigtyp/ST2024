@@ -22,8 +22,8 @@ For subtask A, participants are not allowed to use any additional data; however,
   2. Full morphological annotation
   3. Lemmatisation
   4. Filling the gaps
-     a. Word-level
-     b. Character-level
+      * Word-level
+      * Character-level
 
 ## Data
 The data for tasks 1-3 is the same and can be found in the "morphology" folder. Tasks 4a and 4b have their own data folders.
