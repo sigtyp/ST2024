@@ -22,10 +22,12 @@ For subtask A, participants are not allowed to use any additional data; however,
   2. Full morphological annotation
   3. Lemmatisation
   4. Filling the gaps
-     * Word-level
-     * Character-level
+     a. Word-level
+     b. Character-level
 
 ## Data
+The data for tasks 1-3 is the same and can be found in the "morphology" folder. Tasks 4a and 4b have their own data folders.
+
 For tasks 1-3, we use [Universal Dependencies](https://universaldependencies.org/) v. 2.12 data (Zeman et al., 2023) in 11 ancient and historical languages, complemented by 5 Old Hungarian codices from the [MGTSZ](http://oldhungariancorpus.nytud.hu/en-codices.html) website (HAS Research Institute for Linguistics, 2018) that are annotated to the same standard as the corpora available through UD.  UD corpora containing less than 1K examples or having only a test set were not taken into account. For task 4, we add historical Irish data from [CELT](https://celt.ucc.ie/publishd.html) (Ó Corráin et al., 1997) and [Corpas Stairiúil na Gaeilge](http://corpas.ria.ie/index.php?fsg_function=1) (Acadamh Ríoga na hÉireann, 2017) as a case study of how performance may vary on different historical stages of the same language. 
 
 We set the upper temporal boundary to 1700 CE and do not include texts created later than this date in our dataset. The choice of this date is driven by the fact that most of the historical language data used in word embedding research dates back to the 18th century CE or later, and we would like to focus on the more challenging and yet uncovered data.
