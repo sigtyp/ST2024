@@ -71,14 +71,17 @@ Paper submission instructions will be the same as for the workshop. Each team pa
  - **03 Feb 2024:** Camera-ready
  - **15 Mar 2024:** Video recordings due
  - **21/22 Mar 2024:** SIGTYP workshop
+## Important Links
+To register for the Shared Task, please fill out the form given in the link below.<br>
+[Registration](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
 
 ## Task Organizers 
-* **Oksana Dereza**, PhD Student, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
-* **Priya Rani**, PhD Student, SFI Centre for Research and Training in AI, Data Science Institute, University of Galway 
-* **Atul Kr. Ojha**, Postdoctoral Researcher, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
-* **Adrian Doyle**, Research Associate, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
-* **Pádraic Moran**, Lecturer in Classics, Associate Director at the Moore Institute, University of Galway
-* **John P. McCrae**, Assistant Professor, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
+* **Oksana Dereza**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
+* **Priya Rani**, SFI Centre for Research and Training in AI, Data Science Institute, University of Galway 
+* **Atul Kr. Ojha**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
+* **Adrian Doyle**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
+* **Pádraic Moran**, Associate Director at the Moore Institute, University of Galway
+* **John P. McCrae**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
 
 
 ## References 
