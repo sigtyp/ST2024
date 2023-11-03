@@ -32,7 +32,7 @@ For tasks 1-3, we use [Universal Dependencies](https://universaldependencies.org
 
 We set the upper temporal boundary to 1700 CE and do not include texts created later than this date in our dataset. The choice of this date is driven by the fact that most of the historical language data used in word embedding research dates back to the 18th century CE or later, and we would like to focus on the more challenging and yet uncovered data.
 
-The following table provides a brief overview of the data. We use ISO639-3 codes wherever they exist and special 4-letter codes based on them otherwise. The “Script” column refers to the scripts used in the dataset, not to the script(s) a particular language used (e.g. our Sanskrit corpus is transliterated from Devanagari into the Latin script). The “Dating” column describes the period when texts in the dataset were created, not when a particular language existed. Finally, we provide the size of each subset in sentences (S) and tokens (T).
+The following table provides a brief overview of the data. We use ISO 639-3 codes wherever they exist and special 4-letter codes based on them otherwise. The “Script” column refers to the scripts used in the dataset, not to the script(s) a particular language used (e.g. our Sanskrit corpus is transliterated from Devanagari into the Latin script). The “Dating” column describes the period when texts in the dataset were created, not when a particular language existed. Finally, we provide the size of each subset in sentences (S) and tokens (T).
 
 **NB!** Our training, validation and test splits are different from those provided in the UD repositories.
 
@@ -48,7 +48,7 @@ The following table provides a brief overview of the data. We use ISO639-3 codes
 |Medieval Latin|latm|Indo-European|Romance|Latin|774 – early XIV c. CE|599,255|75,079|74,351|30,176|3,772|3,773|
 |Old Church Slavonic|chu|Indo-European|Slavonic|Cyrillic|X – XI c. CE|159,368|19,779|19,696|18,102|2,263|2,263|
 |Old East Slavic|orv|Indo-European|Slavonic|Cyrillic|1025 – 1700 CE|250,833|31,078|32,318|24,788|3,098|3,099|
-|Old French|fro|Indo-European|Romance|Latin|842 – early XIII c. CE|38597|4,690|4,821|3,114|389|390|
+|Old French|fro|Indo-European|Romance|Latin|842 – early XIII c. CE|38,460|4,764|4,870|3,113|389|390|
 |Vedic Sanskrit|sanv|Indo-European|Indo-Aryan|Latin (transcr.)|1500 – 600 BCE|21,786|2,729|2,602|3,197|400|400|
 |Old Hungarian|ohu|Finno-Ugric|Ugric|Latin|1440 – 1521 CE|129,454|16,138|16,116|21,346|2,668|2,669|
 |Old Irish|sga|Indo-European|Celtic|Latin|600 – 900 CE|52,202|6,821|6,302|3,873|484|485|
@@ -71,9 +71,11 @@ Paper submission instructions will be the same as for the workshop. Each team pa
  - **03 Feb 2024:** Camera-ready
  - **15 Mar 2024:** Video recordings due
  - **21/22 Mar 2024:** SIGTYP workshop
+ 
 ## Important Links
-To register for the Shared Task, please fill out the form given in the link below.<br>
-[Registration](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
+To register for the Shared Task, please fill in the form on the link below.
+
+**[Registration]**(https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
 
 ## Task Organizers 
 * **Oksana Dereza**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
