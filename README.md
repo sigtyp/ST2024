@@ -61,11 +61,6 @@ The shared task is hosted on CodaLab. Following the authors of GLUE and SuperGLU
 ## Paper submission 
 Paper submission instructions will be the same as for the workshop. Each team participating in the shared task is expected to submit a paper of 4 to 8 pages, plus additional pages for references, formatted according to the workshop guidelines. The paper should describe the system and the resources used along with the libraries used to develop the system. The methodology/strategy should be documented in such a way that the readers and other researchers are able to replicate the work from the system description in the paper. 
 
-## Important Links
-In order to register for the Shared Task, please fill out the form given in the link below.<br>
-[Registration](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
-
-
 ## Important Dates
  - **05 Nov 2023:** Release of training and validation data
  - **02 Jan 2024:** Release of test data
