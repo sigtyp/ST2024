@@ -10,8 +10,6 @@ The shared task involves solving the following problems for 12+ ancient and hist
 
 ## Subtasks
 
-For subtask A, participants are not allowed to use any additional data; however, they can reduce and balance provided training datasets if they see fit. For subtask B, participants are allowed to use any additional data in any language, including pre-trained embeddings and LLMs. 
-
 **A. Constrained**
   1. POS-tagging
   2. Full morphological annotation
@@ -24,6 +22,8 @@ For subtask A, participants are not allowed to use any additional data; however,
   4. Filling the gaps
       * Word-level
       * Character-level
+    
+For subtask A, participants are not allowed to use any additional data; however, they can reduce and balance provided training datasets if they see fit. For subtask B, participants are allowed to use any additional data in any language, including pre-trained embeddings and LLMs. 
 
 ## Data
 The data for tasks 1-3 is the same and can be found in the "morphology" folder. Tasks 4a and 4b have their own data folders.
