@@ -26,8 +26,6 @@ The shared task involves solving the following problems for 12+ ancient and hist
 For subtask A, participants are not allowed to use any additional data; however, they can reduce and balance provided training datasets if they see fit. For subtask B, participants are allowed to use any additional data in any language, including pre-trained embeddings and LLMs. 
 
 ## Data
-The data for tasks 1-3 is the same and can be found in the "morphology" folder in `conllu` format. Tasks 4a and 4b have their own data folders.
-
 For tasks 1-3, we use [Universal Dependencies](https://universaldependencies.org/) v. 2.12 data (Zeman et al., 2023) in 11 ancient and historical languages, complemented by 5 Old Hungarian codices from the [MGTSZ](http://oldhungariancorpus.nytud.hu/en-codices.html) website (HAS Research Institute for Linguistics, 2018) that are annotated to the same standard as the corpora available through UD.  UD corpora containing less than 1K examples or having only a test set were not taken into account. For task 4, we add historical Irish data from [CELT](https://celt.ucc.ie/publishd.html) (Ó Corráin et al., 1997) and [Corpas Stairiúil na Gaeilge](http://corpas.ria.ie/index.php?fsg_function=1) (Acadamh Ríoga na hÉireann, 2017) as a case study of how performance may vary on different historical stages of the same language. 
 
 We set the upper temporal boundary to 1700 CE and do not include texts created later than this date in our dataset. The choice of this date is driven by the fact that most of the historical language data used in word embedding research dates back to the 18th century CE or later, and we would like to focus on the more challenging and yet uncovered data.
@@ -52,8 +50,49 @@ The following table provides a brief overview of the data. We use ISO 639-3 code
 |Vedic Sanskrit|sanv|Indo-European|Indo-Aryan|Latin (transcr.)|1500 – 600 BCE|21,786|2,729|2,602|3,197|400|400|
 |Old Hungarian|ohu|Finno-Ugric|Ugric|Latin|1440 – 1521 CE|129,454|16,138|16,116|21,346|2,668|2,669|
 |Old Irish|sga|Indo-European|Celtic|Latin|600 – 900 CE|52,202|6,821|6,302|3,873|484|485|
-|Middle Irish|mga|Indo-European|Celtic|Latin|900 – 1200 CE|206,096|26,448|25,298|12,192|1,524|1,524|
-|Early Modern Irish|ghc|Indo-European|Celtic|Latin|1200 – 1700 CE|522,545|54,956|55,962|17,321|2,162|2,159|
+|Middle Irish|mga|Indo-European|Celtic|Latin|900 – 1200 CE|206,096|26,447|25,298|12,192|1,524|1,524|
+|Early Modern Irish|ghc|Indo-European|Celtic|Latin|1200 – 1700 CE|522,779|54,946|55,952|17,321|2,162|2,159|
+
+The data for tasks 1-3 is the same and can be found in the *morphology* folder in `conllu` format. Tasks 4a and 4b have their own data folders: *fill_mask_word* and *fill_mask_char*, where each file is a two-column table in `tsv` format (`quotechar="^"`). Each file is named with a language code from the table above and a _train/valid/test_ prefix. 
+
+Please note that Old Hungarian texts come from diplomatic editions, i.e. they haven't been normalised and present some specific orthographic notation. We left this as is with the exception of punctuation: wherever a token in Old Hungarian data had a `PUNCT` POS-tag, we set its form to be equal to lemma, thus getting rid of `·Γ`, `:~`, `|Γ` etc. complex punctuation marks.
+
+### Data format for tasks 1-3
+
+```
+# source = Jerome's Vulgate, Revelation 9
+# text = et cruciatus eorum ut cruciatus scorpii cum percutit hominem
+# sent_id = 33745
+1	et	et	CCONJ	C-	_	4	cc	_	ref=REV_9.5
+2	cruciatus	cruciatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:outer	_	ref=REV_9.5
+3	eorum	is	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	det	_	ref=REV_9.5
+4	ut	ut	ADV	Dq	PronType=Rel	0	root	_	ref=REV_9.5
+5	cruciatus	cruciatus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=REV_9.5
+6	scorpii	scorpios	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=REV_9.5
+7	cum	cum	SCONJ	G-	_	8	mark	_	ref=REV_9.5
+8	percutit	percutio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	ref=REV_9.5
+9	hominem	homo	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	ref=REV_9.5
+```
+
+### Data format for task 4a
+For this task, 10% of tokens in each sentence were randomly replaced with a `[MASK]` token. Please keep in mind that some sentences have more than one masked token, and some (short) sentences have none.
+
+**NB!** Here and below we provide examples from different languages in one table, but in the dataset each language has its own data file(s). 
+
+|masked|src|
+|:-----|:--|
+|Cé [MASK] secht [MASK] im gin sóee suilgind, co bráth, mó cech delmaimm, issed ma do-ruirminn.|Cé betis secht tengtha im gin sóee suilgind, co bráth, mó cech delmaimm, issed ma do-ruirminn.|
+|ѿ негоже рожает [MASK] с҃нъ преже всѣх вѣкъ|ѿ негоже рожает сѧ с҃нъ преже всѣх вѣкъ|
+|豈人[MASK]之子孫則必不善哉|豈人主之子孫則必不善哉|
+
+### Data format for task 4b
+For languages with alphabetical writing systems, sentences were split into individual characters. For Classical Chinese, each Hanzi character was decomposed into individual strokes with the help of [hanzipy](https://pypi.org/project/hanzipy/) package (we used the deepest decomposition level available, "graphical"). Then, 5% of characters in each sentence were randomly replaced with a `[_]` token. Please keep in mind that some sentences have more than one masked character, and some (short) sentences have none.
+
+|masked|src|
+|:-----|:--|
+|Cé betis se[\_]ht te[\_]gtha im gin s[\_]ee suilgind, co bráth, mó cech[\_]delmaimm, isse[\_] ma do-ruirminn.|Cé betis secht tengtha im gin sóee suilgind, co bráth, mó cech delmaimm, issed ma do-ruirminn.|
+|ѿ негоже рожает с[\_] с҃нъ п[\_]еже всѣх вѣкъ|ѿ негоже рожает сѧ с҃нъ преже всѣх вѣкъ|
+|丨凵一口丷一人一一[\_]一[\_]一一丨一丶戈㇝㇇亅一㇇亅一㇒㇛丶亅八[\_]二八亅丨𠁼㇃丿一丿丨丶一二丨丷丷一口一丨一戈口|豈人主之子孫則必不善哉|
 
 ## Evaluation Procedure
 The shared task is hosted on CodaLab. Following the authors of GLUE and SuperGLUE (Wang et al., 2019, 2020), we weigh each task equally and provide a macro-average of per-task scores as an overall score. For tasks with multiple metrics (e.g., F1 and accuracy), we use an unweighted average of the metrics as the score for the task when computing the overall macro-average.
