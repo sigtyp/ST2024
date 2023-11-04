@@ -208,7 +208,7 @@
 4	fort	fort	ADV	ADVgen	_	2	advmod	_	SpaceAfter=No|XmlId=w_YvainKu_20923
 5	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_YvainKu_20924
 
-# text = Mes il n'i ot a celui triege Tandu ne trebuchet  ne piege,
+# text = Mes il n'i ot a celui triege Tandu ne trebuchet ne piege,
 # newdoc id = TroyesYvain_1180_verse
 # sent_id = 12238
 1	Mes	mais	CCONJ	CONcoo	_	5	cc:nc	_	XmlId=w_YvainKu_7618

@@ -49183,7 +49183,7 @@
 14	dagis	dags	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	ref=COL_2.16
 15	dulþais	dulþs	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	ref=COL_2.16
 16	aiþþau	aiþþau	CCONJ	C-	_	17	cc	_	ref=COL_2.16
-17	fulliþe	full[e]iþ	NOUN	Nb	Case=Gen|Number=Plur	14	conj	_	ref=COL_2.16
+17	fulliþe	fulleiþ	NOUN	Nb	Case=Gen|Number=Plur	14	conj	_	ref=COL_2.16
 18	aiþþau	aiþþau	CCONJ	C-	_	19	cc	_	ref=COL_2.16
 19	sabbatum	sabbato	NOUN	Nb	_	14	conj	_	ref=COL_2.16
 20	þatei	saei	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	21	nsubj	_	ref=COL_2.17
@@ -55277,7 +55277,7 @@
 8	þaþroh	þaþroh	ADV	Df	_	9	orphan	_	ref=MARK_4.28
 9	ahs	ahs	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	parataxis	_	ref=MARK_4.28
 10	þaþroh	þaþroh	ADV	Df	_	11	orphan	_	ref=MARK_4.28
-11	fulliþ	full[e]iþ	NOUN	Nb	Case=Acc|Number=Sing	5	parataxis	_	ref=MARK_4.28
+11	fulliþ	fulleiþ	NOUN	Nb	Case=Acc|Number=Sing	5	parataxis	_	ref=MARK_4.28
 12	kaurnis	kaurn	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	ref=MARK_4.28
 13	in	in	ADP	R-	_	15	case	_	ref=MARK_4.28
 14	þamma	sa	DET	Pd	Case=Dat|Gender=Neut|Number=Sing	15	det	_	ref=MARK_4.28

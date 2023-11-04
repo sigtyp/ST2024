@@ -98,9 +98,9 @@
 4	ѕѣло	ѕѣло	ADV	Df	_	1	advmod	_	ref=118.140
 
 # source = Psalterium Sinaiticum, Psalms 138
-# text = [Ѣ] Ѣште речете въ помъішлениіхъ своіхъ
+# text = Ѣ Ѣште речете въ помъішлениіхъ своіхъ
 # sent_id = 309630
-1	[Ѣ]	аще	ADV	Df	_	3	dislocated	_	ref=138.19
+1	Ѣ	аще	ADV	Df	_	3	dislocated	_	ref=138.19
 2	Ѣште	аще	ADV	Df	_	3	advmod	_	ref=138.20
 3	речете	рещи	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=138.20
 4	въ	въ	ADP	R-	_	5	case	_	ref=138.20
@@ -25589,7 +25589,7 @@
 7	землѩ	землꙗ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	ref=66.8
 
 # source = Codex Suprasliensis, Epiphanios of Cyprus, Homily for Holy Saturday on Christ’s funeral
-# text = даждъ ми ѡ̑ владꙑко сего висꙙштааго на дрѣ[вѣ] нага да покрꙑѭ̑ покрꙑвьшаа҅го моѥ҅го състава наготѫ
+# text = даждъ ми ѡ̑ владꙑко сего висꙙштааго на дрѣвѣ нага да покрꙑѭ̑ покрꙑвьшаа҅го моѥ҅го състава наготѫ
 # sent_id = 252277
 1	даждъ	дати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=40
 2	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obl:arg	_	ref=40
@@ -25598,7 +25598,7 @@
 5	сего	сь	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	6	det	_	ref=40
 6	висꙙштааго	висѣти	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	obj	_	ref=40
 7	на	на	ADP	R-	_	8	case	_	ref=40
-8	дрѣ[вѣ]	дрѣво	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	ref=40
+8	дрѣвѣ	дрѣво	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	ref=40
 9	нага	нагъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	advmod	_	ref=40
 10	да	да	SCONJ	G-	_	11	mark	_	ref=40
 11	покрꙑѭ̑	покрꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=40
