@@ -46,7 +46,7 @@ The following table provides a brief overview of the data. We use ISO 639-3 code
 |Medieval Latin|latm|Indo-European|Romance|Latin|774 – early XIV c. CE|599,255|75,079|74,351|30,176|3,772|3,773|
 |Old Church Slavonic|chu|Indo-European|Slavonic|Cyrillic|X – XI c. CE|159,368|19,779|19,696|18,102|2,263|2,263|
 |Old East Slavic|orv|Indo-European|Slavonic|Cyrillic|1025 – 1700 CE|250,833|31,078|32,318|24,788|3,098|3,099|
-|Old French|fro|Indo-European|Romance|Latin|842 – early XIII c. CE|38,460|4,764|4,870|3,113|389|390|
+|Old French|fro|Indo-European|Romance|Latin|1180 CE|38,460|4,764|4,870|3,113|389|390|
 |Vedic Sanskrit|sanv|Indo-European|Indo-Aryan|Latin (transcr.)|1500 – 600 BCE|21,786|2,729|2,602|3,197|400|400|
 |Old Hungarian|ohu|Finno-Ugric|Ugric|Latin|1440 – 1521 CE|129,454|16,138|16,116|21,346|2,668|2,669|
 |Old Irish|sga|Indo-European|Celtic|Latin|600 – 900 CE|52,202|6,821|6,302|3,873|484|485|
