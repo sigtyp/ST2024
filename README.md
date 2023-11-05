@@ -42,7 +42,7 @@ The following table provides a brief overview of the data. We use ISO 639-3 code
 |Coptic|cop|Afro-Asiatic|Egyptian|Coptic|I – II c. CE|57,493|7,282|7,558|1,730|216|217|
 |Gothic|got|Indo-European|Germanic|Latin|V – VIII c. CE|44,044|5,724|5,568|4,320|540|541|
 |Medieval Icelandic|islm|Indo-European|Germanic|Latin|1150 – 1680 CE|473,478|59,002|58,242|21,820|2,728|2,728|
-|Latin|lat|Indo-European|Romance|Latin|I c. BCE – IV c. CE|188,149|23,279|23,344|16,769|2,096|2,097|
+|Classical and Late Latin|lat|Indo-European|Romance|Latin|I c. BCE – IV c. CE|188,149|23,279|23,344|16,769|2,096|2,097|
 |Medieval Latin|latm|Indo-European|Romance|Latin|774 – early XIV c. CE|599,255|75,079|74,351|30,176|3,772|3,773|
 |Old Church Slavonic|chu|Indo-European|Slavonic|Cyrillic|X – XI c. CE|159,368|19,779|19,696|18,102|2,263|2,263|
 |Old East Slavic|orv|Indo-European|Slavonic|Cyrillic|1025 – 1700 CE|250,833|31,078|32,318|24,788|3,098|3,099|
