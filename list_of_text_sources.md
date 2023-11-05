@@ -123,7 +123,7 @@
 - 1675.MODARS.NAR-FIC
 - 1680.SKALHOLT.NAR-REL
 
-## LATIN
+## CLASSICAL AND LATE LATIN
 ### UD: PERSEUS
 - Augustus – Res Gestae 
 - Cicero – In Catilinam 
@@ -286,7 +286,6 @@ Birchbark letters: http://gramoty.ru
 - Ailill Aulom, Mac Con, and Find ua Báiscne
 - Aislinge Óenguso
 - Betha Adamnáin
-- Betha Brigte (LB p. 61b-66a)
 - Compert Con Chulainn
 - Cétemain, cain cucht
 - Die Sage von CuRoi
