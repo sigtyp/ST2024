@@ -32,7 +32,7 @@ We set the upper temporal boundary to 1700 CE and do not include texts created l
 
 The following table provides a brief overview of the data. We use ISO 639-3 codes wherever they exist and special 4-letter codes based on them otherwise. The “Script” column refers to the scripts used in the dataset, not to the script(s) a particular language used (e.g. our Sanskrit corpus is transliterated from Devanagari into the Latin script). The “Dating” column describes the period when texts in the dataset were created, not when a particular language existed. Finally, we provide the size of each subset in sentences (S) and tokens (T).
 
-**NB!** Our training, validation and test splits are different from those provided in the UD repositories.
+**NB!** Our training, validation and test splits are different from those in the UD repositories.
 
 |Language|Code|Family|Branch|Script|Dating|Train-T|Valid-T|Test-T|Train-S|Valid-S|Test-S|
 |:-------|:--:|:-----|:-----|:-----|:-----|:-------:|:-------:|:-------:|:-------:|:------:|:------:|
@@ -58,6 +58,8 @@ The data for tasks 1-3 is the same and can be found in the *morphology* folder i
 Please note that Old Hungarian texts come from diplomatic editions, i.e. they haven't been normalised and present some specific orthographic notation. We left this as is with the exception of punctuation: wherever a token in Old Hungarian data had a `PUNCT` POS-tag, we set its form to be equal to lemma, thus getting rid of `·Γ`, `:~`, `|Γ` etc. complex punctuation marks.
 
 ### Data format for tasks 1-3
+
+**NB!** Old Hungarian files don't have any metadata (#source, #text etc.), only annotated sentences.
 
 ```
 # source = Jerome's Vulgate, Revelation 9
@@ -116,6 +118,10 @@ To register for the Shared Task, please fill in the form on the link below.
 
 [**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
 
+Please cite these if you are using the dataset (APA-style citations can be found in the list of references below).
+
+[**Bibliography**](https://github.com/sigtyp/ST2024/blob/main/bibliography.bib)
+
 ## Task Organizers 
 * **Oksana Dereza**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
 * **Priya Rani**, SFI Centre for Research and Training in AI, Data Science Institute, University of Galway 
@@ -124,9 +130,8 @@ To register for the Shared Task, please fill in the form on the link below.
 * **Pádraic Moran**, School of Languages, Literatures and Cultures, Moore Institute, University of Galway
 * **John P. McCrae**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
 
-
 ## References 
-1. Acadamh Ríoga na hÉireann. (2017). Corpas Stairiúil na Gaeilge 1600-1926 [dataset]. Acadamh Ríoga na hÉireann. http://corpas.ria.ie/index.php?fsg_function=1
+1. Acadamh Ríoga na hÉireann. (2017). Corpas Stairiúil na Gaeilge 1600-1926. Acadamh Ríoga na hÉireann. http://corpas.ria.ie/index.php?fsg_function=1
 2. Conneau, A., & Kiela, D. (2018). SentEval: An Evaluation Toolkit for Universal Sentence Representations. Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). https://aclanthology.org/L18-1269/
 3. Ge, H., Sun, C., Xiong, D., & Liu, Q. (2021). Chinese WPLC: A Chinese Dataset for Evaluating Pretrained Language Models on Word Prediction Given Long-Range Context. Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, 3770–3778. https://doi.org/10.18653/v1/2021.emnlp-main.306
 4. HAS Research Institute for Linguistics. (2018). Old Hungarian Codices. Hungarian Generative Diachronic Syntax. http://oldhungariancorpus.nytud.hu/en-codices.html
