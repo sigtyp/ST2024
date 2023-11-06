@@ -285,23 +285,28 @@ Birchbark letters: http://gramoty.ru
 - Aided Óenfir Aífe
 - Ailill Aulom, Mac Con, and Find ua Báiscne
 - Aislinge Óenguso
+- Beda's Historia
 - Betha Adamnáin
+- Bethu Brigte
 - Compert Con Chulainn
 - Cétemain, cain cucht
 - Die Sage von CuRoi
 - Dindshenchas of Emain Macha
 - Ein altirisches Gedicht über das Ende der Welt
 - Esnada Tige Buchet
+- Fled Bricrend (Codex Vossianus)
 - Forfess Fer Fálgae (Egerton 1782)
 - Gein Branduib maic Echach ocus Aedáin maic Gabráin
 - In tan no théigmis don dáil
 - M'óenurán im aireclán
 - Messe ocus Pangur bán
 - Orgain Denna Ríg
+- Orthanach Ua Coillama
 - Scéla Cano meic Gartnáin (YBL)
 - Scéla Mucce Meic Dathó
 - Serglige Con Culainn
 - Síaburcharpat Conculaind (Eg.88, fo. 14b1-15a2)
+- St. Gall glosses
 - The Colloquy between Fintan and the Hawk of Achill
 - The Laud Synchronisms
 - The Martyrology of Oengus the Culdee
@@ -309,23 +314,26 @@ Birchbark letters: http://gramoty.ru
 - Táin Bó Fraích
 - Táin Bó Regamna
 - Verba Scáthaige (23.N.10)
+- Würzburg glosses
 - Ísucán
 
 ## MIDDLE IRISH
 ### CELT
 - A Choimdiu, nom-choimét
-- A Cholmáin mhóir mheic Léinín
 - A list of ancient Irish authors
 - A poem on the Kings of Connaught
-- Abenteuer Königs Aed Oirdnide
+- Abenteuer Königs Aed Oirdnide (23.N.10)
 - Aided Chuind Chétchathaig
 - Aided na trí nAed
 - Aimirgin Glúngel tuir tend
 - Apraid a éolchu Elga
 - Auraicept na n-Éces
 - Betha Brigte (LB p. 61b-66a)
+- Betha Choluim Chille (LB p. 29b-34a)
 - Betha Farannáin
 - Cath Cairnn Chonaill
+- Cath Maige Tuired (1)
+- Cath Maige Tuired (2)
 - Cathréim Cellacháin Caisil
 - Christ's Cross
 - Congal Cinnmagair
@@ -338,6 +346,7 @@ Birchbark letters: http://gramoty.ru
 - Der Tribut des Königs von Ess Rúaid
 - Deus Meus
 - Die fünfzehn Namen des Boyne
+- Do chomramaib Laigen
 - Egerton Annals (Mionannala)
 - Eine Variante der Brendan-Legende
 - Erard mac Coisse cecinit
@@ -353,7 +362,7 @@ Birchbark letters: http://gramoty.ru
 - Immacallam in Druad Brain ocus inna Banfháitho Febuil
 - Imrum Snedhghusa ocus Mic Ríagla
 - Isam aithrech
-- König Guaire und Oennu maccu Laigse (2)
+- König Guaire und Oennu maccu Laigse
 - Laithe n-aon dia rabhator treis gnía (Stowe MS B.IV.2, fo. 124a)
 - Mochuta und der Teufel (Rawlinson B512)
 - Prophezeiung Sétna's
@@ -361,12 +370,17 @@ Birchbark letters: http://gramoty.ru
 - Ropo mían dom menmainse
 - Saltair na Rann
 - Scél Baili Binnbérlaig
+- SEX AETATES MUNDI
 - The adventures of Ricinn, daughter of Crimthann mac Lugdach
+- The birth and life of St Mo Ling
 - The Death of Finn Mac Cumaill
+- The fifteen tokens of Doomsday
 - The Finn episode from «A Rí richid, réidig dam»
 - The four jewels of the Tuatha Dé Danann
+- The Gaelic Notes in the Book of Deer
 - The Laud Genealogies and Tribal Histories
 - The Meaning of Birthdays
+- The Metrical Dindshenchas, Volume 2
 - The three drinking-horns of Cormac úa Cuinn
 - The Tribes and Customs of Hy-Many
 - The Voyage of the Hui Corra
@@ -384,15 +398,25 @@ Birchbark letters: http://gramoty.ru
 
 ## EARLY MODERN IRISH
 ### CELT
+- A Treatise on Fevers
+- Annals of Loch Cé A.D.1014-1590
 - Annála Connacht
 - Foras Feasa ar Éirinn (Book I-II)
+- Leabhar Branach
+- Leabhar Méig Shamhradháin
 - Life of St. Declan of Ardmore
 - Mairg bheireas díogha dá dheoin
+- Misc. Irish Annals, Fragment I (Mac Carthaigh's Book)
 - Misc. Irish Annals, Fragment II
 - Míorbuile Senáin
 - Nekrolog auf Art Buidhe mac Domhnaill Riabhaigh
+- On the Qualitees, Maners and Kunnynge of a Surgean
 - Ranna an aeir
+- Regimen na Sláinte Volume I
+- Regimen Sanitatis
 - The Gaelic abridgment of the Book of Ser Marco Polo
+- The Gaelic Maundeville
+- Tromdámh Guaire
 
 ### Corpas Stairiúil na Gaeilge
 - A Seventeenth Century Legal Document
