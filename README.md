@@ -103,6 +103,118 @@ For languages with alphabetical writing systems, sentences were split into indiv
 ## Evaluation Procedure
 The shared task is hosted on CodaLab. Following the authors of GLUE and SuperGLUE (Wang et al., 2019, 2020), we weigh each task equally and provide a macro-average of per-task scores as an overall score. For tasks with multiple metrics (e.g., F1 and accuracy), we use an unweighted average of the metrics as the score for the task when computing the overall macro-average.
 
+## Submission format
+### Fill-mask tasks
+Submissions should be plain text files in `.txt` format with one sentence per line, where all the gaps are filled, be it word-level or character-level.
+
+```
+‘Sech ni ricfe iluc, ⁊ ni toruis húc’.
+Ó domun co brait ar Zedechias mac Iosias.
+.i. ni fiad chách
+```
+
+### POS-tagging
+You should sumit a `.json` file with a list of sentences. Each sentence is a list of `(token, POS-tag)` tuples.
+
+```
+[
+    [
+        ["quem", "PRON"],
+        ["me", "PRON"],
+        ["arbitramini", "VERB"],
+        ["esse", "AUX"],
+        ["non", "ADV"],
+        ["sum", "AUX"],
+        ["ego", "PRON"]
+    ],
+    [
+        ["hospitalitatem", "NOUN"],
+        ["sectantes", "VERB"]
+    ],
+    [
+        ["secundum", "ADP"],
+        ["hominem", "NOUN"],
+        ["dico", "VERB"]
+    ]
+]
+```
+
+### Lemmatisation
+Similarly to POS-tagging, you should submit a `.json` file with a list of sentences, but in this case each sentence is a list of `(token, lemma)` tuples.
+
+```
+[
+    [
+        ["quem", "quis"],
+        ["me", "ego"],
+        ["arbitramini", "arbitror"],
+        ["esse", "sum"],
+        ["non", "non"],
+        ["sum", "sum"],
+        ["ego", "ego"]
+    ],
+    [
+        ["hospitalitatem", "hospitalitas"],
+        ["sectantes", "secto"]
+    ],
+    [
+        ["secundum", "secundum"],
+        ["hominem", "homo"],
+        ["dico", "dico"]
+    ]
+]
+```
+
+### Detailed morphological annotation
+Your submission is a `.json` file again, but with a bit more complicated structure. It is a list of sentences, and each sentence is a list of tokens, while each token is a dictionary that contains the form, its POS-tag and all morphological features. The inventory of morphological feautures, as well as their names, are specific to each language (please refer to the training data). `UPOS` and `Form` keys are universal, i.e. valid for every language.
+
+```
+[
+    [
+        {
+            "Case": "Acc",
+            "Gender": "Fem",
+            "Number": "Sing",
+            "UPOS": "NOUN",
+            "Form": "hospitalitatem"
+        },
+        {
+            "Case": "Nom",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Tense": "Pres",
+            "VerbForm": "Part",
+            "Voice": "Act",
+            "UPOS": "VERB",
+            "Form": "sectantes"
+        }
+    ],
+    [
+        {
+            "UPOS": "ADP",
+            "Form": "secundum"
+        },
+        {
+            "Case": "Acc",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "UPOS": "NOUN",
+            "Form": "hominem"
+        },
+        {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Act",
+            "UPOS": "VERB",
+            "Form": "dico"
+        }
+    ]
+]
+```
+
 ## Paper submission 
 Participants will be invited to describe their system in a paper for the SIGTYP workshop proceedings. The task organisers will write an overview paper that describes the task and summarises the different approaches taken, and analyses their results. 
 
