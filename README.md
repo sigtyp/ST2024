@@ -104,6 +104,38 @@ For languages with alphabetical writing systems, sentences were split into indiv
 The shared task is hosted on CodaLab. Following the authors of GLUE and SuperGLUE (Wang et al., 2019, 2020), we weigh each task equally and provide a macro-average of per-task scores as an overall score. For tasks with multiple metrics (e.g., F1 and accuracy), we use an unweighted average of the metrics as the score for the task when computing the overall macro-average.
 
 ## Submission format
+You should submit a `.zip` file with the following folder structure:
+
+```
+📂 fill_mask_char
+    ├── chu.txt
+    ├── cop.txt
+    ├── fro.txt
+    └── ...
+📂 fill_mask_word
+    ├── chu.txt
+    ├── cop.txt
+    ├── fro.txt
+    └── ...
+📂 pos_tagging
+    ├── chu.json
+    ├── cop.json
+    ├── fro.json
+    └── ...
+📂 morph_features
+    ├── chu.json
+    ├── cop.json
+    ├── fro.json
+    └── ...
+📂 lemmatisation
+    ├── chu.json
+    ├── cop.json
+    ├── fro.json
+    └── ...
+```
+
+**NB!** Please make sure that your folder names are exactly as displayed above and that your result files have the correct extensions!
+
 ### Fill-mask tasks
 Submissions should be plain text files in `.txt` format with one sentence per line, where all the gaps are filled, be it word-level or character-level.
 
