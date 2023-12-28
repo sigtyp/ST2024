@@ -165,7 +165,7 @@ Submissions should be `json` files with a list of sentences, where each sentence
 ```
 
 ### POS-tagging
-You should submit a `.json` file with a list of sentences. Each sentence is a list of `(token, (POS1, POS2, POS3))` tuples. The second element of this tuple is another tuple/list of your top-3 POS-tag predictions. Remember that the order of your predictions is important! If you have less than 3 predictions, you can submit empty strings.
+You should submit a `.json` file with a list of sentences. Each sentence is a list of `(token, (POS1, POS2, POS3))` tuples. The second element of this tuple is another tuple/list of your top-3 POS-tag predictions. Remember that the order of your predictions is important! If you have less than 3 predictions, you can submit empty strings/underscores.
 
 ```
 [
@@ -190,7 +190,7 @@ You should submit a `.json` file with a list of sentences. Each sentence is a li
 ```
 
 ### Lemmatisation
-Similarly to POS-tagging, you should submit a `.json` file with a list of sentences, but in this case each sentence is a list of `(token, (lemma1, lemma2, lemma3))` tuples. The second element of this tuple is another tuple/list of your top-3 lemma predictions. Remember that the order of your predictions is important!  If you have less than 3 predictions, you can submit empty strings.
+Similarly to POS-tagging, you should submit a `.json` file with a list of sentences, but in this case each sentence is a list of `(token, (lemma1, lemma2, lemma3))` tuples. The second element of this tuple is another tuple/list of your top-3 lemma predictions. Remember that the order of your predictions is important!  If you have less than 3 predictions, you can submit empty strings/underscores.
 
 ```
 [
