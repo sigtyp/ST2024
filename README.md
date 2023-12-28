@@ -108,14 +108,14 @@ You should submit a `.zip` file with the following folder structure:
 
 ```
 📂 fill_mask_char
-    ├── chu.txt
-    ├── cop.txt
-    ├── fro.txt
+    ├── chu.json
+    ├── cop.json
+    ├── fro.json
     └── ...
 📂 fill_mask_word
-    ├── chu.txt
-    ├── cop.txt
-    ├── fro.txt
+    ├── chu.json
+    ├── cop.json
+    ├── fro.json
     └── ...
 📂 pos_tagging
     ├── chu.json
@@ -134,65 +134,83 @@ You should submit a `.zip` file with the following folder structure:
     └── ...
 ```
 
-**NB!** Please make sure that your folder names are exactly as displayed above and that your result files have the correct extensions!
+**NB!** Please make sure that your folder & file names are exactly as displayed above!
 
 ### Fill-mask tasks
-Submissions should be plain text files in `.txt` format with one sentence per line, where all the gaps are filled, be it word-level or character-level.
+Submissions should be `json` files with a list of sentences, where each sentence is a dictionary. The first key, "Text", is the masked sentence itself. Other keys are sequential numbers of the gaps, starting with 0, which have lists/tuples of your top 3 predictions for them as values. The first gap in a sentence must be numbered as 0 regardless of where in the sentence it is, the next one will be 1, etc. If there are no gaps in a sentence, then your dictionary should contain just the "Text" field. If you have less than 3 predictions, you can submit empty strings.
 
+#### Word-level
 ```
-‘Sech ni ricfe iluc, ⁊ ni toruis húc’.
-Ó domun co brait ar Zedechias mac Iosias.
-.i. ni fiad chách
+[
+  {
+    Text: "‘Sech [MASK] ricfe iluc, ⁊ ni toruis húc’.",
+    0: ["ni", "na", ""]
+  },
+  {
+    Text: "[MASK] ni fiad chách",
+    0: [".i.", "i.e.", "éd"]
+  }
+]
+```
+
+#### Character-level
+```
+[
+  {
+    Text: "Ó do[_]un co brait ar Zedechias mac[_]Iosias.",
+    0: ["m", "n", ""],
+    1: [" ", "-", "c"]
+  }
+]
 ```
 
 ### POS-tagging
-You should sumit a `.json` file with a list of sentences. Each sentence is a list of `(token, POS-tag)` tuples.
+You should submit a `.json` file with a list of sentences. Each sentence is a list of `(token, (POS1, POS2, POS3))` tuples. The second element of this tuple is another tuple/list of your top-3 POS-tag predictions. Remember that the order of your predictions is important! If you have less than 3 predictions, you can submit empty strings.
 
 ```
 [
     [
-        ["quem", "PRON"],
-        ["me", "PRON"],
-        ["arbitramini", "VERB"],
-        ["esse", "AUX"],
-        ["non", "ADV"],
-        ["sum", "AUX"],
-        ["ego", "PRON"]
+        ["quem", ["PRON", "NOUN", "AUX"]],
+        ["me", ["PRON", "NOUN", "AUX"]],
+        ["arbitramini", ["VERB", "NOUN", "AUX"]],
+        ["non", ["ADV", "ADP", "VERB"]],
+        ["sum", ["AUX", "VERB", "NOUN"]],
+        ["ego", ["PRON", "NOUN", "ADP"]]
     ],
     [
-        ["hospitalitatem", "NOUN"],
-        ["sectantes", "VERB"]
+        ["hospitalitatem", ["NOUN", "PRON", "ADP"]],
+        ["sectantes", ["VERB", "NOUN", "ADP"]]
     ],
     [
-        ["secundum", "ADP"],
-        ["hominem", "NOUN"],
-        ["dico", "VERB"]
+        ["secundum", ["ADP", "NOUN", "ADV"]],
+        ["hominem", ["NOUN", "PRON", "VERB"]],
+        ["dico", ["VERB", "NOUN", "ADP"]]
     ]
 ]
 ```
 
 ### Lemmatisation
-Similarly to POS-tagging, you should submit a `.json` file with a list of sentences, but in this case each sentence is a list of `(token, lemma)` tuples.
+Similarly to POS-tagging, you should submit a `.json` file with a list of sentences, but in this case each sentence is a list of `(token, (lemma1, lemma2, lemma3))` tuples. The second element of this tuple is another tuple/list of your top-3 lemma predictions. Remember that the order of your predictions is important!  If you have less than 3 predictions, you can submit empty strings.
 
 ```
 [
     [
-        ["quem", "quis"],
-        ["me", "ego"],
-        ["arbitramini", "arbitror"],
-        ["esse", "sum"],
-        ["non", "non"],
-        ["sum", "sum"],
-        ["ego", "ego"]
+        ["quem", ["quis", "ques", "que"]],
+        ["me", ["ego", "me", "messe"]],
+        ["arbitramini", ["arbitror", "arbitrar", "arbitramini"]],
+        ["esse", ["sum", "esse", "ego"]],
+        ["non", ["non", "no", "_"]],
+        ["sum", ["sum", "esse", "sunt"]],
+        ["ego", ["ego", "me", "esse"]]
     ],
     [
-        ["hospitalitatem", "hospitalitas"],
-        ["sectantes", "secto"]
+        ["hospitalitatem", ["hospitalitas", "hospitalis", "hospitalitus"]],
+        ["sectantes", ["secto", "sectum", "sectant"]]
     ],
     [
-        ["secundum", "secundum"],
-        ["hominem", "homo"],
-        ["dico", "dico"]
+        ["secundum", ["secundum", "secundus", "secund"]],
+        ["hominem", ["homo", "homus", "hominem"]],
+        ["dico", ["dico", "dixi", "_"]]
     ]
 ]
 ```
