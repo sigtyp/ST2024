@@ -103,6 +103,14 @@ For languages with alphabetical writing systems, sentences were split into indiv
 ## Evaluation Procedure
 The shared task is hosted on CodaLab. Following the authors of GLUE and SuperGLUE (Wang et al., 2019, 2020), we weigh each task equally and provide a macro-average of per-task scores as an overall score. For tasks with multiple metrics (e.g., F1 and accuracy), we use an unweighted average of the metrics as the score for the task when computing the overall macro-average.
 
+|Task|Metrics|
+|:-----|:--|
+|POS-tagging| Accuracy @1, F1|
+|Detailed morphological annotation|Macro-average of Accuracy @1 per tag|
+|Lemmatisation|Accuracy @1, Accuracy @3|
+|Filling the gaps (word-level)|Accuracy @1, Accuracy @3|
+|Filling the gaps (chaacter-level)|Accuracy @1, Accuracy @3|
+
 ## Submission format
 You should submit a `.zip` file with the following folder structure:
 
@@ -136,87 +144,33 @@ You should submit a `.zip` file with the following folder structure:
 
 **NB!** Please make sure that your folder & file names are exactly as displayed above!
 
-### Fill-mask tasks
-Submissions should be `json` files with a list of sentences, where each sentence is a dictionary. The first key, "Text", is the masked sentence itself. Other keys are sequential numbers of the gaps, starting with 0, which have lists/tuples of your top 3 predictions for them as values. The first gap in a sentence must be numbered as 0 regardless of where in the sentence it is, the next one will be 1, etc. If there are no gaps in a sentence, then your dictionary should contain just the "Text" field. If you have less than 3 predictions, you can submit empty strings.
-
-#### Word-level
-```
-[
-  {
-    "Text": "‘Sech [MASK] ricfe iluc, ⁊ ni toruis húc’.",
-    0: ["ni", "na", ""]
-  },
-  {
-    "Text": "[MASK] ni fiad chách",
-    0: [".i.", "i.e.", "éd"]
-  }
-]
-```
-
-#### Character-level
-```
-[
-  {
-    "Text": "Ó do[_]un co brait ar Zedechias mac[_]Iosias.",
-    0: ["m", "n", ""],
-    1: [" ", "-", "c"]
-  }
-]
-```
-
 ### POS-tagging
-You should submit a `.json` file with a list of sentences. Each sentence is a list of `(token, (POS1, POS2, POS3))` tuples. The second element of this tuple is another tuple/list of your top-3 POS-tag predictions. Remember that the order of your predictions is important! If you have less than 3 predictions, you can submit empty strings/underscores.
+You should submit a `.json` file with a list of sentences. Each sentence is a list of `(token, POS-tag)` tuples.
 
 ```
 [
     [
-        ["quem", ["PRON", "NOUN", "AUX"]],
-        ["me", ["PRON", "NOUN", "AUX"]],
-        ["arbitramini", ["VERB", "NOUN", "AUX"]],
-        ["non", ["ADV", "ADP", "VERB"]],
-        ["sum", ["AUX", "VERB", "NOUN"]],
-        ["ego", ["PRON", "NOUN", "ADP"]]
+        ["quem", "PRON"],
+        ["me", "PRON"],
+        ["arbitramini", "VERB"],
+        ["non", "ADV"],
+        ["sum", "AUX"],
+        ["ego", "PRON"]
     ],
     [
-        ["hospitalitatem", ["NOUN", "PRON", "ADP"]],
-        ["sectantes", ["VERB", "NOUN", "ADP"]]
+        ["hospitalitatem", "NOUN"],
+        ["sectantes", "VERB"]
     ],
     [
-        ["secundum", ["ADP", "NOUN", "ADV"]],
-        ["hominem", ["NOUN", "PRON", "VERB"]],
-        ["dico", ["VERB", "NOUN", "ADP"]]
-    ]
-]
-```
-
-### Lemmatisation
-Similarly to POS-tagging, you should submit a `.json` file with a list of sentences, but in this case each sentence is a list of `(token, (lemma1, lemma2, lemma3))` tuples. The second element of this tuple is another tuple/list of your top-3 lemma predictions. Remember that the order of your predictions is important!  If you have less than 3 predictions, you can submit empty strings/underscores.
-
-```
-[
-    [
-        ["quem", ["quis", "ques", "que"]],
-        ["me", ["ego", "me", "messe"]],
-        ["arbitramini", ["arbitror", "arbitrar", "arbitramini"]],
-        ["esse", ["sum", "esse", "ego"]],
-        ["non", ["non", "no", "_"]],
-        ["sum", ["sum", "esse", "sunt"]],
-        ["ego", ["ego", "me", "esse"]]
-    ],
-    [
-        ["hospitalitatem", ["hospitalitas", "hospitalis", "hospitalitus"]],
-        ["sectantes", ["secto", "sectum", "sectant"]]
-    ],
-    [
-        ["secundum", ["secundum", "secundus", "secund"]],
-        ["hominem", ["homo", "homus", "hominem"]],
-        ["dico", ["dico", "dixi", "_"]]
+        ["secundum", "ADP"],
+        ["hominem", "NOUN"],
+        ["dico", "VERB"]
     ]
 ]
 ```
 
 ### Detailed morphological annotation
-Your submission is a `.json` file again, but with a bit more complicated structure. It is a list of sentences, and each sentence is a list of tokens, while each token is a dictionary that contains the form, its POS-tag and all morphological features. The inventory of morphological feautures, as well as their names, are specific to each language (please refer to the training data). `UPOS` and `Form` keys are universal, i.e. valid for every language.
+Your submission is a `.json` file again, but with a bit more complicated structure. It is a list of sentences, and each sentence is a list of tokens, while each token is a dictionary that contains the form, its POS-tag and all morphological features. The inventory of morphological feautures, as well as their names, are specific to each language (please refer to the training data). `UPOS` and `Form` keys are universal, i.e. valid for every language. **NB!** You have to submit UPOS in this task, but you don't have to submit lemma.
 
 ```
 [
@@ -262,6 +216,60 @@ Your submission is a `.json` file again, but with a bit more complicated structu
             "Form": "dico"
         }
     ]
+]
+```
+
+### Lemmatisation
+Similarly to POS-tagging, you should submit a `.json` file with a list of sentences, but in this case each sentence is a list of `(token, (lemma1, lemma2, lemma3))` tuples. The second element of this tuple is another tuple/list of your top-3 lemma predictions. Remember that the order of your predictions is important!  If you have less than 3 predictions, you can submit empty strings.
+
+```
+[
+    [
+        ["quem", ["quis", "ques", "que"]],
+        ["me", ["ego", "me", "messe"]],
+        ["arbitramini", ["arbitror", "arbitrar", "arbitramini"]],
+        ["esse", ["sum", "esse", "ego"]],
+        ["non", ["non", "no", ""]],
+        ["sum", ["sum", "esse", "sunt"]],
+        ["ego", ["ego", "me", "esse"]]
+    ],
+    [
+        ["hospitalitatem", ["hospitalitas", "hospitalis", "hospitalitus"]],
+        ["sectantes", ["secto", "sectum", "sectant"]]
+    ],
+    [
+        ["secundum", ["secundum", "secundus", "secund"]],
+        ["hominem", ["homo", "homus", "hominem"]],
+        ["dico", ["dico", "dixi", ""]]
+    ]
+]
+```
+
+### Fill-mask tasks
+Submissions should be `json` files with a list of sentences, where each sentence is a dictionary. The first key, "Text", is the masked sentence itself. Other keys are sequential numbers of the gaps, starting with 0, which have lists/tuples of your top 3 predictions for them as values. The first gap in a sentence must be numbered as 0 regardless of where in the sentence it is, the next one will be 1, etc. If there are no gaps in a sentence, then your dictionary should contain just the "Text" field. If you have less than 3 predictions, you can submit empty strings.
+
+#### Word-level
+```
+[
+  {
+    "Text": "‘Sech [MASK] ricfe iluc, ⁊ ni toruis húc’.",
+    0: ["ni", "na", ""]
+  },
+  {
+    "Text": "[MASK] ni fiad chách",
+    0: [".i.", "i.e.", "éd"]
+  }
+]
+```
+
+#### Character-level
+```
+[
+  {
+    "Text": "Ó do[_]un co brait ar Zedechias mac[_]Iosias.",
+    0: ["m", "n", ""],
+    1: [" ", "-", "c"]
+  }
 ]
 ```
 
