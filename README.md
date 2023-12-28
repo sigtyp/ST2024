@@ -143,11 +143,11 @@ Submissions should be `json` files with a list of sentences, where each sentence
 ```
 [
   {
-    Text: "‘Sech [MASK] ricfe iluc, ⁊ ni toruis húc’.",
+    "Text": "‘Sech [MASK] ricfe iluc, ⁊ ni toruis húc’.",
     0: ["ni", "na", ""]
   },
   {
-    Text: "[MASK] ni fiad chách",
+    "Text": "[MASK] ni fiad chách",
     0: [".i.", "i.e.", "éd"]
   }
 ]
@@ -157,7 +157,7 @@ Submissions should be `json` files with a list of sentences, where each sentence
 ```
 [
   {
-    Text: "Ó do[_]un co brait ar Zedechias mac[_]Iosias.",
+    "Text": "Ó do[_]un co brait ar Zedechias mac[_]Iosias.",
     0: ["m", "n", ""],
     1: [" ", "-", "c"]
   }
