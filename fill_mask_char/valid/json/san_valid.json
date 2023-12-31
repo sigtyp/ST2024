@@ -1,0 +1,5844 @@
+[
+    {
+        "src": "tvayā manyo sa ratham ārujantaḥ harṣamāṇāḥ hṛṣitāsaḥ marutvan tigma iṣavaḥ āyudhā saṃśiśānāḥ upa pra yantu naraḥ agni rūpāḥ",
+        "masked": "tvayā manyo sa ratham ārujantaḥ harṣamāṇāḥ[_]hṛṣitāsaḥ marutvan tigma iṣ[_]vaḥ āyud[_]ā saṃśiśānāḥ upa pra yantu nar[_][_] agni rūpā[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 42,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 70,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 79,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 110,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 111,
+                "masked_token": "ḥ"
+            },
+            {
+                "mask_idx": 122,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "na enam śarvaḥ na bhavaḥ na īśānaḥ na asya paśūn na samānān hinasti yaḥ evam veda",
+        "masked": "na enam śarvaḥ na bhavaḥ[_]na īśānaḥ na asya paśūn n[_] samānān[_][_]inasti yaḥ evam veda",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 59,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 60,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "viśam viśam yuddhāya sam śiśādhi",
+        "masked": "viśam v[_]śam yudd[_]āya sam śiśādhi",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "dvādaśa vai etāḥ rātrīḥ vratyāḥ āhuḥ prajāpateḥ",
+        "masked": "dvādaśa vai etāḥ rā[_]rīḥ vratyāḥ āhuḥ p[_]ajāpateḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "paras varīyāṃsaḥ vai ime lokāḥ arvāk aṃhīyaṃsaḥ",
+        "masked": "paras varī[_]āṃs[_]ḥ vai ime lokāḥ arvāk aṃhīyaṃsaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "sviṣṭakṛtam yajati",
+        "masked": "sviṣṭakṛt[_]m yajati",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "śam u tasmai tvam bhava",
+        "masked": "śam u tasmai tvam bhav[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "agniḥ vai deva yoniḥ",
+        "masked": "agniḥ vai deva yoni[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "tasmai aram gamāma vaḥ yasya kṣayāya jinvatha",
+        "masked": "tasmai ar[_]m gamāma vaḥ yas[_]a kṣayāya jinvatha",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "tasmai aparam śatam daduḥ",
+        "masked": "tasmai apara[_] śatam daduḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "te varuṇasya rājñaḥ gṛhe tanūḥ saṃnyadadhata",
+        "masked": "[_]e varuṇasy[_] rājñaḥ gṛhe tanūḥ saṃnyadadhata",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "gauraḥ na tṛṣitaḥ piba",
+        "masked": "[_]auraḥ na tṛṣitaḥ piba",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "g"
+            }
+        ]
+    },
+    {
+        "src": "jihvā mūle madhūlakam",
+        "masked": "jihvā mūle madhū[_]akam",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "tena apām priyam dhāma upāgacchat",
+        "masked": "tena apām priya[_] d[_]āma upāgacchat",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "ūrdhvaḥ vājasya sanitā iti vāja sanim eva enam tat dhanasām sanoti",
+        "masked": "ūrdh[_]aḥ vājasya sanitā it[_] vāja sanim eva enam tat dha[_]asām sanoti",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "jālāṣeṇa abhi siñcata",
+        "masked": "jālāṣeṇa[_]abhi siñcata",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "pavastaiḥ tvā pari akrīṇan dūrśebhiḥ ajinaiḥ uta",
+        "masked": "pavastaiḥ tvā pari akrīṇan dū[_]śebh[_]ḥ ajinaiḥ uta",
+        "masked_tokens": [
+            {
+                "mask_idx": 29,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "pātu somaḥ naḥ aṃhasaḥ",
+        "masked": "pātu somaḥ naḥ a[_]hasaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "ṃ"
+            }
+        ]
+    },
+    {
+        "src": "saḥ ekayā pṛṣṭaḥ daśabhiḥ pratyuvāca",
+        "masked": "saḥ ekayā p[_]ṣṭa[_] daśabhiḥ pratyuvāca",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "ṛ"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "pra tvā muñcāmi varuṇasya pāśāt yena tvā abadhnāt savitā su śevaḥ",
+        "masked": "[_]ra tvā muñcā[_]i varuṇasya pāś[_]t yena tvā abadhnāt savitā su śevaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "śīrṣaṇvatī nasvatī karṇiṇī kṛtyā kṛtā saṃbhṛtā viśva rūpā sā ārāt etu",
+        "masked": "śīrṣaṇva[_]ī nasvatī karṇiṇī kṛtyā kṛtā s[_]ṃbhṛtā [_]iśva rūpā sā ārāt etu",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "tām etat madhye yajñasya avākalpayat",
+        "masked": "tām etat [_]adhye yajñasya avāka[_]payat",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "atha ha viśvāmitraḥ putrān āmantrayāmāsa madhuchandāḥ śṛṇotana ṛṣabhaḥ reṇuḥ aṣṭakaḥ ye ke ca bhrātaraḥ sthana asmai jyaiṣṭhyāya kalpadhvam iti",
+        "masked": "[_]t[_]a ha viśvāmitraḥ[_]putrān āmantrayāmāsa madhuchandāḥ śṛṇo[_]ana ṛṣabhaḥ reṇuḥ aṣṭ[_]k[_]ḥ ye ke ca b[_]rātaraḥ sthana asmai jyaiṣṭhyāya kalpadhvam iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 2,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 58,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 80,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 82,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 95,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "yat somam yajati tasmāt pratīcyaḥ api āpaḥ bahvyaḥ syandante",
+        "masked": "yat som[_]m y[_]jati tas[_]āt pratīcyaḥ api āpaḥ bahvyaḥ syandante",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "yadi ca tiṣṭhāsi yadi ca śayāsai draviṇam eva asmāsu dhattāt iti eva tat āha",
+        "masked": "yadi ca tiṣṭh[_]si yad[_] ca śayāsai draviṇam eva asmās[_] dhattāt iti eva t[_]t āha",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 70,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "sīda hotar sve u loke cikitvān iti",
+        "masked": "[_]īda h[_]tar sve u loke cikitvān iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 6,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "sarveṣām ha asya vanaspatīnām kāmaḥ upāptaḥ bhavati yaḥ evam veda",
+        "masked": "sarve[_]ām[_]ha asya vanaspatīnām kā[_]aḥ upāptaḥ bhavati yaḥ evam veda",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "ṣ"
+            },
+            {
+                "mask_idx": 8,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "vaiśvānare akramata",
+        "masked": "vaiśvānare ak[_]amata",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "yat agnaye mathyamānāya anu vācā āha atha kasmāt dyāvāpṛthivīyām anvāha iti",
+        "masked": "yat agnaye mathyam[_]nāya anu vāc[_] āha atha kasmāt dyāvā[_]ṛthivīyā[_] anvāha iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "tasya tvam pittam āsitha",
+        "masked": "tasya[_]tvam pittam āsitha",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tasmāt iyam medhyā bhavat",
+        "masked": "[_]asmāt iyam medhyā bhavat",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "mama id asaḥ tvam kevalaḥ",
+        "masked": "mama id asaḥ tvam keval[_]ḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 23,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "sa ha uvāca apīparam vai tvā vṛkṣe nāvam pratibadhnīṣva tam tu tvā mā girau santam udakam antar chaitsīt yāvat udakam samavāyāt tāvat tāvat anvavasarpāsi iti",
+        "masked": "sa ha uvāca apīparam vai tvā vṛkṣe nāvam pratibadhnīṣva tam tu[_]tvā mā girau sa[_]tam u[_][_]k[_]m ant[_]r chaitsīt yāvat udak[_]m samavāyāt tāvat tāvat anvavasar[_]āsi iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 62,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 78,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 84,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 85,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 87,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 93,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 115,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 149,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "saḥ uṣasam tuṣṭāva atas uttarena tṛcena",
+        "masked": "saḥ uṣasa[_] tuṣṭāva atas[_]uttarena tṛcena",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "ādityāḥ ca eva iha āsan aṅgirasaḥ ca",
+        "masked": "ādit[_]āḥ ca eva iha āsan aṅgira[_]aḥ ca",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "brāhmaṇaḥ jajñe prathamaḥ daśa śīrṣaḥ daśa āsyaḥ",
+        "masked": "br[_][_]maṇaḥ jajñe prathamaḥ daśa śīrṣaḥ daśa āsyaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 3,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "atho khalu āhuḥ kaḥ arhati manuṣyaḥ sarvam satyam vaditum satya saṃhitāḥ vai devāḥ anṛta saṃhitāḥ manuṣyāḥ iti",
+        "masked": "atho khalu ā[_]uḥ kaḥ arhati manu[_]yaḥ sa[_]vam satyam vadit[_]m satya saṃhitāḥ vai devāḥ anṛt[_] saṃ[_]itāḥ manuṣyāḥ iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "ṣ"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 55,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 87,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 92,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "gandharvāḥ patayaḥ yūyam",
+        "masked": "gandharvāḥ pa[_]ayaḥ yūyam",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "mayaḥ tokebhyaḥ kṛdhi",
+        "masked": "mayaḥ tokebhyaḥ [_]ṛdhi",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "k"
+            }
+        ]
+    },
+    {
+        "src": "vi yamaḥ yat na saṃyamaḥ",
+        "masked": "vi yamaḥ ya[_] na saṃyamaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "asti hi sma te śuṣmin avayāḥ mahaḥ cit yasya mīḍhuṣaḥ yavyā haviṣmataḥ marutaḥ vandate gīḥ",
+        "masked": "asti hi sma te śuṣmin avayāḥ mahaḥ cit[_]yasya mīḍhuṣaḥ yavyā hav[_]ṣmataḥ marutaḥ va[_]date g[_]ḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 38,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 81,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 88,
+                "masked_token": "ī"
+            }
+        ]
+    },
+    {
+        "src": "tasmāt āha mānavī iti",
+        "masked": "tasmāt āha mānavī i[_]i",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "jagatyau paśu kāmaḥ kurvīta",
+        "masked": "jagatyau paśu kāmaḥ kurvīt[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "sa ha tāvat tāvat eva anvavasasarpa",
+        "masked": "sa ha tāvat tāvat eva anvavasas[_][_]pa",
+        "masked_tokens": [
+            {
+                "mask_idx": 31,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "pāpmanā eva enam abhiṣuvati",
+        "masked": "pāpmanā [_]va enam abhiṣuvati",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "yajñaḥ vai su tarmā nauḥ",
+        "masked": "yajñaḥ vai su tar[_]ā nauḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "tena vijitim bhūtim gacchati",
+        "masked": "tena vijitim bhūtim gaccha[_]i",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "tasya ha śatam jāyāḥ babhūvuḥ",
+        "masked": "ta[_]ya ha śatam jāyāḥ babhūvuḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "tat yathā eva adaḥ manuṣya rāje āgate anyasmin vā arhati ukṣāṇam vā kṣadante",
+        "masked": "tat yathā eva adaḥ manuṣya[_]rāje āga[_]e anyasmin [_]ā arh[_]ti ukṣāṇam vā kṣadante",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "śam me parasmai gātrāya",
+        "masked": "śam me par[_]smai gātrāya",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tebhiḥ śakema vīryam jātavedaḥ tanū vaśin",
+        "masked": "tebhiḥ śakema vīryam jātaved[_]ḥ tan[_] vaśin",
+        "masked_tokens": [
+            {
+                "mask_idx": 28,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "ū"
+            }
+        ]
+    },
+    {
+        "src": "tasmāt aviḥ medhyaḥ abhavat",
+        "masked": "tasm[_]t aviḥ medhyaḥ abhavat",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "agnim īḍe purohitam yajñasya devam ṛtvijam hotāram ratna dhātamam",
+        "masked": "agnim īḍ[_] purohitam ya[_]ñasya devam ṛtvijam hotāram ra[_]na dhātamam",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "j"
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "dvayoḥ vai anuṣṭubhoḥ catuḥṣaṣṭiḥ akṣarāṇi",
+        "masked": "dvay[_]ḥ vai anuṣṭub[_]oḥ catuḥṣaṣṭiḥ akṣarāṇi",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "tayā mitrāvaruṇau saṃjagmāte",
+        "masked": "tayā mit[_]āvaruṇau saṃjagmāte",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "tām tvā śāle sarva vīrāḥ su vīrāḥ ariṣṭa vīrāḥ upa sam carema",
+        "masked": "tām[_]tvā[_]śāle sarva vīrāḥ su vīrāḥ ariṣṭa vīrāḥ upa sam[_]carema",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 7,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tasmāt tṛcam dyāvāpṛthivīyam anvāha",
+        "masked": "tasmāt tṛcam dyāvāpṛthiv[_]yam [_]nvāha",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "ī"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tat yajamānam upahvayate",
+        "masked": "tat yajamānam upahva[_]ate",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "prajāvantam rayim asme sam invatu iti āśiṣam eva āśāste",
+        "masked": "[_]rajāvantam [_]ayim asm[_] sam invatu iti āśiṣam eva āśāste",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "avasṛṣṭā parā pata śaravye brahma saṃśite",
+        "masked": "avasṛ[_]ṭā par[_] pata śaravye brahma saṃśite",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "ṣ"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "mithunena eva enam tat prajayā paśubhiḥ prajanayati prajātyai",
+        "masked": "mithunena eva[_]enam tat prajayā paśubhiḥ prajan[_]yati prajāt[_]ai",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 58,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "lalāmaḥ bhavati",
+        "masked": "lalāmaḥ bhav[_]ti",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "vṛkṣam yat gāvaḥ pariṣasvajānāḥ anusphuram śaram arcanti ṛbhum śarum asmat yāvaya didyum indra",
+        "masked": "vṛkṣam yat gāvaḥ[_]pariṣasvaj[_]nāḥ anusphuram śaram[_]arca[_]ti ṛbhum śarum asmat yāvaya didyum ind[_]a",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 92,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "saḥ upahvayate upahūtam rathantaram saha pṛthivyā upa mām rathantaram saha pṛthivyā hvayatām upahūtam vāmadevyam saha antarikṣeṇa upa mām vāmadevyam saha antarikṣeṇa hvayatām upahūtam bṛhat saha divā upa mām bṛhat saha divā hvayatām iti",
+        "masked": "saḥ upahvayat[_] upahūtam rathantaram saha pṛthivyā upa [_]ā[_] rathantaram saha pṛthivyā hvayatām upah[_]tam vāmadevyam saha antar[_]kṣeṇa upa m[_]m vāmadevy[_]m saha ant[_]rikṣeṇa hvayatām upa[_]ūtam bṛhat saha divā upa mām bṛ[_]a[_] sa[_]a divā hvayatām iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 56,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 97,
+                "masked_token": "ū"
+            },
+            {
+                "mask_idx": 123,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 135,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 146,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 157,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 178,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 210,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 212,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 216,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "tām eva bhāgadheyena upāsarat",
+        "masked": "tām eva bhāgadheyena up[_]sarat",
+        "masked_tokens": [
+            {
+                "mask_idx": 23,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "agniḥ sarvāḥ manotāḥ",
+        "masked": "agniḥ sarvāḥ manotā[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "yathā indraḥ udvācanam labdhvā cakre adhaspadam kṛṇve aham adharān tathā amūn śaśvatībhyaḥ samābhyaḥ",
+        "masked": "yathā indr[_]ḥ udvācanam labdhvā cakre adhaspadam k[_]ṇve a[_]am [_]dharān tathā amūn śaś[_]atībhyaḥ samābhyaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 49,
+                "masked_token": "ṛ"
+            },
+            {
+                "mask_idx": 55,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 59,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 81,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "upa asmān vācaspatiḥ hvayatām",
+        "masked": "upa as[_]ān vācaspatiḥ hvayatām",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "asṛk te asthi rohatu",
+        "masked": "asṛk [_]e asthi rohatu",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "yadi asyāḥ tat janma yadi vā itaram tat kāmāya kāmāya eva aviḥ vaśā ālabhyate",
+        "masked": "yadi asyāḥ tat janma yadi [_]ā itar[_]m tat kāmāya kāmāya eva aviḥ vaś[_] ālabhy[_]te",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 66,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 74,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "mā te bhūma prasitau hīḍitasya",
+        "masked": "mā te bhūma[_]prasitau h[_]ḍitasya",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "ī"
+            }
+        ]
+    },
+    {
+        "src": "ye āgare mṛgayante pratikrośe amāvāsye",
+        "masked": "ye āgare mṛgayan[_][_] pratikrośe amāvāsye",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "prataṅkam dadruṣīṇām sarvāsām arasam viṣam",
+        "masked": "prataṅkam da[_]ruṣīṇām sarvā[_]ām arasam viṣam",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "tāḥ iha ā yantu oṣadhīḥ",
+        "masked": "tāḥ iha ā y[_]ntu oṣadhīḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "prattau ha vai imau kṣayau viśam ca duhe yaḥ evam veda",
+        "masked": "pra[_]tau ha va[_] imau k[_]ayau viśam ca duhe yaḥ evam veda",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": "ṣ"
+            }
+        ]
+    },
+    {
+        "src": "tat enām pratyakṣam upahvayate taturiḥ iti",
+        "masked": "tat enā[_] pratyakṣam upahvayate tat[_]riḥ iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "u"
+            }
+        ]
+    },
+    {
+        "src": "dāna kāmāḥ asmai prajāḥ bhavanti",
+        "masked": "dāna kāmāḥ as[_]ai pra[_]āḥ bhavanti",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "j"
+            }
+        ]
+    },
+    {
+        "src": "yasya hi paśavaḥ bhavanti sa pūrvam iṣṭvā atha bhūyas bhūyas eva haviṣkaroti",
+        "masked": "yasya hi paśavaḥ[_]bhavanti sa pūr[_]am iṣṭvā ath[_] bhūyas bhūyas eva haviṣkaro[_]i",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 74,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "apa snehitīḥ nṛmaṇāḥ adhatta",
+        "masked": "apa [_]nehitīḥ nṛmaṇāḥ adhatta",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "tat idam agnau deva yonyām prajanane retaḥ sicyate",
+        "masked": "tat idam [_]gnau deva yonyām prajanane retaḥ[_]sicyate",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "ghṛtena hi vajreṇa indraḥ vṛtram ahan",
+        "masked": "ghṛtena hi v[_]jreṇa in[_]raḥ vṛtram ahan",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "sa devānām īśām paryait",
+        "masked": "sa [_]evānām īśām paryait",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "vi vṛścanti mayūryaḥ",
+        "masked": "vi vṛścanti[_]mayūryaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "ā tvā vatsaḥ gamet ā kumāraḥ ā dhenavaḥ sāyam āspandamānāḥ",
+        "masked": "ā tvā vatsaḥ gamet ā kumāraḥ[_]ā dhenav[_]ḥ sāyam āspandamā[_]āḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 28,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 55,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "vācā eva asya vācam bhiṣajyati",
+        "masked": "vācā eva asya[_]vācam bhiṣa[_]yati",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "j"
+            }
+        ]
+    },
+    {
+        "src": "vāruṇyā paridadhāti",
+        "masked": "vāruṇyā [_]aridadhāti",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "tasmāt śīrṣṇaḥ chinnāt yaḥ rasaḥ akṣarat tāḥ vaśāḥ abhavan",
+        "masked": "tasmāt śīrṣṇaḥ chinnāt yaḥ rasaḥ[_]akṣarat tāḥ vaśāḥ [_]bhava[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 32,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 57,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "viśvam rūpam avarunddhe ātmane ca yajamānāya ca yatra evam vidvān etām rarāṭyām īkṣamāṇaḥ anvāha",
+        "masked": "viśvam rūp[_]m avarunddhe ātma[_]e ca yajamānāy[_] ca yatra evam vidvān [_]tām rarāṭyām ī[_]ṣamāṇaḥ anvāha",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 66,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 81,
+                "masked_token": "k"
+            }
+        ]
+    },
+    {
+        "src": "tasmāt etām anvāha",
+        "masked": "tasmāt [_]tām anvāha",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "aṃśuḥ aṃśuḥ te deva soma āpyāyatām indrāya eka dhana vide",
+        "masked": "a[_]śuḥ aṃśuḥ te deva soma āpyāyatām indrāya eka dh[_]n[_] vide",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "ṃ"
+            },
+            {
+                "mask_idx": 49,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "yam grāmam āviśate idam ugram sahaḥ mama piśācāḥ tasmāt naśyanti",
+        "masked": "yam grāmam ā[_]iśate idam ugram sahaḥ mama piśāc[_]ḥ tasmāt naśyant[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "sākam antāḥ araṃsata",
+        "masked": "sākam antāḥ ar[_]ṃsata",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "upahūtāḥ gāvaḥ saha ṛṣabhāḥ iti",
+        "masked": "upahūtāḥ gāvaḥ saha ṛṣ[_]bhā[_] iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "yajñam punītana",
+        "masked": "yajñam punī[_]ana",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "atha uta daśadhā prajayā haviṣkriyate",
+        "masked": "at[_]a uta daśadhā praja[_]ā haviṣkriyate",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "tena iti",
+        "masked": "tena iti",
+        "masked_tokens": []
+    },
+    {
+        "src": "nava pāvamānyaḥ",
+        "masked": "n[_]va pāvamānyaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "mā vi venaḥ",
+        "masked": "mā [_]i venaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "indriyeṇa vai eṣa vīryeṇa vyṛdhyate yaḥ alam bhūtyai san na bhavati",
+        "masked": "indriyeṇa vai eṣa vī[_]yeṇa vyṛ[_]hyate yaḥ alam bhūtyai san na[_]bhavati",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 59,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tṛcam saumyam gāyatram anvāha some rājani prohyamāṇe",
+        "masked": "tṛca[_] saumy[_]m gāyatram anvāha some rājani[_]prohyamāṇe",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "marutaḥ pibata ṛtunā potrāt",
+        "masked": "marutaḥ pibata ṛtunā pot[_]āt",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "aindrāmārutam pṛśni saktham ālabheta",
+        "masked": "aindrāmārutam pṛśni saktham āl[_][_]heta",
+        "masked_tokens": [
+            {
+                "mask_idx": 30,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "b"
+            }
+        ]
+    },
+    {
+        "src": "tathā iti",
+        "masked": "tathā iti",
+        "masked_tokens": []
+    },
+    {
+        "src": "punar naḥ pitaraḥ manaḥ dadātu daivyaḥ janaḥ",
+        "masked": "punar naḥ [_]itaraḥ manaḥ dadātu d[_]ivyaḥ janaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "pathyām hi eṣaḥ anusaṃcarati",
+        "masked": "pathyām hi eṣ[_]ḥ anusaṃcarati",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "te kavaṣam ailūṣam somāt anayan",
+        "masked": "te kavaṣam ailūṣ[_]m somāt[_]anayan",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "ṛtavaḥ vai somasya rājñaḥ rāja bhrātaraḥ yathā manuṣyasya",
+        "masked": "ṛtavaḥ vai somasy[_] rājñaḥ rāja bhrātaraḥ ya[_][_]ā manuṣyasya",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "idam viṣkandham sahate",
+        "masked": "[_]dam viṣkandham sahate",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "jālāṣeṇa upa siñcata",
+        "masked": "jāl[_]ṣeṇa upa siñcata",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "yajñena vai tat devāḥ yajñam ayajanta yat agninā agnim ayajanta",
+        "masked": "yajñena vai [_]at devāḥ yajñam ayaj[_]nta yat agninā [_]gnim ayajanta",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 49,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "prajāpatau vai svayam hotari prātaranuvākam anuvakṣyati sarvāḥ devatāḥ āśaṃsanta mām abhi pratipatsyati mām abhi iti",
+        "masked": "praj[_]patau vai svayam hotari prātaranuvākam anuvakṣya[_][_] sarv[_]ḥ devatāḥ āśaṃsanta mām a[_]h[_] pratipatsyati mām abhi iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 60,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 86,
+                "masked_token": "b"
+            },
+            {
+                "mask_idx": 88,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "gātrāṇi te brahmaṇā kalpayāmi",
+        "masked": "gātrāṇi te brahmaṇā k[_]lpayāmi",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "ojaḥ devānām payaḥ oṣadhīnām varcasā mā jinvantu",
+        "masked": "ojaḥ devānām payaḥ [_]ṣadhī[_]ām varcasā mā jinvantu",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "aśvatthaḥ deva sadanaḥ tṛtīyasyām itas divi",
+        "masked": "aśvatth[_]ḥ deva sadanaḥ tṛtīyasyā[_] itas divi",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "ayam te stomaḥ agriyaḥ",
+        "masked": "ayam te stomaḥ[_]agriyaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "yaḥ asya savyaḥ karṇaḥ ayam sa pavamānaḥ",
+        "masked": "yaḥ asya [_]avy[_]ḥ karṇaḥ ayam sa pavamānaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "indriyeṇa eva abhimātim pāpmānam bhrātṛvyam apahate",
+        "masked": "indr[_]yeṇa ev[_] abhimātim pāpmānam bhrātṛv[_]am apahate",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "samavattām eva satīm tat enām pratyakṣam hotari śrayati",
+        "masked": "samavattām eva satīm tat [_]nām prat[_]akṣam hotari śrayat[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "sā īm abhi pravat",
+        "masked": "sā īm abhi prav[_]t",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tejasvī brahmavarcasī bhavati yaḥ evam vidvān prāṅ eti",
+        "masked": "tejasv[_] brahmavarcasī bhavati yaḥ evam vidv[_]n pr[_]ṅ eti",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "ī"
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "tasmāt prācyām diśi krīyate",
+        "masked": "t[_]smāt prācyām diśi krīyate",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tat vā jajñau tat vā na jajñau",
+        "masked": "tat vā jajñau tat vā [_]a jajñ[_]u",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "pūṣā parastāt apatham vaḥ kṛṇotu",
+        "masked": "pūṣā parastāt a[_]atham vaḥ kṛ[_]otu",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "ṇ"
+            }
+        ]
+    },
+    {
+        "src": "prāśam pratiprāśaḥ jahi",
+        "masked": "prāśam pratiprāśaḥ[_]jahi",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "imām śālām savitā vāyuḥ indraḥ bṛhaspatiḥ ni minotu prajānan",
+        "masked": "imām śāl[_]m sav[_]tā vāyuḥ indraḥ bṛhaspatiḥ[_]ni minotu prajānan",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "saḥ ukṣā abhavat",
+        "masked": "saḥ ukṣā abhava[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "hiraṇya kaśipau āsīnaḥ pratigṛṇāti",
+        "masked": "hiraṇ[_]a kaśi[_]au āsīnaḥ pratigṛṇāti",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "saḥ enam bhūtyai śremṇe inddhe",
+        "masked": "saḥ[_]enam bh[_]tyai śremṇe inddhe",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "ū"
+            }
+        ]
+    },
+    {
+        "src": "tasya śṛṅge nāvaḥ pāśam pratimumoca",
+        "masked": "tasya śṛṅge nāva[_] pāśam pratimu[_]oca",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "ḥ"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "tat varuṇa pramocanīyaḥ eva eṣa",
+        "masked": "tat varuṇa [_]ramoc[_]nīyaḥ eva eṣa",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "hiraṇyam deyam sa śukra tvāya",
+        "masked": "hiraṇyam deyam sa śukr[_] tvāya",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tasmāt viṣvañcaḥ paśavaḥ vyudāyan",
+        "masked": "tasmāt viṣvañcaḥ paśava[_] vyud[_]yan",
+        "masked_tokens": [
+            {
+                "mask_idx": 23,
+                "masked_token": "ḥ"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "veda aham sapta pravataḥ",
+        "masked": "veda aham sapta p[_]avataḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "namaḥ pratihitāyai",
+        "masked": "[_]amaḥ pratihitāyai",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "śalyāt viṣam niḥ avocam prāñjanāt uta parṇadheḥ",
+        "masked": "śalyāt viṣam niḥ avocam pr[_][_]janāt uta parṇadheḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "ñ"
+            }
+        ]
+    },
+    {
+        "src": "tat āhuḥ katham anūcyaḥ prātaranuvākaḥ iti",
+        "masked": "tat āhuḥ katham an[_]cyaḥ prātaranuvākaḥ it[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "ū"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "dyubhiḥ aktubhiḥ pari pātam asmān iti",
+        "masked": "dy[_]bhiḥ aktubhiḥ pari pātam asmā[_] iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "bhavāśarvau mṛḍatam",
+        "masked": "bhavāśar[_]au mṛḍatam",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "tatas rājanyaḥ ajāyata",
+        "masked": "tatas rājan[_]aḥ ajāyata",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "devāḥ ca vai pitaraḥ ca asmin loke āsan",
+        "masked": "devāḥ ca vai p[_]taraḥ ca[_]asmin loke āsan",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "atha enam atas ūrdhvam agnim āhavanīyam upasthāpayāṃcakāra śunaḥ cit śepam niditam sahasrāt iti",
+        "masked": "atha enam atas ūrdhvam agni[_] āhavanīyam upasthāpayāṃ[_]akāra[_]ś[_]naḥ ci[_] śepam niditam sahasrāt iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 27,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 58,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 60,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 67,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "brahmā tvaḥ vadati jāta vidyām",
+        "masked": "[_]rahmā tvaḥ vadati [_]āta vidyām",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "b"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "j"
+            }
+        ]
+    },
+    {
+        "src": "yaḥ asya caturthaḥ vyānaḥ tāni nakṣatrāṇi",
+        "masked": "yaḥ asya caturt[_]a[_] vyānaḥ tāni nakṣatrāṇi",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "asmai dyāvāpṛthivī bhūri vāmam duhāthām gharma dughe iva dhenū",
+        "masked": "asmai d[_]āvāpṛthivī bhūri vāmam du[_][_]thām gharma dughe iva dhenū",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "tena eṣu indriyāṇi vīryāṇi āptvā adadhāt",
+        "masked": "tena[_]eṣu indriyāṇi vīryāṇi āptvā ada[_]hāt",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "virājā annādyā annam atti yaḥ evam veda",
+        "masked": "virājā annādyā [_]nnam a[_]ti yaḥ evam veda",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "prācyām vai diśi devāḥ somam rājānam akrīṇan",
+        "masked": "prācyām vai diśi devāḥ[_]somam rā[_]ānam akrīṇan",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "j"
+            }
+        ]
+    },
+    {
+        "src": "ni śatroḥ soma vṛṣṇyam ni śuṣmam ni vayaḥ tira dūre vā sataḥ anti vā",
+        "masked": "ni[_]śatroḥ soma vṛṣ[_]yam ni śuṣmam ni[_]vayaḥ tira dūre vā sataḥ anti vā",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "ṇ"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "atha u sahasvān jaṅgiḍaḥ pra naḥ āyūṃṣi tāriṣat",
+        "masked": "atha u sahas[_]ān jaṅgiḍaḥ pra naḥ āyūṃṣi[_]tāriṣat",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "arasān kṛṇu oṣadhe",
+        "masked": "aras[_]n kṛṇu oṣadhe",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "yaḥ te keśaḥ avapadyate sa mūlaḥ yaḥ ca vṛścate idam tam viśva bheṣajyā abhi siñcāmi vīrudhā",
+        "masked": "yaḥ te keśaḥ a[_]apadyate sa mūlaḥ yaḥ ca vṛścate [_]dam tam[_]viśva [_]heṣajyā abhi si[_]cāmi vīrudhā",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 56,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "b"
+            },
+            {
+                "mask_idx": 79,
+                "masked_token": "ñ"
+            }
+        ]
+    },
+    {
+        "src": "arasaḥ te iṣo śalyaḥ",
+        "masked": "[_]rasaḥ te iṣo śalyaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tam upahūya etat aponaptrīyam akurvata pra devatrā brahmaṇe gātuḥ etu iti",
+        "masked": "tam upahūya etat aponaptrīyam akur[_]a[_]a pra de[_]atrā brahmaṇe gātu[_] etu iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 34,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 64,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "śamitṛbhyaḥ ca eva tat nigrabhītṛbhyaḥ ca samprayacchati",
+        "masked": "śamit[_]bhyaḥ ca eva t[_]t n[_]grabhītṛbhyaḥ ca samprayacchati",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "ṛ"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "tasya vrātyasya sapta prāṇāḥ sapta apānāḥ sapta vyānāḥ",
+        "masked": "ta[_]ya vrātyasya sapta pr[_]ṇāḥ sapta apānāḥ sapta vyā[_]āḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "vaśī san mṛḍayāsi naḥ",
+        "masked": "vaśī san mṛḍayāsi n[_]ḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tiraścirājeḥ asitāt pṛdākoḥ pari saṃbhṛtam",
+        "masked": "tiraścirājeḥ asitāt pṛ[_]ākoḥ [_]ari saṃbhṛtam",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "paṅktī yajña kāmaḥ kurvīta",
+        "masked": "[_]aṅktī yajña kāmaḥ kurvīta",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "śvetaḥ bhavati samṛddhyai",
+        "masked": "śvetaḥ bhavati samṛ[_]dhyai",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "udbhindatīm saṃjayantīm apsarām sādhu devinīm glahe kṛtāni kṛṇvānām apsarām tām iha huve",
+        "masked": "u[_]bhindatīm saṃjayantīm apsarām[_]sādhu de[_]inīm glahe kṛtāni kṛṇvānā[_] apsarām tām iha huve",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 66,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "agadaḥ aikṣvākaḥ āsa",
+        "masked": "aga[_]aḥ aikṣvākaḥ āsa",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "tam ha uvāca ṛṣe aham te śatam dadāmi aham eṣām ekena ātmānam niṣkrīṇai iti",
+        "masked": "ta[_] ha uvāca ṛṣe [_][_][_]m te śatam dadāmi aham eṣām ekena ātmānam niṣkrīṇai iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "ṛdhnoti yaḥ etena yajate",
+        "masked": "ṛdhnoti yaḥ etena ya[_]ate",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": "j"
+            }
+        ]
+    },
+    {
+        "src": "etat vai yajñasya samṛddham yat rūpa samṛddham yat karma kriyamāṇam ṛc abhivadati",
+        "masked": "etat vai yajñas[_]a samṛ[_][_]ham yat rūpa samṛddham yat karma kriyamāṇam ṛc [_]bhivadati",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 71,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "yaḥ vai bhavati yaḥ śreṣṭha tām aśnute tasya vācam proditām anupravadanti",
+        "masked": "y[_]ḥ vai bha[_]a[_]i yaḥ śreṣṭha tām aśnute tasya vācam proditām anupravad[_]nti",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 69,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "yathā vṛkṣam libujā samantam pariṣasvaje eva pari svajasva mām yathā mām kāminī asaḥ yathā mat na apagā asaḥ",
+        "masked": "ya[_]hā vṛkṣam libujā samantam pariṣ[_]svaje[_]eva pari svajasva mām yathā m[_]m kāminī asaḥ yathā mat na apagā[_]asaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 70,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 103,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "śatam bhavanti",
+        "masked": "śatam bhav[_]nti",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "yat garbhiṇīḥ bhavanti indriyeṇa eva enam vīryeṇa samardhayanti",
+        "masked": "y[_]t g[_]r[_]hiṇīḥ bhavanti indriyeṇa eva enam vīryeṇa samardhayanti",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 5,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 7,
+                "masked_token": "b"
+            }
+        ]
+    },
+    {
+        "src": "sa prāṅ apadyata",
+        "masked": "sa[_]prāṅ apadyata",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "viśvam iva hi rūpam rarāṭyāḥ śuklam iva ca kṛṣṇam iva ca",
+        "masked": "viśvam i[_]a hi rūpam [_]arāṭyāḥ śuk[_]am iva ca kṛṣṇam iva ca",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "yat vāyave vāyuḥ eva asmai vajram saṃśyati",
+        "masked": "yat vāyave vāyuḥ eva [_]smai vajram[_]saṃśyati",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "svānām eva enam tat śraiṣṭhyam gamayati",
+        "masked": "svān[_]m eva en[_]m tat śraiṣṭhyam gamayati",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "devāḥ ca vai asurāḥ ca aspardhanta",
+        "masked": "devāḥ ca vai asurāḥ ca aspa[_]dh[_]nta",
+        "masked_tokens": [
+            {
+                "mask_idx": 27,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "khātam a khātam uta saktam agrabham",
+        "masked": "khā[_]am a khātam [_]ta saktam agrabham",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "u"
+            }
+        ]
+    },
+    {
+        "src": "amṛta tvam eva asmin tat dadhāti",
+        "masked": "amṛta tvam eva asmin ta[_] dadhāt[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 23,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "somasya rūpam",
+        "masked": "soma[_]ya rūpam",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "mahati rātryāḥ anūcyaḥ sarvasyai vācaḥ sarvasya brahmaṇaḥ parigṛhītyai",
+        "masked": "maha[_]i rātryāḥ [_]nū[_]yaḥ sarvasyai vācaḥ sarva[_]ya brahmaṇaḥ parigṛhītyai",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "madhoḥ adhi prajātā asi",
+        "masked": "madhoḥ[_]adhi prajātā asi",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "kanīyaḥ aikṣvākasya udaram bhavati",
+        "masked": "kanīyaḥ ai[_]ṣvā[_]asya udaram bhavati",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "k"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "k"
+            }
+        ]
+    },
+    {
+        "src": "sa yadi eka devatyaḥ paśuḥ syāt medha pataye iti brūyāt yadi dvi devatyaḥ medha patibhyām iti yadi bahu devatyaḥ medha patibhyaḥ iti",
+        "masked": "sa yadi eka devatyaḥ paśuḥ syāt medha p[_]t[_]ye iti brūyā[_] yad[_] dvi devatyaḥ med[_]a [_]atibhy[_]m iti yadi bahu devatyaḥ medha patibhyaḥ iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 39,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 59,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 77,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 80,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 87,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "viśām ca vai sa sabandhūnām ca annasya ca annādyasya ca priyam dhāma bhavati yaḥ evam veda",
+        "masked": "viśām ca vai sa sabandhūn[_][_][_]ca annasya ca annādyasya ca priyam dhāma bhavati y[_]ḥ evam veda",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 78,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "idam haviḥ yātudhānān nadī phenam iva ā vahat",
+        "masked": "idam haviḥ yātudhānān nadī phenam iva ā [_]ah[_]t",
+        "masked_tokens": [
+            {
+                "mask_idx": 40,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "adya agne adya savitar adya devi sarasvati adya asya brahmaṇaspate dhanuḥ iva ā tānaya pasaḥ",
+        "masked": "adya [_][_]ne ady[_] savitar adya devi sarasvati adya asya brahmaṇaspate dhanuḥ iva ā tānay[_] pasa[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 6,
+                "masked_token": "g"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 85,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 91,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "nidhāsyantaḥ hi enam bhavanti",
+        "masked": "nid[_]āsyantaḥ hi enam bhavanti",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "dyāvāpṛthivī eva enam viśi pratiṣṭhāpya vāyuḥ imau kṣayau viśam ca pradāpayati",
+        "masked": "dyāvāpṛthivī eva enam vi[_]i pratiṣṭhāpya vāyuḥ imau kṣaya[_] viśam ca p[_]adāpa[_]ati",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "ś"
+            },
+            {
+                "mask_idx": 56,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 68,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 74,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "tau asmai paśūn prajanayataḥ",
+        "masked": "tau asmai paśūn praj[_]nayataḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "viśve devāḥ vasavaḥ rakṣata imam",
+        "masked": "[_]iśve devāḥ vasavaḥ[_]rakṣata imam",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "ete vai yajñam avanti ye brāhmaṇāḥ śuśruvāṃsaḥ anūcānāḥ",
+        "masked": "ete vai ya[_]ñam[_]avanti ye brāhmaṇāḥ śu[_]ruvāṃsaḥ anūcānāḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "j"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "ś"
+            }
+        ]
+    },
+    {
+        "src": "imāḥ yāḥ te śatam hirāḥ sahasram dhamanīḥ uta tāsām te sarvāsām aham aśmanā bilam api adhām",
+        "masked": "imāḥ yāḥ te śatam hirāḥ sahasram dhamanīḥ uta tāsām te sarvās[_]m aha[_] [_]śman[_] bilam ap[_] adhām",
+        "masked_tokens": [
+            {
+                "mask_idx": 61,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 67,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 69,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 74,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 84,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "labhante ha putrān",
+        "masked": "labhan[_]e ha putrān",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "ye apīṣan ye adihan ye āsyan ye avāsṛjan sarve te vadhrayaḥ kṛtāḥ",
+        "masked": "[_]e ap[_]ṣan ye [_]dihan ye āsyan ye avāsṛjan sarve te vadhrayaḥ kṛtāḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 5,
+                "masked_token": "ī"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "vīryam ca eva eṣu indriyam ca jityai dadhāti",
+        "masked": "vīryam ca eva eṣu ind[_]iyam ca jity[_]i dadhāti",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "dhenum naḥ iṣam pinvatam asakrām",
+        "masked": "dhen[_]m naḥ iṣam [_]invatam asakrām",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "yaḥ sapatnavān bhrātṛvyavān vā syāt saḥ etam vāmanam vaiṣṇavam ālabheta",
+        "masked": "yaḥ sapatnavān bhr[_]tṛvyavān vā[_]syāt saḥ [_]tam vāmanam vaiṣ[_]avam ālabheta",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 57,
+                "masked_token": "ṇ"
+            }
+        ]
+    },
+    {
+        "src": "sā vibhaktiḥ",
+        "masked": "sā vi[_]haktiḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "b"
+            }
+        ]
+    },
+    {
+        "src": "prakrīḥ asi tvam oṣadhe",
+        "masked": "prakrīḥ asi tv[_]m oṣadhe",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "bhūti kāmam yājayet",
+        "masked": "bhūti kāmam yāja[_]et",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "samyañcaḥ asmai ime lokāḥ śriyai dīdyati yaḥ evam veda",
+        "masked": "samya[_]caḥ asmai [_]me lokāḥ śriyai dīdyati ya[_] evam veda",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "ñ"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "mā parā dāḥ",
+        "masked": "mā par[_] dāḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "saṃtata varṣī ha prajābhyaḥ parjanyaḥ bhavati yatra evam vidvān etat saṃtatam anvāha",
+        "masked": "saṃtata varṣ[_] ha prajābh[_]aḥ parjanyaḥ bhavati yatra e[_]am vidvān etat saṃ[_]atam anvāha",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "ī"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 72,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "yadi ha vai api nītaḥ iva yajamānaḥ bhavati pari ha eva enam tat saṃvatsarāya dadāti",
+        "masked": "yadi ha vai api nīt[_]ḥ iva ya[_]amānaḥ[_]bhavati pari ha eva enam tat saṃvatsarāy[_] dadāti",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "j"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 76,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "ā tvā svaḥ viśatām varṇaḥ",
+        "masked": "ā tvā svaḥ viśatām var[_]aḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": "ṇ"
+            }
+        ]
+    },
+    {
+        "src": "yajñena vai devāḥ ūrdhvāḥ svargam lokam āyan",
+        "masked": "yajñena [_]ai devāḥ ūrdh[_]āḥ svargam lokam āyan",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "yadi vā asi tirojanam yadi vā nadyaḥ tiras iyam ha mahyam tvām oṣadhiḥ baddhvā iva nyānayat",
+        "masked": "yadi vā asi tirojanam yadi vā nadyaḥ tiras iyam ha mahyam [_]vām [_]ṣadhiḥ bad[_]hv[_] iva[_]nyānayat",
+        "masked_tokens": [
+            {
+                "mask_idx": 58,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 74,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 77,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 82,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tayā aham sarvam paśyāmi yaḥ ca śūdraḥ uta āryaḥ",
+        "masked": "tayā aham[_]sarvam paśyāmi yaḥ ca [_]ūdraḥ uta āryaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "ś"
+            }
+        ]
+    },
+    {
+        "src": "prāṇaḥ vai savitā",
+        "masked": "prā[_]aḥ vai savitā",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "ṇ"
+            }
+        ]
+    },
+    {
+        "src": "ahorātre anu paśavaḥ prajāyante",
+        "masked": "ahorātre anu paśavaḥ[_]prajā[_]ante",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "tatra amṛtasya cakṣaṇam devāḥ kuṣṭham avanvata",
+        "masked": "tat[_]a amṛtasya cakṣaṇam de[_]āḥ kuṣṭham avanvata",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "yaḥ asya tṛtīyaḥ prāṇaḥ abhyūḍhaḥ nāma asau sa candramāḥ",
+        "masked": "yaḥ asya tṛtīyaḥ prāṇaḥ abhy[_]ḍhaḥ[_]nāma asau sa ca[_]dramāḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 28,
+                "masked_token": "ū"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 49,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "tat tat na ādṛtyam",
+        "masked": "tat tat na[_]ādṛtyam",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "atha u āhuḥ yat devatāḥ anuvyaukṣata saḥ ukṣā abhavat tat ukṣṇaḥ ukṣa tvam iti",
+        "masked": "atha u āhuḥ yat devatāḥ anuvyaukṣata saḥ u[_]ṣā abhavat tat[_]uk[_]ṇaḥ ukṣa tvam i[_]i",
+        "masked_tokens": [
+            {
+                "mask_idx": 42,
+                "masked_token": "k"
+            },
+            {
+                "mask_idx": 57,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 60,
+                "masked_token": "ṣ"
+            },
+            {
+                "mask_idx": 76,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "prātar vai sa tam devebhyaḥ anvabravīt",
+        "masked": "pr[_]tar vai sa tam devebhyaḥ anva[_]ravīt",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "b"
+            }
+        ]
+    },
+    {
+        "src": "te asurāḥ utkrodinaḥ acaran arāḍaḥ asmākam tūparaḥ amīṣām iti",
+        "masked": "te asurāḥ utkrodinaḥ acaran arāḍaḥ asmāka[_] [_]ūparaḥ amīṣām it[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 41,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 60,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "sa viśvān devān tuṣṭāva namaḥ mahadbhyaḥ namaḥ arbhakebhyaḥ iti etayā ṛcā",
+        "masked": "sa viś[_]ān dev[_]n tuṣṭāva namaḥ mahad[_]hyaḥ namaḥ arbhakebhyaḥ iti etayā ṛ[_]ā",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": "b"
+            },
+            {
+                "mask_idx": 71,
+                "masked_token": "c"
+            }
+        ]
+    },
+    {
+        "src": "prāṇam eva asmin tat dadhāti",
+        "masked": "prāṇam e[_]a asmin tat dadhāti",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "paśavaḥ turīyam",
+        "masked": "p[_]śavaḥ turīyam",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "ayam vām madhumattamaḥ sutaḥ somaḥ ṛtāvṛdhā",
+        "masked": "aya[_] vām madhumattamaḥ s[_]taḥ somaḥ ṛtāvṛdhā",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "u"
+            }
+        ]
+    },
+    {
+        "src": "idam tat anyatra tvat apa dūre nidadhmasi",
+        "masked": "idam tat [_]nyatra tvat apa dūre nidadhmas[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "yat aindraḥ vajram eva asmai praharati",
+        "masked": "yat a[_]ndraḥ vajr[_]m eva asmai praharati",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tat lalāmam abhavat",
+        "masked": "tat l[_]lāmam abhavat",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tam prati asyāmi mṛtyave",
+        "masked": "tam[_]prati asyāmi mṛtyave",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tatra dvādaśa dvādaśa varān dadau",
+        "masked": "tat[_]a dv[_]daśa dvādaśa varān dadau",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 8,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "sa medhena ha asya paśunā iṣṭam bhavati kevalena ha asya paśunā iṣṭam bhavati yaḥ evam veda",
+        "masked": "sa me[_]hena ha[_]asya paśun[_] iṣṭam bhavati kevalena ha asya paśunā iṣṭam bhavat[_] ya[_] evam veda",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 76,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 80,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "varuṇa devatyaḥ vai eṣa tāvat yāvat upanaddhaḥ yāvat pariśritāni prapadyate",
+        "masked": "varuṇa devaty[_]ḥ vai eṣa tāvat [_]āvat upanaddhaḥ[_]yāv[_]t pariśritāni prapadyate",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "sa tanum eva enam tat sa rūpam karoti",
+        "masked": "sa tanum eva enam tat sa rūpam k[_]rot[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 32,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "tat yaḥ evam vidvān amṛtpātrapaḥ bhavati ujjitam eva vācaḥ upaiti",
+        "masked": "tat yaḥ evam vidvān amṛtpātrapaḥ bhav[_]ti ujj[_]tam ev[_] vācaḥ upaiti",
+        "masked_tokens": [
+            {
+                "mask_idx": 37,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "bhagam asyāḥ varcaḥ ādiṣi adhi vṛkṣāt iva srajam",
+        "masked": "bhagam asyāḥ var[_]aḥ ādiṣi adhi vṛk[_]āt iva srajam",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "ṣ"
+            }
+        ]
+    },
+    {
+        "src": "sa pratīcīm diśam anuvyacalat",
+        "masked": "[_]a pratīcīm diśam anuvyacalat",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "ayam venaḥ codayat pṛśni garbhāḥ iti",
+        "masked": "ayam venaḥ co[_]ayat pṛśni garbhāḥ i[_]i",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "yathā ime dyāvāpṛthivī sadyas paryeti sūryaḥ eva pari emi te manaḥ yathā mām kāminī asaḥ yathā mat na apagā asaḥ",
+        "masked": "yathā i[_]e dyāvāpṛthivī sadyas paryeti sūryaḥ eva p[_]ri emi te manaḥ yathā mām kāminī asaḥ yath[_] mat na [_]p[_]gā asa[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 93,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 102,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 104,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 111,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "saḥ anugataḥ vrīhiḥ abhavat",
+        "masked": "saḥ[_]anugataḥ vrīhiḥ abhavat",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "pāpmanā eva enam vyāvartayati",
+        "masked": "pāpmanā eva enam v[_]āvartayati",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "parācīḥ vai etasmai vyucchanti yasya āśvine śasyamāne sūryaḥ na udeti",
+        "masked": "parā[_]īḥ vai etas[_]ai vyucchanti ya[_]ya āśvine śasyamāne sūryaḥ na udeti",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "yathā eṣa śriyam aśnute evam eva enam śriyam gamayati",
+        "masked": "yathā eṣa ś[_]iyam aśnute e[_]am eva[_]enam śriyam gamayati",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "vaśā dyauḥ",
+        "masked": "vaśā dyauḥ",
+        "masked_tokens": []
+    },
+    {
+        "src": "om iti vai daivam",
+        "masked": "o[_] iti vai daivam",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "na amīmadaḥ",
+        "masked": "na [_]mīmadaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "paśavaḥ vai iḍā",
+        "masked": "paśavaḥ va[_] iḍā",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "daśa vaśāsaḥ abhiṣācaḥ ṛṣvān",
+        "masked": "daś[_] vaśāsaḥ abhiṣācaḥ ṛṣvān",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "kṛtyā dūṣiḥ ayam maṇiḥ atha u arāti dūṣiḥ",
+        "masked": "kṛtyā dūṣ[_]ḥ ayam[_]maṇiḥ atha u arāti dūṣiḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tvam māyābhiḥ apa māyinaḥ adhamaḥ svadhābhiḥ ye adhi śuptau ajuhvata",
+        "masked": "tvam māyābhiḥ apa māyinaḥ adham[_]ḥ svadhābh[_]ḥ ye adhi śuptau ajuhvat[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 31,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 67,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "punanti dhīrāḥ apasaḥ manīṣā iti punanti eva enam tat",
+        "masked": "[_]unanti dhīrāḥ a[_]asaḥ manīṣā iti puna[_]ti eva enam tat",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "riśyasya iva parīśāsam parikṛtya pari tvacaḥ kṛtyām kṛtyā kṛte devāḥ niṣkam iva prati muñcata",
+        "masked": "riśyasya [_]va parīśās[_]m[_]parikṛtya pari tvacaḥ kṛtyām kṛtyā k[_]te devāḥ[_]niṣkam iva prati muñcata",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 59,
+                "masked_token": "ṛ"
+            },
+            {
+                "mask_idx": 68,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "jātavedaḥ ni dhīmahi iti",
+        "masked": "jāta[_]edaḥ ni dhīmahi iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "asau vai ādityaḥ brahmavarcasasya pradātā",
+        "masked": "asau vai [_]dityaḥ brahmavarcasasya pradāt[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "sa hi kṣayeṇa kṣamyasya janmanaḥ sāmrājyena divyasya cetati",
+        "masked": "s[_] hi kṣayeṇa[_]kṣamyasya janmanaḥ sāmrājyena divyasya c[_]tati",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "tasmāt pavitrayoḥ mārjayante",
+        "masked": "tasmāt pavitrayoḥ mārjaya[_]te",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "tat annādyasya rūpam",
+        "masked": "[_]at annādyasya rūpam",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "tam ha uvāca apatsata vai asya dantāḥ yajasva mā anena iti",
+        "masked": "ta[_] ha uvāca apatsata v[_]i asy[_] dantāḥ yajasva mā anena iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "rohaya idam arundhati",
+        "masked": "rohaya idam a[_]undhati",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "harī iha upa vakṣataḥ indram sukhatame rathe",
+        "masked": "harī iha [_][_]a vakṣataḥ indram sukhatame rathe",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 10,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "ṛṣayaḥ vai sarasvatyām satram āsata",
+        "masked": "ṛṣayaḥ vai sarasva[_]yām satram ās[_]ta",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "yajuṣā eva ene etat pariśrayanti",
+        "masked": "yajuṣā eva e[_]e[_]etat pariśrayanti",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tam etam abhiṣecanīye puruṣam paśum ālebhe",
+        "masked": "tam etam abhiṣecanīye puruṣam paś[_]m ālebh[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 33,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "jarāyuṇā eva enam tat prorṇuvanti",
+        "masked": "jarāyuṇā eva[_]enam [_]at prorṇuvanti",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "vīḍuḥ varīyaḥ arātīḥ apa dveṣāṃsi ā kṛdhi",
+        "masked": "[_]īḍuḥ varīyaḥ arātīḥ apa dveṣāṃsi ā kṛ[_]hi",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "tam vai yūpena eva ayopayan",
+        "masked": "tam vai yūpena [_]va ayopayan",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "paśumān bhavati yaḥ evam vidvān pratyaṅ eti",
+        "masked": "paśumān bhavati yaḥ evam vidvān pr[_]t[_]aṅ eti",
+        "masked_tokens": [
+            {
+                "mask_idx": 34,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "yajamānaḥ vai yūpaḥ",
+        "masked": "yajam[_]naḥ vai yūpaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "yat anuyājān antariyāt prajām tat yajamānasya antariyāt",
+        "masked": "yat a[_]uyājān an[_]ariyāt pra[_]ām tat yajamānasya antariyāt",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "j"
+            }
+        ]
+    },
+    {
+        "src": "brahmaṇaḥ rūpam",
+        "masked": "[_]rahmaṇaḥ rūpam",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "b"
+            }
+        ]
+    },
+    {
+        "src": "diteḥ ca vai saḥ aditeḥ ca iḍāyāḥ ca indrāṇyāḥ ca priyam dhāma bhavati yaḥ evam veda",
+        "masked": "diteḥ ca vai saḥ aditeḥ ca iḍāyāḥ ca indrāṇyāḥ ca priyam dhāma bhava[_]i ya[_] ev[_]m ve[_]a",
+        "masked_tokens": [
+            {
+                "mask_idx": 68,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 73,
+                "masked_token": "ḥ"
+            },
+            {
+                "mask_idx": 77,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 82,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "tardā pate vaghā pate tṛṣṭa jambhāḥ ā śṛṇota me",
+        "masked": "tardā pa[_]e vaghā pa[_]e tṛṣṭa jambhāḥ ā śṛṇota me",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "āgneyyaḥ hi oṣadhayaḥ",
+        "masked": "āgneyyaḥ hi oṣadh[_]yaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "prāṇam vai etat paśavaḥ pratidhāvanti yat varṣeṣu vātam pratijighrati",
+        "masked": "prāṇam vai etat pa[_]a[_]aḥ pra[_]idhāvanti yat varṣeṣu vātam pratijighrati",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "ś"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "saḥ udatiṣṭhat",
+        "masked": "saḥ udatiṣṭha[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "saṃśitam vīryam balam",
+        "masked": "saṃśitam vīryam [_]alam",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "b"
+            }
+        ]
+    },
+    {
+        "src": "catasraḥ vai avāntaradiśaḥ",
+        "masked": "catasraḥ vai avā[_]taradiśaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "tat eṣā vaśā",
+        "masked": "t[_]t eṣā vaśā",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "aham gṛbhṇāmi manasā manāṃsi",
+        "masked": "aham gṛbhṇāmi manasā manā[_]si",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "ṃ"
+            }
+        ]
+    },
+    {
+        "src": "trīṇi ca śatāni ṣaṣṭiḥ ca anūcyāni yajña kāmasya",
+        "masked": "trīṇi ca śatāni ṣaṣṭiḥ c[_] anūcyāni yajña k[_]masya",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "tāsām tris prathamām anvāha tris uttamām",
+        "masked": "tāsām tris pr[_]tha[_]ām anvāha tris uttamām",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "mama cittam anu cittebhiḥ eta",
+        "masked": "mama cittam anu citteb[_]iḥ eta",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "vāc vai rāṣṭrī",
+        "masked": "vāc vai rāṣ[_]rī",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "ṭ"
+            }
+        ]
+    },
+    {
+        "src": "hiraṇyayāḥ panthānaḥ āsan aritrāṇi hiraṇyayā",
+        "masked": "hiraṇyayāḥ [_]anthānaḥ āsan aritrāṇi h[_]raṇyayā",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "sarvān kāmān avarunddhe yaḥ evam veda",
+        "masked": "sarvān[_]kāmān avarunddhe yaḥ evam v[_]da",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "agniḥ pūrvebhiḥ ṛṣibhiḥ īḍyaḥ nūtanaiḥ uta",
+        "masked": "agniḥ pūrvebhiḥ ṛṣibhiḥ ī[_]yaḥ nūtanaiḥ[_]uta",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "ḍ"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "adha svam okaḥ abhi vaḥ syāma",
+        "masked": "[_]dha svam okaḥ abhi vaḥ syāma",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "aśvinā pibatam madhu dīdi agnī śuci vratā ṛtunā yajña vāhasā",
+        "masked": "aśvinā pibatam madhu d[_]di ag[_]ī śuci vrat[_] ṛtunā yajña vāhasā",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": "ī"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "asmin vasu vasavaḥ dhārayantu indraḥ pūṣā varuṇaḥ mitraḥ agniḥ",
+        "masked": "asmin v[_]su v[_]savaḥ [_]hārayantu indraḥ pūṣā varuṇaḥ mitraḥ agniḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "ā aham tanomi te pasaḥ adhi jyām iva dhanvani",
+        "masked": "ā aham tanom[_] t[_] pasaḥ adhi jyām iva dhanvani",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "ete vai yajñasya antye tanvau yat agniḥ ca viṣṇuḥ ca",
+        "masked": "ete vai [_]ajñasya antye [_]a[_]vau yat agniḥ ca viṣṇuḥ ca",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "avan avantīḥ upa naḥ duraḥ cara",
+        "masked": "avan avantī[_] upa naḥ duraḥ ca[_]a",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "ḥ"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "ā te yonim garbhaḥ etu pumān bāṇaḥ iva iṣudhim",
+        "masked": "ā te y[_]nim garbhaḥ etu pumān[_]bāṇaḥ iva iṣudhim",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "yajñasya eva tat barsau nahyati sthemne balāya a visraṃsāya",
+        "masked": "ya[_]ñasya eva tat barsau nahyati [_]themne ba[_]āya a visraṃsāya",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "j"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "prāśam pratiprāśaḥ jahi",
+        "masked": "prāśam pratiprāśaḥ ja[_]i",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "tathā u eva enām eṣa etat eva upāṃśu upahvayate",
+        "masked": "tathā [_] eva enām eṣa etat eva upāṃśu upah[_]ayate",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "samiddhaḥ agne ā vaha devāṁ adya yata sruce",
+        "masked": "samiddhaḥ agne ā vaha de[_]āṁ adya[_]yata sruce",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tam niḥ kuru",
+        "masked": "tam niḥ kur[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "u"
+            }
+        ]
+    },
+    {
+        "src": "sa yat rakṣaḥ saṃsṛjatāt iti āha rakṣāṃsi eva tat svena bhāgadheyena yajñāt niravadayate",
+        "masked": "sa yat rakṣaḥ saṃsṛjatāt iti āha rakṣāṃs[_] eva tat sv[_]na bhāgadheyena ya[_]ñāt niravadaya[_]e",
+        "masked_tokens": [
+            {
+                "mask_idx": 40,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 71,
+                "masked_token": "j"
+            },
+            {
+                "mask_idx": 86,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "manaḥ vai yajñasya maitrāvaruṇaḥ vāc yajñasya hotā",
+        "masked": "manaḥ vai yajñasya maitrā[_]aruṇaḥ vā[_] yajñasya hotā",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": "c"
+            }
+        ]
+    },
+    {
+        "src": "bhiyaḥ dadhānāḥ hṛdayeṣu śatravaḥ parājitāsaḥ apa ni layantām",
+        "masked": "bhiyaḥ[_]dadhānāḥ hṛdayeṣu śa[_]ravaḥ parājitāsaḥ [_]pa ni layantām",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tvam piproḥ nṛmaṇaḥ prārujaḥ puraḥ",
+        "masked": "tvam piproḥ n[_]maṇaḥ prāruj[_]ḥ puraḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "ṛ"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "devatābhiḥ vai eṣa vyṛdhyate yasya pitā pitāmahaḥ somam na pibati",
+        "masked": "devatābhiḥ vai e[_]a vyṛdhyate yasya pi[_]ā pitāmahaḥ somam na pibat[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "ṣ"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 64,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "devān devayate yaja",
+        "masked": "devān devayate [_]aja",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "etān eva asmin tat dadhāti",
+        "masked": "etān eva asmin tat da[_]hāti",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "sarvāsu dikṣu rādhnoti",
+        "masked": "sarvāsu dikṣu rādh[_]oti",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "atha te pavitre prastare apisṛjati",
+        "masked": "atha te pavitre prastare a[_]isṛjat[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "asiknī asi oṣadhe",
+        "masked": "asiknī asi oṣ[_]dhe",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "yat te apodakam viṣam tat te etāsu agrabham",
+        "masked": "yat[_]te[_]apodakam viṣam tat te etāsu agrabham",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 6,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tasya prāśam tvam jahi yaḥ naḥ indra abhidāsati",
+        "masked": "tasy[_] prāśam tvam jahi yaḥ naḥ indra[_]abhidāsati",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "anna ādaḥ vai eṣaḥ anna patiḥ yat agniḥ",
+        "masked": "anna ādaḥ vai[_]eṣaḥ anna patiḥ yat agn[_]ḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "abhiśasyamānam yājayet",
+        "masked": "abh[_]śasyamānam yājayet",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "kratum dakṣam varuṇa sam śiśādhi iti",
+        "masked": "kratum dakṣam varuṇa sam śi[_]ādhi [_]ti",
+        "masked_tokens": [
+            {
+                "mask_idx": 27,
+                "masked_token": "ś"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "pāṅktāḥ vai paśavaḥ",
+        "masked": "pāṅktāḥ vai paśava[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "varṣman pṛthivyāḥ adhi iti",
+        "masked": "varṣman pṛthi[_]yāḥ adhi iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "upanayata medhyāḥ duraḥ āśāsānāḥ medha patibhyām medham iti",
+        "masked": "upanaya[_]a medhyāḥ duraḥ[_]āśās[_]nāḥ medha patibhyām medham iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "priyaḥ sūrye priyaḥ agnā bhavāti yaḥ indrāya suta somaḥ dadāśat",
+        "masked": "priyaḥ sūr[_]e priyaḥ agnā bh[_]vāti yaḥ indrāya sut[_] somaḥ dadāśat",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "prāṇāḥ khalu vai puruṣe vīryam",
+        "masked": "[_]rāṇāḥ kh[_]lu vai puruṣe vīryam",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 9,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "adhvare hi enam devayantaḥ añjanti",
+        "masked": "adhvare [_]i enam devayantaḥ añjan[_]i",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "jabhya hai upakvasa",
+        "masked": "jabhya ha[_] upakvasa",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "āhṛtāḥ asmākam vīrau ā patnīḥ idam astakam",
+        "masked": "āhṛtāḥ asmākam vī[_][_]u ā patnīḥ idam astakam",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tām ha manuḥ uvāca kā asi iti",
+        "masked": "tām[_]ha manuḥ uvāca kā asi iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "aṣṭau śatāni anūcyāni a brāhmaṇa uktasya yaḥ vā durukta uktaḥ śamala gṛhītaḥ yajeta",
+        "masked": "aṣṭau śatāni anūcyāni a brāhmaṇa uktasya y[_]ḥ vā durukta [_]kta[_] śamala gṛhītaḥ [_]ajeta",
+        "masked_tokens": [
+            {
+                "mask_idx": 42,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 56,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 60,
+                "masked_token": "ḥ"
+            },
+            {
+                "mask_idx": 77,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "tathā sapta ṛṣayaḥ viduḥ",
+        "masked": "tathā sapta ṛṣayaḥ vi[_]uḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "anamīvaḥ",
+        "masked": "anamīvaḥ",
+        "masked_tokens": []
+    },
+    {
+        "src": "gāyatryā eva asya tat pāpmānam śamalam apahanti",
+        "masked": "g[_]yatry[_] eva asya tat pāpmānam śamalam apahanti",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 7,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "draviṇaḥ dāḥ draviṇasaḥ grāva hastāsaḥ adhvare yajñeṣu devam īḍate",
+        "masked": "[_]raviṇaḥ dāḥ dravi[_]asaḥ grāva hastāsaḥ adhvare yajñeṣu de[_]am īḍate",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "ṇ"
+            },
+            {
+                "mask_idx": 57,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "tāḥ etāḥ aṣṭau anvāha rūpa samṛddhāḥ",
+        "masked": "tā[_] etāḥ[_]aṣṭau anvāha rūpa samṛddhāḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "ḥ"
+            },
+            {
+                "mask_idx": 8,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "katham ayam asmān somaḥ rājā gacchet iti",
+        "masked": "k[_]th[_]m ayam asmān somaḥ rājā gacchet iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 4,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tasmāt etāḥ vichandasaḥ bhavanti",
+        "masked": "tas[_]āt etāḥ vichand[_]saḥ bhavanti",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "abhimātiḥ vai pāpmā bhrātṛvyaḥ",
+        "masked": "abhimātiḥ vai pāp[_]ā bhr[_]tṛvyaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "tāvān saṃvatsaraḥ",
+        "masked": "tāvān saṃvat[_]araḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "etat vai yajñasya samṛddham yat rūpa samṛddham yat karma kriyamāṇam ṛc abhivadati",
+        "masked": "etat vai yajñasya[_]samṛddham yat rūpa sam[_]ddham yat karma kriyamāṇam ṛc abhiv[_]da[_]i",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "ṛ"
+            },
+            {
+                "mask_idx": 76,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 79,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "havam devāḥ asya mā upa guḥ",
+        "masked": "havam[_]devāḥ asya mā upa guḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "aṣṭau vi akhyat kakubhaḥ pṛthivyāḥ trī dhanva yojanā sapta sindhūn",
+        "masked": "a[_]ṭau vi akhyat [_]akubhaḥ pṛthiv[_]āḥ trī dhanva yojanā sapta sindhūn",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "ṣ"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "k"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "tam śraddhā ca yajñaḥ ca lokaḥ ca annam ca annādyam ca bhūtvā abhiparyāvartanta",
+        "masked": "tam [_]raddhā ca yajñaḥ [_]a lokaḥ ca annam ca annādyam ca bhūtvā[_]abh[_]paryāvartanta",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "ś"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 61,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 65,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "uttaram vai ulbāt jarāyu",
+        "masked": "uttaram vai ulbāt jar[_]yu",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "prāṇān eva asmin tat dadhāti",
+        "masked": "prāṇān eva[_]asmin tat dadhāti",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tasmai aparam śatam daduḥ",
+        "masked": "tasmai aparam ś[_]tam daduḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "tat adyā idam ṛbhavaḥ na anu gacchatha",
+        "masked": "tat adyā id[_]m ṛ[_]havaḥ na anu gacchatha",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "b"
+            }
+        ]
+    },
+    {
+        "src": "pīvaḥ iva kartavyaḥ",
+        "masked": "[_]īvaḥ iva kartavyaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "na sūnṛtā ni yamate vasavyā",
+        "masked": "na sūnṛtā ni yamate vasav[_]ā",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "svasti naḥ pathyāsu dhanvasu iti anvāha",
+        "masked": "svasti[_]naḥ pathyāsu dhanva[_]u iti anvāha",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "agne prāśāna prathamaḥ niṣadya iti eva tat āha",
+        "masked": "agne prāśāna prathama[_] niṣadya iti eva ta[_] āha",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "ḥ"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "yat enam āha vrātya yathā te vaśaḥ tathā astu iti vaśam eva tena avarunddhe",
+        "masked": "yat enam āha vrātya yathā te [_]aśaḥ tathā astu iti v[_]śa[_] eva tena[_]avarunddhe",
+        "masked_tokens": [
+            {
+                "mask_idx": 29,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 64,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "āgnāvaiṣṇavyau rūpa samṛddhe",
+        "masked": "āgnāvaiṣṇavyau rūpa samṛ[_]dhe",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "ūrj vai paśavaḥ",
+        "masked": "ūrj vai[_]paśavaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tam savitā uvāca varuṇāya vai rājñe niyuktaḥ asi tam eva upadhāva iti",
+        "masked": "tam [_]avitā uvāca varuṇāya va[_] rājñe niyuktaḥ asi tam eva up[_]dhāva iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 59,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "āhutyā annādyā annam atti yaḥ evam veda",
+        "masked": "āhutyā annād[_][_] annam atti yaḥ evam veda",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "babhruḥ piṅgalaḥ bhavati samṛddhyai",
+        "masked": "babhruḥ p[_]ṅgala[_] bhavati samṛddhyai",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "sa dhruvām diśam anuvyacalat",
+        "masked": "sa dhruvām di[_]am anuvyacalat",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "ś"
+            }
+        ]
+    },
+    {
+        "src": "śata āyuḥ vai puruṣaḥ śata vīryaḥ",
+        "masked": "[_]ata āyu[_] vai puruṣaḥ śata vīryaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "ś"
+            },
+            {
+                "mask_idx": 8,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "adhrigo śamīdhvam suśami śamīdhvam śamīdhvam adhrigo iti tris brūyāt apāpa iti ca",
+        "masked": "adhrigo śamīdhvam suśami śa[_]īdhvam śamīdhvam ad[_]rigo iti tris brūyāt apāpa iti[_]c[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 27,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 78,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 80,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "prajāyate prajayā paśubhiḥ yaḥ evam veda",
+        "masked": "prajāyate praj[_]yā paśubhi[_] yaḥ evam veda",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "tām enena sanoti",
+        "masked": "tām [_]nena sanoti",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "ugrāḥ vaḥ santu bāhavaḥ",
+        "masked": "ugrāḥ [_]aḥ santu bāhavaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "agniḥ vai sarvāḥ devatāḥ",
+        "masked": "agniḥ[_]vai sarvāḥ devatāḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "svajaḥ iva abhiṣṭhitaḥ daśa",
+        "masked": "svajaḥ iva abhiṣ[_]hitaḥ daśa",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "ṭ"
+            }
+        ]
+    },
+    {
+        "src": "atha ye tebhyaḥ avare āsan te etam svarum apaśyan yūpa śakalam",
+        "masked": "atha ye tebhyaḥ avare āsan te [_]tam svarum apa[_]yan yūpa śa[_]alam",
+        "masked_tokens": [
+            {
+                "mask_idx": 30,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": "ś"
+            },
+            {
+                "mask_idx": 57,
+                "masked_token": "k"
+            }
+        ]
+    },
+    {
+        "src": "sarveṣām vai eṣa paśūnām medhena yajate yaḥ puroﾱāśena yajate",
+        "masked": "sarveṣām vai eṣ[_] paśūnām medhe[_]a [_]ajate yaḥ puroﾱāśena yajate",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "tasya ha trayaḥ putrāḥ āsuḥ śunaḥpucchaḥ śunaḥśepaḥ śunolāṅgūlaḥ iti",
+        "masked": "tasya ha[_][_]rayaḥ putrāḥ āsuḥ śunaḥpucchaḥ śun[_]ḥśepaḥ śunolāṅgūlaḥ iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 9,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "virājau etasya haviṣaḥ sviṣṭakṛtaḥ saṃyājye syātām ye trayastriṃśat akṣare",
+        "masked": "virājau etasya haviṣaḥ sv[_]ṣṭakṛtaḥ saṃyājye syātām ye t[_]ayastr[_]ṃśat ak[_]are",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 55,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 62,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 70,
+                "masked_token": "ṣ"
+            }
+        ]
+    },
+    {
+        "src": "ā viśva devam sat patim yaḥ imā viśvā jātāni iti savituḥ gāyatryau",
+        "masked": "ā viśva dev[_]m sat patim yaḥ imā[_]viśvā jātāni iti savituḥ gāyatry[_]u",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 64,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "idam rudrasya bheṣajam yena iṣum eka tejanām śata śalyām apabravat",
+        "masked": "id[_]m rudrasya bheṣajam[_]yena iṣum eka te[_]anām śata śalyām apabravat",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "j"
+            }
+        ]
+    },
+    {
+        "src": "mahādevaḥ enam iṣvāsaḥ ūrdhvāyāḥ diśaḥ antardeśāt anuṣṭhātā anutiṣṭhati",
+        "masked": "mahādevaḥ ena[_] iṣvāsaḥ ū[_]dhvāy[_]ḥ diśaḥ antardeśāt anuṣṭhātā anu[_]iṣṭhati",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "tasmāt sa chandasaḥ eva kartavyāḥ na vichandasaḥ",
+        "masked": "tasmāt sa chanda[_]aḥ eva kartavyāḥ na v[_]chandasaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "atas adhi te kṛṇavat bhāgadheyam yadā an unmaditaḥ asati",
+        "masked": "atas a[_]hi t[_] kṛṇav[_]t bhāgadheyam yadā an unmaditaḥ asati",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "sa gamiṣyati balhikān",
+        "masked": "sa [_]amiṣyati balhikān",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "g"
+            }
+        ]
+    },
+    {
+        "src": "tam vai etam paśum āprītam santam paryagnikṛtam udañcam nayanti",
+        "masked": "tam v[_]i etam paśum āprītam santam paryagnikṛtam ud[_]ñcam nayan[_]i",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 61,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "sapta vai deva lokāḥ",
+        "masked": "sapt[_] vai deva lokāḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "atha u āhuḥ yaḥ prathamaḥ tamasi apahate sūryasya raśmiḥ yūpasya caṣāle avātanot sā aviḥ vaśā bhavat iti",
+        "masked": "a[_]h[_] u āhuḥ yaḥ prathamaḥ tamasi a[_]ahate sūryasya raś[_][_]ḥ yūpasya caṣāle avātanot sā aviḥ vaśā bhavat iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 3,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "apaśyam tvā manasā cekitānam iti prajāvān prājāpatyaḥ",
+        "masked": "apaśyam tvā manasā cekitānam it[_] prajā[_]ān[_]prājāpatyaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 31,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "saḥ asmai paśūn prajanayati",
+        "masked": "[_]aḥ asmai paśūn prajanayati",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "nirṛteḥ vai etat mukham yat vayāṃsi yat śakunayaḥ",
+        "masked": "nirṛteḥ vai etat[_]mukham yat vayāṃsi [_]at śakunayaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "y"
+            }
+        ]
+    },
+    {
+        "src": "asmin tān goṣṭhe savitā ni yacchatu",
+        "masked": "asmi[_] tān goṣṭhe savitā ni y[_]cchatu",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "mā asmān icchaḥ anāgasaḥ",
+        "masked": "mā asmān [_]cchaḥ anāgasaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "pratibuddhāḥ abhūtana",
+        "masked": "pratibuddhāḥ [_]bhūtana",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "upa tvā tiṣṭhantu puṣkariṇīḥ samantāḥ",
+        "masked": "upa tvā ti[_]ṭhantu puṣkariṇīḥ sa[_]antāḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "ṣ"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "tasmāt āgneyīḥ eva manotāyai haviṣaḥ avadīyamānasya anvāha",
+        "masked": "tasmāt ā[_]neyīḥ eva manotāyai haviṣaḥ avadīyamānasya an[_][_]ha",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "g"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 55,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "svargasya lokasya samaṣṭyai sampattyai saṃgatyai",
+        "masked": "svargasya lokasya sa[_]aṣṭyai sampattyai [_]aṃgatyai",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "tasmai indraḥ stūyamānaḥ prītaḥ manasā hiraṇya ratham dadau",
+        "masked": "tasmai indra[_] st[_]yamānaḥ prītaḥ manasā[_]hiraṇya ratham dadau",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "ḥ"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "ū"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tiṣṭhata ilayata su kam",
+        "masked": "tiṣṭh[_]ta ilayata su kam",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "kā rādhat hotrā aśvinā vām iti nava vichandasaḥ",
+        "masked": "kā rādh[_]t hotrā aśvinā vām iti nava vichandas[_]ḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "iyam vai oṣadhīnām pratiṣṭhā",
+        "masked": "iyam vai oṣadhīnām [_]ratiṣṭhā",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "somasya rūpam",
+        "masked": "somasya r[_]pam",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "ū"
+            }
+        ]
+    },
+    {
+        "src": "sa gavayaḥ abhavat",
+        "masked": "sa g[_]vayaḥ abhavat",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "namaḥ te jāyamānāyai",
+        "masked": "n[_]maḥ te jāyamānāyai",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "upa enam yajñaḥ namati yasya evam vidvān trīṇi ca śatāni ṣaṣṭim ca anvāha",
+        "masked": "upa en[_]m [_]ajñaḥ namati yasya evam vidvān trīṇi ca ś[_][_]āni ṣaṣṭim ca anvāha",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 9,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "ojasvī indriyavān vīryavān bhavati yaḥ evam vidvān triṣṭubhau kurute",
+        "masked": "ojasv[_] i[_]driyavān vīryavān bhavati y[_]ḥ evam vidvān triṣṭubhau kurute",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "ī"
+            },
+            {
+                "mask_idx": 8,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "vidma śarasya pitaram parjanyam bhūri dhāyasam",
+        "masked": "vidma śarasya pitaram parjan[_]am bhū[_]i dhāyasam",
+        "masked_tokens": [
+            {
+                "mask_idx": 28,
+                "masked_token": "y"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "sā agnau eva praṇīyamāne punar āgacchati",
+        "masked": "sā agnau eva praṇīya[_][_]ne punar āgacchati",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": "ā"
+            }
+        ]
+    },
+    {
+        "src": "kṛṣṇājinam vai su tarmā nauḥ",
+        "masked": "kṛṣṇājinam vai su tarmā [_]auḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "aughaḥ ha tāḥ sarvāḥ prajāḥ niruvāha",
+        "masked": "aughaḥ ha tāḥ[_]sarvāḥ prajāḥ niru[_]āha",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "sa ha uvāca yadā vai kṣatriyaḥ sāṃnāhukaḥ bhavati atha sa medhyaḥ bhavati saṃnāham nu prāpnotu atha tvā yajai iti",
+        "masked": "sa ha uvā[_]a y[_]dā vai kṣatriyaḥ sāṃnāhukaḥ bhavati[_]atha sa medhyaḥ bhavati [_]aṃnāham nu prāpnotu at[_]a[_]tvā yajai iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 49,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 74,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 97,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 99,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "agniḥ pratnena manmanā soma gīrbhiḥ tvā vayam iti yaḥ pūrvam ījānaḥ syāt tasmai",
+        "masked": "agniḥ pratnena manman[_] soma gīrbhiḥ tvā vayam it[_] yaḥ pūrvam ījā[_]aḥ [_]yāt tasmai",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 64,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 68,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "tvam hi agne agninā vipraḥ vipreṇa san satā iti",
+        "masked": "tvam hi agne agninā vipr[_]ḥ vip[_]eṇa san satā iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "paśubhiḥ eva enam tat samardhayati",
+        "masked": "paśu[_]hiḥ eva enam tat samardhay[_]ti",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "b"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "etasyāḥ vai adhi indraḥ ajāyata",
+        "masked": "etasyāḥ vai ad[_][_] indraḥ ajāyata",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "mā śakan pratidhām iṣum",
+        "masked": "mā śakan pra[_]idhām iṣum",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "tat puṣṭeḥ",
+        "masked": "tat puṣṭeḥ",
+        "masked_tokens": []
+    },
+    {
+        "src": "saḥ eka vrātyaḥ abhavat",
+        "masked": "saḥ e[_]a vrātyaḥ abhavat",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "k"
+            }
+        ]
+    },
+    {
+        "src": "tathā iti",
+        "masked": "tathā iti",
+        "masked_tokens": []
+    },
+    {
+        "src": "tāni dvābhyām tāni tisṛbhiḥ tāni catasṛbhiḥ tāni pañcabhiḥ tāni ṣaḍbhiḥ tāni saptabhiḥ na eva avārundhata",
+        "masked": "tāni dvābhyām tāni [_]isṛbhiḥ[_]tāni catasṛbhiḥ t[_]ni p[_]ñcabhiḥ tāni ṣaḍbh[_]ḥ tāni saptabhiḥ na eva avārundhata",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 69,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "eṣa grāvā iva jaritā te indra iyarti vācam bṛhat āśuṣāṇaḥ",
+        "masked": "eṣa grāvā iva jaritā te indra iyarti v[_]cam bṛhat ā[_][_]ṣāṇaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 38,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": "ś"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "u"
+            }
+        ]
+    },
+    {
+        "src": "sa dhanuḥ ādatta",
+        "masked": "sa dha[_]uḥ ādatta",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "bhūyasi haviṣkaraṇe upahūtaḥ iti",
+        "masked": "bh[_]yas[_] haviṣkaraṇe upahūtaḥ iti",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "ū"
+            },
+            {
+                "mask_idx": 6,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "evam eva etat yajñasya ubhayatas antayoḥ aprasraṃsāya barsau nahyati yat ādityaḥ caruḥ prāyaṇīyaḥ bhavati ādityaḥ udayanīyaḥ",
+        "masked": "evam eva etat yajñasya ubhayatas antayoḥ aprasraṃsāya b[_]rsau nahyati yat ādi[_]yaḥ caruḥ pr[_]yaṇīya[_] bhav[_]ti āditya[_] udayanīyaḥ",
+        "masked_tokens": [
+            {
+                "mask_idx": 55,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 76,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 89,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 96,
+                "masked_token": "ḥ"
+            },
+            {
+                "mask_idx": 102,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 112,
+                "masked_token": "ḥ"
+            }
+        ]
+    },
+    {
+        "src": "anukām asmai viśam a vivādinīm karoti",
+        "masked": "anuk[_]m asmai viśa[_] a vivādinīm karoti",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "ā"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "tastuvena arasam viṣam",
+        "masked": "tastuvena ar[_]sam viṣam",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "a"
+            }
+        ]
+    }
+]

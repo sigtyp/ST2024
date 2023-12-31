@@ -1,0 +1,6378 @@
+[
+    {
+        "src": "Se li baillent",
+        "masked": "Se li bail[_]ent",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Qu'il n'est mes qui por nos parost.",
+        "masked": "Qu'il n'es[_][_]mes qui por nos parost.",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Espoir qu'Amors s'estoit anclose En aucune chanbre celee,",
+        "masked": "Espoir qu'Amor[_] s'estoit anclose En aucu[_]e chanbre cel[_]e,",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Tant li prïent que ele otroie Ce qu'ele feïst tote voie,",
+        "masked": "Tant li prïent que ele otroie Ce qu'ele[_]feïst t[_]te voi[_],",
+        "masked_tokens": [
+            {
+                "mask_idx": 39,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "La vostre leingue si esploite Qu'ele vos fet par tot haïr :",
+        "masked": "La vost[_]e leingue si esploite Qu'ele vos fet [_]ar t[_]t haïr :",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "Si dist que sa dame salue Le roi et monseignor Gauvain Et toz les autres, fors Yvain, Le mançongier, le guileor, Le desleal, le tricheor,",
+        "masked": "S[_] dist [_]ue sa dame sal[_]e Le ro[_] et monseignor Gauvain Et toz l[_]s autres, fors Yvain, Le mançongier, le [_]uileor, Le desl[_]al, le tricheor,",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 8,
+                "masked_token": "q"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 104,
+                "masked_token": "g"
+            },
+            {
+                "mask_idx": 120,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Einçois ira toz seus, son vuel, Ou a sa joie ou a son duel,",
+        "masked": "Einçois ira toz seus, son[_][_][_]el, Ou a sa joie ou a son duel,",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "u"
+            }
+        ]
+    },
+    {
+        "src": "Ne ne sai qu'il voloit enprendre,",
+        "masked": "Ne n[_] [_]ai qu'il voloit enprendre,",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 6,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "si le menaça",
+        "masked": "si le [_]enaça",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "Et s'est si pres que il l'ot plaindre De la destrece que il sant.",
+        "masked": "[_]t s'est [_]i pres que il l'ot plaindre D[_] la destrece que il sant.",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "E"
+            },
+            {
+                "mask_idx": 9,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "si li apointe Es mailles del hauberc la pointe, Enprés le col, pres de la joe.",
+        "masked": "si li ap[_]inte Es [_]ailles del[_]hauberc la pointe, Enprés le col, pres [_]e la joe.",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 68,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "S'estoit fos, souduianz et lerres.",
+        "masked": "S'estoit fos, souduianz et lerr[_]s[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 31,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "."
+            }
+        ]
+    },
+    {
+        "src": "et lie mout fort,",
+        "masked": "et lie mout for[_],",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Mes il n'i ot a celui triege Tandu ne trebuchet ne piege,",
+        "masked": "Me[_] il n'i o[_] a celui triege Tandu ne tre[_]uchet ne piege,",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": "b"
+            }
+        ]
+    },
+    {
+        "src": "- Et que voldroies tu trover ?",
+        "masked": "- Et [_]ue v[_]ldroies tu trover ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "q"
+            },
+            {
+                "mask_idx": 10,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "Mes or parlons de cez qui furent,",
+        "masked": "M[_]s or parlons de cez qui [_]urent,",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "f"
+            }
+        ]
+    },
+    {
+        "src": "Qui autrui vialt ocirre ou prandre, Se cil l'ocit qui se desfant, Dites se de rien i mesprant.",
+        "masked": "Qui autrui vialt ocirre ou prandre, [_]e cil l[_]oci[_] qui se desfa[_]t, Dites se de rien i m[_]sprant.",
+        "masked_tokens": [
+            {
+                "mask_idx": 36,
+                "masked_token": "S"
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": "'"
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 62,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 86,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "n'onques aillors nel truis ;",
+        "masked": "n'onqu[_]s aillors nel truis ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Mes ce gueres ne lor valut,",
+        "masked": "Mes ce gueres ne [_]or valut,",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Li palefroi lor sont fors tret,",
+        "masked": "Li palefroi lor sont fors [_]re[_],",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "je le sai bien,",
+        "masked": "j[_] le sai bien,",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Ja voir par toi conquis ne fust Mes sires, se veü t'eüst,",
+        "masked": "Ja voir pa[_] toi conquis ne[_]fust Mes si[_]es, se veü t'eüst,",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "et l'autre en va ;",
+        "masked": "et l'a[_]tre en va ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "u"
+            }
+        ]
+    },
+    {
+        "src": "Se vos mantez, je dirai voir.",
+        "masked": "Se vos mantez, je dira[_] voir.",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Mes je ne cuit que ce soit hui,",
+        "masked": "Mes je ne cuit [_]ue c[_] soit hui,",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "q"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Tant estes vos de san vuidiez.",
+        "masked": "Tant e[_]tes vos de[_]san vuidiez.",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "et esgratine ?",
+        "masked": "et e[_]gratine ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "et refiert,",
+        "masked": "et ref[_]ert,",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Ce qu'Amors vialt doi je amer.",
+        "masked": "[_]e [_]u'Amors vialt doi je amer.",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "C"
+            },
+            {
+                "mask_idx": 3,
+                "masked_token": "q"
+            }
+        ]
+    },
+    {
+        "src": "Messire Yvains cele nuit ot Mout boen ostel,",
+        "masked": "Messire Y[_]ains cele nuit ot [_]out boen ostel,",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "M"
+            }
+        ]
+    },
+    {
+        "src": "Vers la presse toz eslessiez S'an vet criant :",
+        "masked": "Vers la presse toz[_]eslessiez S'an vet criant [_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": ":"
+            }
+        ]
+    },
+    {
+        "src": "Mes messire Yvains pas ne fuit, Qui de lui siudre ne se faint ;",
+        "masked": "Mes messire Yvains pas[_]ne fuit, Q[_]i de[_]lui siudre ne se faint ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "et si li meinne An destre.i. palefroi mout buen,",
+        "masked": "[_]t si li meinne An dest[_]e.i. palefroi mout buen,",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Et dit :",
+        "masked": "Et dit :",
+        "masked_tokens": []
+    },
+    {
+        "src": "fet messire Gauvains.",
+        "masked": "fet messire Gau[_]ains.",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "Tantost messire Yvains s'adresce Vers la tor,",
+        "masked": "Tantost [_]es[_]ire Yvains s'adresce Vers la tor,",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Et derriers a un tronc l'apuie,",
+        "masked": "Et [_]erriers[_]a un tronc l'apuie,",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Et les.ii. mitiez retronçone,",
+        "masked": "Et le[_].ii. mitiez retronçone,",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Ne ne m'an pleing,",
+        "masked": "Ne ne m'an ple[_]ng,",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "- Ha ! sire rois, se je ai dite Une response nice et fole, Volez m'an vos prendre a parole ?",
+        "masked": "- Ha [_] sire rois, se je ai dite [_]ne response ni[_]e et[_]fole, Volez m'an vos [_]rendre a parole ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "!"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "U"
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 74,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "« Ja ne passera Cist jorz, se vos feites que sage, Q'ainz n'aiez fet le mariage,",
+        "masked": "« Ja ne passera [_]ist jorz, se vos fei[_]e[_] que sa[_]e, Q'ainz n'aiez fet le mariage,",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "C"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": "g"
+            }
+        ]
+    },
+    {
+        "src": "Voir, ja n'oblieroie mes La honte que je en avroie.",
+        "masked": "Voir, ja n'[_][_]lieroie mes La honte q[_]e je en avroie.",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "b"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": "u"
+            }
+        ]
+    },
+    {
+        "src": "Si li a a mangier offert Cele qui volentiers le sert ;",
+        "masked": "Si li [_] a mangier offe[_]t Cele qui volentiers le[_]sert ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "« De ceste chose conseillier Vos covient, dame,",
+        "masked": "« De ceste chose consei[_]lie[_] Vos covient, dame,",
+        "masked_tokens": [
+            {
+                "mask_idx": 23,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "« Par foi, Ensi le vuel,",
+        "masked": "« Pa[_] foi, Ensi le vuel,",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "N'est ce Amors antiere et fine ?",
+        "masked": "N'est ce Amors ant[_]ere et fine [_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "?"
+            }
+        ]
+    },
+    {
+        "src": "An puet tel chose acostumer Qui mout est greveuse a retrere ;",
+        "masked": "[_]n puet tel chose acostumer Qui m[_]u[_] est greveuse a retrere ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "A"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Mes tant i a que parler puet",
+        "masked": "Mes tant i a que parler pue[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 27,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Sor une grant coute vermoille Troverent la dame seant.",
+        "masked": "So[_] une grant [_]out[_] vermoille Troverent la dame seant.",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Ne demore",
+        "masked": "Ne demore",
+        "masked_tokens": []
+    },
+    {
+        "src": "et point",
+        "masked": "et point",
+        "masked_tokens": []
+    },
+    {
+        "src": "D'aventure ne sai je rien,",
+        "masked": "D'a[_]enture ne sai je rien,",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "Tant li prie qu'a mout grant poinne S'an retorne, et ses genz an moinne.",
+        "masked": "Tan[_] li p[_]ie qu'a[_]mout grant poinne S'an r[_]torne, et ses genz an moinne.",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 9,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Et cez puet an nices clamer Qui cuident qu'el les voelle amer Qant une dame est si cortoise Qu'a un maleüreus adoise",
+        "masked": "Et cez[_]puet an nices clamer Qui cuid[_]nt q[_]'el les voelle amer Qant une dame [_]st si cortoise Q[_]'a un[_]maleüreus adoise",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 76,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 93,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 99,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Ou s'il avient par aventure Qu'il li ait fet nule leidure Ou de que que soit le sormaint, Avra il droit se il se plaint ?",
+        "masked": "Ou s'i[_] avi[_]nt par aventure Qu'il li ait fet nule leidur[_] Ou de[_]que que soit le sormaint, Avra il droit se il se p[_]ain[_] ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 56,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 114,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 118,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "fet ele,",
+        "masked": "fet ele,",
+        "masked_tokens": []
+    },
+    {
+        "src": "Iqui fu retenuz li cuens,",
+        "masked": "Iqui f[_] retenuz li cuens,",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "u"
+            }
+        ]
+    },
+    {
+        "src": "Si se mist arriere a la voie.",
+        "masked": "Si se mist arriere a la [_]oie.",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "Et il li a tel cop doné Que la teste del bu li ret, Si soavet que mot n'an set.",
+        "masked": "Et[_]il li a tel cop doné Que la teste del bu li ret, S[_] so[_]vet[_]que mot n'an set.",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 57,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 61,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "mes ele est mout bele.",
+        "masked": "m[_]s ele est mout bele.",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Ne ja n'iert nus hom qui vos voie,",
+        "masked": "Ne ja n'iert nus hom[_]qui vos voi[_],",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Et la dame ot son parlemant Devant tenu a ses barons",
+        "masked": "[_]t la dame ot son [_]arlemant Devant tenu a ses b[_]rons",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "E"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Et ja estoit messire Yvains Mout traveilliez et mout suanz,",
+        "masked": "Et ja [_]stoit messire Yvains M[_]ut trave[_]lliez et mout suanz,",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "et tant set",
+        "masked": "[_]t tant set",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Malade ot geü longuemant La pucele,",
+        "masked": "Mala[_]e ot geü longuemant La pucele[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": ","
+            }
+        ]
+    },
+    {
+        "src": "Et je ne sai que m'avenra, Se essoines me detanra De malage ne de prison ;",
+        "masked": "Et je ne sai que m'av[_][_]ra, Se essoines me detanra De[_]malage ne de pr[_]son ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 68,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Del pain avons a grant dongier, Au main petit et au soir mains,",
+        "masked": "Del pain avons [_] grant don[_]ier, Au main petit et[_]au soir mains,",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "g"
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Que coneü m'avez le voir.",
+        "masked": "Que coneü m'avez le voi[_].",
+        "masked_tokens": [
+            {
+                "mask_idx": 23,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Lors le comance a escorchier ;",
+        "masked": "Lors le comance a e[_]corchie[_] ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Et sanz trop longuemant pleidier An prist la foi messire Yvains,",
+        "masked": "Et sanz trop longuemant plei[_]ier An prist la foi messire[_]Yvains[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 28,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 56,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": ","
+            }
+        ]
+    },
+    {
+        "src": "Et furent la voille devant Revenu del tornoiemant Ou messire Yvains ot esté ;",
+        "masked": "[_]t furen[_] l[_] [_]oille devant Revenu del tornoiemant Ou messire Yvains ot esté ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "E"
+            },
+            {
+                "mask_idx": 8,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "Et cil del chastel tote voies Montent",
+        "masked": "Et cil d[_]l chaste[_] tote voies Montent",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "De monseignor Yvain sont cert Qu'il nel porroient retenir Por rien qui poïst avenir ;",
+        "masked": "De monseignor Yvai[_] sont [_]ert Qu'il nel porroient re[_]enir Po[_] rien qui poïst avenir ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 60,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Li termes est, bien le savez, Qu'eles s'an doivent aler quites.",
+        "masked": "Li t[_]r[_]es est, bien le savez, Qu'eles s'an doi[_]ent aler quites.",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 6,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "- Meillor, se vos le volez prandre, Vos randra il,",
+        "masked": "[_] Meillor, se vos[_]le volez prandre, Vos randra il,",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "-"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Rien nule a feire ne redot Que moi vos pleise a comander,",
+        "masked": "Rien nule a feire ne redot Que [_]oi vo[_] pleise a[_]comander,",
+        "masked_tokens": [
+            {
+                "mask_idx": 31,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Or feroit corteisie et bien Ma dame, ma tres chiere suer, Que j'aim autant come mon cuer, Se ele mon droit me lessoit.",
+        "masked": "Or fe[_]oit corteisie et[_]bien Ma dame, ma [_]res chiere suer, Que j'[_]im autant come mon cuer, Se el[_] mon dro[_]t me lessoit.",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 64,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 95,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 104,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Quant cele l'ot, tote an tressaut,",
+        "masked": "Quan[_] cele l'ot, tote an[_]tressaut,",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "De cui se plaindra Cil qui des cos avra le pis Quant li uns l'autre avra conquis ?",
+        "masked": "De cui se plaindra Ci[_] qui des cos av[_]a le pis Quant li uns l'a[_]tre avr[_] conquis ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 71,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Et fiert son piz",
+        "masked": "E[_] fiert son piz",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "je l'apeleroie De traïson, s'ele estoit moie.",
+        "masked": "je l'[_]peleroie De traïson,[_]s'ele estoit moie.",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "La dame tantost li otroie,",
+        "masked": "La dame tantost li o[_]roie,",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Et l'en li avoit ja fors tret.I. palefroi soef anblant.",
+        "masked": "Et l'en li av[_]it ja fors tret.I. palefroi[_]soef [_]nblant.",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Quanqu'il ateint l'en a osté, Si que les antrailles li perent.",
+        "masked": "Qua[_]qu'il ateint l'e[_] a osté, Si que l[_]s antrailles li perent.",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Mes ne fet mie si antiers Ses sopirs que l'an les conuisse,",
+        "masked": "Mes ne fet mie si antie[_]s[_]Ses sopirs que l'an [_]es conuisse,",
+        "masked_tokens": [
+            {
+                "mask_idx": 23,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "et soulievent Le cuer a feire son talant.",
+        "masked": "et soulievent Le cu[_]r a feire son tala[_]t.",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "Se je le felon, le cruel, Qui ci nos vet contraliant, Pooie feire humeliant Tant que voz filz vos randist quites Et les hontes qu'il vos a dites Vos venist ceanz amander, Puis vos voldroie comander A Deu,",
+        "masked": "Se je le felon, le cruel, Qui ci[_]nos vet [_]ontrali[_]nt[_] Pooie f[_]i[_]e humeliant Tant que voz filz vos randist quit[_]s E[_] les hontes qu'i[_] vos a dites Vos venist cea[_]z amander, Puis vos voldroie comander A Deu,",
+        "masked_tokens": [
+            {
+                "mask_idx": 32,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 49,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": ","
+            },
+            {
+                "mask_idx": 61,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 110,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 114,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 131,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 159,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "Lors se va lez lui acoster",
+        "masked": "Lors se v[_] lez lui acoster",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Et Dex le vos doint trover sain, S'il li plest, ainz hui que demain !",
+        "masked": "Et De[_] le vos doint trover [_]ain, S'il li plest[_] ainz hui que demain !",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "x"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": ","
+            }
+        ]
+    },
+    {
+        "src": "Ses voient antreconjoïr",
+        "masked": "Ses voient antreconjo[_]r",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "ï"
+            }
+        ]
+    },
+    {
+        "src": "Ou je me remanrai ça fors,",
+        "masked": "Ou je me remanrai ça fors[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": ","
+            }
+        ]
+    },
+    {
+        "src": "Donc ne porroit ce estre ?",
+        "masked": "Don[_] ne porroit ce estre ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "c"
+            }
+        ]
+    },
+    {
+        "src": "De l'amor qui en lui s'est mise, Le trova trespansé et vain ;",
+        "masked": "De l'amor qui en lui[_]s'est mise, Le trova trespansé et [_]ain [_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 55,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 60,
+                "masked_token": ";"
+            }
+        ]
+    },
+    {
+        "src": "Et d'autre part messire Yvains Ne restoit mie trestoz sains,",
+        "masked": "Et d'autre part [_]essire Yvains Ne restoit mie[_]trest[_]z sains,",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "Por ce si se pooit mout fort Messire Yvains doter de mort ;",
+        "masked": "Por ce si[_]se pooit mout f[_]rt[_]Messire Yvains doter de mort ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Et passa mainz felons passages Et maint peril et maint destroit Tant qu'il vint au santier estroit Plain de ronces et d'oscurtez ;",
+        "masked": "Et passa ma[_]nz felons passa[_]e[_] Et maint peril et ma[_]nt destroit Tant qu'il vint au santier[_]estroi[_] Plain de ronces et d'oscurtez ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "g"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 90,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 97,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Et il lor a trestot conté Et le servise et la bonté Que la dameisele li fist ;",
+        "masked": "Et il lo[_] a [_]restot conté Et le servise et la bo[_]té Que la [_]ameisele li fist ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 59,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "Seul a seul venoient andui,",
+        "masked": "Seul a seul[_]venoient andui,",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "« Haï ! Con vaillant soldoier !",
+        "masked": "« [_]aï ! Con vaillant soldoier [_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "H"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "!"
+            }
+        ]
+    },
+    {
+        "src": "que devers li De la querele se pandoit, Por ce que au droit entandoit.",
+        "masked": "que d[_]vers li De la querele se pando[_]t, Por ce q[_]e au droit entan[_]oit.",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 65,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "Et si vos pruef par estovoir Que mialz valut cil qui conquist Vostre seignor que il ne fist :",
+        "masked": "Et si vos pruef par estovoir Que m[_]alz valut cil qui conqui[_]t Vos[_]re s[_]ignor qu[_] il ne fist :",
+        "masked_tokens": [
+            {
+                "mask_idx": 34,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 59,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 65,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 70,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 79,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Que li malvés antor le feu Dit de lui une grant parole,",
+        "masked": "Que li malvés antor le fe[_] Dit[_]de lui une grant parole[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": ","
+            }
+        ]
+    },
+    {
+        "src": "Mes or i a mout po des suens Qu'a bien pres l'ont ja tuit lessiee,",
+        "masked": "Mes or i a mout po des s[_]ens Qu[_]a bie[_] pres l'ont ja tuit lessiee,",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "'"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "Et li lyons, qui ce esgarde, De lui aidier plus ne se tarde,",
+        "masked": "Et li lyons, qui ce esgarde,[_]De lui aidier[_]plus [_]e se tarde,",
+        "masked_tokens": [
+            {
+                "mask_idx": 28,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "Qu'ancor dormant celui trova La ou ele l'avoit leissié.",
+        "masked": "Qu'a[_]cor dorma[_]t ce[_]ui trova La ou ele l'avoit leissié.",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Comant poïst ce estre donques ?",
+        "masked": "Comant poï[_]t ce estre don[_]ues ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "q"
+            }
+        ]
+    },
+    {
+        "src": "Salué et descendu l'ont ;",
+        "masked": "Salué et descendu [_]'ont ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Et si vos an mercieront,",
+        "masked": "Et si vos[_]an mercieront,",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Or m'an responez, s'il vos plest, Se vos venir i oseroiz Ou se vos vos reposeroiz.",
+        "masked": "Or m'an responez, s'il vo[_] ples[_], Se vos venir i oseroiz Ou [_]e vos vos repose[_]oiz.",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 60,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 77,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Boen ?",
+        "masked": "Boen ?",
+        "masked_tokens": []
+    },
+    {
+        "src": "Que g'i harroie mout le cart. »",
+        "masked": "Que g'i [_]arroie mout l[_] cart. »",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Demain atendre me porroiz Apareillié, lonc ma puissance, De metre an vostre delivrance Mon cors, si con je le doi feire.",
+        "masked": "Demain atendre me [_]orroiz Apareillié, lonc ma puissance, De metre an vostre delivra[_]ce Mon co[_]s, si [_]on[_]je le[_]doi feire.",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 83,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 93,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 100,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 103,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 109,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Mes je ferai ce qu'il vos siet, Comant que il onques me griet, Des qu'il vos plest ;",
+        "masked": "Mes je ferai ce qu'il vos siet, Comant que il onques me[_]griet,[_]Des q[_]'il vos[_]plest ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 55,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 62,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 68,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 76,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Si li dit :",
+        "masked": "[_]i li dit :",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "S"
+            }
+        ]
+    },
+    {
+        "src": "- Fui !",
+        "masked": "- Fui !",
+        "masked_tokens": []
+    },
+    {
+        "src": "Que par la sale le queroient Les genz qui de mort le haoient.",
+        "masked": "Que par la sale le queroient Les genz qui d[_] [_]ort le[_]haoient.",
+        "masked_tokens": [
+            {
+                "mask_idx": 43,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Come destroite et angoisseuse, Por la reïne glorieuse Del ciel et des anges li prie, Et por Deu, qu'il ne s'an aut mie, Einz atende encore.i. petit, Et por son oncle,",
+        "masked": "Come destroite et angoisseuse, Por la[_]reïne glorieuse Del ciel et des [_]nges l[_][_]prie, Et po[_] Deu, qu'il ne s'[_]n aut mie,[_]Einz [_]tende encore.i. petit, Et por son oncle,",
+        "masked_tokens": [
+            {
+                "mask_idx": 37,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 70,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 77,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 78,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 90,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 108,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 119,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 125,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Or m'as tu mout an gré servie !",
+        "masked": "Or m'as tu mout an gré ser[_][_]e !",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Et neporquant tant lor promet Qu'an boene esperance les met ;",
+        "masked": "Et[_]neporquant ta[_]t lor promet Qu'an boene esperance les m[_]t ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 57,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Au geu de la verté l'a prise Lunete, mout cortoisemant.",
+        "masked": "Au geu de l[_] verté l'a p[_]ise Lunete, mout c[_]rtoisemant.",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "Et quant ele estoit relevee, Ausi come fame desvee, Se comançoit a dessirier Et ses chevols a detranchier ;",
+        "masked": "E[_] q[_]ant ele estoit relevee, Ausi[_]come fame [_]es[_]ee, Se comançoit a dessirier Et ses chevols a detranchier ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 4,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "Et il respont :",
+        "masked": "Et il [_]espont :",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Que, par mon chief, il m'eüst mort Par sa proesce et par le tort Celi qui m'avoit el chanp mis.",
+        "masked": "Que, par mon chief, il m'eüst mort Par sa proesce et pa[_] le tor[_] Celi[_]qui m'avoit el chanp[_]mi[_].",
+        "masked_tokens": [
+            {
+                "mask_idx": 55,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 69,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 90,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 93,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Et disoient :",
+        "masked": "Et [_]isoient :",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "A l'autre cop, soz la memele, Li bota tote l'alemele De s'espee parmi le foie ;",
+        "masked": "A l'autre cop, soz la mem[_]le, Li bota tote l'alemele De s'espee parm[_] le fo[_]e[_];",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 68,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 75,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 77,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Con fet ses anemis ploier !",
+        "masked": "Con fet ses anemis [_]loier !",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "An puet bien de duel forsener,",
+        "masked": "An puet [_]ien[_]de duel forsener,",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "b"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Mes or vos an metez sor moi",
+        "masked": "Mes or vos an metez[_]sor moi",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "- Fors de cest bois, Jusqu'a.i. chastel ci selonc.",
+        "masked": "- Fors de cest [_]ois, Jusqu'a.i. chastel ci sel[_]nc.",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "b"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "Messire Yvains la dame a morte,",
+        "masked": "Messire Yva[_]ns la dame [_] morte,",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Que Dex an cest siegle mortel Ne me feïst pas si lié d'el ! »",
+        "masked": "Qu[_] Dex an cest siegle mortel Ne me feïs[_] pas si lié[_]d'el ! »",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "et beneoiz Soit messire Gauvains, ses niés.",
+        "masked": "et beneoiz Soit messire Gauvains,[_][_]es niés.",
+        "masked_tokens": [
+            {
+                "mask_idx": 33,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Se tant i ot, plus n'i ot pas.",
+        "masked": "Se tant[_][_] ot, plus n'i ot pas.",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 8,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Don je ne me ting mie a sage,",
+        "masked": "Don je ne [_]e ting mie a sage,",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "Si la metent el droit chemin, Vers la fontainne soz le pin.",
+        "masked": "S[_] la metent el droit chemin, Vers la font[_][_]nne soz le pin.",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Et li jaianz li vient le cors De l'autre part, atot son pel.",
+        "masked": "Et [_]i jaianz li vien[_] le[_]cors De l'autre part, atot son pel.",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Mes au seignor itant dist il Que il vialt que si.iiii. fil Et sa fille praignent le nain, S'aillent a monseignor Gauvain, Quant il savront qu'il iert venuz,",
+        "masked": "M[_]s au se[_]gnor itant dist il [_]ue il vialt que si.ii[_]i. fil Et sa fille praignent le n[_]in, S'aillent a [_]onseignor Gauvain, Quant il s[_]vront qu'il iert v[_]nuz,",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 9,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "Q"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 85,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 102,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 132,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 151,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Maintenant qu'il fu relevez De pasmeisons, si l'apela :",
+        "masked": "Maintenant qu'il fu relevez De [_]asm[_]i[_]ons, si l'apela :",
+        "masked_tokens": [
+            {
+                "mask_idx": 31,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Si comande a metre sa sele",
+        "masked": "Si comande a[_]metre sa sele",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "De si haut con il pot crier Me comança a desfier,",
+        "masked": "De si haut co[_] il pot crier Me com[_]nça a desfier,",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Porra Yvains par reison dire, Se la soe partie est pire, Que cil li ait fet let ne honte Qui antre ses amis le conte,",
+        "masked": "Porra Yv[_]ins par reison dire, Se la soe p[_][_]tie est p[_]re, Que cil li ait fet let ne[_][_]onte Qui antre ses amis le conte,",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 82,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 83,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "- Non, sire ?",
+        "masked": "- Non,[_]sire ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "De lor joie me resjoï,",
+        "masked": "De lor joie me re[_]joï,",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "- Dame, la vostre grant merci, Que ja ne m'an orroiz dire el.",
+        "masked": "- Dame[_] la vostr[_] grant merci, Que ja ne m'an orroiz [_]ire el.",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": ","
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "Que autresi boen ou meillor An sont remés parmi le monde.",
+        "masked": "Que autresi[_]boen ou meillor An sont remés pa[_]mi le monde[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 56,
+                "masked_token": "."
+            }
+        ]
+    },
+    {
+        "src": "Et loe",
+        "masked": "Et loe",
+        "masked_tokens": []
+    },
+    {
+        "src": "et crie Au preudome que il desfie Ses filz de mort, s'il ne li baille Sa fille ;",
+        "masked": "et crie Au preudome que il desfie Ses filz de[_]mort[_] [_]'il ne li baill[_] Sa fille ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 45,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": ","
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 68,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Et li lyons li fet aïe Tel qu'a la premiere envaïe A de si grant aïr feru Le seneschal, qui a pié fu ;",
+        "masked": "[_]t li lyons li fet aïe Tel qu'a l[_] p[_]emiere envaïe A de si grant aïr feru Le sen[_]schal, [_]ui a pié fu ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "E"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 80,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 88,
+                "masked_token": "q"
+            }
+        ]
+    },
+    {
+        "src": "Que des ranpones li sovient Que messire Kex li ot dites.",
+        "masked": "Que des ra[_]pones li sovient Que messire Ke[_] l[_] ot dites.",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "x"
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Anz el vis se fierent d'estoc,",
+        "masked": "Anz el vis se fie[_]ent d'es[_]oc,",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "La main destre leva adonques La dame",
+        "masked": "La main destre leva adonque[_][_]La dame",
+        "masked_tokens": [
+            {
+                "mask_idx": 27,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Si a la dame retenu Monseignor Yvain lieemant ;",
+        "masked": "Si a la dam[_] retenu Monseignor Yvain li[_]emant ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "- Ceanz est il ?",
+        "masked": "- Cea[_]z est il ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "Ne cuit mie que vos aiez Prison qui trop vos soit grevainne. »",
+        "masked": "Ne cuit mie que vos aiez Prison qui trop [_]os s[_]it grevainne[_] »",
+        "masked_tokens": [
+            {
+                "mask_idx": 41,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 59,
+                "masked_token": "."
+            }
+        ]
+    },
+    {
+        "src": "Messire Yvains, por verité, Set que li lyons le mercie Et que devant lui s'umilie Por le serpant que il a mort Et lui delivré de la mort ;",
+        "masked": "Me[_]sire [_]vains, po[_][_]v[_]rité, Set que l[_] lyons le mercie Et que devant lui s'umilie Por le serpant que il a mort Et lui delivré [_]e la mort ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 8,
+                "masked_token": "Y"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 126,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "Et Haïne n'i revoit gote ;",
+        "masked": "Et Haïne n'i revo[_]t gote ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "et il l'en mainne.",
+        "masked": "et i[_] l'en mainne.",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Qu'il n'i ot pein ne vin ne sel Ne nape ne coutel ne el.",
+        "masked": "Qu'il n'i ot pe[_]n ne vin ne s[_]l Ne nape ne coutel ne[_]el.",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Quiex hom est il et de quel gent ?",
+        "masked": "Quiex hom e[_]t il e[_] de quel gent ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Or fai ton mialz et je le mien,",
+        "masked": "Or f[_]i ton mialz et je le[_]mien,",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Tot son tans i porroit user S'ele la voloit contrefere,",
+        "masked": "Tot son tans i[_]porroit user S'[_]le [_]a voloit contrefere,",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "et devise A con grant poinne ele conquist Sa dame, tant que ele prist Monseignor Yvain a mari, Et comant ele le gari Des mains a cez qui le queroient :",
+        "masked": "et devise A con grant[_]poi[_]ne ele conqui[_][_] Sa dame, tant que ele prist Mo[_]seignor[_]Yvain a mari, Et[_]comant ele le gari Des mains a cez qui le [_]ueroient :",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 72,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 80,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 97,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 140,
+                "masked_token": "q"
+            }
+        ]
+    },
+    {
+        "src": "Et ele me mena seoir El plus bel praelet del monde, Clos de bas mur a la reonde.",
+        "masked": "Et ele me mena s[_][_]ir El [_]lus bel praelet d[_]l monde, Clos de bas mur a la reonde.",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Mes li cortois, li preuz, li buens, Messire Yvains trestot ausi Les feisoit venir a merci Con fet li faucons les cerceles.",
+        "masked": "Mes li cortois, li [_]reuz, li [_]uens, Messire Yvains trestot ausi Les fei[_]oi[_] venir a merci Co[_] fet li fau[_]ons les cerceles.",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "b"
+            },
+            {
+                "mask_idx": 71,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 74,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 92,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 104,
+                "masked_token": "c"
+            }
+        ]
+    },
+    {
+        "src": "Que tot autant, se vos venez, M'an est, con se vos remenez. »",
+        "masked": "Que tot autan[_], se[_]vos venez, M'an est, co[_] se vos remenez. »",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "A ses danz l'espee li oste",
+        "masked": "A ses danz l'espee li o[_]te",
+        "masked_tokens": [
+            {
+                "mask_idx": 23,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Qu'an sa prison voel je mout estre.",
+        "masked": "Qu'an sa prison vo[_][_] je mout estre.",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Et je le voel bien conparer.",
+        "masked": "Et je le voel bien[_]conparer.",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Yvains respondre ne li puet,",
+        "masked": "Yvains respondre ne li puet[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 27,
+                "masked_token": ","
+            }
+        ]
+    },
+    {
+        "src": "Or a la dameisele fet Quanqu'ele voloit antreset ;",
+        "masked": "O[_] a la dame[_]sele fet Quanqu'ele voloit antreset ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Si vint vers lui grant aleüre",
+        "masked": "Si[_]vint vers lui grant aleüre",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Por ce me plest a reconter Chose qui face a escouter Del roi qui fu de tel tesmoing Qu'an en parole et pres et loing ;",
+        "masked": "Por ce me ple[_]t a reconter Chose qui face a escoute[_] D[_]l roi q[_]i fu de tel tesmoing [_]u'an en parole et pres et [_]oing ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 62,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 84,
+                "masked_token": "Q"
+            },
+            {
+                "mask_idx": 111,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Et atendi, por la promesse Qu'il lor ot feite, jusqu'a prime.",
+        "masked": "Et ate[_]di, por[_]la promesse Qu'il lor ot feite, ju[_]qu'a prime.",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 49,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Or est Haïne mout an coche,",
+        "masked": "Or est Haïne m[_]ut an coche,",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "Mes a mon los vos contenez Si sinplemant devant sa face Que male prison ne vos face.",
+        "masked": "Mes a mon los vos co[_]tenez Si sinplemant devant sa face Que male[_]pris[_]n ne vos face[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 64,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 69,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 83,
+                "masked_token": "."
+            }
+        ]
+    },
+    {
+        "src": "Mes il covient que l'en l'anpoint Si qu'el poing soit la pierre anclose ;",
+        "masked": "Mes il covient que l[_]en l'anpo[_]nt Si qu'el poing soit la pierre [_]nc[_]ose ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": "'"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 64,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 67,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Que mestiers li est,",
+        "masked": "Que mestiers li [_]st,",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Mes je ne sai encor par cui :",
+        "masked": "Mes je ne sai enc[_]r par cui :",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "Et bien les savez anploier.",
+        "masked": "Et bien les savez anploie[_].",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Ensi remest cele a sejor,",
+        "masked": "Ensi r[_]mest cele a sejor,",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Ne nel fist onques autremant.",
+        "masked": "Ne ne[_] fist onques autremant.",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "- Ha ! Biax sire, nel dites mes,",
+        "masked": "[_] Ha ! Biax[_]sire, nel dites mes,",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "-"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Et vint mout tres grant aleüre Sor un noir palefroi baucent ;",
+        "masked": "Et vint mou[_] tres grant aleüre Sor un noir[_][_]alefroi baucent ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "Mes tel povreté i avoit Que desliees et desceintes En i ot de povreté meintes ;",
+        "masked": "Mes tel povreté i avoi[_] Que desliees[_]et desceintes En i ot de povreté me[_][_]tes ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 72,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 73,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "Toz jorz mes el cors me covast, Si con li feus cove an la cendre, Ce don ge ne voel ore aprendre",
+        "masked": "Toz jorz mes el co[_]s me covast, Si c[_]n li feus cove an la cendre, Ce d[_]n ge[_]ne voel o[_]e aprendre",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 70,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 75,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 85,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "et puis s'an iroit S'il an puet le congié avoir ;",
+        "masked": "et puis s'an iroit S'il an puet le[_]cong[_]é avoir ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 34,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Et li uns l'autre vialt blecier Et feire honte et correcier,",
+        "masked": "Et li uns l'autre v[_]a[_]t blecier Et feire honte et corr[_]cier,",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Mes plus i a a feire assez Qu'ele ne cuide ne ne croit.",
+        "masked": "Mes plus i[_]a a feire assez Qu'el[_] ne cui[_]e ne ne croit.",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "Et il va tant que il fu loing Des tantes et des paveillons.",
+        "masked": "Et il va tant que il fu loi[_]g Des [_]an[_]es et des paveillons.",
+        "masked_tokens": [
+            {
+                "mask_idx": 27,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Si l'an manroit vers.i. plessié Ou ele l'avoit convoié.",
+        "masked": "Si l'an manroit vers.i. plessié[_]Ou [_]le [_]'avoit convoié.",
+        "masked_tokens": [
+            {
+                "mask_idx": 31,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Qu'il ont les poinz quarrez et gros, Et forz les ners, et durs les os,",
+        "masked": "Q[_]'il ont l[_]s poinz quarrez et gros, Et fo[_]z les ner[_], et durs les os,",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Aprés mangier, sanz remuer, Vet chascuns Loradin tuer,",
+        "masked": "Aprés m[_]ngier, sanz r[_]muer, Vet chascuns Loradin tu[_]r,",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Mes bien puis dire,",
+        "masked": "Mes bien puis di[_]e,",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Et vienent an la cort aval.",
+        "masked": "Et vienent an [_]a cort aval.",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Et li morz est toz obliez ;",
+        "masked": "Et li morz est[_]toz obliez ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Si m'an lessiez oltre passer.",
+        "masked": "Si m'an lessiez oltre[_]passer.",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "se li plot Qu'ilueques se herbergeroit Et le chevrel escorcheroit Tant com il en voldroit mangier.",
+        "masked": "se li[_]plot Qu'ilueques[_]se herbergeroit Et l[_] chevrel escorcher[_]it Tant com il en voldroit mangier[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 62,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 97,
+                "masked_token": "."
+            }
+        ]
+    },
+    {
+        "src": "Messire Yvains aprés la messe Oï novele felenesse, Quant il cuida qu'il s'an deüst Aler, que rien ne li neüst ;",
+        "masked": "Messire Yvains aprés la messe Oï novele felenesse, Qua[_]t il cuida [_]u'il s'an deüst[_]Aler, que [_]i[_]n ne li neüst [_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 54,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 66,
+                "masked_token": "q"
+            },
+            {
+                "mask_idx": 82,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 93,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 95,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 110,
+                "masked_token": ";"
+            }
+        ]
+    },
+    {
+        "src": "et fant con une escorce, Sor le jaiant, la pel velue, Si que desoz li a tolue Une grant piece de la hanche ;",
+        "masked": "et fa[_]t con une escorce, Sor le jaiant, la pel velue, Si q[_]e desoz li a tolu[_] Une grant piece de [_]a hanc[_]e ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 58,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 76,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 97,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 104,
+                "masked_token": "h"
+            }
+        ]
+    },
+    {
+        "src": "Qu'an ne l'en set tant metre an fautre Com il peçoie devant autre.",
+        "masked": "Qu'an[_]ne l'[_]n set tant metre an fautre Com il peçoie devant aut[_]e.",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "et mout po pris.",
+        "masked": "et[_]mout po pris.",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Et si repranent lor alainnes.",
+        "masked": "Et si repranent lor[_]alainnes.",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Et la pucele, qui s'esmaie, Comance mout fort a plorer,",
+        "masked": "[_]t la pucele, qui s'esmaie, [_]omance mout fort a plore[_],",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "E"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "C"
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "si lor conte S'aventure tot an plorant.",
+        "masked": "si lor conte S'av[_]n[_]ure tot an plorant.",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Car parole est tote perdue S'ele n'est de cuer entandue.",
+        "masked": "Car[_]parole est tote perdue S'ele n'est [_][_] cuer entandue.",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "et je si faz.",
+        "masked": "et je si faz[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "."
+            }
+        ]
+    },
+    {
+        "src": "Messire Yvains maintenant joint Ses mains,",
+        "masked": "Messire Yvains [_]aintenant joi[_]t Ses mains,",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "De la longe.i. lardé li oste ;",
+        "masked": "[_]e la [_]onge.i. lardé li oste ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "D"
+            },
+            {
+                "mask_idx": 6,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Tantost con la guete la voit, Si la salue",
+        "masked": "Tan[_]ost co[_] la guete la voit, Si la salue",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 10,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "si s'an vont Tant qu'il vindrent a Oripont, Don l'eve estoit roide et bruianz.",
+        "masked": "si s'an vont Tant qu'il vindrent a Oripo[_]t, Don [_]'eve estoit roi[_]e et bruia[_]z.",
+        "masked_tokens": [
+            {
+                "mask_idx": 40,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 64,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 75,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "Quant la chanbre fu desfermee, Si se leva",
+        "masked": "Q[_]ant la chanbre[_]fu desfermee, Si se leva",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Se messire Yvains n'est or ci, Ne savez quele essoine il a.",
+        "masked": "Se messire Yvain[_] n'est or ci, Ne savez quele ess[_]ine [_]l a.",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 49,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "- Sire, fet ele, Dex vos doint Et boen ostel et boene nuit,",
+        "masked": "- Sir[_], fet ele, D[_]x vos doint Et boen ostel et boene n[_]it,",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 55,
+                "masked_token": "u"
+            }
+        ]
+    },
+    {
+        "src": "Mes de ce vos puis fol clamer Quant vos tant le m'avez celé.",
+        "masked": "Me[_] de ce vos puis fol clamer[_]Quant [_]os tant le m'avez celé.",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "Einz que la joie fust remeise, Vint, d'ire plus ardanz que breise, Uns chevaliers a si grant bruit Con s'il chaçast.i. cerf de ruit.",
+        "masked": "Einz q[_]e la joie fust reme[_]se, Vint, d'ire plus ardanz que[_]br[_]i[_]e, Uns chevaliers a si gra[_]t bruit Con s'il chaçast.i. cerf de[_]ruit.",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 58,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 61,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 90,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 126,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Si me covient que je reçoive Le respit, s'ele le requiert. »",
+        "masked": "Si me covient que je reçoi[_]e Le respit,[_]s'e[_]e le requiert. »",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Ensi tuit et totes prisoient Celui don verité disoient,",
+        "masked": "Ens[_] tuit et totes prisoient C[_]lui don verité diso[_]ent,",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Et vos l'en merciez ausi.",
+        "masked": "Et vos l'en [_]erciez ausi.",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "Mes l'ainznee estoit si anrievre Que nes la reïne Ganievre Et cil qui savoient lor lois Et li chevalier et li rois Devers la mainsnee se tienent.",
+        "masked": "Mes l'ai[_]znee estoit si anri[_]vre[_]Que nes la reïne Gan[_]evre Et [_]il[_]qui savoient lor lois Et li chevalier et li rois Devers la mainsnee se tien[_]nt.",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 62,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 65,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 141,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "“ Va, car me di Se tu es boene chose ou non ! ”",
+        "masked": "“ Va, car me di [_]e tu es[_]boene chose ou non ! ”",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "S"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Tu n'i as rien,",
+        "masked": "Tu[_]n'i as rien,",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Cui chaut ?",
+        "masked": "Cu[_] chaut ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Et, quant ele li ot ce dit, Sel mena seoir en.i. lit Covert d'une coute si riche Qu'ainz n'ot tel li dus d'Osteriche ;",
+        "masked": "Et, quant ele [_]i ot [_]e dit, Sel mena seoir en.i. lit Covert d'une coute si riche [_]u'ainz[_]n'ot t[_]l li[_]dus d'Osteriche ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 81,
+                "masked_token": "Q"
+            },
+            {
+                "mask_idx": 88,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 95,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 100,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Se Kex a envers moi mespris, Je n'i avrai ja nul domage :",
+        "masked": "Se Kex a envers moi mespris, [_][_] n'i av[_]ai ja nul domage :",
+        "masked_tokens": [
+            {
+                "mask_idx": 29,
+                "masked_token": "J"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Que li tans gaires ne dura",
+        "masked": "Qu[_] li tans gaires ne dura",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Si vivra dolante et cheitive. »",
+        "masked": "Si vivra dolan[_]e [_]t cheitive. »",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Queque il son conte contoit Et la reïne l'escoutoit, Si s'est de lez le roi levee",
+        "masked": "Queq[_]e il[_]son conte[_]contoit Et la reïne l'escoutoit, Si s'est de lez le r[_]i levee",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 9,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 73,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "Qu'il l'a guilee et deceüe ;",
+        "masked": "Qu'il l'a guilee e[_] deceüe ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Ne sai que plus doie conter, Comant messire Yvains s'en part, Ne des beisiers qu'an li depart, Qui furent de lermes semé Et de dolçor anbaussemé.",
+        "masked": "Ne sai que plus doie con[_]er,[_]Comant messire Yvains [_]'[_]n part, Ne des beisie[_]s qu'an li depart, Qui furent de[_]ler[_]es semé Et de dolçor anbaussemé.",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 75,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 108,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 112,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "et an mon servise Se vialt metre,",
+        "masked": "et[_]an mon servise [_]e vialt metre,",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "S"
+            }
+        ]
+    },
+    {
+        "src": "Einçois coloit par desor tote.",
+        "masked": "Einço[_]s [_]oloit par desor tote.",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 8,
+                "masked_token": "c"
+            }
+        ]
+    },
+    {
+        "src": "ce dot ;",
+        "masked": "ce dot ;",
+        "masked_tokens": []
+    },
+    {
+        "src": "Et firent joie merveilleuse Sor la fontainne perilleuse.",
+        "masked": "Et [_]irent joie [_]erveilleuse Sor la fontainne[_]perilleuse.",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "f"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Que tuit corent a la cuiriee, Si con li chiens qui a chaciee La beste, tant que il l'a prise ;",
+        "masked": "Que tuit corent a la cuiriee, Si[_]con li chiens q[_]i a chaci[_]e La beste, tant [_]ue il l'a pris[_] ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 32,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 58,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 76,
+                "masked_token": "q"
+            },
+            {
+                "mask_idx": 91,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Et la dame est aprés venue Et si fil et ses filles totes ;",
+        "masked": "Et la dame est aprés venue [_]t si [_]il et ses [_]illes totes ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 27,
+                "masked_token": "E"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "f"
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": "f"
+            }
+        ]
+    },
+    {
+        "src": "S'est droiz que ma dame le cuit Que vos avez plus que nos tuit De corteisie et de proesce :",
+        "masked": "S'est droiz que ma da[_]e le cuit Qu[_] vos avez plus que nos t[_]it De [_]orteisie e[_] de proesce :",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 59,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 66,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 77,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "- Einz mes, fet ele, n'oï tel,",
+        "masked": "- Einz mes,[_]fet ele, n'oï[_]tel,",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Si serai arse sanz respit Por mal de vos et por despit. »",
+        "masked": "Si ser[_]i arse sanz respit Por mal de vos et por de[_]p[_]t. »",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Et vos ne finez de plorer !",
+        "masked": "Et vos ne fin[_]z de plorer !",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Si s'i porront mout solacier Et d'acoler et de beisier Et de parler et de veoir Et de delez eles seoir,",
+        "masked": "Si[_][_]'i porront [_]out solacier Et[_]d'acoler et de beisier Et de parler et de veoir Et de delez[_]eles seoir,",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 3,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 91,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "tant fu dolanz.",
+        "masked": "tan[_] fu dolanz.",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Et cist cos a plus grant duree Que cos de lance ne d'espee :",
+        "masked": "Et c[_]st cos a plus grant[_]duree Que cos de lance ne d'e[_]pee :",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "et sopire Si fort qu'a poinnes le pot dire :",
+        "masked": "et sopire Si [_]ort qu'a p[_]innes le pot dire :",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "f"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "La dameisele atant s'an part ;",
+        "masked": "La da[_]eisele atant [_]'an part ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "- Di donc por coi.",
+        "masked": "-[_]Di donc por coi.",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Et dit m'avez vostre pleisir ;",
+        "masked": "[_]t [_]it m'avez vostre pleisir ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "E"
+            },
+            {
+                "mask_idx": 3,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "Por desresnier son heritage, Ele meïsmes vos queroit, Por le bien qu'ele i esperoit,",
+        "masked": "Po[_] d[_]sresnier son herit[_]ge, Ele meïsmes vos queroit, Por le bi[_]n qu'ele i esperoit,",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 5,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Or en irons tost",
+        "masked": "O[_] en irons tost",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Si vit qanqu'il voloit veoir.",
+        "masked": "Si vi[_] qanqu'il voloit veoir.",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "ençois descent A la terre",
+        "masked": "ençois[_]descent A la terre",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "et puis si le repaie.",
+        "masked": "et puis si le re[_]aie.",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "Toz torz et toz mesfez vos quit,",
+        "masked": "Toz torz [_]t toz mesfez vos qui[_],",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Mout volsist bien avoir seü Comant ele poïst prover Qu'an porroit chevalier trover Meillor c'onques ne fu ses sire ;",
+        "masked": "Mout volsist bien avoi[_] seü Comant [_]le poïst prover Qu'an [_]orroit chevalier tr[_]ver Meillor c'onq[_]es ne fu [_]es sire ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 58,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 78,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 96,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 106,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "A si haute dame ne monte Que duel si longuemant mainteigne.",
+        "masked": "A si ha[_]te dame ne mo[_]te [_]ue duel si longuemant mainteigne.",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "Q"
+            }
+        ]
+    },
+    {
+        "src": "que plus i estuet ; S'ele viaut, porchacier se puet Au moins jusqu'a.xiiii. jorz Au jugemant de totes corz. »",
+        "masked": "que [_]lu[_] i [_]stuet ; S'el[_] viaut, porchacier se[_]puet Au moins jusqu'a.xiiii. jorz Au jugemant de totes corz. »",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 7,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Tot maintenant que il le voit, Si comance grant joie a feire.",
+        "masked": "Tot maintenant que il le [_]oit, Si comance gran[_] joi[_] a feire.",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Car nos la vos donrons a fame.",
+        "masked": "[_]ar nos la vos donrons a fame[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "C"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "."
+            }
+        ]
+    },
+    {
+        "src": "Or est sor toi del soreplus,",
+        "masked": "Or [_]st sor toi del soreplus,",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Se ne sai ge s'il le deçoivent,",
+        "masked": "Se[_]ne sai ge s'il le d[_]çoivent,",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "que je vos en ost Trestoz ploiges et toz creanz.",
+        "masked": "qu[_] je vos en ost Trestoz ploiges et toz cr[_]anz.",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Veez com il se tient el ranc ;",
+        "masked": "Veez [_]om il se tient el[_]ranc ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "« Dame, mout me mervoil Que folemant vos voi ovrer.",
+        "masked": "« D[_]me, mout [_]e merv[_]il Que folemant vos voi ovrer.",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "Ici fine li parlemanz.",
+        "masked": "Ici[_]fine li parlemanz.",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Et li portiers contre lui saut,",
+        "masked": "[_]t li portie[_]s contre lui saut,",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "E"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Tant puet",
+        "masked": "Tant puet",
+        "masked_tokens": []
+    },
+    {
+        "src": "Quant vostre sires m'asailli, Quel tort oi je de moi desfandre ?",
+        "masked": "Quant v[_]stre[_]sires m'asailli, Quel tort oi je de m[_]i desfandre ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "« Ja, se Deu plest, ne m'ocirront",
+        "masked": "« [_]a, se [_]eu plest, ne m'ocirront",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "J"
+            },
+            {
+                "mask_idx": 9,
+                "masked_token": "D"
+            }
+        ]
+    },
+    {
+        "src": "Por voir, messire Gauvains ainme Yvain",
+        "masked": "Por voir, [_]essire [_]auvains ainme Yvain",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "G"
+            }
+        ]
+    },
+    {
+        "src": "Ensi entr'aus.ii. chevalchierent Parlant, tant que il aprochierent Le chastel de Pesme Aventure.",
+        "masked": "[_]nsi entr'aus.ii. [_]hevalchierent Parlant, t[_]nt que il [_]pr[_]chierent Le chastel de Pesme Aventure.",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "E"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 57,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "ne sanc ne pert Nus amanz verais et leax,",
+        "masked": "ne sanc ne pert Nus amanz v[_]rais et[_]leax,",
+        "masked_tokens": [
+            {
+                "mask_idx": 27,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Et maintenant vanta",
+        "masked": "Et maintenant[_]vanta",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "et demande.",
+        "masked": "et d[_]mande.",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Si se covri chascuns del suen.",
+        "masked": "Si se co[_]ri ch[_]scuns del suen.",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Qu'Amors a feire li comande Ce don los et consoil demande ;",
+        "masked": "Qu'Am[_]rs a feire li comande Ce don lo[_] et consoi[_] demande ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "ne ne m'an menbre.",
+        "masked": "[_]e ne m'an menbre.",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "Mes vos avriez grant mestier De plus resnable conseillier.",
+        "masked": "Mes vos avriez grant mestier [_]e plus [_]esnable conseillie[_].",
+        "masked_tokens": [
+            {
+                "mask_idx": 29,
+                "masked_token": "D"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 56,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Que si vos metez a devise Del tot an tot en ma franchise Sanz ce que nes vos en esforz.",
+        "masked": "Que s[_] vos metez a devise Del [_]ot an tot en [_]a franchise Sa[_]z ce que nes vos en esforz.",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 59,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "Qu'autretant l'aim come mon cors.",
+        "masked": "Qu[_]autretan[_] l'aim come mon cors.",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "'"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "si s'antrebeisent,",
+        "masked": "s[_] s'antrebeisent,",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Que ja voir ne li avenist Que si vilmant se contenist Se il le san n'eüst perdu.",
+        "masked": "Que[_][_]a voir ne li avenist Que si vilmant se contenist Se il [_]e san n'eüst perdu[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 4,
+                "masked_token": "j"
+            },
+            {
+                "mask_idx": 60,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 79,
+                "masked_token": "."
+            }
+        ]
+    },
+    {
+        "src": "Qant ore fu, si l'en menerent Colchier en une chanbre clere ;",
+        "masked": "Qant ore fu, si l'en menerent Col[_]hi[_]r en une chanbre cle[_]e ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 33,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 57,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "A grant poinne tenoit ses lermes,",
+        "masked": "A grant p[_]inne tenoit [_]es lermes,",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "N'ont cure de lor cos gaster,",
+        "masked": "N'ont cure de lor cos[_]gaster,",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Ja de ce n'iert parole feite,",
+        "masked": "Ja de ce n'iert p[_]role feite,",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Qu'ennor et joie li feroient Qant a lui herbergié seroient.",
+        "masked": "Qu'e[_]nor et joie li feroient Qant a l[_]i herbergi[_] seroient.",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 48,
+                "masked_token": "é"
+            }
+        ]
+    },
+    {
+        "src": "Et a sa dame a conseillié Que revenuz est ses messages,",
+        "masked": "Et a[_]sa dame a [_]onseillié Q[_]e revenuz est ses messages,",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "u"
+            }
+        ]
+    },
+    {
+        "src": "Et mes chevax fu establez,",
+        "masked": "Et me[_] chevax fu establez,",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Que quanque il vit li angroist",
+        "masked": "Que quanque[_]il vit li a[_]groist",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "Si hauz hom est, ce sachiez bien, Con li filz au roi Urien.",
+        "masked": "Si hau[_] hom est, ce sachiez bien, Con li filz a[_] roi [_]rien.",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "z"
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "U"
+            }
+        ]
+    },
+    {
+        "src": "Lors vet tant qu'il vint en la sale ;",
+        "masked": "Lors ve[_] tant qu'il v[_]nt en la sale ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "El conble de l'escu l'atains ;",
+        "masked": "El conble de [_]'escu [_]'atains ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Que fet ame an si dolant cors ?",
+        "masked": "Qu[_] fet ame[_]an si dolant cors ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Ne creüz n'iert an nule guise S'anseignes veraies n'an porte.",
+        "masked": "Ne creüz n'iert a[_] nule[_]guise[_]S'anseignes veraies n'an porte.",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "mes vos ne l'osez Panre s'il nel vos loent tuit Et s'il nel pranent an conduit.",
+        "masked": "me[_] vos ne l'osez Panre [_]'il nel vos loent tuit Et s[_]il nel pranent an conduit[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": "'"
+            },
+            {
+                "mask_idx": 78,
+                "masked_token": "."
+            }
+        ]
+    },
+    {
+        "src": "Oez que fist li lyons donques, Con fist que preuz et deboneire, Com il li comança a feire Sanblant que a lui se randoit,",
+        "masked": "Oez que fist li lyons [_]onques, [_]on fist que preuz et deboneire, C[_]m il li comança a fe[_]re Sanbla[_]t que a lui s[_] randoit,",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "C"
+            },
+            {
+                "mask_idx": 65,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 86,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 96,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 110,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "- Voirs est, fet il, ce que vos dites,",
+        "masked": "- Voirs [_]st, fet il, ce que vos dites[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": ","
+            }
+        ]
+    },
+    {
+        "src": "Dex ! Meïsmes en.i. ostel, Comant puet estre li repaires A choses qui tant sont contraires ?",
+        "masked": "Dex ! Meï[_][_]es en.i. ostel, C[_]mant puet estre li repaires A choses qui tant son[_] contrair[_]s ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 10,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 78,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 88,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Lors s'est messire Yvains nomez ;",
+        "masked": "L[_]rs s'est mes[_]ire Yvains nomez ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Que j'ai ma dame a ce menee Que tot ausi com ele siaut, S'ele parjurer ne se viaut, Iert vostre dame et vos ses sire ;",
+        "masked": "Que j'ai ma dame a ce men[_]e Que[_]tot ausi com ele siaut, S'ele parjurer[_]ne se viaut, Iert vostre dame[_]et vos ses si[_]e[_];",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 70,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 100,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 114,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 116,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Ne tarda puis gueires granmant Que messire Yvains sanz arest Entra armez en la forest",
+        "masked": "Ne tarda puis gueires[_]gra[_]mant[_]Que messire Yvains[_]sanz arest Entra armez en la forest",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 49,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "et cers et biches quiert ;",
+        "masked": "et cers et bich[_]s quiert ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "« Bien veigne li rois et li sire Des rois et des seignors del monde ! »",
+        "masked": "[_] Bien veign[_] li rois et li sire Des rois et des s[_]igno[_]s del monde ! »",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "«"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 55,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Et s'avez non messire Yvains.",
+        "masked": "Et s'avez non mes[_]ire Yvains.",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Et prie que contre lui voisent ;",
+        "masked": "Et prie [_]ue[_]contre lui voisent ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "q"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "cort la mere ;",
+        "masked": "cort l[_] mere ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Et cil qui sont remés arriere Le comandent au Salveor,",
+        "masked": "Et cil qui sont re[_]és arriere Le comandent au[_]S[_]lveor,",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "- N'i a celi qui s'ost movoir Des que ele me voit venir ;",
+        "masked": "- N'i a celi qui s'ost [_]ovoir Des que ele me[_]voit venir[_];",
+        "masked_tokens": [
+            {
+                "mask_idx": 23,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 55,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Ne le por coi dire ne t'osent,",
+        "masked": "[_]e le por coi dire [_]e t'osent,",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "N"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "Que de ses cos valt li uns seus Des lor toz a mesure deus.",
+        "masked": "Que de ses cos valt li u[_]s seus Des lor to[_] a mesure[_]deus.",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "z"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Ja, ce cuit, l'ore ne savra Qu'esperance traï l'avra ;",
+        "masked": "Ja, [_]e cuit, l[_]ore ne savra Qu'esperance traï[_]l'avra ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "'"
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Ne ne cuidoit pas, a nul fuer, Qu'il li deüst anbler son cuer.",
+        "masked": "Ne ne cuidoit pas, a nul f[_]er[_] Qu'il [_]i deüst anbler son cuer.",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": ","
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Si la desfandrai, se je puis,",
+        "masked": "Si la desfandrai, [_]e je puis,",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Tote la droite voie va, Se bien viax tes pas anploier, Que tost porroies desvoier :",
+        "masked": "Tote la droite voie va, Se [_]ien viax te[_] pas anploier, Que tost por[_]oies [_]esvoier :",
+        "masked_tokens": [
+            {
+                "mask_idx": 27,
+                "masked_token": "b"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 67,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 73,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "mes il mantent,",
+        "masked": "mes il manten[_],",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "- Dame, tant que amer me fet.",
+        "masked": "- Da[_]e, tant que amer me fet.",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "Ensi mout longuemant ne finent De joie feire et de plorer :",
+        "masked": "Ensi mout longuemant[_]ne finent De[_]joie feire et de pl[_]rer :",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "que siudre ne le puet.",
+        "masked": "que siudre ne [_]e puet.",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Sel salue",
+        "masked": "Sel salue",
+        "masked_tokens": []
+    },
+    {
+        "src": "La dame set mout bien",
+        "masked": "La da[_]e set mout bien",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "m"
+            }
+        ]
+    },
+    {
+        "src": "Si ne l'a pas mesconeüe,",
+        "masked": "Si ne l'a pas mes[_]oneüe,",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": "c"
+            }
+        ]
+    },
+    {
+        "src": "Lessiez nos feire nostre duel,",
+        "masked": "Lessi[_]z nos feire[_]nostre duel,",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Por ce crioit a haute voiz.",
+        "masked": "Por [_]e crioit a haute voiz.",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "c"
+            }
+        ]
+    },
+    {
+        "src": "N'a monter demore ne fis ;",
+        "masked": "N'a monter dem[_]re ne fis ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "Einsi sui de mes bestes sire,",
+        "masked": "Einsi sui de mes[_]bestes sire,",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Car li lyons en travers saut,",
+        "masked": "Car li lyons en tra[_]ers saut,",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "v"
+            }
+        ]
+    },
+    {
+        "src": "Et si est tans de herbergier. »",
+        "masked": "Et si est t[_][_]s de herbergier. »",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "n"
+            }
+        ]
+    },
+    {
+        "src": "Ensi sont cil devenu preu,",
+        "masked": "Ensi sont cil[_]devenu preu,",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Ferir le va enmi le piz, Qu'il ot armé d'une pel d'ors ;",
+        "masked": "Ferir le[_]va enmi le piz, Qu'il ot[_]armé d'une pe[_] d'ors ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 47,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "si s'an vont Vers le chastel la droite voie.",
+        "masked": "si s[_]an vont Vers le cha[_]tel la droite voie.",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "'"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Que mout sont de grant vaselage",
+        "masked": "Que mout sont de g[_]ant v[_]selage",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Qu'il n'a cure de lonc sejor.",
+        "masked": "Qu'il n'a[_]cure de lonc sejor.",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "et abeli Quant il la vit,",
+        "masked": "et a[_]eli Quant il la vit,",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "b"
+            }
+        ]
+    },
+    {
+        "src": "« Dex me desfande Que je ja rien nule n'en aie ! »",
+        "masked": "« Dex me desfande[_]Que je j[_] rien nule n'en aie ! »",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Or a, tot ensi com il vialt, Sa dameisele delivree",
+        "masked": "Or a, tot ensi com il vialt[_] Sa dameisele de[_]ivree",
+        "masked_tokens": [
+            {
+                "mask_idx": 27,
+                "masked_token": ","
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Si est Amors asez trop glote,",
+        "masked": "Si est Amors asez trop g[_]ote,",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Doucemant li oisel chantoient Si que mout bien s'antracordoient ;",
+        "masked": "Doucemant li ois[_]l chantoient Si que mout bi[_]n s'antr[_]cordoient ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "Si tient tote la gent por fole",
+        "masked": "[_]i tient tote la gent por[_]fole",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "S"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Et il n'i avra ja si haut Qui s'ost vanter que il i aut.",
+        "masked": "Et[_]il [_]'i avra ja si h[_]ut Qui s'ost vanter que il i aut.",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 6,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "a"
+            }
+        ]
+    },
+    {
+        "src": "et plus li abelist.",
+        "masked": "et [_]lus li abelist.",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "p"
+            }
+        ]
+    },
+    {
+        "src": "Mes je te consoil que tu faces La dameisele clamer quite Que tu as a grant tort sordite,",
+        "masked": "Mes je te con[_]oil que tu faces La [_]ameisele clamer quite Que tu as a [_]rant tort so[_]dite,",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 69,
+                "masked_token": "g"
+            },
+            {
+                "mask_idx": 82,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Et si ne set qui je me sui.",
+        "masked": "Et si ne set qu[_] je me sui.",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Veez comant il les antasse, Com il lor vient, con il lor passe, Com il ganchist, con il retorne !",
+        "masked": "Veez co[_]ant il les antasse, Com il lor vient[_] con i[_] lor passe[_] [_]om il ganchist, con il retorne !",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": ","
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 62,
+                "masked_token": ","
+            },
+            {
+                "mask_idx": 64,
+                "masked_token": "C"
+            }
+        ]
+    },
+    {
+        "src": "Je ne puis, ce sachiez de voir, Cesti ne autre recevoir.",
+        "masked": "Je [_]e puis, ce sachiez de voir, Cesti ne aut[_]e[_]recevoir.",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 44,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Et li sires li a bailliees, Povres et mal apareilliees ;",
+        "masked": "Et li sires l[_] a bai[_]liees, Povres et ma[_] apareilliees ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "l"
+            }
+        ]
+    },
+    {
+        "src": "Et sa mere revint decoste,",
+        "masked": "Et sa mere revint deco[_]te,",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Querant le vont destre et senestre Par les ostex as chevaliers Et par haies et par vergiers ;",
+        "masked": "Querant le vont dest[_]e et s[_]nestre Par les ostex as[_]cheval[_]ers Et par haies[_]et par vergiers ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 58,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 75,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Einz me leissasse.i. des danz traire, Se correcier ne vos dotasse, Que je huimés rien lor contasse ;",
+        "masked": "Einz me leissass[_].i. des [_]anz traire, Se corre[_]ier ne [_]os dotasse, Que je huimés rien lor conta[_]se ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "v"
+            },
+            {
+                "mask_idx": 95,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Einz li tardoit que l'en eüst Toz lor palefroiz amenez, Apareilliez et anfrenez.",
+        "masked": "Einz li t[_]rdoit que[_]l'en eüst Toz lor palefroiz amenez, Apareilliez et anfren[_][_].",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 77,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 78,
+                "masked_token": "z"
+            }
+        ]
+    },
+    {
+        "src": "Mes feites nos avant conter Ce qu'il avoit encomancié,",
+        "masked": "Mes feites nos avant conte[_] Ce qu'il avoi[_] [_]ncomancié,",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Vialt donc Yvains ocirre Monseignor Gauvain, son ami ?",
+        "masked": "Vialt donc Yvains ocirre M[_]nseig[_][_]r Gauvain, son ami ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "- A ce, fet il, faudras tu bien :",
+        "masked": "[_] A ce, fet il, faudras[_]tu bien :",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "-"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Que por le rëaume de Tarse Ne voldroit que cele fust arse Que il avoit aseüree;",
+        "masked": "Que por le [_]ëaume de T[_]rse Ne vo[_]droit[_]que cele fust arse Que il avoit aseüree;",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 38,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Tant est frans et de boene part.",
+        "masked": "Tant est frans et [_]e boene par[_].",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "d"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Mes boene fiance an lui a Que Dex et droiz li aideroit, Qui en sa partie seroit :",
+        "masked": "Mes boene fiance an[_]lui [_] Que De[_] e[_] droiz li aideroit, Qui en sa partie seroit :",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "x"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "Que de lui est tot autresi Chevalerie anluminee Come solauz, la matinee, Oevre ses rais",
+        "masked": "Que de lu[_] est tot autresi Chevaler[_]e anluminee Come solauz, la[_]matine[_], Oevre ses rais",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 70,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Si m'en alai lués que je poi.",
+        "masked": "Si m'en alai lu[_]s que je poi.",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "é"
+            }
+        ]
+    },
+    {
+        "src": "Armé et desarmé s'an issent Tant que les coreors ateignent, Qui por ax movoir ne se deignent, Einz les atendent a.i. pas.",
+        "masked": "Armé et desarmé s'an issent Tant que les coreors a[_]eignent, Qui po[_] a[_] movoir ne[_]se deignent, [_]inz les atendent a.[_]. pas.",
+        "masked_tokens": [
+            {
+                "mask_idx": 50,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 66,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 69,
+                "masked_token": "x"
+            },
+            {
+                "mask_idx": 80,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 94,
+                "masked_token": "E"
+            },
+            {
+                "mask_idx": 114,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Et, demantres que ele est ci, Je li consoil",
+        "masked": "Et, demantres que ele es[_] ci[_] Je li consoil",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": ","
+            }
+        ]
+    },
+    {
+        "src": "Que vostre leingue onques ne fine ?",
+        "masked": "Que vostre leingue onques [_]e[_]fine ?",
+        "masked_tokens": [
+            {
+                "mask_idx": 26,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Et li chevaliers me feri Si duremant que del cheval Parmi la crope, contreval, Me mist a la terre tot plat ;",
+        "masked": "Et li chevaliers me[_]feri Si duremant que d[_]l [_]heval Parmi la crope, c[_]ntreval, Me[_]mist a la terre tot plat ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": "c"
+            },
+            {
+                "mask_idx": 69,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 81,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Bien sai que mout vos esmaiez,",
+        "masked": "B[_]en sai que mout vos[_]esmaiez,",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "et si l'enore De quanqu'ele onques set ne puet.",
+        "masked": "et [_]i l'enore [_]e quanqu'ele onques set ne puet.",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "D"
+            }
+        ]
+    },
+    {
+        "src": "Ja li randroit au grant setier Et au grant mui ceste bonté ;",
+        "masked": "Ja li ra[_]droit au grant setier [_]t au [_]rant mui ceste bonté ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "E"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "g"
+            }
+        ]
+    },
+    {
+        "src": "- Sor moi leissiez ceste besoingne,",
+        "masked": "[_] Sor moi leissiez c[_]ste besoingne,",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "-"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Si lor passe fieremant sus Tant que cil de ses cos se plaignent",
+        "masked": "Si lor [_]asse fiereman[_] sus Tant que cil [_]e ses cos se plaignent",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "Voire, plus de cent mile.",
+        "masked": "Voire[_] plus de cent mile.",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": ","
+            }
+        ]
+    },
+    {
+        "src": "Bien m'an sovient que jel lessai Bien pres de ci ou ci meïsmes ;",
+        "masked": "[_]ien m'an s[_]vient que jel les[_]ai Bien pres de ci ou ci meïsmes ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "B"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "S'ot pres de.ii. espanz de lé, Oroilles mossues et granz Autiex com a uns olifanz, Les sorcix granz et le vis plat, Ialz de çuete et nes de chat, Boche fandue come lous, Danz de sengler aguz et rous, Barbe rosse, grenons tortiz, Et le manton aers au piz, Longue eschine torte et boçue.",
+        "masked": "S'ot pres de.[_]i. espanz de [_]é, Or[_]illes mossues et gra[_]z Autiex com a uns olif[_]nz, Les sorcix granz et[_]l[_] vis[_]plat, Ialz de çuete et nes de chat, Boche fandue come[_]lous, D[_]nz de [_]engler aguz et rous, Barbe rosse, grenons tortiz, Et le [_]anton aers au piz, Longue esch[_]ne tor[_]e et boçue.",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 27,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 78,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 102,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 104,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 109,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 163,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 171,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 178,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 235,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 266,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 273,
+                "masked_token": "t"
+            }
+        ]
+    },
+    {
+        "src": "et conpaingnon le clainme ; Et Yvains lui, ou que il soit ;",
+        "masked": "et conpaingnon le clainme ; E[_] Yvains lui, ou que il [_]oit [_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 29,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 53,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 58,
+                "masked_token": ";"
+            }
+        ]
+    },
+    {
+        "src": "Messire Yvains atant s'an part, Et li lyons toz jorz aprés.",
+        "masked": "[_]es[_]ire Yvains atant s'an part, Et l[_] lyons toz jorz aprés.",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "M"
+            },
+            {
+                "mask_idx": 3,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Et les nonains et li provoire Orent ja fet tot le servise ;",
+        "masked": "Et les nonains et li provoire Ore[_]t ja [_]et tot le [_]ervise ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 33,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "f"
+            },
+            {
+                "mask_idx": 50,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Et si i a tant demoré Qu'asez i puet avoir oré. »",
+        "masked": "Et si[_]i a tant [_]emoré Qu'asez i puet avoir oré. »",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "d"
+            }
+        ]
+    },
+    {
+        "src": "Ne vos grevera rien, ce croi, Fors tant, don mantir ne vos doi, Que je feroie traïson, Qu'avoir vos vialt en sa prison,",
+        "masked": "Ne vos grevera rien, ce croi, F[_]rs[_]ta[_]t, don mantir [_]e vos doi, Que je feroie traïso[_], Qu'avoir vo[_] vialt en sa prison,",
+        "masked_tokens": [
+            {
+                "mask_idx": 31,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 84,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 98,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "et tranche tot par mi ;",
+        "masked": "et tranche tot par mi [_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 22,
+                "masked_token": ";"
+            }
+        ]
+    },
+    {
+        "src": "Messire Yvains ot",
+        "masked": "Me[_]sire Yvains ot",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Mialz de moi ne se doit nus plaindre, Ne duel feire, ne duel mener ;",
+        "masked": "Mialz de moi ne se do[_]t nus plaindre, Ne duel [_]eire,[_]ne duel mener ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": "f"
+            },
+            {
+                "mask_idx": 52,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Ja tant chevir ne nos savrons Que mialz en aiens a mangier.",
+        "masked": "J[_] tant c[_]evir ne nos savron[_] Que mialz en aiens a mangier.",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 9,
+                "masked_token": "h"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "A cele porte la defors Demain porroiz veoir le cors D'un grant jaiant que il tua Si tost que gueres n'i sua.",
+        "masked": "A cele[_]porte la defors D[_]main [_]orroiz veoir le cors[_]D'un grant jaiant que il[_]tua Si tost que gueres n'i sua.",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "p"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 76,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "ce li poise.",
+        "masked": "ce li poise[_]",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "."
+            }
+        ]
+    },
+    {
+        "src": "C'onques rien tant amer ne vox,",
+        "masked": "C'onques rie[_] tant amer n[_] vox,",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "n"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "Qu'an mon bois et an mon chastel M'avez feite tele envaïe Ou mestier ne m'eüst aïe Ne de grant tor ne de haut mur.",
+        "masked": "Qu'an mon bois [_]t an mon chastel M'av[_]z[_]feite[_]tele envaïe Ou m[_]stier ne m'eüst aïe Ne de grant tor ne de haut m[_]r.",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 45,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 62,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 111,
+                "masked_token": "u"
+            }
+        ]
+    },
+    {
+        "src": "Je ne me puis mes sostenir,",
+        "masked": "Je ne m[_] puis mes sostenir,",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "e"
+            }
+        ]
+    },
+    {
+        "src": "et si se joint Au cuer celi qui se remaint Qu'il n'a pooir que il l'en maint ;",
+        "masked": "et [_]i se joint Au cuer celi qui se remaint Qu'il n'a pooir que[_]il l'[_]n ma[_]nt ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "s"
+            },
+            {
+                "mask_idx": 62,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 68,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 73,
+                "masked_token": "i"
+            }
+        ]
+    },
+    {
+        "src": "Et sovant se prant a la gole,",
+        "masked": "Et sovant se prant a la g[_]le,",
+        "masked_tokens": [
+            {
+                "mask_idx": 25,
+                "masked_token": "o"
+            }
+        ]
+    },
+    {
+        "src": "Tant demora a la fenestre Qu'il an vit la dame raler Et que l'en ot fet avaler Anbedeus les portes colanz.",
+        "masked": "Tant d[_]mora a la fenestre Qu'il an vit la dame ra[_]er Et que l'en ot [_]et avaler Anbedeus l[_][_] portes colanz.",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 49,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 68,
+                "masked_token": "f"
+            },
+            {
+                "mask_idx": 89,
+                "masked_token": "e"
+            },
+            {
+                "mask_idx": 90,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Tant sont andui franc et gentil Que la victoire et la querone Li uns a l'autre otroie et done ;",
+        "masked": "Tant sont andui franc[_]et gentil Que [_]a vic[_]oire et la quer[_]ne Li uns[_]a l'autre otroie et done ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "l"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 58,
+                "masked_token": "o"
+            },
+            {
+                "mask_idx": 68,
+                "masked_token": " "
+            }
+        ]
+    },
+    {
+        "src": "Et il s'an vet plus que le pas Tant qu'il trova delez un parc.I. garçon qui tenoit.i. arc Et.v. saietes barbelees Qui mout erent tranchanz et lees.",
+        "masked": "Et il s'an ve[_] plus que le pas Tant qu'il trova delez [_]n pa[_]c.I[_] garçon qui tenoit.i. arc Et.v. saietes bar[_]elees Qu[_] mout erent t[_]anchanz et lees.",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "t"
+            },
+            {
+                "mask_idx": 54,
+                "masked_token": "u"
+            },
+            {
+                "mask_idx": 59,
+                "masked_token": "r"
+            },
+            {
+                "mask_idx": 63,
+                "masked_token": "."
+            },
+            {
+                "mask_idx": 107,
+                "masked_token": "b"
+            },
+            {
+                "mask_idx": 116,
+                "masked_token": "i"
+            },
+            {
+                "mask_idx": 130,
+                "masked_token": "r"
+            }
+        ]
+    },
+    {
+        "src": "Mes jus totes mes armes mis Por plus aler legieremant ;",
+        "masked": "Mes jus totes mes[_]armes [_]i[_] Por plus aler legieremant ;",
+        "masked_tokens": [
+            {
+                "mask_idx": 17,
+                "masked_token": " "
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "m"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "s"
+            }
+        ]
+    },
+    {
+        "src": "Et la dameisele i estoit Qui sa seror desheritoit,",
+        "masked": "Et la dameisele i estoit Qui s[_] seror des[_]eritoit,",
+        "masked_tokens": [
+            {
+                "mask_idx": 30,
+                "masked_token": "a"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": "h"
+            }
+        ]
+    }
+]

@@ -1,0 +1,5291 @@
+[
+    {
+        "src": "jah audags ist ƕazuh saei ni gamarzjada in mis",
+        "masked": "jah audags ist ƕazuh saei ni gamarzjada [MASK] mis",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "sa anþar manna frauja us himina",
+        "masked": "[MASK] anþar manna frauja us himina",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "sa"
+            }
+        ]
+    },
+    {
+        "src": "fraqistnam",
+        "masked": "fraqistnam",
+        "masked_tokens": []
+    },
+    {
+        "src": "ƕas satjiþ weinatriwa jah akran þize ni matjai",
+        "masked": "ƕas satjiþ [MASK] jah akran þize ni matjai",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "weinatriwa"
+            }
+        ]
+    },
+    {
+        "src": "ƕaiwa managa gahaita gudis in imma þata ja",
+        "masked": "ƕaiwa managa gahaita gudis in imma [MASK] ja",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "þata"
+            }
+        ]
+    },
+    {
+        "src": "izwis auk qiþa þiudom",
+        "masked": "izwis auk qiþa þiudom",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah insandidedum Teimauþaiu broþar unsarana jah andbaht gudis in aiwaggeljon Xristaus ei izwis gatulgjai jah bidjai bi galaubein izwara ei ni ainshun afagjaidau in þaim aggwiþom",
+        "masked": "jah insandidedum Teimauþaiu [MASK] unsarana jah andbaht gudis in aiwaggeljon Xristaus ei izwis [MASK] jah bidjai bi galaubein izwara ei ni ainshun afagjaidau in [MASK] aggwiþom",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "broþar"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "gatulgjai"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "þaim"
+            }
+        ]
+    },
+    {
+        "src": "saiƕ þata andbahti þatei andnamt in fraujin ei ita usfulljais",
+        "masked": "saiƕ þata andbahti þatei [MASK] in fraujin ei ita usfulljais",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "andnamt"
+            }
+        ]
+    },
+    {
+        "src": "all þatei gaf mis atta du mis qimiþ jah þana gaggandan du mis ni uswairpa ut",
+        "masked": "all [MASK] gaf mis [MASK] du mis qimiþ jah þana gaggandan du mis ni uswairpa ut",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "þatei"
+            },
+            {
+                "mask_idx": 4,
+                "masked_token": "atta"
+            }
+        ]
+    },
+    {
+        "src": "qaþ auk sums ize swes ize praufetus",
+        "masked": "qaþ auk sums ize swes [MASK] praufetus",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "ize"
+            }
+        ]
+    },
+    {
+        "src": "nih bi airþai unte fotubaurd ist fotiwe is",
+        "masked": "nih bi airþai unte fotubaurd [MASK] fotiwe is",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "ist"
+            }
+        ]
+    },
+    {
+        "src": "jah dugann laisjan ins þatei skal sunus mans filu winnan jah uskiusan skulds ist fram þaim sinistam jah þaim auhumistam gudjam jah bokarjam jah usqiman jah afar þrins dagans usstandan",
+        "masked": "jah dugann laisjan ins þatei skal sunus [MASK] filu winnan jah uskiusan skulds ist fram þaim sinistam [MASK] [MASK] auhumistam gudjam jah bokarjam jah usqiman jah afar þrins dagans usstandan",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "mans"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "þaim"
+            }
+        ]
+    },
+    {
+        "src": "qam auk sunus mans sokjan jah nasjan þans fralusanans",
+        "masked": "[MASK] auk sunus mans sokjan jah nasjan þans fralusanans",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "qam"
+            }
+        ]
+    },
+    {
+        "src": "o diupiþa gabeins handugeins",
+        "masked": "o diupiþa gabeins handugeins",
+        "masked_tokens": []
+    },
+    {
+        "src": "standaiþ nu jah ni aftra skalkinassaus jukuzja usþulaiþ",
+        "masked": "standaiþ nu jah [MASK] aftra skalkinassaus jukuzja usþulaiþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "ni"
+            }
+        ]
+    },
+    {
+        "src": "habaiþ in izwis salt jah gawairþeigai sijaiþ miþ izwis misso",
+        "masked": "habaiþ in [MASK] salt jah gawairþeigai sijaiþ miþ izwis misso",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "izwis"
+            }
+        ]
+    },
+    {
+        "src": "ni þatei gasokjau giba ak gasokja akran",
+        "masked": "ni þatei gasokjau giba ak [MASK] akran",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "gasokja"
+            }
+        ]
+    },
+    {
+        "src": "jah warþ in þamma afardaga iddja in baurg namnida Naem",
+        "masked": "jah warþ in þamma afardaga [MASK] in baurg namnida Naem",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "iddja"
+            }
+        ]
+    },
+    {
+        "src": "jah jainþro usstandands galaiþ in markos Twre jah Seidone jah galeiþands in gard ni wilda witan mannan jah ni mahta galaugnjan",
+        "masked": "jah jainþro usstandands galaiþ in markos [MASK] jah Seidone jah galeiþands in [MASK] ni wilda witan mannan jah ni mahta galaugnjan",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "Twre"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "gard"
+            }
+        ]
+    },
+    {
+        "src": "þannu galaubeins us gahauseinai iþ gahauseins þairh waurd Xristaus",
+        "masked": "þannu galaubeins us gahauseinai iþ gahauseins þairh waurd [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "Xristaus"
+            }
+        ]
+    },
+    {
+        "src": "bi þatei þrim sinþam fraujan baþ ei afstoþi af mis",
+        "masked": "bi þatei [MASK] sinþam fraujan baþ ei afstoþi af mis",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "þrim"
+            }
+        ]
+    },
+    {
+        "src": "ni siuþ nahts ni riqizis",
+        "masked": "ni siuþ nahts ni riqizis",
+        "masked_tokens": []
+    },
+    {
+        "src": "Biþe þan usfullida alla þo waurda seina in hliumans manageins galaiþ in Kafarnaum",
+        "masked": "[MASK] þan usfullida alla þo waurda seina in hliumans manageins galaiþ in Kafarnaum",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "Biþe"
+            }
+        ]
+    },
+    {
+        "src": "þata rodida izwis at izwis wisands",
+        "masked": "[MASK] rodida izwis at izwis wisands",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "þata"
+            }
+        ]
+    },
+    {
+        "src": "usbruknodedun astos ei ik intrusgjaidau",
+        "masked": "usbruknodedun astos ei ik intrusgjaidau",
+        "masked_tokens": []
+    },
+    {
+        "src": "þanuh is usdreibands allans ut jah fairgreipands handu izos wopida qiþands",
+        "masked": "[MASK] is usdreibands allans ut jah fairgreipands handu izos wopida qiþands",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "þanuh"
+            }
+        ]
+    },
+    {
+        "src": "usiddjedun þan jah unhulþons af managaim hropjandeins jah qiþandeins þatei",
+        "masked": "usiddjedun þan jah unhulþons af managaim hropjandeins jah [MASK] þatei",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "qiþandeins"
+            }
+        ]
+    },
+    {
+        "src": "swe gameliþ ist in Esaïin praufetau",
+        "masked": "swe gameliþ ist in [MASK] praufetau",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "Esaïin"
+            }
+        ]
+    },
+    {
+        "src": "sai usgaggam in Iairusaulwma jah sunus mans atgibada þaim ufargudjam jah bokarjam jah gawargjand ina dauþau jah atgiband ina þiudom jah bilaikand ina jah bliggwand ina jah speiwand ana ina jah usqimand imma jah þridjin daga ustandiþ",
+        "masked": "sai [MASK] in Iairusaulwma jah sunus mans atgibada þaim ufargudjam jah bokarjam jah [MASK] ina dauþau jah atgiband ina þiudom jah bilaikand ina jah bliggwand ina jah speiwand ana ina [MASK] [MASK] imma jah þridjin daga ustandiþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "usgaggam"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "gawargjand"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "usqimand"
+            }
+        ]
+    },
+    {
+        "src": "þatainei galaubei jah ganasjada",
+        "masked": "þatainei galaubei jah ganasjada",
+        "masked_tokens": []
+    },
+    {
+        "src": "unte saei skamaiþ sik meina jah waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans skamaiþ sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim weiham",
+        "masked": "unte saei skamaiþ sik meina [MASK] waurde meinaize in gabaurþai þizai horinondein jah frawaurhton jah sunus mans [MASK] sik is þan qimiþ in wulþau attins seinis miþ aggilum þaim [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "skamaiþ"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "weiham"
+            }
+        ]
+    },
+    {
+        "src": "swaswe jah Abraham galaubida guda",
+        "masked": "swaswe jah Abraham galaubida guda",
+        "masked_tokens": []
+    },
+    {
+        "src": "ni mannahun auk ist saei taujiþ maht in namin meinamma jah magi sprauto ubilwaurdjan mis",
+        "masked": "[MASK] mannahun auk [MASK] saei taujiþ maht in namin meinamma jah magi sprauto ubilwaurdjan mis",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "ni"
+            },
+            {
+                "mask_idx": 3,
+                "masked_token": "ist"
+            }
+        ]
+    },
+    {
+        "src": "þo samona izwis meljan mis sweþauh ni latei iþ izwis þwastiþa",
+        "masked": "þo samona izwis meljan mis sweþauh ni [MASK] iþ izwis þwastiþa",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "latei"
+            }
+        ]
+    },
+    {
+        "src": "iþ huzdjaiþ izwis huzda in himina þarei nih malo nih nidwa frawardeiþ jah þarei þiubos ni ufgraband nih stiland",
+        "masked": "iþ huzdjaiþ izwis huzda [MASK] himina þarei nih malo nih nidwa frawardeiþ jah þarei [MASK] ni ufgraband nih stiland",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "in"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "þiubos"
+            }
+        ]
+    },
+    {
+        "src": "ni afdomjaid jah ni afdomjanda",
+        "masked": "ni afdomjaid jah ni afdomjanda",
+        "masked_tokens": []
+    },
+    {
+        "src": "þu is þiudans Iudaie",
+        "masked": "þu is þiudans Iudaie",
+        "masked_tokens": []
+    },
+    {
+        "src": "sweþauh þamma ni faginoþ ei þai ahmans izwis ufhausjand",
+        "masked": "sweþauh þamma ni faginoþ ei [MASK] ahmans izwis ufhausjand",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "þai"
+            }
+        ]
+    },
+    {
+        "src": "þaim aftra ufarmunnonds iþ du þaim þoei faura sind mik ufþanjands bi mundrein afargagga afar sigislauna þizos iupa laþonais gudis in Xristau Iesu",
+        "masked": "þaim aftra ufarmunnonds iþ du þaim þoei faura sind mik ufþanjands bi mundrein [MASK] afar sigislauna þizos iupa laþonais gudis in Xristau [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "afargagga"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "Iesu"
+            }
+        ]
+    },
+    {
+        "src": "þandei ufarskafts weiha jah daigs jah jabai waurts weiha jah astos",
+        "masked": "þandei ufarskafts weiha jah [MASK] jah jabai waurts weiha jah astos",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "daigs"
+            }
+        ]
+    },
+    {
+        "src": "praufetu",
+        "masked": "praufetu",
+        "masked_tokens": []
+    },
+    {
+        "src": "andhof Iesus",
+        "masked": "andhof Iesus",
+        "masked_tokens": []
+    },
+    {
+        "src": "sweþauh qiþa izwis þatei airþai Saudaumje sutizo wairþiþ in daga stauos þau þus",
+        "masked": "sweþauh [MASK] izwis þatei airþai Saudaumje sutizo wairþiþ in daga stauos þau þus",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "qiþa"
+            }
+        ]
+    },
+    {
+        "src": "qiþa auk izwis þatei nibai managizo wairþiþ izwaraizos garaihteins þau þize bokarje jah Fareisaie ni þau qimiþ in þiudangardjai himine",
+        "masked": "qiþa auk izwis þatei nibai managizo wairþiþ izwaraizos garaihteins þau [MASK] bokarje jah Fareisaie ni [MASK] qimiþ in þiudangardjai himine",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "þize"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "þau"
+            }
+        ]
+    },
+    {
+        "src": "allis þan usstandand us dauþaim ni liugand ni liuganda ak sind swe aggiljus þai in himinam",
+        "masked": "allis þan usstandand us [MASK] ni liugand ni liuganda ak sind swe aggiljus [MASK] in himinam",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "dauþaim"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "þai"
+            }
+        ]
+    },
+    {
+        "src": "jah qam at imma þrutsfill habands bidjands ina jah kniwam knussjands jah qiþands du imma þatei",
+        "masked": "jah qam at imma þrutsfill habands bidjands ina jah kniwam knussjands [MASK] qiþands du [MASK] þatei",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "imma"
+            }
+        ]
+    },
+    {
+        "src": "jah dugunnun bidjan ina galeiþan hindar markos seinos",
+        "masked": "jah dugunnun [MASK] ina galeiþan hindar markos seinos",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "bidjan"
+            }
+        ]
+    },
+    {
+        "src": "Abraham gadauþnoda jah praufeteis jah þu qiþis",
+        "masked": "Abraham gadauþnoda [MASK] praufeteis jah þu qiþis",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "ƕa uþ þan habais þatei ni namt",
+        "masked": "[MASK] uþ þan habais þatei ni namt",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "ƕa"
+            }
+        ]
+    },
+    {
+        "src": "þaruh usiddja ut Iesus bairands þana þaurneinan waip jah þo paurpurodon wastja",
+        "masked": "þaruh usiddja ut Iesus bairands þana þaurneinan waip jah þo [MASK] wastja",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "paurpurodon"
+            }
+        ]
+    },
+    {
+        "src": "saei ubil qiþai attin seinamma aiþþau aiþein seinai dauþau afdauþjaidau",
+        "masked": "saei ubil qiþai [MASK] seinamma aiþþau aiþein seinai dauþau afdauþjaidau",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "attin"
+            }
+        ]
+    },
+    {
+        "src": "jah anaslawaidedun jah warþ wis",
+        "masked": "jah anaslawaidedun jah warþ wis",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah niundon ƕeilai wopida Iesus stibnai mikilai qiþands",
+        "masked": "jah niundon ƕeilai wopida Iesus [MASK] mikilai qiþands",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "stibnai"
+            }
+        ]
+    },
+    {
+        "src": "ni stojaiþ bi siunai ak þo garaihton staua stojaiþ",
+        "masked": "ni stojaiþ bi siunai ak þo [MASK] staua stojaiþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "garaihton"
+            }
+        ]
+    },
+    {
+        "src": "þamma hausjaiþ",
+        "masked": "þamma hausjaiþ",
+        "masked_tokens": []
+    },
+    {
+        "src": "þaþroh galagiþs ist mis waips garaihteins þanei usgibiþ mis frauja in jainamma daga sa garaihta staua aþþan ni þatainei mis ak jah allaim þaiei frijond qum is",
+        "masked": "þaþroh galagiþs ist mis waips garaihteins þanei usgibiþ [MASK] frauja in jainamma daga sa [MASK] staua aþþan ni þatainei mis ak jah allaim [MASK] frijond qum is",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "mis"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "garaihta"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": "þaiei"
+            }
+        ]
+    },
+    {
+        "src": "Jah galaiþ aftra in Kafarnaum afar dagans",
+        "masked": "Jah galaiþ aftra in Kafarnaum afar [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "dagans"
+            }
+        ]
+    },
+    {
+        "src": "jah sa was miþ Iesua þamma Nazoraiau",
+        "masked": "[MASK] sa was miþ Iesua þamma Nazoraiau",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "aggilus du imma rodida",
+        "masked": "aggilus du imma rodida",
+        "masked_tokens": []
+    },
+    {
+        "src": "usleiþam jainis stadis",
+        "masked": "usleiþam jainis stadis",
+        "masked_tokens": []
+    },
+    {
+        "src": "mel mein ni nauh ist",
+        "masked": "mel mein ni nauh ist",
+        "masked_tokens": []
+    },
+    {
+        "src": "ni waiht auk brahtedum in þamma fairƕau",
+        "masked": "ni waiht auk brahtedum [MASK] þamma fairƕau",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "jah qiþands þata iddja fram usgaggands in Iairusaulwma",
+        "masked": "jah qiþands þata iddja fram [MASK] in Iairusaulwma",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "usgaggands"
+            }
+        ]
+    },
+    {
+        "src": "twos wairþand malandeins samana",
+        "masked": "twos wairþand malandeins samana",
+        "masked_tokens": []
+    },
+    {
+        "src": "nahts framis galaiþ iþ dags atneƕida",
+        "masked": "nahts framis galaiþ [MASK] dags atneƕida",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "iþ"
+            }
+        ]
+    },
+    {
+        "src": "nist siponeis ufar laisarja nih skalks ufar fraujin seinamma",
+        "masked": "nist siponeis ufar laisarja nih skalks ufar [MASK] seinamma",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "fraujin"
+            }
+        ]
+    },
+    {
+        "src": "ni ainnohun frawardidedum",
+        "masked": "ni ainnohun frawardidedum",
+        "masked_tokens": []
+    },
+    {
+        "src": "baþ þan ina sa wair af þammei þos unhulþons usiddjedun ei wesi miþ imma",
+        "masked": "baþ þan ina sa wair af þammei þos unhulþons [MASK] ei wesi miþ imma",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "usiddjedun"
+            }
+        ]
+    },
+    {
+        "src": "jah was merjands in swnagogim Galeilaias",
+        "masked": "jah was merjands [MASK] swnagogim Galeilaias",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "jah atgaggands dalaþ miþ im gastoþ ana stada ibnamma jah hiuma siponje is jah hansa mikila manageins af allamma Iudaias jah Iairusalem jah þize faur marein Twre jah Seidone þaiei qemun hausjan imma jah hailjan sik sauhte seinaizo",
+        "masked": "jah atgaggands dalaþ miþ im [MASK] ana stada ibnamma jah hiuma siponje is jah hansa mikila manageins af allamma Iudaias jah Iairusalem jah þize faur marein Twre jah Seidone [MASK] qemun hausjan [MASK] [MASK] hailjan sik sauhte seinaizo",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "gastoþ"
+            },
+            {
+                "mask_idx": 29,
+                "masked_token": "þaiei"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "imma"
+            },
+            {
+                "mask_idx": 33,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "þana gaggandan du mis ni huggreiþ jah þana galaubjandan du mis ni þaurseiþ ƕanhun",
+        "masked": "[MASK] gaggandan du mis ni huggreiþ jah þana galaubjandan du mis ni þaurseiþ ƕanhun",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "þana"
+            }
+        ]
+    },
+    {
+        "src": "þu is sunus meins sa liuba in þuzei waila galeikaida",
+        "masked": "þu is sunus meins sa liuba in þuzei waila [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "galeikaida"
+            }
+        ]
+    },
+    {
+        "src": "jabai gaqimiþ alla aikklesjo samana jah rodjand razdom allai at-gaggand uþ þan inn jah unweisai aiþþau ungalaubjandans niu qiþand þatei dwalmoþ",
+        "masked": "jabai gaqimiþ alla aikklesjo samana jah [MASK] razdom allai at-gaggand uþ þan inn jah [MASK] aiþþau ungalaubjandans niu qiþand þatei dwalmoþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "rodjand"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "unweisai"
+            }
+        ]
+    },
+    {
+        "src": "waurstwa þoei ik tauja in namin attins meinis þo weitwodjand bi mik",
+        "masked": "waurstwa þoei ik tauja in namin [MASK] meinis þo weitwodjand bi mik",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "attins"
+            }
+        ]
+    },
+    {
+        "src": "Jah izwis wisandans dauþans missadedim jah frawaurhtim izwaraim in þaimei simle iddjeduþ bi þizai aldai þis fairƕaus bi reik waldufnjis luftaus ahmins þis nu waurkjandins in sunum ungalaubeinais in þaimei jah weis allai usmetum suman in lustum leikis unsaris taujandans wiljans leikis jah gamitone jah wesum wistai barna hatize swaswe jah þai anþarai",
+        "masked": "Jah izwis wisandans dauþans missadedim jah frawaurhtim izwaraim in þaimei simle iddjeduþ bi [MASK] aldai þis fairƕaus bi reik waldufnjis luftaus ahmins þis nu [MASK] in sunum ungalaubeinais in þaimei jah weis allai usmetum suman in lustum leikis unsaris [MASK] [MASK] leikis [MASK] gamitone jah wesum wistai barna hatize swaswe jah þai anþarai",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "þizai"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "waurkjandins"
+            },
+            {
+                "mask_idx": 39,
+                "masked_token": "taujandans"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "wiljans"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "jah athabaidedun sik du imma Iakobus jah Iohannes sunjus Zaibaidaiaus qiþandans",
+        "masked": "jah athabaidedun sik du imma [MASK] jah Iohannes sunjus Zaibaidaiaus qiþandans",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "Iakobus"
+            }
+        ]
+    },
+    {
+        "src": "amen qiþa izwis",
+        "masked": "amen qiþa izwis",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ is uswairpands allaim ganimiþ attan þis barnis jah aiþein jah þans miþ sis jah galaiþ inn þarei was þata barn ligando",
+        "masked": "[MASK] is uswairpands allaim ganimiþ attan þis barnis jah aiþein jah þans miþ [MASK] jah galaiþ inn þarei was þata barn ligando",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "iþ"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "sis"
+            }
+        ]
+    },
+    {
+        "src": "unte silba frauja in haitjai in stibnai arkaggilaus jah in þuthaurna gudis dalaþ atsteigiþ af himina jah dauþans þai in Xristau usstandand faurþis",
+        "masked": "[MASK] silba frauja in [MASK] in stibnai arkaggilaus jah in þuthaurna gudis dalaþ atsteigiþ af himina jah dauþans þai in Xristau usstandand faurþis",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "unte"
+            },
+            {
+                "mask_idx": 4,
+                "masked_token": "haitjai"
+            }
+        ]
+    },
+    {
+        "src": "niu mahta sa izei uslauk augona þamma blindin gataujan ei jah sa ni gadauþnodedi",
+        "masked": "niu mahta sa izei uslauk augona þamma blindin [MASK] ei jah sa ni gadauþnodedi",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "gataujan"
+            }
+        ]
+    },
+    {
+        "src": "gasaiƕandans þan gakannidedun bi þata waurd þatei rodiþ was du im bi þata barn",
+        "masked": "gasaiƕandans þan gakannidedun bi [MASK] waurd þatei rodiþ was du im bi þata barn",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "þata"
+            }
+        ]
+    },
+    {
+        "src": "nis sijai",
+        "masked": "nis sijai",
+        "masked_tokens": []
+    },
+    {
+        "src": "ni horinos",
+        "masked": "ni horinos",
+        "masked_tokens": []
+    },
+    {
+        "src": "ƕaiwa qiþand Xristu sunu Daweidis wisan",
+        "masked": "[MASK] qiþand Xristu sunu Daweidis wisan",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "ƕaiwa"
+            }
+        ]
+    },
+    {
+        "src": "ist magula ains her saei habaiþ ·e· hlaibans barizeinans jah ·b· fiskans",
+        "masked": "ist magula ains her saei habaiþ ·e· hlaibans barizeinans [MASK] ·b· fiskans",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "jah aftra afaiaik miþ aiþa swarands þatei",
+        "masked": "jah aftra afaiaik [MASK] aiþa swarands þatei",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "miþ"
+            }
+        ]
+    },
+    {
+        "src": "jah þan galaiþ in gard us þizai managein frehun ina siponjos is bi þo gajukon",
+        "masked": "[MASK] þan galaiþ in gard us þizai managein frehun [MASK] siponjos is bi þo gajukon",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 9,
+                "masked_token": "ina"
+            }
+        ]
+    },
+    {
+        "src": "jah þan sa hlaifs þanei ik giba leik mein ist þatei ik giba in þizos manasedais libainais",
+        "masked": "jah þan sa hlaifs þanei ik giba leik mein ist [MASK] ik giba in þizos manasedais [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "þatei"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "libainais"
+            }
+        ]
+    },
+    {
+        "src": "jah wesun rodjandans miþ Iesua",
+        "masked": "jah wesun rodjandans miþ Iesua",
+        "masked_tokens": []
+    },
+    {
+        "src": "þo gajukon qaþ im Iesus",
+        "masked": "þo gajukon qaþ im Iesus",
+        "masked_tokens": []
+    },
+    {
+        "src": "ansts fraujins unsaris Iesuis Xristaus miþ ahmin izwaramma broþrjus",
+        "masked": "ansts fraujins unsaris [MASK] Xristaus miþ ahmin izwaramma broþrjus",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "Iesuis"
+            }
+        ]
+    },
+    {
+        "src": "qiþiþ frauja þatei",
+        "masked": "qiþiþ frauja þatei",
+        "masked_tokens": []
+    },
+    {
+        "src": "þata laisei jah gaþlaih",
+        "masked": "þata laisei jah gaþlaih",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah andhof Iesus wiþra ina qiþands",
+        "masked": "jah andhof [MASK] wiþra ina qiþands",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "Iesus"
+            }
+        ]
+    },
+    {
+        "src": "ei usfullnodedi þata waurd þatei qaþ ei",
+        "masked": "ei usfullnodedi þata waurd þatei [MASK] ei",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "qaþ"
+            }
+        ]
+    },
+    {
+        "src": "qeþun þan þai gahausjandans",
+        "masked": "qeþun þan þai gahausjandans",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah qaþ du im Iesus",
+        "masked": "jah qaþ du im Iesus",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah nemun þo samaleiko þai sibun jah ni biliþun fraiwa",
+        "masked": "jah nemun þo samaleiko þai sibun jah ni [MASK] fraiwa",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "biliþun"
+            }
+        ]
+    },
+    {
+        "src": "jah qaþ du imma",
+        "masked": "jah qaþ du imma",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ saei unmahteigs ist gras matjiþ",
+        "masked": "iþ saei unmahteigs ist [MASK] matjiþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "gras"
+            }
+        ]
+    },
+    {
+        "src": "batizo ist auk þus ei fraqistnai ains liþiwe þeinaize jah ni allata leik þein gadriusai in gaiainnan",
+        "masked": "batizo ist auk þus [MASK] fraqistnai ains liþiwe þeinaize jah ni allata leik þein [MASK] in gaiainnan",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "ei"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "gadriusai"
+            }
+        ]
+    },
+    {
+        "src": "jabai anabusnins meinos fastaid sijuþ in friaþwai meinai swaswe ik anabusnins attins meinis fastaida jah wisa in friaþwai is",
+        "masked": "[MASK] anabusnins meinos fastaid sijuþ in friaþwai [MASK] swaswe ik anabusnins attins meinis fastaida jah wisa in friaþwai is",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "jabai"
+            },
+            {
+                "mask_idx": 7,
+                "masked_token": "meinai"
+            }
+        ]
+    },
+    {
+        "src": "unte bi andhuleinai gakannida was mis so runa swe fauragamelida in leitilamma duþþe ei siggwandans mageiþ fraþjan frodein meinai in runai Xristaus þatei anþaraim aldim ni kunþ was sunum manne swaswe nu andhuliþ ist þaim weiham is apaustaulum jah praufetum in ahmin wisan þiudos gaarbjans jah galeikans jah gadailans gahaitis is in Xristau Iesu þairh aiwaggeljon þizozei warþ andbahts ik bi gibai anstais gudis þizai gibanon mis bi toja mahtais is",
+        "masked": "unte bi andhuleinai gakannida was mis so runa swe fauragamelida [MASK] leitilamma duþþe ei siggwandans mageiþ fraþjan frodein meinai in runai Xristaus þatei anþaraim aldim ni kunþ was sunum manne swaswe nu [MASK] ist þaim weiham is apaustaulum jah praufetum [MASK] ahmin wisan þiudos gaarbjans jah [MASK] jah gadailans gahaitis is in Xristau Iesu þairh aiwaggeljon þizozei warþ andbahts ik [MASK] [MASK] anstais gudis þizai gibanon mis [MASK] toja mahtais is",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "in"
+            },
+            {
+                "mask_idx": 32,
+                "masked_token": "andhuliþ"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "in"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": "galeikans"
+            },
+            {
+                "mask_idx": 60,
+                "masked_token": "bi"
+            },
+            {
+                "mask_idx": 61,
+                "masked_token": "gibai"
+            },
+            {
+                "mask_idx": 67,
+                "masked_token": "bi"
+            }
+        ]
+    },
+    {
+        "src": "jah andhof im qiþands",
+        "masked": "jah andhof im qiþands",
+        "masked_tokens": []
+    },
+    {
+        "src": "þaruh usiddja ut sa siponeis anþar saei was kunþs þamma gudjin jah qaþ daurawardai jah attauh inn Paitru",
+        "masked": "þaruh usiddja ut sa siponeis [MASK] saei was kunþs þamma gudjin jah qaþ daurawardai jah attauh inn [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "anþar"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "Paitru"
+            }
+        ]
+    },
+    {
+        "src": "ƕa sijai so gajuko",
+        "masked": "ƕa sijai so gajuko",
+        "masked_tokens": []
+    },
+    {
+        "src": "Aiwaggeljo þairh Lukan anastodeiþ",
+        "masked": "Aiwaggeljo þairh Lukan anastodeiþ",
+        "masked_tokens": []
+    },
+    {
+        "src": "sinteino weis libandans in dauþu atgibanda in Iesuis ei jah libains Iesuis swikunþa wairþai in riurjamma leika unsaramma",
+        "masked": "sinteino weis [MASK] in dauþu atgibanda in Iesuis ei jah libains Iesuis swikunþa wairþai [MASK] riurjamma leika unsaramma",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "libandans"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "jabai anþaraim ni im apaustaulus aiþþau izwis im",
+        "masked": "jabai anþaraim ni [MASK] apaustaulus aiþþau izwis im",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "im"
+            }
+        ]
+    },
+    {
+        "src": "Du Kaurinþium ·a· ustauh",
+        "masked": "Du Kaurinþium ·a· ustauh",
+        "masked_tokens": []
+    },
+    {
+        "src": "awiliudo guda ei ainnohun izwara ni daupida niba Krispu jah Gaïu ei ƕas ni qiþai þatei in meinamma namin daupidedjau",
+        "masked": "awiliudo guda ei ainnohun izwara ni daupida niba Krispu jah Gaïu ei ƕas ni [MASK] þatei in meinamma namin [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "qiþai"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "daupidedjau"
+            }
+        ]
+    },
+    {
+        "src": "jabai nu bairais aibr þein du hunslastada jah jainar gamuneis þatei broþar þeins habaiþ ƕa bi þuk aflet jainar þo giba þeina in andwairþja hunslastadis jah gagg faurþis gasibjon broþr þeinamma jah biþe atgaggands atbair þo giba þeina",
+        "masked": "[MASK] nu bairais aibr þein du hunslastada [MASK] jainar gamuneis þatei broþar [MASK] habaiþ ƕa bi þuk aflet jainar þo giba þeina in [MASK] hunslastadis jah gagg faurþis gasibjon broþr þeinamma jah biþe atgaggands atbair þo giba þeina",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "jabai"
+            },
+            {
+                "mask_idx": 7,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "þeins"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": "andwairþja"
+            }
+        ]
+    },
+    {
+        "src": "amen amen qiþa izwis",
+        "masked": "amen amen qiþa izwis",
+        "masked_tokens": []
+    },
+    {
+        "src": "aþþan biþe fastaiþ ni wairþaiþ swaswe þai liutans gaurai",
+        "masked": "aþþan biþe fastaiþ ni wairþaiþ swaswe þai liutans [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "gaurai"
+            }
+        ]
+    },
+    {
+        "src": "sibun broþrahans wesun",
+        "masked": "sibun broþrahans wesun",
+        "masked_tokens": []
+    },
+    {
+        "src": "ibai jah þu þize siponje is þis mans",
+        "masked": "ibai jah þu þize siponje is þis [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "mans"
+            }
+        ]
+    },
+    {
+        "src": "raihtaba stauides",
+        "masked": "raihtaba stauides",
+        "masked_tokens": []
+    },
+    {
+        "src": "þata insakands broþrum goþs wairþis andbahts Xristaus Iesuis alands waurdam galaubeinais jah godaizos laiseinais þoei galaistides",
+        "masked": "þata insakands broþrum goþs wairþis andbahts Xristaus Iesuis alands [MASK] galaubeinais jah godaizos [MASK] þoei galaistides",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "waurdam"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "laiseinais"
+            }
+        ]
+    },
+    {
+        "src": "du sis misso andrunnun ƕarjis maists wesi",
+        "masked": "du sis misso andrunnun ƕarjis [MASK] wesi",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "maists"
+            }
+        ]
+    },
+    {
+        "src": "iþ is andhafjands im qaþ",
+        "masked": "iþ is andhafjands im qaþ",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ Peilatus aftra andhafjands qaþ du im",
+        "masked": "iþ Peilatus aftra andhafjands qaþ du [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "im"
+            }
+        ]
+    },
+    {
+        "src": "ni manna izwis usluto lausaim waurdam þairh þoei qimiþ hatis gudis ana sunum ungalaubeinais",
+        "masked": "ni manna izwis usluto lausaim waurdam þairh þoei qimiþ hatis gudis [MASK] sunum ungalaubeinais",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "ana"
+            }
+        ]
+    },
+    {
+        "src": "akei jus ni galaubeiþ unte ni sijuþ lambe meinaize swaswe qaþ izwis",
+        "masked": "[MASK] jus ni galaubeiþ unte ni sijuþ lambe meinaize swaswe qaþ izwis",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "akei"
+            }
+        ]
+    },
+    {
+        "src": "iþ Seimon Paitrus was standands jah warmjands sik",
+        "masked": "iþ [MASK] Paitrus was standands jah warmjands sik",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "Seimon"
+            }
+        ]
+    },
+    {
+        "src": "qeþun du imma",
+        "masked": "qeþun du imma",
+        "masked_tokens": []
+    },
+    {
+        "src": "andhofun jah qeþun du imma",
+        "masked": "andhofun jah qeþun du imma",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ þo usweihona swe usalþanaizo spilla biwandei iþ þroþei þuk silban du gagudein",
+        "masked": "iþ þo usweihona swe usalþanaizo spilla biwandei iþ þroþei þuk silban [MASK] gagudein",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "du"
+            }
+        ]
+    },
+    {
+        "src": "ni auk skulun barna fadreinam huzdjan ak fadreina barnam",
+        "masked": "ni auk skulun barna fadreinam huzdjan [MASK] fadreina barnam",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "ak"
+            }
+        ]
+    },
+    {
+        "src": "audags saei matjiþ hlaif in þiudangardjai gudis",
+        "masked": "audags saei matjiþ [MASK] in þiudangardjai gudis",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "hlaif"
+            }
+        ]
+    },
+    {
+        "src": "iþ ik qam ei libain aigeina jah managizo aigeina",
+        "masked": "iþ ik qam ei libain aigeina jah [MASK] aigeina",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "managizo"
+            }
+        ]
+    },
+    {
+        "src": "unte ains hlaifs ain leik þai managans sium þaiei auk allai ainis hlaibis jah ainis stiklis brukjam",
+        "masked": "unte ains hlaifs ain leik þai managans sium þaiei [MASK] allai ainis hlaibis jah ainis [MASK] brukjam",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "auk"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "stiklis"
+            }
+        ]
+    },
+    {
+        "src": "þizeei ist Wmainaius jah Filetus þaiei bi sunjai uswissai usmetun qiþandans usstass ju waurþana jah galaubein sumaize uswaltidedun",
+        "masked": "þizeei ist Wmainaius jah Filetus þaiei bi sunjai uswissai usmetun qiþandans usstass ju waurþana [MASK] [MASK] sumaize uswaltidedun",
+        "masked_tokens": [
+            {
+                "mask_idx": 14,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "galaubein"
+            }
+        ]
+    },
+    {
+        "src": "þata auk qiþa broþrjus þei leik jah bloþ þiudinassu gudis ganiman ni magun nih riurei unriureins arbjo wairþiþ",
+        "masked": "þata auk qiþa broþrjus þei leik jah bloþ [MASK] gudis ganiman ni magun nih riurei unriureins arbjo [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "þiudinassu"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "wairþiþ"
+            }
+        ]
+    },
+    {
+        "src": "fraujan guþ þeinana inweitais jah imma ainamma fullafahjais",
+        "masked": "fraujan guþ þeinana inweitais [MASK] imma ainamma fullafahjais",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "wissa auk þatei in neiþis atgebun ina",
+        "masked": "wissa auk þatei in neiþis atgebun [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "ina"
+            }
+        ]
+    },
+    {
+        "src": "jah jabai marzjai þuk handus þeina afmait þo",
+        "masked": "jah jabai marzjai [MASK] handus þeina afmait þo",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "þuk"
+            }
+        ]
+    },
+    {
+        "src": "meina andahafts wiþra þans mik ussokjandans þat ist",
+        "masked": "meina andahafts [MASK] þans mik ussokjandans þat ist",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "wiþra"
+            }
+        ]
+    },
+    {
+        "src": "bi sunjai sa manna sa sunus was gudis",
+        "masked": "bi sunjai [MASK] manna sa sunus was gudis",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "sa"
+            }
+        ]
+    },
+    {
+        "src": "afar uh þan þans dagans inkilþo warþ Aileisabaiþ qens is jah galaugnida sik menoþs fimf qiþandei þatei",
+        "masked": "[MASK] uh þan þans dagans inkilþo warþ Aileisabaiþ qens is jah galaugnida sik [MASK] fimf qiþandei þatei",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "afar"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "menoþs"
+            }
+        ]
+    },
+    {
+        "src": "us-gibiþ nu þo kaisaris kaisara jah þo gudis guda",
+        "masked": "us-gibiþ nu þo kaisaris kaisara jah [MASK] gudis guda",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "þo"
+            }
+        ]
+    },
+    {
+        "src": "swaei frauja ist sa sunus mans jah þamma sabbato",
+        "masked": "swaei frauja ist sa sunus mans jah [MASK] sabbato",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "þamma"
+            }
+        ]
+    },
+    {
+        "src": "Iohannes sa daupjands insandida ugkis du þus qiþands",
+        "masked": "Iohannes sa [MASK] insandida ugkis du þus qiþands",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "daupjands"
+            }
+        ]
+    },
+    {
+        "src": "unte sunus mans ni qam saiwalom qistjan ak nasjan",
+        "masked": "unte sunus mans ni qam saiwalom qistjan ak [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "nasjan"
+            }
+        ]
+    },
+    {
+        "src": "andhofun jah qeþun du imma",
+        "masked": "andhofun jah qeþun du imma",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah in alh ƕarbondin imma atiddjedun du imma þai auhumistans gudjans jah bokarjos jah sinistans",
+        "masked": "jah in alh ƕarbondin imma atiddjedun du imma þai [MASK] gudjans jah [MASK] jah sinistans",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "auhumistans"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "bokarjos"
+            }
+        ]
+    },
+    {
+        "src": "manna afleitanda þus frawaurhteis þeinos",
+        "masked": "manna afleitanda þus frawaurhteis þeinos",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah bihlohun ina",
+        "masked": "jah bihlohun ina",
+        "masked_tokens": []
+    },
+    {
+        "src": "qaþ frauja du fraujin meinamma",
+        "masked": "qaþ frauja du fraujin meinamma",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah saei saiƕiþ mik saiƕiþ þana sandjandan mik",
+        "masked": "[MASK] saei saiƕiþ mik saiƕiþ þana sandjandan mik",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "ƕan filu skalt fraujin meinamma",
+        "masked": "ƕan filu skalt fraujin meinamma",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ jabai ƕas laþo izwis þize ungalaubjandane jah wileiþ gaggan all þatei faurlagjaidau izwis matjaiþ ni waiht andsitandans bi gahugdai",
+        "masked": "iþ jabai ƕas laþo izwis þize ungalaubjandane jah wileiþ gaggan all þatei faurlagjaidau [MASK] matjaiþ [MASK] waiht andsitandans bi gahugdai",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "izwis"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "ni"
+            }
+        ]
+    },
+    {
+        "src": "qiþa izwis þatei þizai naht twai wairþand ana ligra samin",
+        "masked": "qiþa izwis [MASK] þizai naht twai wairþand ana ligra samin",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "þatei"
+            }
+        ]
+    },
+    {
+        "src": "jah þai miþushramidans imma idweitidedun imma",
+        "masked": "jah þai miþushramidans imma [MASK] imma",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "idweitidedun"
+            }
+        ]
+    },
+    {
+        "src": "iþ jaþþe praufetja gatairanda",
+        "masked": "iþ jaþþe praufetja gatairanda",
+        "masked_tokens": []
+    },
+    {
+        "src": "þata auk taujands haurja funins rikis ana haubiþ is",
+        "masked": "þata auk taujands haurja funins rikis [MASK] haubiþ is",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "ana"
+            }
+        ]
+    },
+    {
+        "src": "jah qemun at imma usliþan bairandans hafanana fram fidworim",
+        "masked": "jah qemun at imma [MASK] bairandans hafanana fram fidworim",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "usliþan"
+            }
+        ]
+    },
+    {
+        "src": "ik usgiba",
+        "masked": "ik usgiba",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah matidedun jah sadai waurþun allai",
+        "masked": "jah matidedun jah [MASK] waurþun allai",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "sadai"
+            }
+        ]
+    },
+    {
+        "src": "jah athaitands þana hundafaþ frah ina ju u þan gadauþnodedi",
+        "masked": "jah athaitands þana hundafaþ [MASK] ina ju u þan gadauþnodedi",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "frah"
+            }
+        ]
+    },
+    {
+        "src": "akei duþþe qam in þizai ƕeilai",
+        "masked": "[MASK] duþþe qam in þizai ƕeilai",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "akei"
+            }
+        ]
+    },
+    {
+        "src": "saei inn ni atgaggiþ þairh daur in gardan lambe ak steigiþ aljaþro sah hliftus ist jah waidedja",
+        "masked": "saei inn [MASK] atgaggiþ þairh daur in gardan lambe ak steigiþ aljaþro sah hliftus ist [MASK] waidedja",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "ni"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "jah jabai ƕas meinaim hausjai waurdam jah galaubjai ik ni stoja ina",
+        "masked": "jah jabai ƕas meinaim hausjai waurdam [MASK] galaubjai ik ni stoja ina",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "atta nasei mik us þizai ƕeilai",
+        "masked": "atta nasei mik [MASK] þizai ƕeilai",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "us"
+            }
+        ]
+    },
+    {
+        "src": "þiuþiþs guþ jah atta fraujins unsaris Iesuis Xristaus izei gaþiuþida uns ana allai þiuþeinai ahmeinai in himinakundaim in Xristau swaswe gawalida uns in imma faur gasatein fairƕaus ei sijaima weihai jah unwammai in andwairþja is in frijaþwai",
+        "masked": "þiuþiþs guþ jah atta fraujins unsaris Iesuis Xristaus izei gaþiuþida uns ana allai þiuþeinai ahmeinai [MASK] [MASK] in Xristau swaswe [MASK] uns [MASK] imma faur gasatein fairƕaus ei sijaima weihai jah unwammai in andwairþja is in frijaþwai",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "in"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "himinakundaim"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "gawalida"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "ansts izwis jah gawairþi fram guda attin jah fraujin unsaramma Iesu Xristau izei gaf sik silban faur frawaurhtins unsaros ei uslausidedi uns us þamma andwairþin aiwa ubilin bi wiljin gudis jah attins unsaris þammei wulþus du aiwam",
+        "masked": "ansts [MASK] jah gawairþi fram guda attin jah fraujin unsaramma Iesu Xristau izei gaf sik silban faur frawaurhtins unsaros ei uslausidedi uns us [MASK] [MASK] aiwa ubilin bi wiljin gudis jah attins unsaris þammei wulþus [MASK] aiwam",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "izwis"
+            },
+            {
+                "mask_idx": 23,
+                "masked_token": "þamma"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "andwairþin"
+            },
+            {
+                "mask_idx": 35,
+                "masked_token": "du"
+            }
+        ]
+    },
+    {
+        "src": "akei silbans in uns silbam andahaft dauþaus habaidedum ei ni sijaima trauandans du uns silbam ak du guda þamma urraisjandin dauþans izei us swaleikaim dauþum uns galausida jah galauseiþ du þammei wenidedum ei galauseiþ at hilpandam jah izwis bi uns bidai ei in managamma andwairþja so in uns giba þairh managans awiliudodau faur uns",
+        "masked": "akei silbans [MASK] uns silbam andahaft dauþaus habaidedum ei ni sijaima trauandans du uns silbam ak du guda [MASK] urraisjandin dauþans izei us swaleikaim dauþum uns galausida jah [MASK] du þammei wenidedum ei galauseiþ at hilpandam jah izwis bi uns bidai [MASK] [MASK] managamma andwairþja so in uns giba þairh managans awiliudodau faur uns",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "in"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "þamma"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "galauseiþ"
+            },
+            {
+                "mask_idx": 41,
+                "masked_token": "ei"
+            },
+            {
+                "mask_idx": 42,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "laisari qiþ",
+        "masked": "laisari qiþ",
+        "masked_tokens": []
+    },
+    {
+        "src": "weiz uþ þan unmahteigai iþ jus swinþai",
+        "masked": "weiz uþ [MASK] unmahteigai iþ jus swinþai",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "þan"
+            }
+        ]
+    },
+    {
+        "src": "jah þata waurd habaidedun du sis misso sokjandans",
+        "masked": "jah þata waurd habaidedun du sis misso [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "sokjandans"
+            }
+        ]
+    },
+    {
+        "src": "laisari witum þatei sunjeins is jah ni kara þuk manshun",
+        "masked": "laisari witum þatei [MASK] is jah ni kara þuk manshun",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "sunjeins"
+            }
+        ]
+    },
+    {
+        "src": "jah saurgos þizos libainais jah afmarzeins gabeins jah þai bi þata anþar lustjus innatgaggandans afƕapjand þata waurd jah akranalaus wairþiþ",
+        "masked": "jah saurgos þizos libainais jah afmarzeins gabeins jah þai bi [MASK] anþar lustjus innatgaggandans afƕapjand [MASK] waurd jah akranalaus wairþiþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "þata"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "þata"
+            }
+        ]
+    },
+    {
+        "src": "ik im liuhaþ manasedais",
+        "masked": "ik im liuhaþ manasedais",
+        "masked_tokens": []
+    },
+    {
+        "src": "frawardjand auk andwairþja seina ei gasaiƕaindau mannam fastandans",
+        "masked": "frawardjand auk andwairþja seina ei gasaiƕaindau [MASK] fastandans",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "mannam"
+            }
+        ]
+    },
+    {
+        "src": "jah qam in Nazaraiþ þarei was fodiþs jah galaiþ inn bi biuhtja seinamma in daga sabbato in swnagogein jah usstoþ siggwan bokos",
+        "masked": "jah qam in Nazaraiþ þarei was [MASK] jah galaiþ [MASK] bi biuhtja seinamma in daga sabbato in swnagogein jah usstoþ siggwan bokos",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "fodiþs"
+            },
+            {
+                "mask_idx": 9,
+                "masked_token": "inn"
+            }
+        ]
+    },
+    {
+        "src": "unkunnandans auk gudis garaihtein jah seina garaihtein sokjandans stiurjan garaihtein gudis ni ufhausidedun",
+        "masked": "unkunnandans auk gudis garaihtein jah seina garaihtein sokjandans [MASK] garaihtein gudis ni ufhausidedun",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "stiurjan"
+            }
+        ]
+    },
+    {
+        "src": "jah insandidedun du imma sumai þize Fareisaie jah Herodiane ei ina ganuteina waurda",
+        "masked": "jah [MASK] du imma sumai þize Fareisaie jah Herodiane ei ina ganuteina waurda",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "insandidedun"
+            }
+        ]
+    },
+    {
+        "src": "usgibiþ þo kaisaris kaisara jah þo gudis guda",
+        "masked": "usgibiþ þo [MASK] kaisara jah þo gudis guda",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "kaisaris"
+            }
+        ]
+    },
+    {
+        "src": "andhof imma so managei",
+        "masked": "andhof imma so managei",
+        "masked_tokens": []
+    },
+    {
+        "src": "raus fram winda wagidata",
+        "masked": "raus fram winda wagidata",
+        "masked_tokens": []
+    },
+    {
+        "src": "afdobn jah usgagg us þamma",
+        "masked": "afdobn jah usgagg us þamma",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah qaþ du imma Iesus",
+        "masked": "jah qaþ du imma Iesus",
+        "masked_tokens": []
+    },
+    {
+        "src": "du Mose auk qiþiþ",
+        "masked": "du Mose auk qiþiþ",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ nu sai jah taujan ustiuhaiþ ei swaswe fauraïst muns du wiljan swa jah du ustiuhan us þammei habaiþ",
+        "masked": "iþ nu sai jah taujan ustiuhaiþ ei swaswe fauraïst muns [MASK] [MASK] swa jah du ustiuhan us þammei habaiþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "du"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "wiljan"
+            }
+        ]
+    },
+    {
+        "src": "unte gadauþnodeduþ jah libains izwara gafulgina ist miþ Xristau in guda",
+        "masked": "unte gadauþnodeduþ jah libains [MASK] gafulgina ist miþ Xristau in guda",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "izwara"
+            }
+        ]
+    },
+    {
+        "src": "andaugiba rodeiþ jah waiht du imma ni qiþand",
+        "masked": "andaugiba rodeiþ jah waiht du imma ni [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "qiþand"
+            }
+        ]
+    },
+    {
+        "src": "miþþanei þan iddja is manageins þraihun ina",
+        "masked": "miþþanei þan iddja is manageins [MASK] ina",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "þraihun"
+            }
+        ]
+    },
+    {
+        "src": "þan was miþ im in þamma fairƕau ik fastaida ins in namin þeinamma",
+        "masked": "þan was miþ im in [MASK] fairƕau ik fastaida ins in namin þeinamma",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "þamma"
+            }
+        ]
+    },
+    {
+        "src": "jah insandida airuns faura sis jah gaggandans galiþun in haim Samareite swe manwjan imma",
+        "masked": "[MASK] insandida airuns faura sis jah gaggandans galiþun in haim Samareite swe manwjan imma",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "jah usgaggandin imma in wig duatrinnands ains jah knussjands baþ ina qiþands",
+        "masked": "jah usgaggandin imma in wig duatrinnands [MASK] jah knussjands baþ ina qiþands",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "ains"
+            }
+        ]
+    },
+    {
+        "src": "jabai ƕas habai ausona hausjandona gahausjai",
+        "masked": "jabai ƕas habai ausona [MASK] gahausjai",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "hausjandona"
+            }
+        ]
+    },
+    {
+        "src": "jah gataihan warþ imma þatei",
+        "masked": "jah gataihan warþ imma þatei",
+        "masked_tokens": []
+    },
+    {
+        "src": "frauja ei ussaiƕau",
+        "masked": "frauja ei ussaiƕau",
+        "masked_tokens": []
+    },
+    {
+        "src": "duþþe ni mahtedun galaubjan unte aftra qaþ Esaeias",
+        "masked": "duþþe ni mahtedun galaubjan unte aftra qaþ [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "Esaeias"
+            }
+        ]
+    },
+    {
+        "src": "iþ Iesus andhof imma þatei frumista allaizo anabusns",
+        "masked": "iþ [MASK] andhof imma þatei frumista allaizo anabusns",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "Iesus"
+            }
+        ]
+    },
+    {
+        "src": "bisaiƕandans godis ni þatainei in andwairþja gudis ak jah in andwairþja manne allaize",
+        "masked": "bisaiƕandans godis ni þatainei in andwairþja [MASK] ak jah in andwairþja manne allaize",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "gudis"
+            }
+        ]
+    },
+    {
+        "src": "þata anþar gabidjaiþ jah bi unsis broþrjus ei waurd fraujins þragjai jah mikiljaidau swaswe jah at izwis jah ei uslausjaindau af gastojanaim jah ubilaim mannam",
+        "masked": "þata [MASK] gabidjaiþ jah bi unsis broþrjus ei waurd fraujins [MASK] jah mikiljaidau swaswe jah at izwis jah ei uslausjaindau af gastojanaim jah ubilaim mannam",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "anþar"
+            },
+            {
+                "mask_idx": 10,
+                "masked_token": "þragjai"
+            }
+        ]
+    },
+    {
+        "src": "Moses auk meleiþ þo garaihtein us witoda þatei sa taujands þo manna libaiþ in izai",
+        "masked": "Moses [MASK] meleiþ þo garaihtein [MASK] witoda þatei sa taujands þo manna libaiþ in izai",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "auk"
+            },
+            {
+                "mask_idx": 5,
+                "masked_token": "us"
+            }
+        ]
+    },
+    {
+        "src": "jah is qaþ du im",
+        "masked": "jah is qaþ du im",
+        "masked_tokens": []
+    },
+    {
+        "src": "nist auk þiudangardi gudis mats jah dragk ak garaihtei jah gawairþi jah faheþs in ahmin weihamma",
+        "masked": "nist [MASK] þiudangardi gudis mats jah dragk ak garaihtei jah [MASK] jah faheþs in ahmin weihamma",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "auk"
+            },
+            {
+                "mask_idx": 10,
+                "masked_token": "gawairþi"
+            }
+        ]
+    },
+    {
+        "src": "andhofun þan im þai Fareisaieis",
+        "masked": "andhofun þan im þai Fareisaieis",
+        "masked_tokens": []
+    },
+    {
+        "src": "þaruh qaþ imma Þomas",
+        "masked": "þaruh qaþ imma Þomas",
+        "masked_tokens": []
+    },
+    {
+        "src": "wissa auk þatei in neiþis atgebun ina þai auhumistans gudjans",
+        "masked": "wissa auk þatei in neiþis atgebun [MASK] þai auhumistans gudjans",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "ina"
+            }
+        ]
+    },
+    {
+        "src": "jah qiþand izwis sai her aiþþau sai jainar",
+        "masked": "[MASK] qiþand izwis sai her aiþþau sai jainar",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "jah was in þizai swnagogen ize manna in unhrainjamma ahmin jah ufhropida qiþands",
+        "masked": "jah was in þizai swnagogen ize manna [MASK] unhrainjamma ahmin jah ufhropida qiþands",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "lais jah ufarassu haban",
+        "masked": "lais jah ufarassu haban",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah izwis dauþans wisandans missadedim jah unbimaita leikis izwaris miþgaqiwida miþ imma fragibands uns allos missadedins afswairbands þos ana uns wadjabokos raginam seinaim þatei was andaneiþo uns jah þata usnam us midumai ganagljands ita du galgin",
+        "masked": "jah izwis dauþans wisandans missadedim [MASK] [MASK] leikis izwaris miþgaqiwida miþ [MASK] fragibands uns allos missadedins afswairbands þos ana uns wadjabokos raginam seinaim þatei was [MASK] uns jah þata usnam us midumai ganagljands ita du galgin",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 6,
+                "masked_token": "unbimaita"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "imma"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "andaneiþo"
+            }
+        ]
+    },
+    {
+        "src": "friaþwa unliuta",
+        "masked": "friaþwa unliuta",
+        "masked_tokens": []
+    },
+    {
+        "src": "aftra qima jah franima izwis du mis silbin ei þarei im ik þaruh sijuþ jah jus",
+        "masked": "aftra qima jah franima izwis du mis [MASK] [MASK] þarei im ik þaruh sijuþ jah jus",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "silbin"
+            },
+            {
+                "mask_idx": 8,
+                "masked_token": "ei"
+            }
+        ]
+    },
+    {
+        "src": "usfulliþs im gaþlaihtais",
+        "masked": "usfulliþs im gaþlaihtais",
+        "masked_tokens": []
+    },
+    {
+        "src": "wisseis þatei ik manna hardus im nimands þatei ni lagida jah sneiþands þatei ni saiso",
+        "masked": "[MASK] þatei [MASK] manna hardus im nimands þatei ni lagida jah sneiþands þatei ni saiso",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "wisseis"
+            },
+            {
+                "mask_idx": 2,
+                "masked_token": "ik"
+            }
+        ]
+    },
+    {
+        "src": "iþ Herodes sa taitrarkes gasakans fram imma bi Herodiadein qen broþrs is jah bi alla þoei gawaurhta ubila Herodes anaaiauk jah þata ana alla jah galauk Iohannen in karkarai",
+        "masked": "iþ Herodes sa taitrarkes [MASK] fram [MASK] bi Herodiadein qen broþrs [MASK] jah bi alla þoei gawaurhta ubila Herodes anaaiauk jah þata ana alla jah galauk Iohannen in karkarai",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "gasakans"
+            },
+            {
+                "mask_idx": 6,
+                "masked_token": "imma"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "is"
+            }
+        ]
+    },
+    {
+        "src": "ufsagqiþs warþ dauþus in sigis",
+        "masked": "ufsagqiþs warþ dauþus in sigis",
+        "masked_tokens": []
+    },
+    {
+        "src": "andhof Iesus jah qaþ du im",
+        "masked": "andhof Iesus jah qaþ du [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "im"
+            }
+        ]
+    },
+    {
+        "src": "jah frah ins",
+        "masked": "jah frah ins",
+        "masked_tokens": []
+    },
+    {
+        "src": "andhafjands þan qaþ du im",
+        "masked": "andhafjands þan qaþ du im",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah þai bokarjos jah Fareisaieis gasaiƕandans ina matjandan miþ þaim motarjam jah frawaurhtaim qeþun du þaim siponjam is",
+        "masked": "jah þai [MASK] jah Fareisaieis [MASK] ina matjandan miþ þaim motarjam jah frawaurhtaim qeþun du þaim siponjam is",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "bokarjos"
+            },
+            {
+                "mask_idx": 5,
+                "masked_token": "gasaiƕandans"
+            }
+        ]
+    },
+    {
+        "src": "þan þis juþan asts þlaqus wairþiþ jah uskeinand laubos kunnuþ þatei neƕa ist asans",
+        "masked": "þan þis [MASK] asts þlaqus wairþiþ jah uskeinand laubos kunnuþ þatei neƕa ist asans",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "juþan"
+            }
+        ]
+    },
+    {
+        "src": "jah anaaiauk sandjan anþarana skalk",
+        "masked": "jah anaaiauk sandjan anþarana skalk",
+        "masked_tokens": []
+    },
+    {
+        "src": "wait uh þan atta izwar sa ufar himinam þatei þaurbuþ",
+        "masked": "wait uh þan atta izwar [MASK] ufar himinam þatei þaurbuþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "sa"
+            }
+        ]
+    },
+    {
+        "src": "nu saiwala meina gadrobnoda jah ƕa qiþau",
+        "masked": "nu saiwala meina gadrobnoda jah ƕa [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "qiþau"
+            }
+        ]
+    },
+    {
+        "src": "aftra hausideduþ þatei qiþan ist þaim airizam",
+        "masked": "aftra hausideduþ [MASK] qiþan ist þaim airizam",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "þatei"
+            }
+        ]
+    },
+    {
+        "src": "gaswalt þan jah sa gabeiga jah gafulhans warþ",
+        "masked": "gaswalt þan jah sa gabeiga jah gafulhans [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "warþ"
+            }
+        ]
+    },
+    {
+        "src": "þu nu arbaidei swe gods gadrauhts Xristaus Iesuis",
+        "masked": "þu [MASK] arbaidei swe gods gadrauhts Xristaus Iesuis",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "nu"
+            }
+        ]
+    },
+    {
+        "src": "jah usgaggandans us hlaiwasnom afar urrist is innatgaggandans in þo weihon baurg jah ataugidedun sik managaim",
+        "masked": "jah usgaggandans us hlaiwasnom [MASK] urrist is innatgaggandans in þo weihon baurg jah ataugidedun [MASK] managaim",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "afar"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "sik"
+            }
+        ]
+    },
+    {
+        "src": "þana aftumistan haban staþ",
+        "masked": "þana aftumistan haban staþ",
+        "masked_tokens": []
+    },
+    {
+        "src": "bidja izwis broþrjus wituþ gard Staifanaus þatei sind anastodeins Akaïje jah du andbahtja þaim weiham gasatidedun sik ei nu jah jus ufhausjaiþ þaim swaleikaim jah allaim þaim gawaurstwam jah arbaidjandam",
+        "masked": "bidja izwis broþrjus wituþ gard Staifanaus þatei sind anastodeins Akaïje [MASK] [MASK] andbahtja [MASK] weiham gasatidedun sik ei nu jah jus ufhausjaiþ þaim swaleikaim jah allaim þaim gawaurstwam jah arbaidjandam",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "du"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "þaim"
+            }
+        ]
+    },
+    {
+        "src": "swe hausida þatei siuks was þanuh þan salida in þammei was stada twans dagans",
+        "masked": "swe hausida þatei siuks was þanuh þan [MASK] in þammei was stada twans dagans",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "salida"
+            }
+        ]
+    },
+    {
+        "src": "þu u is sa qimanda þau anþariz uh beidaima",
+        "masked": "þu u is sa qimanda þau anþariz uh [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "beidaima"
+            }
+        ]
+    },
+    {
+        "src": "jah warþ miþþanei was is in ainai baurge jah sai manna fulls þrutsfillis jah gasaiƕands Iesu driusands ana andwairþi bad ina qiþands",
+        "masked": "jah [MASK] miþþanei was is [MASK] ainai baurge jah sai manna fulls þrutsfillis jah gasaiƕands Iesu driusands ana andwairþi bad ina qiþands",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "warþ"
+            },
+            {
+                "mask_idx": 5,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "iþ eis qeþun",
+        "masked": "iþ eis qeþun",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ is qaþ",
+        "masked": "iþ is qaþ",
+        "masked_tokens": []
+    },
+    {
+        "src": "frauja ƕa warþ ei unsis munais gabairhtjan þuk silban iþ þizai manasedai ni",
+        "masked": "frauja ƕa warþ ei unsis munais gabairhtjan þuk silban [MASK] þizai manasedai ni",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "iþ"
+            }
+        ]
+    },
+    {
+        "src": "þat uþ þan ni kunþedun siponjos is frumist",
+        "masked": "þat uþ þan ni [MASK] siponjos is frumist",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "kunþedun"
+            }
+        ]
+    },
+    {
+        "src": "duhþe qaþ þatei us meinamma nimiþ jah gateihiþ izwis",
+        "masked": "duhþe qaþ þatei us meinamma nimiþ jah [MASK] izwis",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "gateihiþ"
+            }
+        ]
+    },
+    {
+        "src": "jah qaþ du im",
+        "masked": "jah qaþ du im",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah qaþ du imma",
+        "masked": "jah qaþ du imma",
+        "masked_tokens": []
+    },
+    {
+        "src": "sums raihtis galaubeiþ matjan allata",
+        "masked": "sums raihtis galaubeiþ matjan allata",
+        "masked_tokens": []
+    },
+    {
+        "src": "unte ni satida uns guþ in hatis ak du gafreideinai ganistais þairh fraujan unsarana Iesu Xristu saei gaswalt faur uns ei jaþþe slepaima jaþþe wakaima samana miþ imma libaima",
+        "masked": "unte ni [MASK] uns guþ in hatis ak du gafreideinai ganistais þairh fraujan unsarana Iesu Xristu saei gaswalt faur uns ei jaþþe slepaima jaþþe wakaima [MASK] miþ imma [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "satida"
+            },
+            {
+                "mask_idx": 25,
+                "masked_token": "samana"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "libaima"
+            }
+        ]
+    },
+    {
+        "src": "jah qaþ sa skalks",
+        "masked": "jah qaþ sa skalks",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ Iudaieis hropidedun qiþandans",
+        "masked": "iþ Iudaieis hropidedun qiþandans",
+        "masked_tokens": []
+    },
+    {
+        "src": "þaruh aftra afaiaik Paitrus jah suns hana hrukida",
+        "masked": "þaruh [MASK] afaiaik Paitrus jah suns hana hrukida",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "aftra"
+            }
+        ]
+    },
+    {
+        "src": "qiþa allis izwis",
+        "masked": "qiþa allis izwis",
+        "masked_tokens": []
+    },
+    {
+        "src": "þaþroh gatauh ina in Iairusalem jah gasatida ina ana giblin alhs jah qaþ du imma",
+        "masked": "þaþroh gatauh ina in Iairusalem jah gasatida ina [MASK] giblin alhs [MASK] qaþ du imma",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "ana"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "jah was Iosef jah aiþei is sildaleikjandona ana þaim þoei rodida wesun bi ina",
+        "masked": "jah was Iosef jah aiþei is sildaleikjandona [MASK] þaim þoei rodida wesun bi ina",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "ana"
+            }
+        ]
+    },
+    {
+        "src": "eiþan frawaurhts izwara þairhwisiþ",
+        "masked": "eiþan frawaurhts izwara þairhwisiþ",
+        "masked_tokens": []
+    },
+    {
+        "src": "aþþan triggws frauja saei gatulgeiþ izwis jah galausjai izwis af þamma ubilin",
+        "masked": "aþþan [MASK] frauja saei gatulgeiþ izwis jah galausjai izwis af þamma ubilin",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "triggws"
+            }
+        ]
+    },
+    {
+        "src": "jah galeiþands in alh dugann uswairpan þans frabugjandans in izai jah bugjandans qiþands du im",
+        "masked": "jah [MASK] in alh dugann uswairpan þans frabugjandans in izai jah [MASK] qiþands du im",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "galeiþands"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "bugjandans"
+            }
+        ]
+    },
+    {
+        "src": "ni froþun þatei attan im qaþ",
+        "masked": "ni froþun þatei [MASK] im qaþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "attan"
+            }
+        ]
+    },
+    {
+        "src": "gasaiƕandans þan siponjos is Iakobus jah Iohannes qeþun",
+        "masked": "gasaiƕandans þan siponjos is [MASK] jah Iohannes qeþun",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "Iakobus"
+            }
+        ]
+    },
+    {
+        "src": "gaþrafstidedun auk jah meinana ahman jah izwarana",
+        "masked": "gaþrafstidedun [MASK] jah meinana ahman jah izwarana",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "auk"
+            }
+        ]
+    },
+    {
+        "src": "azitizo ist ulbandau þairh þairko neþlos galeiþan þau gabigamma in þiudangardja gudis galeiþan",
+        "masked": "azitizo ist ulbandau þairh [MASK] neþlos galeiþan þau gabigamma in þiudangardja gudis galeiþan",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "þairko"
+            }
+        ]
+    },
+    {
+        "src": "aþþan silba guþ jah atta unsar jah frauja unsar Iesus Xristus garaihtjai wig unsarana du izwis",
+        "masked": "aþþan silba guþ jah atta unsar jah frauja [MASK] Iesus Xristus garaihtjai wig [MASK] du izwis",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "unsar"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "unsarana"
+            }
+        ]
+    },
+    {
+        "src": "stains þammei uskusun timrjans sah warþ du haubida waihstins",
+        "masked": "stains þammei [MASK] timrjans sah warþ du haubida waihstins",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "uskusun"
+            }
+        ]
+    },
+    {
+        "src": "iþ sa blinda qaþ du imma",
+        "masked": "iþ sa [MASK] qaþ du imma",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "blinda"
+            }
+        ]
+    },
+    {
+        "src": "jah was managei beidandans Zakariins jah sildaleikidedun ƕa latidedi ina in þizai alh",
+        "masked": "jah [MASK] managei beidandans Zakariins jah sildaleikidedun ƕa latidedi ina in þizai alh",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "was"
+            }
+        ]
+    },
+    {
+        "src": "sai ik Pawlus qiþa izwis þatei jabai bimaitiþ Xristus izwis nist du botai",
+        "masked": "sai ik [MASK] qiþa izwis þatei jabai bimaitiþ Xristus izwis nist du botai",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "Pawlus"
+            }
+        ]
+    },
+    {
+        "src": "iþ jus ni swa ganemuþ Xristu jabai sweþauh ina hausideduþ jah in imma uslaisidai sijuþ swaswe ist sunja in Iesu ei aflagjaiþ jus bi frumin usmeta þana fairnjan mannan þana riurjan bi lustum afmarzeinais an-niujaiþ uþ þan ahmin fraþjis izwaris jag gahamoþ þamma niujin mann þamma bi guda gaskapanin in garaihtein jah weihiþai sunjos",
+        "masked": "iþ jus ni swa ganemuþ Xristu jabai sweþauh ina hausideduþ jah in imma uslaisidai sijuþ swaswe ist sunja in [MASK] ei aflagjaiþ jus bi frumin usmeta þana fairnjan mannan þana riurjan bi lustum afmarzeinais [MASK] uþ þan ahmin fraþjis izwaris [MASK] gahamoþ þamma niujin mann þamma [MASK] guda gaskapanin [MASK] garaihtein jah weihiþai sunjos",
+        "masked_tokens": [
+            {
+                "mask_idx": 19,
+                "masked_token": "Iesu"
+            },
+            {
+                "mask_idx": 34,
+                "masked_token": "an-niujaiþ"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "jag"
+            },
+            {
+                "mask_idx": 46,
+                "masked_token": "bi"
+            },
+            {
+                "mask_idx": 49,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "ni bi þo manaseþ bidja ak bi þans þanzei atgaft mis unte þeinai sind",
+        "masked": "ni bi þo manaseþ bidja ak bi þans þanzei atgaft mis unte þeinai [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "sind"
+            }
+        ]
+    },
+    {
+        "src": "gaqumanaim þan hiumam managaim jah þaim þaiei us baurgim gaïddjedun du imma qaþ þairh gajukon",
+        "masked": "gaqumanaim þan [MASK] [MASK] jah þaim þaiei us baurgim gaïddjedun du imma qaþ þairh gajukon",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "hiumam"
+            },
+            {
+                "mask_idx": 3,
+                "masked_token": "managaim"
+            }
+        ]
+    },
+    {
+        "src": "andhof Iesus jah qaþ du im",
+        "masked": "[MASK] Iesus jah qaþ du im",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "andhof"
+            }
+        ]
+    },
+    {
+        "src": "iþ Iesus witands alla þoei qemun ana ina usgaggands ut qaþ im",
+        "masked": "iþ Iesus witands alla þoei qemun ana ina [MASK] ut qaþ im",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "usgaggands"
+            }
+        ]
+    },
+    {
+        "src": "þairh wepna garaihteins taihswona jah hleidumona jah þairh wulþu jah unswerein þairh wajamerein jah wailamerein",
+        "masked": "þairh wepna [MASK] [MASK] jah hleidumona jah þairh wulþu jah unswerein þairh wajamerein jah wailamerein",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "garaihteins"
+            },
+            {
+                "mask_idx": 3,
+                "masked_token": "taihswona"
+            }
+        ]
+    },
+    {
+        "src": "jah bisaiƕands bisunjane þans bi sik sitandans qaþ",
+        "masked": "[MASK] bisaiƕands bisunjane þans bi sik sitandans qaþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "niu wisseduþ þatei in þaim attins meinis skulda wisan",
+        "masked": "niu wisseduþ þatei in [MASK] attins meinis skulda wisan",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "þaim"
+            }
+        ]
+    },
+    {
+        "src": "iþ biþe qam usfulleins melis insandida guþ sunu seinana waurþanana us qinon waurþanana uf witoda ei þans uf witoda usbauhtedi ei suniwe sibja andnimaima",
+        "masked": "iþ biþe qam usfulleins melis insandida guþ sunu seinana waurþanana us qinon waurþanana uf witoda ei þans uf [MASK] usbauhtedi [MASK] suniwe sibja andnimaima",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "witoda"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "ei"
+            }
+        ]
+    },
+    {
+        "src": "frauja ni im wairþs ei uf hrot mein inngaggais ak þatainei qiþ waurda jah gahailniþ sa þiumagus meins",
+        "masked": "frauja ni im wairþs ei [MASK] hrot mein inngaggais ak þatainei qiþ waurda [MASK] gahailniþ sa þiumagus meins",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "uf"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "qeþun þan du imma",
+        "masked": "qeþun þan du imma",
+        "masked_tokens": []
+    },
+    {
+        "src": "qaþ du im Iesus",
+        "masked": "qaþ du im Iesus",
+        "masked_tokens": []
+    },
+    {
+        "src": "nauhþanuh imma rodjandin qemun fram þamma swnagogafada qiþandans þatei dauhtar þeina gaswalt",
+        "masked": "nauhþanuh imma rodjandin qemun fram [MASK] swnagogafada qiþandans þatei dauhtar þeina gaswalt",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "þamma"
+            }
+        ]
+    },
+    {
+        "src": "þugkeiþ im auk ei in filuwaurdein seinai andhausjaindau",
+        "masked": "þugkeiþ im auk [MASK] in filuwaurdein seinai andhausjaindau",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "ei"
+            }
+        ]
+    },
+    {
+        "src": "jah was imma gataihan fram ahmin þamma weihin ni saiƕan dauþu faurþize seƕi Xristu fraujins",
+        "masked": "jah was imma gataihan fram ahmin þamma [MASK] ni saiƕan [MASK] faurþize seƕi Xristu fraujins",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "weihin"
+            },
+            {
+                "mask_idx": 10,
+                "masked_token": "dauþu"
+            }
+        ]
+    },
+    {
+        "src": "iþ þai wiþra wig sind þai hausjandans",
+        "masked": "iþ [MASK] wiþra wig sind þai hausjandans",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "þai"
+            }
+        ]
+    },
+    {
+        "src": "unte azetaba usþulaiþ þans unwitans frodai wisandans",
+        "masked": "[MASK] azetaba usþulaiþ þans unwitans frodai wisandans",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "unte"
+            }
+        ]
+    },
+    {
+        "src": "jah galagidedun allai þai hausjandans in hairtin seinamma qiþandans",
+        "masked": "jah galagidedun [MASK] þai hausjandans in hairtin seinamma qiþandans",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "allai"
+            }
+        ]
+    },
+    {
+        "src": "ni jus mik gawalideduþ ak ik gawalida izwis jah gasatida izwis ei jus sniwaiþ jah akran bairaiþ jah akran izwar du aiwa sijai ei þataƕah þei bidjaiþ attan in namin meinamma gibiþ izwis",
+        "masked": "ni jus mik gawalideduþ ak ik gawalida izwis jah gasatida izwis ei [MASK] sniwaiþ jah [MASK] bairaiþ jah akran izwar du aiwa sijai ei þataƕah þei bidjaiþ attan [MASK] namin meinamma gibiþ izwis",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "jus"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "akran"
+            },
+            {
+                "mask_idx": 28,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "iþ ahma wiþra leik",
+        "masked": "iþ ahma wiþra leik",
+        "masked_tokens": []
+    },
+    {
+        "src": "swaei jabai ƕo in Xristau niuja gaskafts þo alþjona usliþun",
+        "masked": "swaei jabai ƕo in Xristau niuja gaskafts þo [MASK] usliþun",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "alþjona"
+            }
+        ]
+    },
+    {
+        "src": "gagg jah swaswe galaubides wairþai þus",
+        "masked": "gagg jah swaswe galaubides wairþai [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "þus"
+            }
+        ]
+    },
+    {
+        "src": "jah baþ siponjans þeinans ei usdribeina imma jah ni mahtedun",
+        "masked": "jah baþ [MASK] þeinans ei usdribeina imma jah ni mahtedun",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "siponjans"
+            }
+        ]
+    },
+    {
+        "src": "ik qimands gahailja ina",
+        "masked": "ik qimands gahailja ina",
+        "masked_tokens": []
+    },
+    {
+        "src": "frauja miþ allaim izwis",
+        "masked": "frauja miþ allaim izwis",
+        "masked_tokens": []
+    },
+    {
+        "src": "nimis þatei ni lagides jah sneiþis þatei ni saisost",
+        "masked": "nimis þatei ni lagides jah [MASK] þatei ni saisost",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "sneiþis"
+            }
+        ]
+    },
+    {
+        "src": "ni gret",
+        "masked": "ni gret",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ eis usgaggandans usmeridedun ina in allai airþai jainai",
+        "masked": "iþ eis usgaggandans usmeridedun ina [MASK] allai airþai jainai",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "aþþan sweþauh fijands meinans jainans þaiei ni wildedun mik þiudanon ufar sis briggiþ her jah usqimiþ faura mis",
+        "masked": "aþþan sweþauh fijands [MASK] jainans þaiei ni [MASK] mik þiudanon ufar sis briggiþ her jah usqimiþ faura mis",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "meinans"
+            },
+            {
+                "mask_idx": 7,
+                "masked_token": "wildedun"
+            }
+        ]
+    },
+    {
+        "src": "swa þ þan frawaurkjandans wiþra broþruns slahandans ize gahugd siuka du Xristau frawaurkeiþ",
+        "masked": "swa þ þan frawaurkjandans wiþra broþruns slahandans ize gahugd siuka [MASK] Xristau frawaurkeiþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "du"
+            }
+        ]
+    },
+    {
+        "src": "jah armahairtei is in aldins alde þaim ogandam ina",
+        "masked": "jah armahairtei is in aldins [MASK] þaim ogandam ina",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "alde"
+            }
+        ]
+    },
+    {
+        "src": "jah qemun in Beþaniin jah berun du imma blindan jah bedun ina ei imma attaitoki",
+        "masked": "jah qemun in Beþaniin jah berun du imma [MASK] jah bedun ina ei [MASK] attaitoki",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "blindan"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "imma"
+            }
+        ]
+    },
+    {
+        "src": "frijodedun auk mais hauhein manniska þau hauhein gudis",
+        "masked": "frijodedun auk [MASK] hauhein manniska þau hauhein gudis",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "mais"
+            }
+        ]
+    },
+    {
+        "src": "ƕas mis taitok",
+        "masked": "ƕas mis taitok",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah aftra insandida anþarana",
+        "masked": "jah aftra insandida anþarana",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah eis þahaidedun jah mann ni gataihun in jainaim dagam ni waiht þizei gaseƕun",
+        "masked": "jah eis þahaidedun jah mann ni gataihun [MASK] jainaim dagam ni waiht þizei gaseƕun",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "ni ƕazuh saei qiþiþ mis frauja frauja inngaleiþiþ in þiudangardja himine ak sa taujands wiljan attins meinis þis in himinam",
+        "masked": "ni ƕazuh saei qiþiþ mis frauja frauja [MASK] in þiudangardja himine ak sa taujands wiljan [MASK] meinis þis in himinam",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "inngaleiþiþ"
+            },
+            {
+                "mask_idx": 15,
+                "masked_token": "attins"
+            }
+        ]
+    },
+    {
+        "src": "laisareis qam jah haitiþ þuk",
+        "masked": "laisareis qam jah haitiþ þuk",
+        "masked_tokens": []
+    },
+    {
+        "src": "ni þanaseiþs im in þamma fairƕau",
+        "masked": "ni þanaseiþs im in [MASK] fairƕau",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "þamma"
+            }
+        ]
+    },
+    {
+        "src": "kaisaris",
+        "masked": "kaisaris",
+        "masked_tokens": []
+    },
+    {
+        "src": "þata auk ist andanem in andwairþja gudis",
+        "masked": "þata auk [MASK] andanem in andwairþja gudis",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "ist"
+            }
+        ]
+    },
+    {
+        "src": "iþ wissedeis jah þu in þamma daga þeinamma þo du gawairþja þeinamma",
+        "masked": "iþ wissedeis jah [MASK] in þamma daga þeinamma þo du gawairþja þeinamma",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "þu"
+            }
+        ]
+    },
+    {
+        "src": "jah sum gadraus in þaurnuns",
+        "masked": "jah sum gadraus in þaurnuns",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ þai ana þamma staina ize þan hausjand miþ faheidai andnimand þata waurd jah þai waurtins ni haband þaiei du mela galaubjand jah in mela fraistubnjos afstandand",
+        "masked": "iþ þai ana þamma staina ize þan hausjand miþ faheidai andnimand þata waurd [MASK] þai waurtins ni [MASK] þaiei du mela galaubjand [MASK] in mela fraistubnjos afstandand",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "haband"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "Iohannes ist namo is",
+        "masked": "Iohannes ist namo is",
+        "masked_tokens": []
+    },
+    {
+        "src": "swaei nu jah jus broþrjus meinai afdauþidai waurþuþ witoda þairh leik Xristaus ei wairþaiþ anþaramma þamma us dauþaim urreisandin ei akran bairaima guda",
+        "masked": "swaei nu jah jus broþrjus meinai afdauþidai waurþuþ witoda þairh leik Xristaus ei wairþaiþ anþaramma þamma us dauþaim urreisandin ei [MASK] bairaima [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 20,
+                "masked_token": "akran"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "guda"
+            }
+        ]
+    },
+    {
+        "src": "jah atiddjedun in gard jah gaïddja sik aftra managei swaswe ni mahtedun nih hlaif matjan",
+        "masked": "jah atiddjedun in gard jah gaïddja sik aftra [MASK] swaswe ni mahtedun nih [MASK] matjan",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "managei"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "hlaif"
+            }
+        ]
+    },
+    {
+        "src": "sa weiha gudis",
+        "masked": "sa weiha gudis",
+        "masked_tokens": []
+    },
+    {
+        "src": "afletanda þus frawaurhteis þeinos",
+        "masked": "afletanda þus frawaurhteis þeinos",
+        "masked_tokens": []
+    },
+    {
+        "src": "goþ þus ist galeiþan in libain haltamma þau twans fotuns habandin gawairpan in gaiainnan in fon þata unƕapnando þarei maþa ize ni gaswiltiþ jah fon ni afƕapniþ",
+        "masked": "goþ þus ist galeiþan in libain haltamma þau twans fotuns habandin gawairpan in gaiainnan in [MASK] þata unƕapnando þarei maþa [MASK] [MASK] gaswiltiþ jah fon ni afƕapniþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 15,
+                "masked_token": "fon"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "ize"
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": "ni"
+            }
+        ]
+    },
+    {
+        "src": "iþ þata barn wohs jah swinþnoda ahmin jah was ana auþidom und dag ustaikneinais seinaizos du Israela",
+        "masked": "iþ þata barn wohs jah swinþnoda [MASK] jah was ana auþidom und dag [MASK] seinaizos du Israela",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "ahmin"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "ustaikneinais"
+            }
+        ]
+    },
+    {
+        "src": "niu wituþ þatei þai in spaurd rinnandans allai rinnand iþ ains nimiþ sigislaun",
+        "masked": "niu wituþ þatei [MASK] in spaurd rinnandans allai rinnand iþ ains nimiþ sigislaun",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "þai"
+            }
+        ]
+    },
+    {
+        "src": "faur þana swaleikana ƕopa iþ faur mik silban ni waiht ƕopa niba in unmahtim meinaim",
+        "masked": "faur þana swaleikana ƕopa [MASK] faur mik silban ni waiht ƕopa niba in [MASK] meinaim",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "iþ"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "unmahtim"
+            }
+        ]
+    },
+    {
+        "src": "aþþan mis liban Xristus ist jah gaswiltan gawaurki",
+        "masked": "aþþan mis liban [MASK] ist jah gaswiltan gawaurki",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "Xristus"
+            }
+        ]
+    },
+    {
+        "src": "þiuþiþs guþ jah atta fraujins unsaris Iesuis Xristaus atta bleiþeino jah guþ allaizo gaþlaihte saei gaþrafstida uns ana allai aglon unsarai ei mageima weis gaþrafstjan þans in allaim aglom þairh þo gaþlaiht þizaiei gaþrafstidai sijum silbans fram guda",
+        "masked": "þiuþiþs guþ jah [MASK] fraujins unsaris Iesuis Xristaus atta bleiþeino jah guþ allaizo gaþlaihte saei gaþrafstida uns ana [MASK] aglon unsarai ei mageima weis gaþrafstjan þans in allaim aglom þairh [MASK] gaþlaiht þizaiei gaþrafstidai sijum silbans [MASK] guda",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "atta"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "allai"
+            },
+            {
+                "mask_idx": 30,
+                "masked_token": "þo"
+            },
+            {
+                "mask_idx": 36,
+                "masked_token": "fram"
+            }
+        ]
+    },
+    {
+        "src": "fram aiwa ni gahausiþ was þatei uslukiþ ƕas augona blindamma gabauranamma",
+        "masked": "fram aiwa ni gahausiþ was [MASK] uslukiþ ƕas augona blindamma gabauranamma",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "þatei"
+            }
+        ]
+    },
+    {
+        "src": "skal auk is þiudanon und þatei galagjiþ allans fijands is uf fotuns imma",
+        "masked": "skal auk is þiudanon und þatei galagjiþ allans fijands [MASK] uf fotuns imma",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "is"
+            }
+        ]
+    },
+    {
+        "src": "insandida mik du ganasjan þans gamalwidans hairtin merjan frahunþanaim fralet jah blindaim siun fraletan gamaidans in gaþrafstein merjan jer fraujins andanem",
+        "masked": "insandida mik du ganasjan þans gamalwidans hairtin merjan frahunþanaim fralet jah blindaim [MASK] fraletan [MASK] in gaþrafstein merjan jer fraujins andanem",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "siun"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "gamaidans"
+            }
+        ]
+    },
+    {
+        "src": "was uh þan neƕa dulþs Iudaie so hleþrastakeins",
+        "masked": "was uh þan neƕa dulþs Iudaie [MASK] hleþrastakeins",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "so"
+            }
+        ]
+    },
+    {
+        "src": "þu qiþis",
+        "masked": "þu qiþis",
+        "masked_tokens": []
+    },
+    {
+        "src": "sunno ni dissigqai ana þwairhein izwara",
+        "masked": "sunno ni dissigqai ana þwairhein [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "izwara"
+            }
+        ]
+    },
+    {
+        "src": "ƕaiwa qiþand þai bokarjos þatei Xristus sunus ist Daweidis",
+        "masked": "ƕaiwa qiþand þai bokarjos þatei Xristus sunus [MASK] Daweidis",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "ist"
+            }
+        ]
+    },
+    {
+        "src": "jah ni matida waiht in dagam jainaim jah at ustauhanaim þaim dagam biþe gredags warþ",
+        "masked": "[MASK] ni matida waiht in dagam jainaim jah at ustauhanaim þaim [MASK] biþe gredags warþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "dagam"
+            }
+        ]
+    },
+    {
+        "src": "jah biþe qam ana þamma stada insaiƕands iup Iesus gasaƕ ina jah qaþ du imma",
+        "masked": "jah biþe qam ana þamma stada insaiƕands iup Iesus gasaƕ [MASK] jah qaþ [MASK] imma",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "ina"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "du"
+            }
+        ]
+    },
+    {
+        "src": "andhof Iesus",
+        "masked": "andhof Iesus",
+        "masked_tokens": []
+    },
+    {
+        "src": "jabai auk andbahtja wargiþos wulþus und filu mais ufarist andbahti garaihteins in wulþau",
+        "masked": "[MASK] auk andbahtja wargiþos wulþus und filu mais ufarist andbahti garaihteins in wulþau",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "jabai"
+            }
+        ]
+    },
+    {
+        "src": "unte andbahti þis gudjinassaus ni þatainei ist usfulljando gaidwa þize weihane ak jah ufarassjando þairh managa awiliuda guda",
+        "masked": "unte andbahti þis gudjinassaus ni þatainei ist usfulljando gaidwa þize [MASK] ak [MASK] ufarassjando þairh managa awiliuda guda",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "weihane"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "jah ƕazuh saei libaiþ jah galaubeiþ du mis ni gadauþniþ aiw",
+        "masked": "jah ƕazuh saei libaiþ jah galaubeiþ du [MASK] ni gadauþniþ aiw",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "mis"
+            }
+        ]
+    },
+    {
+        "src": "jabai ƕas broþar qen aigi ungalaubjandein jah so gawilja ist bauan miþ imma ni afletai þo qen",
+        "masked": "jabai ƕas broþar qen [MASK] ungalaubjandein jah [MASK] gawilja ist bauan miþ imma ni afletai þo qen",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "aigi"
+            },
+            {
+                "mask_idx": 7,
+                "masked_token": "so"
+            }
+        ]
+    },
+    {
+        "src": "swaswe raihtis lauhmoni lauhatjandei us þamma uf himina in þata uf himina skeiniþ swa wairþiþ sunus mans in daga seinamma",
+        "masked": "swaswe raihtis lauhmoni lauhatjandei us þamma uf himina in þata uf [MASK] skeiniþ swa wairþiþ sunus mans [MASK] daga seinamma",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "himina"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "jah meina alla þeina sind jah þeina meina jah hauhiþs im in þaim",
+        "masked": "jah meina alla þeina sind jah þeina [MASK] jah hauhiþs im in þaim",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "meina"
+            }
+        ]
+    },
+    {
+        "src": "jah qaþ sa juhiza ize du attin",
+        "masked": "jah qaþ sa [MASK] ize du attin",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "juhiza"
+            }
+        ]
+    },
+    {
+        "src": "jah anaks insaiƕandans ni þanaseiþs ainohun gaseƕun alja Iesu ainana miþ sis",
+        "masked": "jah anaks [MASK] ni þanaseiþs ainohun gaseƕun alja Iesu ainana miþ sis",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "insaiƕandans"
+            }
+        ]
+    },
+    {
+        "src": "þanuh qeþun imma",
+        "masked": "þanuh qeþun imma",
+        "masked_tokens": []
+    },
+    {
+        "src": "nih þan ainshun sweþauh balþaba rodida bi ina in agisis Iudaie",
+        "masked": "nih þan ainshun sweþauh balþaba [MASK] bi ina in agisis Iudaie",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "rodida"
+            }
+        ]
+    },
+    {
+        "src": "ik fragilda",
+        "masked": "ik fragilda",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah gasakands im ni lailot þos rodjan unte wissedun Xristu ina wisan",
+        "masked": "jah gasakands im ni lailot þos [MASK] unte wissedun Xristu ina wisan",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "rodjan"
+            }
+        ]
+    },
+    {
+        "src": "ƕis mik fraihnis",
+        "masked": "ƕis mik fraihnis",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah ni magandans neƕa qiman imma faura manageim andhulidedun hrot þarei was Iesus jah usgrabandans insailidedun þata badi ana þammei lag sa usliþa",
+        "masked": "jah ni magandans neƕa qiman imma faura manageim andhulidedun [MASK] þarei was [MASK] jah usgrabandans insailidedun þata badi ana þammei lag sa usliþa",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "hrot"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "Iesus"
+            }
+        ]
+    },
+    {
+        "src": "jabai ƕas matjiþ þis hlaibis libaiþ in ajukduþ",
+        "masked": "jabai ƕas matjiþ þis hlaibis [MASK] in ajukduþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "libaiþ"
+            }
+        ]
+    },
+    {
+        "src": "þata allata gafastaida us jundai meinai",
+        "masked": "[MASK] allata gafastaida us jundai meinai",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "þata"
+            }
+        ]
+    },
+    {
+        "src": "warþ þan biþe daupida alla managein jah at Iesu ufdaupidamma jah bidjandin usluknoda himins jah atiddja ahma sa weiha leikis siunai swe ahaks ana ina jah stibna us himina warþ qiþandei",
+        "masked": "warþ [MASK] biþe daupida alla managein jah at Iesu ufdaupidamma jah bidjandin usluknoda himins jah atiddja ahma sa [MASK] leikis siunai swe ahaks ana ina jah [MASK] us himina warþ qiþandei",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "þan"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "weiha"
+            },
+            {
+                "mask_idx": 26,
+                "masked_token": "stibna"
+            }
+        ]
+    },
+    {
+        "src": "iþ juggos widuwons biwandei",
+        "masked": "iþ juggos widuwons biwandei",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah þisƕaruh þei ina gafahiþ gawairpiþ ina jah ƕaþjiþ jah kriustiþ tunþuns seinans jah gastaurkniþ",
+        "masked": "jah þisƕaruh þei ina gafahiþ gawairpiþ ina jah ƕaþjiþ jah kriustiþ [MASK] [MASK] jah gastaurkniþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "tunþuns"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "seinans"
+            }
+        ]
+    },
+    {
+        "src": "duhþe þai berusjos is qeþun þatei",
+        "masked": "duhþe [MASK] berusjos is qeþun þatei",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "þai"
+            }
+        ]
+    },
+    {
+        "src": "þanuh Iesus aftra inrauhtiþs in sis silbin gaggiþ du þamma hlaiwa",
+        "masked": "þanuh Iesus aftra inrauhtiþs in [MASK] silbin gaggiþ du þamma hlaiwa",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "sis"
+            }
+        ]
+    },
+    {
+        "src": "Mariam bigast auk anst fram guda",
+        "masked": "Mariam bigast auk anst fram [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "guda"
+            }
+        ]
+    },
+    {
+        "src": "jah þan allai þaiei wileina gagudaba liban in Xristau Iesu wrakos winnand",
+        "masked": "jah þan allai þaiei [MASK] gagudaba liban in Xristau Iesu wrakos winnand",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "wileina"
+            }
+        ]
+    },
+    {
+        "src": "an ƕa taujaima",
+        "masked": "an ƕa taujaima",
+        "masked_tokens": []
+    },
+    {
+        "src": "fauraqaþ auk þatei in hairtam unsaraim sijuþ du miþgaswiltan jas samana liban",
+        "masked": "fauraqaþ auk þatei in hairtam unsaraim [MASK] du miþgaswiltan jas samana liban",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "sijuþ"
+            }
+        ]
+    },
+    {
+        "src": "unte wesuþ þan in jainamma mela inu Xristu framaþjai usmetis Israelis jah gasteis gahaite trausteis wen ni habandans jah gudalausai in manasedai",
+        "masked": "[MASK] wesuþ þan in jainamma mela [MASK] Xristu framaþjai usmetis Israelis jah gasteis gahaite trausteis wen ni habandans jah gudalausai in manasedai",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "unte"
+            },
+            {
+                "mask_idx": 6,
+                "masked_token": "inu"
+            }
+        ]
+    },
+    {
+        "src": "goþ salt",
+        "masked": "goþ salt",
+        "masked_tokens": []
+    },
+    {
+        "src": "þanuh qaþ du siponjam seinaim",
+        "masked": "þanuh qaþ du siponjam seinaim",
+        "masked_tokens": []
+    },
+    {
+        "src": "ƕa ist namo þein",
+        "masked": "ƕa ist namo þein",
+        "masked_tokens": []
+    },
+    {
+        "src": "swaswe raihtis jus suman ni galaubideduþ guda iþ nu gaarmaidai waurþuþ þizai ize ungalaubeinai swa jah þai nu ni galaubidedun izwarai armaion ei jah eis gaarmaindau",
+        "masked": "swaswe raihtis jus suman ni galaubideduþ guda iþ [MASK] gaarmaidai [MASK] þizai ize ungalaubeinai swa jah þai nu ni galaubidedun izwarai armaion ei jah [MASK] gaarmaindau",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "nu"
+            },
+            {
+                "mask_idx": 10,
+                "masked_token": "waurþuþ"
+            },
+            {
+                "mask_idx": 24,
+                "masked_token": "eis"
+            }
+        ]
+    },
+    {
+        "src": "ƕana sokeiþ",
+        "masked": "ƕana sokeiþ",
+        "masked_tokens": []
+    },
+    {
+        "src": "Jah warþ biþe usfullida Iesus anabiudands þaim twalif siponjam seinaim",
+        "masked": "Jah warþ biþe usfullida Iesus anabiudands þaim twalif siponjam [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "seinaim"
+            }
+        ]
+    },
+    {
+        "src": "jah suns qeþun imma bi ija",
+        "masked": "jah suns qeþun [MASK] bi ija",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "imma"
+            }
+        ]
+    },
+    {
+        "src": "jabai guþ atta izwar wesi friodedeiþ þau mik unte ik fram guda urrann jah qam",
+        "masked": "jabai guþ [MASK] izwar wesi [MASK] þau mik unte ik fram guda urrann jah qam",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "atta"
+            },
+            {
+                "mask_idx": 5,
+                "masked_token": "friodedeiþ"
+            }
+        ]
+    },
+    {
+        "src": "jah suns sai ahma ina ustauh in auþida",
+        "masked": "jah suns sai ahma ina ustauh in [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "auþida"
+            }
+        ]
+    },
+    {
+        "src": "waila allata gatawida jah baudans gataujiþ gahausjan jah unrodjandans rodjan",
+        "masked": "waila allata gatawida [MASK] baudans gataujiþ gahausjan jah unrodjandans rodjan",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "allai auk praufeteis jah witoþ und Iohanne fauraqeþun",
+        "masked": "allai auk praufeteis jah witoþ und [MASK] fauraqeþun",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "Iohanne"
+            }
+        ]
+    },
+    {
+        "src": "nauh leitila ƕeila miþ izwis im jah þan gagga du þamma sandjandin mik",
+        "masked": "nauh leitila [MASK] miþ izwis im jah þan gagga du þamma sandjandin mik",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "ƕeila"
+            }
+        ]
+    },
+    {
+        "src": "andhofun þai andbahtos",
+        "masked": "andhofun þai andbahtos",
+        "masked_tokens": []
+    },
+    {
+        "src": "andhof Iesus",
+        "masked": "andhof Iesus",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah ik qimands miþ wokra galausidedjau þata",
+        "masked": "jah ik qimands miþ wokra galausidedjau [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "þata"
+            }
+        ]
+    },
+    {
+        "src": "gamelida izwis ana þizai aipistaulein",
+        "masked": "gamelida izwis ana þizai aipistaulein",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah þan saiada urrinniþ jah wairþiþ allaize grase maist jah gataujiþ astans mikilans swaswe magun uf skadau is fuglos himinis gabauan",
+        "masked": "jah þan saiada urrinniþ jah wairþiþ allaize grase maist jah gataujiþ astans mikilans swaswe magun uf skadau is [MASK] himinis [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 18,
+                "masked_token": "fuglos"
+            },
+            {
+                "mask_idx": 20,
+                "masked_token": "gabauan"
+            }
+        ]
+    },
+    {
+        "src": "laistei afar mis",
+        "masked": "laistei afar mis",
+        "masked_tokens": []
+    },
+    {
+        "src": "Seimon skal þus ƕa qiþan",
+        "masked": "Seimon skal þus ƕa qiþan",
+        "masked_tokens": []
+    },
+    {
+        "src": "laisari ƕa taujaima",
+        "masked": "laisari ƕa taujaima",
+        "masked_tokens": []
+    },
+    {
+        "src": "laistei afar mis jah let þans dauþans gafilhan seinans dauþans",
+        "masked": "laistei afar [MASK] jah let þans dauþans gafilhan seinans dauþans",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "mis"
+            }
+        ]
+    },
+    {
+        "src": "all auk þata þiudos sokjand",
+        "masked": "all auk þata þiudos sokjand",
+        "masked_tokens": []
+    },
+    {
+        "src": "unte jabai ik gaurja izwis jah ƕas ist saei gailjai mik niba sa gaurida us mis",
+        "masked": "unte [MASK] ik gaurja izwis jah ƕas ist saei gailjai mik niba sa [MASK] us mis",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "jabai"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "gaurida"
+            }
+        ]
+    },
+    {
+        "src": "ni ainshun ist in kunja þeinamma saei haitaidau þamma namin",
+        "masked": "ni ainshun ist in kunja þeinamma saei haitaidau [MASK] namin",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "þamma"
+            }
+        ]
+    },
+    {
+        "src": "atta unsar Abraham ist",
+        "masked": "atta unsar Abraham ist",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah urrais jah andbahtida imma",
+        "masked": "jah urrais jah andbahtida imma",
+        "masked_tokens": []
+    },
+    {
+        "src": "all þatei at skiljam frabugjaidau matjaiþ ni waiht andhruskandans in miþwisseins",
+        "masked": "all þatei at skiljam [MASK] matjaiþ ni waiht andhruskandans in miþwisseins",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "frabugjaidau"
+            }
+        ]
+    },
+    {
+        "src": "ak ei ufkunnai so manaseþs þatei ik frijoda attan meinana jah swaswe anabaud mis atta swa tauja",
+        "masked": "ak ei ufkunnai [MASK] manaseþs þatei ik [MASK] attan meinana jah swaswe anabaud mis atta swa tauja",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "so"
+            },
+            {
+                "mask_idx": 7,
+                "masked_token": "frijoda"
+            }
+        ]
+    },
+    {
+        "src": "ƕis ist sa manleika jah so ufarmeleins",
+        "masked": "ƕis ist sa [MASK] jah so ufarmeleins",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "manleika"
+            }
+        ]
+    },
+    {
+        "src": "jabai all hliuma ƕar dauns",
+        "masked": "jabai all hliuma ƕar dauns",
+        "masked_tokens": []
+    },
+    {
+        "src": "akei jah nu wait ei þisƕah þei bidjis guþ gibiþ þus guþ",
+        "masked": "akei jah nu wait [MASK] þisƕah þei bidjis guþ gibiþ þus guþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "ei"
+            }
+        ]
+    },
+    {
+        "src": "izwaros misso kauriþos bairaiþ jah swa usfulleiþ witoþ Xristaus",
+        "masked": "izwaros misso kauriþos bairaiþ jah swa [MASK] witoþ Xristaus",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "usfulleiþ"
+            }
+        ]
+    },
+    {
+        "src": "qaþ þan du im",
+        "masked": "qaþ þan du im",
+        "masked_tokens": []
+    },
+    {
+        "src": "Galaubeiþ mis þatei ik in attin jah atta in mis",
+        "masked": "Galaubeiþ mis þatei [MASK] in attin jah atta in mis",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "ik"
+            }
+        ]
+    },
+    {
+        "src": "usleiþ þaþro jah gagg in Iudaian ei jah þai siponjos þeinai saiƕaina waurstwa þeina þoei þu taujis",
+        "masked": "usleiþ [MASK] jah gagg in Iudaian ei jah þai siponjos þeinai saiƕaina waurstwa [MASK] þoei þu taujis",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "þaþro"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "þeina"
+            }
+        ]
+    },
+    {
+        "src": "ansts fraujins Iesuis miþ izwis",
+        "masked": "ansts fraujins Iesuis miþ izwis",
+        "masked_tokens": []
+    },
+    {
+        "src": "in þuk gadauþjanda all dagis",
+        "masked": "in þuk gadauþjanda all dagis",
+        "masked_tokens": []
+    },
+    {
+        "src": "unte jabai ik ni galeiþa parakletus ni qimiþ at izwis",
+        "masked": "unte [MASK] ik ni galeiþa parakletus ni qimiþ at izwis",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "jabai"
+            }
+        ]
+    },
+    {
+        "src": "anawiljei izwara kunþa sijai allaim mannam",
+        "masked": "[MASK] izwara kunþa sijai allaim mannam",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "anawiljei"
+            }
+        ]
+    },
+    {
+        "src": "fijaidedun mik arwjo",
+        "masked": "fijaidedun mik arwjo",
+        "masked_tokens": []
+    },
+    {
+        "src": "saiƕiþ þatei ni boteiþ waiht",
+        "masked": "saiƕiþ þatei ni boteiþ waiht",
+        "masked_tokens": []
+    },
+    {
+        "src": "akei in jainans dagans afar þo aglon jaina sauil riqizeiþ jah mena ni gibiþ liuhaþ sein",
+        "masked": "akei in jainans dagans afar þo aglon jaina sauil riqizeiþ [MASK] mena [MASK] gibiþ liuhaþ sein",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "ni"
+            }
+        ]
+    },
+    {
+        "src": "ƕa þatei sokideduþ mik",
+        "masked": "ƕa þatei sokideduþ mik",
+        "masked_tokens": []
+    },
+    {
+        "src": "nis sijai",
+        "masked": "nis sijai",
+        "masked_tokens": []
+    },
+    {
+        "src": "þannu þan at libandin abin haitada horinondei jabai wairþiþ waira anþaramma",
+        "masked": "þannu þan at libandin abin haitada horinondei jabai wairþiþ [MASK] anþaramma",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "waira"
+            }
+        ]
+    },
+    {
+        "src": "jah saƕazuh saei mik andnimiþ andnimiþ þana sandjandan mik",
+        "masked": "[MASK] saƕazuh saei mik andnimiþ andnimiþ þana sandjandan mik",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "jah silba gaf sumans apaustauluns sumanz uþ þan praufetuns sumans uþ þan aiwaggelistans sumans uþ þan hairdjans jah laisarjans du ustauhtai weihaize du waurstwa andbahtjis du timreinai leikis Xristaus unte garinnaima allai in ainamundiþa galaubeinais jah ufkunþjis sunus gudis du waira fullamma in mitaþ wahstaus fullons Xristaus ei þanaseiþs ni sijaima niuklahai uswagidai jah uswalugidai winda ƕammeh laiseinais liutein manne in filudeisein du listeigon uswandjai airzeins iþ sunja taujandans in frijaþwai wahsjaima in ina þo alla ize ist haubiþ Xristus us þammei all leik gagatiloþ jah gagahaftiþ þairh allos gawissins andstaldis bi waurstwa in mitaþ ana ainƕarjoh fero uswahst leikis taujiþ du timreinai seinai in frijaþwai",
+        "masked": "jah silba gaf sumans apaustauluns sumanz uþ þan [MASK] sumans uþ þan aiwaggelistans [MASK] uþ þan hairdjans [MASK] laisarjans du ustauhtai weihaize du waurstwa andbahtjis du timreinai leikis Xristaus unte garinnaima allai in ainamundiþa galaubeinais jah ufkunþjis [MASK] gudis du [MASK] fullamma in [MASK] wahstaus fullons Xristaus ei þanaseiþs ni sijaima [MASK] uswagidai jah uswalugidai winda ƕammeh laiseinais liutein manne [MASK] filudeisein du listeigon uswandjai airzeins [MASK] sunja taujandans in frijaþwai wahsjaima in ina þo alla ize ist haubiþ Xristus [MASK] þammei all [MASK] gagatiloþ jah gagahaftiþ þairh allos gawissins andstaldis bi waurstwa in mitaþ ana ainƕarjoh fero uswahst leikis taujiþ du timreinai seinai in frijaþwai",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "praufetuns"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "sumans"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 37,
+                "masked_token": "sunus"
+            },
+            {
+                "mask_idx": 40,
+                "masked_token": "waira"
+            },
+            {
+                "mask_idx": 43,
+                "masked_token": "mitaþ"
+            },
+            {
+                "mask_idx": 51,
+                "masked_token": "niuklahai"
+            },
+            {
+                "mask_idx": 60,
+                "masked_token": "in"
+            },
+            {
+                "mask_idx": 66,
+                "masked_token": "iþ"
+            },
+            {
+                "mask_idx": 80,
+                "masked_token": "us"
+            },
+            {
+                "mask_idx": 83,
+                "masked_token": "leik"
+            }
+        ]
+    },
+    {
+        "src": "weitwodja auk izwis þatei jabai mahteig wesi augona izwara usgrabandans atgebeiþ mis",
+        "masked": "weitwodja auk [MASK] þatei jabai mahteig wesi augona izwara usgrabandans atgebeiþ mis",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "izwis"
+            }
+        ]
+    },
+    {
+        "src": "jah biþe warþ sabbato dugann in swnagoge laisjan jah managai hausjandans sildaleikidedun qiþandans",
+        "masked": "jah biþe warþ sabbato dugann in swnagoge laisjan jah [MASK] hausjandans sildaleikidedun qiþandans",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "managai"
+            }
+        ]
+    },
+    {
+        "src": "jah was sitands miþ andbahtam jah warmjands sik at liuhada",
+        "masked": "jah was sitands miþ [MASK] jah warmjands sik at liuhada",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "andbahtam"
+            }
+        ]
+    },
+    {
+        "src": "gamuneiþ meinaizos bandjos",
+        "masked": "gamuneiþ meinaizos bandjos",
+        "masked_tokens": []
+    },
+    {
+        "src": "jabai magi wairþan us izwis miþ allaim mannam gawairþi habandans",
+        "masked": "jabai [MASK] wairþan us izwis miþ allaim mannam gawairþi habandans",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "magi"
+            }
+        ]
+    },
+    {
+        "src": "iþ saei ni frioþ mik þo waurda meina ni fastaiþ",
+        "masked": "[MASK] saei ni frioþ mik þo waurda meina ni fastaiþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "iþ"
+            }
+        ]
+    },
+    {
+        "src": "aþþan ƕa mik haitid frauja frauja jah ni taujid þatei qiþa",
+        "masked": "aþþan [MASK] mik haitid frauja frauja jah ni taujid þatei qiþa",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "ƕa"
+            }
+        ]
+    },
+    {
+        "src": "Iesu þana Nazoraiu",
+        "masked": "Iesu þana Nazoraiu",
+        "masked_tokens": []
+    },
+    {
+        "src": "ƕa skuli þata barn wairþan",
+        "masked": "ƕa skuli þata barn wairþan",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah þatei ƕa bidjiþ in namin meinamma þata tauja ei hauhjaidau atta in sunau",
+        "masked": "jah þatei ƕa bidjiþ in namin meinamma þata tauja ei hauhjaidau [MASK] in sunau",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "atta"
+            }
+        ]
+    },
+    {
+        "src": "sumai raihtis jah in neiþis jah haifstais",
+        "masked": "sumai raihtis jah [MASK] neiþis jah haifstais",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "all boko gudiskaizos ahmateinais jah þaurftos du laiseinai du gasahtai du garaihteinai du talzeinai in garaihtein ei ustauhans sijai manna gudis du allamma waurstwe godaize gamanwiþs",
+        "masked": "all boko gudiskaizos ahmateinais jah þaurftos du laiseinai du gasahtai [MASK] garaihteinai du talzeinai in garaihtein ei ustauhans sijai [MASK] gudis [MASK] allamma waurstwe godaize gamanwiþs",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "du"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "manna"
+            },
+            {
+                "mask_idx": 21,
+                "masked_token": "du"
+            }
+        ]
+    },
+    {
+        "src": "ƕas mik lauseiþ us þamma leika dauþaus þis",
+        "masked": "ƕas [MASK] lauseiþ us þamma leika dauþaus þis",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "mik"
+            }
+        ]
+    },
+    {
+        "src": "ƕas ussteigiþ in himin",
+        "masked": "ƕas ussteigiþ in himin",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ is gahnipnands in þis waurdis galaiþ gaurs",
+        "masked": "iþ is gahnipnands [MASK] þis waurdis galaiþ gaurs",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "jah anaks warþ miþ þamma aggilau managei harjis himinakundis hazjandane guþ jah qiþandane",
+        "masked": "jah anaks warþ miþ þamma aggilau managei [MASK] himinakundis hazjandane guþ jah qiþandane",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "harjis"
+            }
+        ]
+    },
+    {
+        "src": "qiþiþ frauja",
+        "masked": "qiþiþ frauja",
+        "masked_tokens": []
+    },
+    {
+        "src": "awiliud guda in þizos unusspillodons is gibos",
+        "masked": "awiliud [MASK] in þizos unusspillodons is gibos",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "guda"
+            }
+        ]
+    },
+    {
+        "src": "akei qaþ izwis þatei gaseƕuþ mik jah ni galaubeiþ",
+        "masked": "akei [MASK] izwis þatei gaseƕuþ mik jah ni galaubeiþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "qaþ"
+            }
+        ]
+    },
+    {
+        "src": "nu fraleitais skalk þeinana frauja bi waurda þeinamma in gawairþja",
+        "masked": "nu fraleitais skalk þeinana frauja bi [MASK] þeinamma in gawairþja",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "waurda"
+            }
+        ]
+    },
+    {
+        "src": "witoda gudis ni ufhauseiþ iþ ni mag",
+        "masked": "witoda gudis ni ufhauseiþ iþ ni [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "mag"
+            }
+        ]
+    },
+    {
+        "src": "ni man",
+        "masked": "ni man",
+        "masked_tokens": []
+    },
+    {
+        "src": "ik im sa hlaifs libainais",
+        "masked": "ik im sa hlaifs libainais",
+        "masked_tokens": []
+    },
+    {
+        "src": "unte þai sunjos þis aiwis frodozans sunum liuhadis in kunja seinamma sind",
+        "masked": "unte þai [MASK] þis aiwis frodozans sunum liuhadis in kunja seinamma sind",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "sunjos"
+            }
+        ]
+    },
+    {
+        "src": "ƕa nu qiþam",
+        "masked": "ƕa nu qiþam",
+        "masked_tokens": []
+    },
+    {
+        "src": "þu ƕa qiþis bi þana ei uslauk þus augona",
+        "masked": "þu ƕa [MASK] bi þana ei uslauk þus augona",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "qiþis"
+            }
+        ]
+    },
+    {
+        "src": "qeþun du imma",
+        "masked": "qeþun du imma",
+        "masked_tokens": []
+    },
+    {
+        "src": "sinteino auk þans unledans habaiþ miþ izwis jah þan wileiþ maguþ im waila taujan",
+        "masked": "sinteino [MASK] þans unledans habaiþ miþ izwis jah þan wileiþ maguþ im waila taujan",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "auk"
+            }
+        ]
+    },
+    {
+        "src": "þu ƕas is þuei stojis framaþjana skalk",
+        "masked": "þu ƕas is þuei stojis [MASK] skalk",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "framaþjana"
+            }
+        ]
+    },
+    {
+        "src": "ni auk ist analaugn þatei swikunþ ni wairþai nih fulgin þatei ni gakunnaidau jah in swekunþamma qimai",
+        "masked": "ni [MASK] ist analaugn þatei swikunþ ni wairþai nih fulgin þatei ni gakunnaidau jah in swekunþamma [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "auk"
+            },
+            {
+                "mask_idx": 16,
+                "masked_token": "qimai"
+            }
+        ]
+    },
+    {
+        "src": "jah afar dagans saihs ganam Iesus Paitru jah Iakobu jah Iohannen jah ustauh ins ana fairguni hauh sundro ainans",
+        "masked": "jah afar dagans saihs ganam Iesus Paitru jah Iakobu [MASK] [MASK] jah ustauh ins ana fairguni hauh sundro ainans",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "jah"
+            },
+            {
+                "mask_idx": 10,
+                "masked_token": "Iohannen"
+            }
+        ]
+    },
+    {
+        "src": "unte dauhtar ainoho was imma swe wintriwe twalibe jah so swalt",
+        "masked": "unte dauhtar ainoho was [MASK] swe wintriwe twalibe jah so swalt",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "imma"
+            }
+        ]
+    },
+    {
+        "src": "qaþ sums þize skalke þis maistins gudjins",
+        "masked": "qaþ sums þize [MASK] þis maistins gudjins",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "skalke"
+            }
+        ]
+    },
+    {
+        "src": "warþ þan miþþanei gawandida sik Iesus andnam ina managei",
+        "masked": "warþ þan miþþanei gawandida [MASK] Iesus andnam ina managei",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "sik"
+            }
+        ]
+    },
+    {
+        "src": "aþþan izwara jah tagla haubidis alla garaþana sind",
+        "masked": "aþþan izwara [MASK] tagla haubidis alla garaþana sind",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "iþ þo dwalona usweihona lausawaurdja biwandei",
+        "masked": "iþ þo dwalona usweihona lausawaurdja [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "biwandei"
+            }
+        ]
+    },
+    {
+        "src": "jah sitands atwopida þans twalif jah qaþ du im",
+        "masked": "jah sitands atwopida [MASK] twalif jah qaþ du im",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "þans"
+            }
+        ]
+    },
+    {
+        "src": "was uh þan Kajafa saei garaginoda Iudaium þatei batizo ist ainana mannan fraqistjan faur managein",
+        "masked": "was uh þan [MASK] [MASK] garaginoda Iudaium þatei batizo ist ainana mannan fraqistjan faur managein",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "Kajafa"
+            },
+            {
+                "mask_idx": 4,
+                "masked_token": "saei"
+            }
+        ]
+    },
+    {
+        "src": "jah sai alla so baurgs usiddja wiþra Iesu jah gasaiƕandans ina bedun ei usliþi hindar markos ize",
+        "masked": "jah sai [MASK] so baurgs usiddja wiþra Iesu jah gasaiƕandans ina bedun ei usliþi [MASK] markos ize",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "alla"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "hindar"
+            }
+        ]
+    },
+    {
+        "src": "iþ is þahaida jah waiht ni andhof",
+        "masked": "iþ is þahaida jah waiht [MASK] andhof",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "ni"
+            }
+        ]
+    },
+    {
+        "src": "ƕileika was nu audagei izwara",
+        "masked": "ƕileika was nu audagei izwara",
+        "masked_tokens": []
+    },
+    {
+        "src": "saei mik fijaiþ jah attan meinana fijaiþ",
+        "masked": "saei mik fijaiþ jah attan meinana [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "fijaiþ"
+            }
+        ]
+    },
+    {
+        "src": "jas saei filu ni managizo jah saei leitil ni fawizo",
+        "masked": "jas saei [MASK] ni managizo jah saei leitil ni fawizo",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "filu"
+            }
+        ]
+    },
+    {
+        "src": "jah in þizai swnagogein was manna habands ahman unhulþons unhrainjana jah ufhropida qiþands",
+        "masked": "jah in þizai swnagogein was manna habands ahman unhulþons unhrainjana jah ufhropida [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "qiþands"
+            }
+        ]
+    },
+    {
+        "src": "iþ þaiei us haifstai Xristu merjand ni swiknaba munandans sik aglons urraisjan bandjom meinaim",
+        "masked": "[MASK] þaiei us haifstai Xristu merjand ni swiknaba munandans sik aglons urraisjan bandjom meinaim",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "iþ"
+            }
+        ]
+    },
+    {
+        "src": "unte þarbos meinos usfullidedun broþrjus qimandans af Makidonai jah in allaim unkaureinom izwis mik silban fastaida jah fasta",
+        "masked": "unte þarbos meinos usfullidedun broþrjus qimandans af Makidonai jah in allaim [MASK] [MASK] mik silban fastaida jah fasta",
+        "masked_tokens": [
+            {
+                "mask_idx": 11,
+                "masked_token": "unkaureinom"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "izwis"
+            }
+        ]
+    },
+    {
+        "src": "sumai þ þan lofam slohun qiþandans",
+        "masked": "[MASK] þ þan lofam slohun qiþandans",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "sumai"
+            }
+        ]
+    },
+    {
+        "src": "warþ þan miþþanei þo wesun jainar usfullnodedun dagos du bairan izai",
+        "masked": "[MASK] þan miþþanei þo wesun jainar usfullnodedun dagos du bairan izai",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "warþ"
+            }
+        ]
+    },
+    {
+        "src": "aþþan þan qam Paitrus in Antiokjai in andwairþi imma andstoþ unte gatarhiþs was",
+        "masked": "aþþan þan qam Paitrus in Antiokjai in andwairþi imma andstoþ [MASK] gatarhiþs was",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "unte"
+            }
+        ]
+    },
+    {
+        "src": "iþ is þan gaƕotjands im faurbauþ ei mann ni qiþeina þata qiþands þatei skal sunus mans manag winnan jah uskusans fram sinistam wairþan jah gudjam jah bokarjam jah usqiman jah þridjin daga urreisan",
+        "masked": "iþ is þan gaƕotjands im faurbauþ [MASK] mann ni qiþeina [MASK] qiþands þatei skal sunus mans manag winnan jah uskusans fram sinistam wairþan jah gudjam jah bokarjam jah usqiman jah þridjin [MASK] urreisan",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "ei"
+            },
+            {
+                "mask_idx": 10,
+                "masked_token": "þata"
+            },
+            {
+                "mask_idx": 31,
+                "masked_token": "daga"
+            }
+        ]
+    },
+    {
+        "src": "ik im hairdeis gods",
+        "masked": "ik im hairdeis gods",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah þan ik wissa þatei sinteino mis andhauseis",
+        "masked": "jah þan ik wissa þatei [MASK] mis andhauseis",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "sinteino"
+            }
+        ]
+    },
+    {
+        "src": "widuwons swerai þozei bi sunjai sijaina widuwons",
+        "masked": "[MASK] swerai þozei bi sunjai sijaina widuwons",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "widuwons"
+            }
+        ]
+    },
+    {
+        "src": "in þize bidja",
+        "masked": "in þize bidja",
+        "masked_tokens": []
+    },
+    {
+        "src": "aþþan duƕe ni galaubideduþ imma",
+        "masked": "aþþan duƕe ni galaubideduþ imma",
+        "masked_tokens": []
+    },
+    {
+        "src": "þewisa ufhausjaiþ bi all þaim bi leika fraujam ni in augam skalkinondans swe mannam samjandans ak in ainfalþein hairtins ogandans guþ",
+        "masked": "þewisa ufhausjaiþ bi [MASK] þaim bi leika fraujam ni in augam skalkinondans swe mannam samjandans ak in [MASK] hairtins ogandans guþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "all"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "ainfalþein"
+            }
+        ]
+    },
+    {
+        "src": "du Galatim gameliþ ist us Rumai",
+        "masked": "du Galatim [MASK] ist us Rumai",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "gameliþ"
+            }
+        ]
+    },
+    {
+        "src": "biþe gahausida Peilatus þata waurd mais ohta sis",
+        "masked": "biþe gahausida Peilatus þata waurd [MASK] ohta sis",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "mais"
+            }
+        ]
+    },
+    {
+        "src": "nauhþan imma rodjandin gaggiþ sums manne fram þis fauramaþleis swnagogais qiþands du imma þatei",
+        "masked": "nauhþan imma rodjandin gaggiþ sums manne fram þis [MASK] swnagogais qiþands du imma þatei",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "fauramaþleis"
+            }
+        ]
+    },
+    {
+        "src": "jus frijonds meinai sijuþ jabai taujiþ þatei ik anabiuda izwis",
+        "masked": "jus [MASK] meinai sijuþ jabai taujiþ þatei ik anabiuda izwis",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "frijonds"
+            }
+        ]
+    },
+    {
+        "src": "iþ jabai liban in leika þata mis akran waurstwis ist jah ƕaþar waljau ni kann",
+        "masked": "iþ jabai [MASK] in leika þata mis [MASK] waurstwis ist jah ƕaþar waljau ni kann",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "liban"
+            },
+            {
+                "mask_idx": 7,
+                "masked_token": "akran"
+            }
+        ]
+    },
+    {
+        "src": "ik im þata weinatriu iþ jus weinatainos",
+        "masked": "ik im þata [MASK] iþ jus weinatainos",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "weinatriu"
+            }
+        ]
+    },
+    {
+        "src": "iþ eis ni froþun þamma waurda jah was gahuliþ faura im ei ni froþeina imma",
+        "masked": "iþ eis ni froþun þamma waurda jah was gahuliþ faura im ei [MASK] froþeina [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "ni"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "imma"
+            }
+        ]
+    },
+    {
+        "src": "jah qaþ du im",
+        "masked": "jah qaþ du im",
+        "masked_tokens": []
+    },
+    {
+        "src": "us anstai usdrusuþ",
+        "masked": "us anstai usdrusuþ",
+        "masked_tokens": []
+    },
+    {
+        "src": "þatei rodja ni rodja bi fraujan ak swe in unfrodein in þamma stomin þizos ƕoftuljos",
+        "masked": "þatei [MASK] ni rodja bi fraujan ak swe in unfrodein in þamma stomin [MASK] ƕoftuljos",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "rodja"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "þizos"
+            }
+        ]
+    },
+    {
+        "src": "jah jabai fraatjau allos aihtins meinos jah jabai atgibau leik mein ei gabrannjaidau iþ friaþwa ni habau ni waiht botos mis taujau",
+        "masked": "jah jabai fraatjau allos aihtins meinos jah jabai [MASK] leik mein ei gabrannjaidau iþ friaþwa ni habau ni waiht [MASK] mis taujau",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "atgibau"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "botos"
+            }
+        ]
+    },
+    {
+        "src": "Qiþa nu",
+        "masked": "Qiþa nu",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ weseina þo alla ains liþus ƕar leik",
+        "masked": "iþ weseina þo alla ains [MASK] ƕar leik",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "liþus"
+            }
+        ]
+    },
+    {
+        "src": "Maizei þaim anþara anabusns nist",
+        "masked": "Maizei þaim anþara anabusns nist",
+        "masked_tokens": []
+    },
+    {
+        "src": "aþþan jabai melida ni in þis anamahtjandins ni in þis anamahtidins ak du gabairhtjan usdaudein unsara þoei faur izwis habam wiþra izwis in andwairþja gudis",
+        "masked": "aþþan jabai melida ni in þis [MASK] ni in þis anamahtidins ak du gabairhtjan usdaudein unsara þoei faur [MASK] habam wiþra izwis in andwairþja gudis",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "anamahtjandins"
+            },
+            {
+                "mask_idx": 18,
+                "masked_token": "izwis"
+            }
+        ]
+    },
+    {
+        "src": "dugann þan rodjan du im þatei",
+        "masked": "dugann þan rodjan [MASK] im þatei",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "du"
+            }
+        ]
+    },
+    {
+        "src": "anastodjandans ahmin nu leika ustiuhiþ",
+        "masked": "anastodjandans ahmin nu leika ustiuhiþ",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah atstandands ufar ija gasok þizai brinnon jah aflailot ija",
+        "masked": "jah atstandands ufar ija gasok þizai brinnon [MASK] aflailot ija",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "jah sildaleikidedun manageins qiþandans",
+        "masked": "jah sildaleikidedun manageins qiþandans",
+        "masked_tokens": []
+    },
+    {
+        "src": "aiþþau jah þu usmaitaza",
+        "masked": "aiþþau jah þu usmaitaza",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ Peilatus wiljands þizai managein fullafahjan fralailot im þana Barabban iþ Iesu atgaf usbliggwands ei ushramiþs wesi",
+        "masked": "iþ Peilatus wiljands þizai managein fullafahjan fralailot im þana Barabban iþ Iesu atgaf [MASK] [MASK] ushramiþs wesi",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "usbliggwands"
+            },
+            {
+                "mask_idx": 14,
+                "masked_token": "ei"
+            }
+        ]
+    },
+    {
+        "src": "jah usgeisnodedun fadrein izos",
+        "masked": "jah usgeisnodedun fadrein izos",
+        "masked_tokens": []
+    },
+    {
+        "src": "sai nu selein jah ƕassein gudis",
+        "masked": "sai nu selein jah [MASK] gudis",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "ƕassein"
+            }
+        ]
+    },
+    {
+        "src": "run ustauh",
+        "masked": "run ustauh",
+        "masked_tokens": []
+    },
+    {
+        "src": "qaþ uh þan du izai",
+        "masked": "qaþ uh þan du izai",
+        "masked_tokens": []
+    },
+    {
+        "src": "Jah usstandands iddja afar imma",
+        "masked": "Jah usstandands iddja afar imma",
+        "masked_tokens": []
+    },
+    {
+        "src": "qaþ þan du imma Iesus",
+        "masked": "qaþ þan du imma Iesus",
+        "masked_tokens": []
+    },
+    {
+        "src": "jah biþe usdribans warþ unhulþo rodida sa dumba jah sildaleikidedun manageins qiþandans",
+        "masked": "jah [MASK] usdribans warþ unhulþo rodida sa dumba jah sildaleikidedun manageins qiþandans",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "biþe"
+            }
+        ]
+    },
+    {
+        "src": "ƕarjizuh auk swesa baurþein bairiþ",
+        "masked": "ƕarjizuh auk swesa baurþein bairiþ",
+        "masked_tokens": []
+    },
+    {
+        "src": "ansts izwis jah gawairþi fram guda attin unsaramma jah fraujin Iesu Xristau",
+        "masked": "ansts izwis jah gawairþi fram [MASK] attin unsaramma jah fraujin Iesu Xristau",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "guda"
+            }
+        ]
+    },
+    {
+        "src": "akei ni ainshun uslagida ana ina handuns",
+        "masked": "akei [MASK] ainshun uslagida ana ina handuns",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "ni"
+            }
+        ]
+    },
+    {
+        "src": "was uþ þan jah widuwo in þizai baurg jainai jah atiddja du imma qiþandei",
+        "masked": "was uþ þan jah widuwo in þizai baurg jainai jah atiddja du imma [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 13,
+                "masked_token": "qiþandei"
+            }
+        ]
+    },
+    {
+        "src": "þanuh qeþun du imma",
+        "masked": "þanuh qeþun du imma",
+        "masked_tokens": []
+    },
+    {
+        "src": "anþarai þan qeþun þatei praufetes ist swe ains þize praufete",
+        "masked": "anþarai þan qeþun þatei praufetes ist swe ains [MASK] praufete",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "þize"
+            }
+        ]
+    },
+    {
+        "src": "iþ þatei tauja jah taujan haba ei usmaitau inilon þize wiljandane inilon ei in þammei ƕopand bigitaindau swaswe jah weis",
+        "masked": "iþ þatei tauja jah taujan haba ei usmaitau inilon [MASK] wiljandane inilon [MASK] in þammei ƕopand bigitaindau swaswe jah weis",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "þize"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "ei"
+            }
+        ]
+    },
+    {
+        "src": "saei auk matjiþ jah drigkiþ unwairþaba staua sis silbin matjiþ jah drigkiþ ni domjands leik fraujins",
+        "masked": "saei [MASK] [MASK] jah drigkiþ unwairþaba staua sis silbin matjiþ jah drigkiþ ni domjands leik fraujins",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "auk"
+            },
+            {
+                "mask_idx": 2,
+                "masked_token": "matjiþ"
+            }
+        ]
+    },
+    {
+        "src": "was uþ þan sunus is sa alþiza ana akra",
+        "masked": "was uþ þan sunus is sa [MASK] ana akra",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "alþiza"
+            }
+        ]
+    },
+    {
+        "src": "aþþan sa ƕopands in fraujin ƕopai",
+        "masked": "aþþan sa [MASK] in fraujin ƕopai",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "ƕopands"
+            }
+        ]
+    },
+    {
+        "src": "ni qam laþon uswaurhtans ak frawaurhtans",
+        "masked": "ni [MASK] laþon uswaurhtans ak frawaurhtans",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "qam"
+            }
+        ]
+    },
+    {
+        "src": "jah ustiuhands all fraistobnjo diabulus afstoþ fairra imma und mel",
+        "masked": "[MASK] ustiuhands all fraistobnjo diabulus afstoþ fairra imma und mel",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "ni ainummehun ubil und ubilamma usgibandans",
+        "masked": "ni [MASK] ubil und ubilamma usgibandans",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "ainummehun"
+            }
+        ]
+    },
+    {
+        "src": "fraqistniþ auk sa unmahteiga ana þeinamma witubnja broþar in þize Xristus gaswalt",
+        "masked": "[MASK] auk sa unmahteiga ana þeinamma witubnja broþar in þize Xristus gaswalt",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "fraqistniþ"
+            }
+        ]
+    },
+    {
+        "src": "weitwodja in andwairþja gudis jah fraujins unsaris Iesuis Xristaus jah þize gawalidane aggile ei þata fastais inu faurdomein ni waiht taujands bi wiljahalþein",
+        "masked": "weitwodja in andwairþja gudis jah fraujins unsaris Iesuis Xristaus jah þize gawalidane aggile ei þata fastais inu faurdomein ni waiht taujands [MASK] [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 21,
+                "masked_token": "bi"
+            },
+            {
+                "mask_idx": 22,
+                "masked_token": "wiljahalþein"
+            }
+        ]
+    },
+    {
+        "src": "þeinai wesun jah mis atgaft ins jah þata waurd þeinata gafastaidedun",
+        "masked": "þeinai wesun jah mis atgaft ins [MASK] þata waurd þeinata gafastaidedun",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "Niu im apaustaulus",
+        "masked": "Niu im apaustaulus",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ is andhafjands qaþ du im",
+        "masked": "iþ is [MASK] qaþ du im",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "andhafjands"
+            }
+        ]
+    },
+    {
+        "src": "ana unhailans handuns uslagjand jah waila wairþiþ im",
+        "masked": "ana unhailans handuns uslagjand jah waila wairþiþ [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "im"
+            }
+        ]
+    },
+    {
+        "src": "amen amen qiþa izwis",
+        "masked": "amen amen qiþa izwis",
+        "masked_tokens": []
+    },
+    {
+        "src": "swa managai auk swe in Xristau daupidai wesuþ Xristau gahamodai sijuþ",
+        "masked": "swa managai auk swe in Xristau daupidai wesuþ [MASK] gahamodai sijuþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "Xristau"
+            }
+        ]
+    },
+    {
+        "src": "aþþan jabai ahmin tiuhanda ni sijuþ uf witoda",
+        "masked": "aþþan jabai ahmin [MASK] ni sijuþ uf witoda",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "tiuhanda"
+            }
+        ]
+    },
+    {
+        "src": "frauja neƕa ist",
+        "masked": "frauja neƕa ist",
+        "masked_tokens": []
+    },
+    {
+        "src": "þatuh þan ainshun ni wissa þize anakumbjandane duƕe qaþ imma",
+        "masked": "þatuh þan ainshun [MASK] wissa þize anakumbjandane duƕe qaþ imma",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "ni"
+            }
+        ]
+    },
+    {
+        "src": "ganah þamma swaleikamma andabeit þata fram managizam swaei þata andaneiþo izwis mais fragiban jag gaþlaihan ibai aufto managizein saurgai gasiggqai sa swaleiks",
+        "masked": "ganah þamma swaleikamma andabeit þata fram managizam swaei þata andaneiþo izwis mais fragiban jag gaþlaihan ibai [MASK] managizein saurgai [MASK] sa swaleiks",
+        "masked_tokens": [
+            {
+                "mask_idx": 16,
+                "masked_token": "aufto"
+            },
+            {
+                "mask_idx": 19,
+                "masked_token": "gasiggqai"
+            }
+        ]
+    },
+    {
+        "src": "þu is Xristus",
+        "masked": "þu is Xristus",
+        "masked_tokens": []
+    },
+    {
+        "src": "þaþroþ þan andeis þan anafilhiþ þiudinassu guda jah attin þan gatairiþ all reikjis jah waldufnjis jah mahtais",
+        "masked": "þaþroþ þan andeis þan [MASK] þiudinassu [MASK] jah attin þan gatairiþ all reikjis jah waldufnjis jah mahtais",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "anafilhiþ"
+            },
+            {
+                "mask_idx": 6,
+                "masked_token": "guda"
+            }
+        ]
+    },
+    {
+        "src": "þanuh lustu habands andletnan jah miþ Xristau wisan",
+        "masked": "þanuh lustu habands andletnan [MASK] miþ Xristau wisan",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "jah"
+            }
+        ]
+    },
+    {
+        "src": "let ei saiƕam qimai u Helias nasjan ina",
+        "masked": "let ei saiƕam qimai u Helias nasjan [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "ina"
+            }
+        ]
+    },
+    {
+        "src": "unte was laisjands ins swe waldufni habands jah ni swaswe þai bokarjos",
+        "masked": "unte was laisjands ins swe waldufni habands jah [MASK] swaswe þai bokarjos",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "ni"
+            }
+        ]
+    },
+    {
+        "src": "unte sa minnista wisands in allaim izwis sa wairþiþ mikils",
+        "masked": "unte sa minnista [MASK] in allaim izwis sa wairþiþ mikils",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "wisands"
+            }
+        ]
+    },
+    {
+        "src": "sai sa atta þeins jah ik winnandona sokidedum þuk",
+        "masked": "sai sa atta þeins jah ik [MASK] sokidedum þuk",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "winnandona"
+            }
+        ]
+    },
+    {
+        "src": "aþþan faginoda in fraujin mikilaba unte ju ƕan gaþaihuþ du faur mik fraþjan ana þammei jah froþuþ aþþan analatidai waurþuþ",
+        "masked": "aþþan faginoda in fraujin mikilaba unte ju ƕan gaþaihuþ du faur mik [MASK] ana þammei jah froþuþ [MASK] analatidai waurþuþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 12,
+                "masked_token": "fraþjan"
+            },
+            {
+                "mask_idx": 17,
+                "masked_token": "aþþan"
+            }
+        ]
+    },
+    {
+        "src": "akei swaswe aikklesjo ufhauseiþ Xristu swah qenes abnam seinaim in allamma",
+        "masked": "akei swaswe aikklesjo ufhauseiþ Xristu [MASK] qenes abnam seinaim in allamma",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "swah"
+            }
+        ]
+    },
+    {
+        "src": "sai aiþei þeina jah broþrjus þeinai jah swistrjus þeinos uta sokjand þuk",
+        "masked": "sai [MASK] þeina jah broþrjus þeinai jah swistrjus þeinos uta sokjand þuk",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "aiþei"
+            }
+        ]
+    },
+    {
+        "src": "Swaei nu broþrjus meinai liubans jah lustusamans faheþs jah waips meins swa standaiþ in fraujin",
+        "masked": "[MASK] nu [MASK] meinai liubans jah lustusamans faheþs jah waips meins swa standaiþ in fraujin",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "Swaei"
+            },
+            {
+                "mask_idx": 2,
+                "masked_token": "broþrjus"
+            }
+        ]
+    },
+    {
+        "src": "jah qaþ du imma diabulus",
+        "masked": "jah qaþ du imma diabulus",
+        "masked_tokens": []
+    },
+    {
+        "src": "aþþan biþe qima þanzei gakiusiþ þairh bokos þans sandja briggan anst izwara in Iairusalem",
+        "masked": "aþþan biþe qima þanzei gakiusiþ [MASK] bokos þans sandja briggan anst izwara in Iairusalem",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "þairh"
+            }
+        ]
+    },
+    {
+        "src": "jah nist sildaleik unte silba Satana gagaleikoþ sik aggilau liuhadis",
+        "masked": "jah nist sildaleik unte [MASK] Satana gagaleikoþ sik aggilau liuhadis",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "silba"
+            }
+        ]
+    },
+    {
+        "src": "jah auk qimandam unsis in Makaidonjai ni waiht habaida gaƕeilainais leik unsar ak in allamma anapragganai",
+        "masked": "jah auk qimandam unsis in Makaidonjai ni [MASK] habaida gaƕeilainais [MASK] unsar ak in allamma anapragganai",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "waiht"
+            },
+            {
+                "mask_idx": 10,
+                "masked_token": "leik"
+            }
+        ]
+    },
+    {
+        "src": "sitandin þan imma ana stauastola insandida du imma qens is qiþandei",
+        "masked": "sitandin þan imma ana stauastola insandida du [MASK] qens is qiþandei",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "imma"
+            }
+        ]
+    },
+    {
+        "src": "duþþe andhaita þus in þiudom frauja jah namin þeinamma liuþo",
+        "masked": "duþþe andhaita þus in þiudom [MASK] jah namin þeinamma liuþo",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "frauja"
+            }
+        ]
+    },
+    {
+        "src": "amen qiþa þus",
+        "masked": "amen qiþa þus",
+        "masked_tokens": []
+    },
+    {
+        "src": "qaþ þan du imma Iesus",
+        "masked": "qaþ þan du imma Iesus",
+        "masked_tokens": []
+    },
+    {
+        "src": "Swa managai swe sijaina uf jukuzjai skalkans seinans fraujans allaizos sweriþos wairþans rahnjaina ei namo fraujins jah laiseins ni wajamerjaidau",
+        "masked": "Swa managai swe sijaina uf jukuzjai skalkans [MASK] fraujans allaizos sweriþos wairþans [MASK] ei namo fraujins jah laiseins ni wajamerjaidau",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "seinans"
+            },
+            {
+                "mask_idx": 12,
+                "masked_token": "rahnjaina"
+            }
+        ]
+    },
+    {
+        "src": "unte ni gaf unsis guþ ahman faurhteins ak mahtais jah frijaþwos jah inaheins",
+        "masked": "[MASK] ni gaf unsis guþ ahman faurhteins ak mahtais jah frijaþwos jah inaheins",
+        "masked_tokens": [
+            {
+                "mask_idx": 0,
+                "masked_token": "unte"
+            }
+        ]
+    },
+    {
+        "src": "ƕas siai sa ei jah windam faurbiudiþ jah watnam jah ufhausjand imma",
+        "masked": "ƕas siai sa ei jah windam faurbiudiþ jah [MASK] jah ufhausjand imma",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "watnam"
+            }
+        ]
+    },
+    {
+        "src": "þata rodida Iesus uz-hof uh augona seina du himina jah qaþ",
+        "masked": "þata rodida Iesus uz-hof uh augona seina du [MASK] jah qaþ",
+        "masked_tokens": [
+            {
+                "mask_idx": 8,
+                "masked_token": "himina"
+            }
+        ]
+    },
+    {
+        "src": "iþ þata managizo þaim us þamma ubilin ist",
+        "masked": "iþ þata managizo þaim us þamma ubilin [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 7,
+                "masked_token": "ist"
+            }
+        ]
+    },
+    {
+        "src": "amen qiþa izwis",
+        "masked": "amen qiþa izwis",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ eis ni froþun þamma waurda jah ohtedun ina fraihnan",
+        "masked": "iþ eis ni froþun þamma waurda jah ohtedun ina [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 9,
+                "masked_token": "fraihnan"
+            }
+        ]
+    },
+    {
+        "src": "sai nu gahausideduþ þo wajamerein is",
+        "masked": "sai nu gahausideduþ þo wajamerein [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "is"
+            }
+        ]
+    },
+    {
+        "src": "jah suns afletandans þo natja seina laistidedun afar imma",
+        "masked": "jah suns afletandans þo [MASK] seina laistidedun afar imma",
+        "masked_tokens": [
+            {
+                "mask_idx": 4,
+                "masked_token": "natja"
+            }
+        ]
+    },
+    {
+        "src": "aþþan qimand dagos jah þan afnimada af im sa bruþfads jah þan fastand in jainaim dagam",
+        "masked": "aþþan [MASK] dagos jah þan afnimada af im sa bruþfads jah þan fastand [MASK] jainaim dagam",
+        "masked_tokens": [
+            {
+                "mask_idx": 1,
+                "masked_token": "qimand"
+            },
+            {
+                "mask_idx": 13,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "qiþiþ frauja allwaldands",
+        "masked": "qiþiþ frauja allwaldands",
+        "masked_tokens": []
+    },
+    {
+        "src": "sumai h qeþun þatei sa ist",
+        "masked": "sumai h qeþun þatei sa [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 5,
+                "masked_token": "ist"
+            }
+        ]
+    },
+    {
+        "src": "þanuh andhafjand jah þai qiþandans",
+        "masked": "þanuh andhafjand jah þai qiþandans",
+        "masked_tokens": []
+    },
+    {
+        "src": "ni kann þana mannan",
+        "masked": "ni kann þana mannan",
+        "masked_tokens": []
+    },
+    {
+        "src": "iþ þans frawaurhtans in andwairþja allaize gasak ei jah þai anþarai agis habaina",
+        "masked": "iþ þans frawaurhtans [MASK] andwairþja allaize gasak ei jah þai anþarai agis habaina",
+        "masked_tokens": [
+            {
+                "mask_idx": 3,
+                "masked_token": "in"
+            }
+        ]
+    },
+    {
+        "src": "faginoþ miþ mis unte bigat drakman þammei fralaus",
+        "masked": "faginoþ miþ mis unte bigat drakman [MASK] fralaus",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "þammei"
+            }
+        ]
+    },
+    {
+        "src": "iþ eis þahaidedun",
+        "masked": "iþ eis þahaidedun",
+        "masked_tokens": []
+    },
+    {
+        "src": "amen auk qiþa izwis ei ni ustiuhiþ baurgs Israelis unte qimiþ sa sunus mans",
+        "masked": "amen auk [MASK] izwis ei ni ustiuhiþ baurgs Israelis unte qimiþ sa sunus mans",
+        "masked_tokens": [
+            {
+                "mask_idx": 2,
+                "masked_token": "qiþa"
+            }
+        ]
+    }
+]
