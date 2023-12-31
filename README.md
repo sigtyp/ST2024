@@ -87,20 +87,68 @@ For this task, 10% of tokens in each sentence were randomly replaced with a `[MA
 
 **NB!** Here and below we provide examples from different languages in one table, but in the dataset each language has its own data file(s). 
 
+#### TSV
 |masked|src|
 |:-----|:--|
 |Cé [MASK] secht [MASK] im gin sóee suilgind, co bráth, mó cech delmaimm, issed ma do-ruirminn.|Cé betis secht tengtha im gin sóee suilgind, co bráth, mó cech delmaimm, issed ma do-ruirminn.|
 |ѿ негоже рожает [MASK] с҃нъ преже всѣх вѣкъ|ѿ негоже рожает сѧ с҃нъ преже всѣх вѣкъ|
 |豈人[MASK]之子孫則必不善哉|豈人主之子孫則必不善哉|
 
+#### JSON
+```
+[
+    {
+        "src": "Sith do denamh doib iar sin.",
+        "masked": "Sith do denamh doib iar sin [MASK]",
+        "masked_tokens": [
+            {
+                "mask_idx": 6,
+                "masked_token": "."
+            }
+        ]
+    },
+   {
+        "src": "\"Créd tucc ort cen teacht dá hiarraidh a cCarn Chaireadha theas mar ar gealladh dhuit í,\" ol Oisín.",
+        "masked": "\"Créd tucc ort cen teacht dá hiarraidh a cCarn [MASK] [MASK] mar ar gealladh dhuit í,\" ol Oisín.",
+        "masked_tokens": [
+            {
+                "mask_idx": 10,
+                "masked_token": "Chaireadha"
+            },
+            {
+                "mask_idx": 11,
+                "masked_token": "theas"
+            }
+        ]
+    }
+]
+```
+
 ### Data format for task 4b
 For languages with alphabetical writing systems, sentences were split into individual characters. For Classical Chinese, each Hanzi character was decomposed into individual strokes with the help of [hanzipy](https://pypi.org/project/hanzipy/) package (we used the deepest decomposition level available, "graphical"). Then, 5% of characters in each sentence were randomly replaced with a `[_]` token. Please keep in mind that some sentences have more than one masked character, and some (short) sentences have none.
 
+#### TSV
 |masked|src|
 |:-----|:--|
 |Cé betis se[\_]ht te[\_]gtha im gin s[\_]ee suilgind, co bráth, mó cech[\_]delmaimm, isse[\_] ma do-ruirminn.|Cé betis secht tengtha im gin sóee suilgind, co bráth, mó cech delmaimm, issed ma do-ruirminn.|
 |ѿ негоже рожает с[\_] с҃нъ п[\_]еже всѣх вѣкъ|ѿ негоже рожает сѧ с҃нъ преже всѣх вѣкъ|
 |丨凵一口丷一人一一[\_]一[\_]一一丨一丶戈㇝㇇亅一㇇亅一㇒㇛丶亅八[\_]二八亅丨𠁼㇃丿一丿丨丶一二丨丷丷一口一丨一戈口|豈人主之子孫則必不善哉|
+
+#### JSON
+```
+[
+    {
+        "src": "Sith do denamh doib iar sin.",
+        "masked": "Sith do denamh doib iar [_]in.",
+        "masked_tokens": [
+            {
+                "mask_idx": 24,
+                "masked_token": "s"
+            }
+        ]
+    }
+]
+```
 
 ## Evaluation Procedure
 The shared task is hosted on CodaLab. Following the authors of GLUE and SuperGLUE (Wang et al., 2019, 2020), we weigh each task equally and provide a macro-average of per-task scores as an overall score. For tasks with multiple metrics (e.g., F1 and accuracy), we use an unweighted average of the metrics as the score for the task when computing the overall macro-average.
