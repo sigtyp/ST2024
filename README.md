@@ -57,7 +57,9 @@ The following table gives a brief overview of the data. We use ISO 639-3 codes w
 |Middle Irish|mga|Indo-European|Celtic|Latin|900 – 1200 CE|251,684|31,748|31,292|14,308|1,789|1,789|
 |Early Modern Irish|ghc|Indo-European|Celtic|Latin|1200 – 1700 CE|673,449|115,163|79,600|24,440|3,055|3,056|
 
-The data for tasks 1-3 is the same and can be found in the *morphology* folder in `conllu` format. Tasks 4a and 4b have their own data folders: *fill_mask_word* and *fill_mask_char*, where each file is a two-column table in `tsv` format (`quotechar="^"`). Each file is named with a language code from the table above and a _train/valid/test_ prefix. **UPD.** For your convenience, we added extra information for tasks 4a and 4b: the indices of masked tokens and masked tokens themselves for each sentence. You can find this information in `json` files in *fill_mask_word* and *fill_mask_char* folders.
+The data for tasks 1-3 is the same and can be found in the *morphology* folder in `conllu` format. Tasks 4a and 4b have their own data folders: *fill_mask_word* and *fill_mask_char*, where each file is a two-column table in `tsv` format (`quotechar="^"`). Each file is named with a language code from the table above and a _train/valid/test_ prefix. 
+
+**UPD.** For your convenience, we added extra information for tasks 4a and 4b: the indices of masked tokens and masked tokens themselves for each sentence. You can find this information in `json` files in *fill_mask_word* and *fill_mask_char* folders.
 
 Please note that Old Hungarian texts come from diplomatic editions, i.e. they haven't been normalised and present some specific orthographic notation. We left this as is with the exception of punctuation: wherever a token in Old Hungarian data had a `PUNCT` POS-tag, we set its form to be equal to lemma, thus getting rid of `·Γ`, `:~`, `|Γ` etc. complex punctuation marks.
 
