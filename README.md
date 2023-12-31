@@ -246,18 +246,25 @@ Similarly to POS-tagging, you should submit a `.json` file with a list of senten
 ```
 
 ### Fill-mask tasks
-Submissions should be `json` files with a list of sentences, where each sentence is a dictionary. The first key, "Text", is the masked sentence itself. Other keys are sequential numbers of the gaps, starting with 0, which have lists/tuples of your top 3 predictions for them as values. The first gap in a sentence must be numbered as 0 regardless of where in the sentence it is, the next one will be 1, etc. If there are no gaps in a sentence, then your dictionary should contain just the "Text" field. If you have less than 3 predictions, you can submit empty strings.
+Submissions should be `json` files with a list of sentences, where each sentence is a dictionary. The key "masked" is a masked sentence provided, the key "text" is a restored sentence, and the key "masked_tokens" is a list of your predictions for masked tokens. We advise to provide your top-3 predictions for each masked token, but if you have less, you can submit empty strings. **NB!** The order of masked tokens and the order within your top-3 predictions is important! In the example below, `["ni", "na", ""]` is a list of top-3 predictions for the first masked token, where `"ni"` is the one with the highest probability; ["⁊", "&", "ocus"] is a list of top-3 predictions for the second masked token etc.
 
 #### Word-level
 ```
 [
   {
-    "Text": "‘Sech [MASK] ricfe iluc, ⁊ ni toruis húc’.",
-    0: ["ni", "na", ""]
+    "text": "‘Sech ni ricfe iluc, ⁊ ni toruis húc’.",
+    "masked": "‘Sech [MASK] ricfe iluc, [MASK] ni toruis húc’.",
+    "masked_tokens": [
+                      ["ni", "na", ""],
+                      ["⁊", "&", "ocus"]
+                     ]
   },
   {
-    "Text": "[MASK] ni fiad chách",
-    0: [".i.", "i.e.", "éd"]
+    "text": ".i. ni fiad chách",
+    "masked": "[MASK] ni fiad chách",
+    "masked_tokens": [
+                      [".i.", "i.e.", "éd"]
+                     ]
   }
 ]
 ```
@@ -266,9 +273,12 @@ Submissions should be `json` files with a list of sentences, where each sentence
 ```
 [
   {
-    "Text": "Ó do[_]un co brait ar Zedechias mac[_]Iosias.",
-    0: ["m", "n", ""],
-    1: [" ", "-", "c"]
+    "text": "Ó domun co brait ar Zedechias mac Iosias."
+    "masked": "Ó do[_]un co brait ar Zedechias mac[_]Iosias.",
+    "masked_tokens": [
+                      ["m", "n", ""],
+                      [" ", "-", "c"]
+                     ]
   }
 ]
 ```
