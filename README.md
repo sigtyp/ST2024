@@ -246,7 +246,7 @@ Similarly to POS-tagging, you should submit a `.json` file with a list of senten
 ```
 
 ### Fill-mask tasks
-Submissions should be `json` files with a list of sentences, where each sentence is a dictionary. The key "masked" is a masked sentence provided, the key "text" is a restored sentence, and the key "masked_tokens" is a list of your predictions for masked tokens. We advise to provide your top-3 predictions for each masked token, but if you have less, you can submit empty strings. **NB!** The order of masked tokens and the order within your top-3 predictions is important! In the example below, `["ni", "na", ""]` is a list of top-3 predictions for the first masked token, where `"ni"` is the one with the highest probability; ["⁊", "&", "ocus"] is a list of top-3 predictions for the second masked token etc.
+Submissions should be `json` files with a list of sentences, where each sentence is a dictionary. The key "masked" is a masked sentence provided, the key "text" is a restored sentence, and the key "masked_tokens" is a list of your predictions for masked tokens. We advise to provide your top-3 predictions for each masked token, but if you have less, you can submit empty strings. **NB!** The order of masked tokens and the order within your top-3 predictions is important! In the example below, `["ni", "na", ""]` is a list of top-3 predictions for the first masked token, where `"ni"` is the one with the highest probability; `["⁊", "&", "ocus"]` is a list of top-3 predictions for the second masked token etc.
 
 #### Word-level
 ```
