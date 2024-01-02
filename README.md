@@ -190,9 +190,39 @@ You should submit a `.zip` file with the following folder structure:
     ├── cop.json
     ├── fro.json
     └── ...
+
 ```
 
-**NB!** Please make sure that your folder & file names are exactly as displayed above!
+**NB!** Please make sure that your folder & file names are exactly as displayed above! For the **constrained subtask**, you should also upload your pretrained embeddings as binary files, and a Python function to load them. Your code should be compatible with `Python 3.9`. If any additional libraries are required for loading your embedding models, please specify them and their versions in the `requirements.txt` file.
+
+```
+📂 embeddings
+    ├── load_embeddings.py
+    ├── requirements.txt
+    ├── chu.bin
+    ├── cop.bin
+    ├── fro.bin
+    └── ...
+```
+
+Here is an example of a load function (uses `gensim==4.3.0`):
+
+```
+import gensim
+
+def load_model(model_path, compressed=True, binary=True):
+    """
+    Loads a pretrained FastText model.
+    :param model_path: str, path tot the model file
+    :param compressed: if the model is in compressed w2v format or not
+    :param binary: if the model is compressed, is it in binary or text format
+    :return: KeyedVectors object or FastTextKeyedVectors object
+    """
+    if compressed:
+        return gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=binary)
+    else:
+        return gensim.models.FastText.load(model_path)
+```
 
 ### POS-tagging
 You should submit a `.json` file with a list of sentences. Each sentence is a list of `(token, POS-tag)` tuples.
