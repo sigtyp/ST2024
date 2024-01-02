@@ -1,0 +1,3802 @@
+# sent_id = AB_1_8_16_1_2
+# text = asyai vai yajñaḥ tāyate asyai kriyate asyai saṃbhriyate
+1	asyai	_	_	_	_	4	obl	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	yajñaḥ	_	_	_	_	4	nsubj	_	_
+4	tāyate	_	_	_	_	0	root	_	_
+5	asyai	_	_	_	_	6	obl	_	_
+6	kriyate	_	_	_	_	4	conj	_	_
+7	asyai	_	_	_	_	8	obl	_	_
+8	saṃbhriyate	_	_	_	_	4	conj	_	_
+
+# sent_id = AB_1_5_4
+# text = uṣṇihau āyuṣkāmaḥ kurvīta
+1	uṣṇihau	_	_	_	_	3	obj	_	_
+2	āyuṣkāmaḥ	_	_	_	_	3	nsubj	_	_
+3	kurvīta	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_20_1_1_2
+# text = srakve drapsasya dhamataḥ sam asvaran iti
+1	srakve	_	_	_	_	5	obl	_	_
+2	drapsasya	_	_	_	_	5	obl	_	_
+3	dhamataḥ	_	_	_	_	2	amod	_	_
+4	sam	_	_	_	_	5	compound	_	_
+5	asvaran	_	_	_	_	0	root	_	_
+6	iti	_	_	_	_	5	mark	_	_
+
+# sent_id = AB_7_18_14_1
+# text = na ha asmin alpam ca na enaḥ pariśiṣyate
+1	na	_	_	_	_	8	advmod	_	_
+2	ha	_	_	_	_	8	discourse	_	_
+3	asmin	_	_	_	_	8	obl	_	_
+4	alpam	_	_	_	_	7	amod	_	_
+5	ca	_	_	_	_	4	advmod	_	_
+6	na	_	_	_	_	5	fixed	_	_
+7	enaḥ	_	_	_	_	8	nsubj	_	_
+8	pariśiṣyate	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_16_1_1_2_3_4_5_6
+# text = mām abhi pratyapādi mām abhi iti
+1	mām	_	_	_	_	3	obj	_	_
+2	abhi	_	_	_	_	3	advmod	_	_
+3	pratyapādi	_	_	_	_	0	root	_	_
+4	mām	_	_	_	_	1	conj	_	_
+5	abhi	_	_	_	_	4	advmod	_	_
+6	iti	_	_	_	_	3	mark	_	_
+
+# sent_id = AB_2_2_33_1_2_3_4
+# text = ekādaśa akṣarā vai triṣṭubh
+1	ekādaśa	_	_	_	_	2	nummod	_	_
+2	akṣarā	_	_	_	_	0	root	_	_
+3	vai	_	_	_	_	2	discourse	_	_
+4	triṣṭubh	_	_	_	_	2	nsubj	_	_
+
+# sent_id = ŚS_6_126_1_1_2
+# text = sa dundubhe sajūs indreṇa devaiḥ dūrāt davīyaḥ apa sedha śatrūn
+1	sa	_	_	_	_	9	nsubj	_	_
+2	dundubhe	_	_	_	_	9	vocative	_	_
+3	sajūs	_	_	_	_	4	case	_	_
+4	indreṇa	_	_	_	_	9	obl	_	_
+5	devaiḥ	_	_	_	_	4	conj	_	_
+6	dūrāt	_	_	_	_	7	obl	_	_
+7	davīyaḥ	_	_	_	_	9	advmod	_	_
+8	apa	_	_	_	_	9	advmod	_	_
+9	sedha	_	_	_	_	0	root	_	_
+10	śatrūn	_	_	_	_	9	obj	_	_
+
+# sent_id = MS_2_5_1_47
+# text = tārpyam deyam sa yoni tvāya
+1	tārpyam	_	_	_	_	2	nsubj	_	_
+2	deyam	_	_	_	_	0	root	_	_
+3	sa	_	_	_	_	4	advmod	_	_
+4	yoni	_	_	_	_	5	nmod	_	_
+5	tvāya	_	_	_	_	2	advcl	_	_
+
+# sent_id = ŚS_10_10_13_1
+# text = sam hi somena agata sam u sarveṇa padvatā
+1	sam	_	_	_	_	4	advmod	_	_
+2	hi	_	_	_	_	4	discourse	_	_
+3	somena	_	_	_	_	4	obl	_	_
+4	agata	_	_	_	_	0	root	_	_
+5	sam	_	_	_	_	8	orphan	_	_
+6	u	_	_	_	_	8	cc	_	_
+7	sarveṇa	_	_	_	_	8	det	_	_
+8	padvatā	_	_	_	_	3	conj	_	_
+
+# sent_id = ŚS_6_111_3_1
+# text = deva enasāt unmaditam unmattam rakṣasaḥ pari
+1	deva	_	_	_	_	2	nmod	_	_
+2	enasāt	_	_	_	_	3	obl	_	_
+3	unmaditam	_	_	_	_	0	root	_	_
+4	unmattam	_	_	_	_	3	conj	_	_
+5	rakṣasaḥ	_	_	_	_	4	obl	_	_
+6	pari	_	_	_	_	5	case	_	_
+
+# sent_id = AB_1_16_39_1_2
+# text = te svargam lokam āyan
+1	te	_	_	_	_	4	nsubj	_	_
+2	svargam	_	_	_	_	4	obl	_	_
+3	lokam	_	_	_	_	2	conj	_	_
+4	āyan	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_11_39
+# text = saḥ akāmayata dāna kāmāḥ me prajāḥ syuḥ iti
+1	saḥ	_	_	_	_	2	nsubj	_	_
+2	akāmayata	_	_	_	_	0	root	_	_
+3	dāna	_	_	_	_	4	nmod	_	_
+4	kāmāḥ	_	_	_	_	2	ccomp	_	_
+5	me	_	_	_	_	4	iobj	_	_
+6	prajāḥ	_	_	_	_	4	nsubj	_	_
+7	syuḥ	_	_	_	_	4	cop	_	_
+8	iti	_	_	_	_	4	mark	_	_
+
+# sent_id = AB_2_6_12_1
+# text = janitraiḥ eva enam tat samanumatam ālabhante
+1	janitraiḥ	_	_	_	_	5	obl	_	_
+2	eva	_	_	_	_	6	advmod	_	_
+3	enam	_	_	_	_	6	obj	_	_
+4	tat	_	_	_	_	6	advmod	_	_
+5	samanumatam	_	_	_	_	3	acl	_	_
+6	ālabhante	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_6_6_1
+# text = etat eva sthitam
+1	etat	_	_	_	_	3	nsubj	_	_
+2	eva	_	_	_	_	3	advmod	_	_
+3	sthitam	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_5_37_5
+# text = puṣyāt kṣeme
+1	puṣyāt	_	_	_	_	0	root	_	_
+2	kṣeme	_	_	_	_	1	obl	_	_
+
+# sent_id = AB_1_29_1
+# text = havirdhānābhyām prohyamāṇābhyām anubrūhi iti āha adhvaryuḥ
+1	havirdhānābhyām	_	_	_	_	3	iobj	_	_
+2	prohyamāṇābhyām	_	_	_	_	1	acl	_	_
+3	anubrūhi	_	_	_	_	5	ccomp	_	_
+4	iti	_	_	_	_	3	mark	_	_
+5	āha	_	_	_	_	0	root	_	_
+6	adhvaryuḥ	_	_	_	_	5	nsubj	_	_
+
+# sent_id = AB_1_8_11
+# text = pathyām yajati
+1	pathyām	_	_	_	_	2	obj	_	_
+2	yajati	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_34_1_1_2_3_4_5
+# text = viṣṭārī jātaḥ tapasaḥ adhi yajñaḥ
+1	viṣṭārī	_	_	_	_	5	nsubj	_	_
+2	jātaḥ	_	_	_	_	5	acl	_	_
+3	tapasaḥ	_	_	_	_	2	obl	_	_
+4	adhi	_	_	_	_	3	case	_	_
+5	yajñaḥ	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_10_2_19
+# text = kena parjanyam anu eti kena somam vicakṣaṇam
+1	kena	_	_	_	_	4	obl	_	_
+2	parjanyam	_	_	_	_	4	obl	_	_
+3	anu	_	_	_	_	4	advmod	_	_
+4	eti	_	_	_	_	0	root	_	_
+5	kena	_	_	_	_	6	orphan	_	_
+6	somam	_	_	_	_	4	conj	_	_
+7	vicakṣaṇam	_	_	_	_	6	amod	_	_
+
+# sent_id = ŚS_8_2_12_1
+# text = paras grāhim kravyādaḥ piśācān
+1	paras	_	_	_	_	2	advmod	_	_
+2	grāhim	_	_	_	_	0	root	_	_
+3	kravyādaḥ	_	_	_	_	4	acl	_	_
+4	piśācān	_	_	_	_	2	conj	_	_
+
+# sent_id = AB_1_15_5
+# text = sarvāṇi vāva chandāṃsi ca pṛṣṭhāni ca somam rājānam krītam anu āyanti
+1	sarvāṇi	_	_	_	_	3	det	_	_
+2	vāva	_	_	_	_	11	advmod	_	_
+3	chandāṃsi	_	_	_	_	11	nsubj	_	_
+4	ca	_	_	_	_	3	cc	_	_
+5	pṛṣṭhāni	_	_	_	_	3	conj	_	_
+6	ca	_	_	_	_	5	cc	_	_
+7	somam	_	_	_	_	11	obj	_	_
+8	rājānam	_	_	_	_	7	appos	_	_
+9	krītam	_	_	_	_	7	amod	_	_
+10	anu	_	_	_	_	11	compound	_	_
+11	āyanti	_	_	_	_	0	root	_	_
+
+# sent_id = AB_7_17_3
+# text = sa ha uvāca ajīgartaḥ sauyavasiḥ
+1	sa	_	_	_	_	4	det	_	_
+2	ha	_	_	_	_	3	discourse	_	_
+3	uvāca	_	_	_	_	0	root	_	_
+4	ajīgartaḥ	_	_	_	_	3	nsubj	_	_
+5	sauyavasiḥ	_	_	_	_	4	flat	_	_
+
+# sent_id = ŚS_4_11_2_1_2
+# text = trayān śakraḥ vi mimīte adhvanaḥ
+1	trayān	_	_	_	_	5	amod	_	_
+2	śakraḥ	_	_	_	_	4	nsubj	_	_
+3	vi	_	_	_	_	4	advmod	_	_
+4	mimīte	_	_	_	_	0	root	_	_
+5	adhvanaḥ	_	_	_	_	4	obj	_	_
+
+# sent_id = AB_7_13_1_1_2_3
+# text = hariścandraḥ ha vaidhasaḥ aikṣvākaḥ rājā a putraḥ āsa
+1	hariścandraḥ	_	_	_	_	8	nsubj	_	_
+2	ha	_	_	_	_	8	discourse	_	_
+3	vaidhasaḥ	_	_	_	_	1	flat	_	_
+4	aikṣvākaḥ	_	_	_	_	3	flat	_	_
+5	rājā	_	_	_	_	1	appos	_	_
+6	a	_	_	_	_	7	advmod	_	_
+7	putraḥ	_	_	_	_	5	acl	_	_
+8	āsa	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_2_1
+# text = svarbhānuḥ vai āsuraḥ sūryam tamasā vidhyat
+1	svarbhānuḥ	_	_	_	_	6	nsubj	_	_
+2	vai	_	_	_	_	6	discourse	_	_
+3	āsuraḥ	_	_	_	_	1	flat	_	_
+4	sūryam	_	_	_	_	6	obj	_	_
+5	tamasā	_	_	_	_	6	obl	_	_
+6	vidhyat	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_3_12_1
+# text = iha eva dhruvām ni minomi śālām
+1	iha	_	_	_	_	5	advmod	_	_
+2	eva	_	_	_	_	1	discourse	_	_
+3	dhruvām	_	_	_	_	5	xcomp	_	_
+4	ni	_	_	_	_	5	advmod	_	_
+5	minomi	_	_	_	_	0	root	_	_
+6	śālām	_	_	_	_	5	obj	_	_
+
+# sent_id = ŚS_2_26_4
+# text = saṃsiktāḥ asmākam vīrāḥ
+1	saṃsiktāḥ	_	_	_	_	0	root	_	_
+2	asmākam	_	_	_	_	3	nmod	_	_
+3	vīrāḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_7_18_16
+# text = putra kāmāḥ ha api ākhyāpayeran
+1	putra	_	_	_	_	2	nmod	_	_
+2	kāmāḥ	_	_	_	_	5	acl	_	_
+3	ha	_	_	_	_	5	discourse	_	_
+4	api	_	_	_	_	5	advmod	_	_
+5	ākhyāpayeran	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_10_52_6_1_2
+# text = aukṣan ghṛtaiḥ
+1	aukṣan	_	_	_	_	0	root	_	_
+2	ghṛtaiḥ	_	_	_	_	1	obl	_	_
+
+# sent_id = AB_1_1_3
+# text = sarvābhyaḥ eva enam tat devatābhyaḥ anantarāyam nirvapanti
+1	sarvābhyaḥ	_	_	_	_	5	det	_	_
+2	eva	_	_	_	_	1	discourse	_	_
+3	enam	_	_	_	_	7	obj	_	_
+4	tat	_	_	_	_	7	advmod	_	_
+5	devatābhyaḥ	_	_	_	_	7	iobj	_	_
+6	anantarāyam	_	_	_	_	7	advmod	_	_
+7	nirvapanti	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_1_24_3
+# text = sarūpa kṛt tvam oṣadhe
+1	sarūpa	_	_	_	_	2	xcomp	_	_
+2	kṛt	_	_	_	_	0	root	_	_
+3	tvam	_	_	_	_	2	nsubj	_	_
+4	oṣadhe	_	_	_	_	2	vocative	_	_
+
+# sent_id = ṚV_1_15_8
+# text = draviṇaḥ dāḥ dadātu naḥ vasūni yāni śṛṇvire
+1	draviṇaḥ	_	_	_	_	2	obj	_	_
+2	dāḥ	_	_	_	_	3	csubj	_	_
+3	dadātu	_	_	_	_	0	root	_	_
+4	naḥ	_	_	_	_	3	iobj	_	_
+5	vasūni	_	_	_	_	3	obj	_	_
+6	yāni	_	_	_	_	7	nsubj	_	_
+7	śṛṇvire	_	_	_	_	5	acl	_	_
+
+# sent_id = ŚB_1_8_1_12_1
+# text = paśavaḥ vai iḍā
+1	paśavaḥ	_	_	_	_	3	nsubj	_	_
+2	vai	_	_	_	_	3	discourse	_	_
+3	iḍā	_	_	_	_	0	root	_	_
+
+# sent_id = AB_7_16_7
+# text = saḥ agnim tuṣṭāva atas uttarābhiḥ dvāviṃśatyā
+1	saḥ	_	_	_	_	3	nsubj	_	_
+2	agnim	_	_	_	_	3	iobj	_	_
+3	tuṣṭāva	_	_	_	_	0	root	_	_
+4	atas	_	_	_	_	6	advmod	_	_
+5	uttarābhiḥ	_	_	_	_	6	amod	_	_
+6	dvāviṃśatyā	_	_	_	_	3	obl	_	_
+
+# sent_id = AB_1_5_12
+# text = śriyam eva yaśaḥ ātman dhatte yaḥ evam vidvān bṛhatyau kurute
+1	śriyam	_	_	_	_	5	obj	_	_
+2	eva	_	_	_	_	1	advmod	_	_
+3	yaśaḥ	_	_	_	_	1	conj	_	_
+4	ātman	_	_	_	_	5	obl	_	_
+5	dhatte	_	_	_	_	0	root	_	_
+6	yaḥ	_	_	_	_	10	nsubj	_	_
+7	evam	_	_	_	_	8	advmod	_	_
+8	vidvān	_	_	_	_	6	amod	_	_
+9	bṛhatyau	_	_	_	_	10	obj	_	_
+10	kurute	_	_	_	_	5	ccomp	_	_
+
+# sent_id = MS_2_5_11_13
+# text = yat vāruṇaḥ varuṇena eva enam grāhayitvā stṛṇute
+1	yat	_	_	_	_	2	mark	_	_
+2	vāruṇaḥ	_	_	_	_	6	advcl	_	_
+3	varuṇena	_	_	_	_	6	obl	_	_
+4	eva	_	_	_	_	6	discourse	_	_
+5	enam	_	_	_	_	6	obj	_	_
+6	grāhayitvā	_	_	_	_	7	advcl	_	_
+7	stṛṇute	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_3_7
+# text = tatas viṣṇuḥ imān lokān udajayat
+1	tatas	_	_	_	_	5	advmod	_	_
+2	viṣṇuḥ	_	_	_	_	5	nsubj	_	_
+3	imān	_	_	_	_	4	det	_	_
+4	lokān	_	_	_	_	5	obj	_	_
+5	udajayat	_	_	_	_	0	root	_	_
+
+# sent_id = ŚB_1_8_1_34
+# text = tat asmai etat prajām eva parokṣam āśāste
+1	tat	_	_	_	_	7	advmod	_	_
+2	asmai	_	_	_	_	7	iobj	_	_
+3	etat	_	_	_	_	7	advmod	_	_
+4	prajām	_	_	_	_	7	obj	_	_
+5	eva	_	_	_	_	7	discourse	_	_
+6	parokṣam	_	_	_	_	7	advmod	_	_
+7	āśāste	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_25_2_1_2
+# text = tām ājya dhanvānaḥ vyasṛjan
+1	tām	_	_	_	_	4	obj	_	_
+2	ājya	_	_	_	_	3	nmod	_	_
+3	dhanvānaḥ	_	_	_	_	4	csubj	_	_
+4	vyasṛjan	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_6_73_3
+# text = iha eva sta
+1	iha	_	_	_	_	3	advmod	_	_
+2	eva	_	_	_	_	1	discourse	_	_
+3	sta	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_7_52_2
+# text = mā iṣuḥ paptat indrasya ahani āgate
+1	mā	_	_	_	_	3	advmod	_	_
+2	iṣuḥ	_	_	_	_	3	nsubj	_	_
+3	paptat	_	_	_	_	0	root	_	_
+4	indrasya	_	_	_	_	2	nmod	_	_
+5	ahani	_	_	_	_	6	nsubj	_	_
+6	āgate	_	_	_	_	3	advcl	_	_
+
+# sent_id = ŚS_7_113_1
+# text = tṛṣṭike tṛṣṭa vandane ud amūm chinddhi tṛṣṭike yathā kṛta dviṣṭā asaḥ amuṣmai śepyāvate
+1	tṛṣṭike	_	_	_	_	6	vocative	_	_
+2	tṛṣṭa	_	_	_	_	3	amod	_	_
+3	vandane	_	_	_	_	1	conj	_	_
+4	ud	_	_	_	_	6	advmod	_	_
+5	amūm	_	_	_	_	6	obj	_	_
+6	chinddhi	_	_	_	_	0	root	_	_
+7	tṛṣṭike	_	_	_	_	6	vocative	_	_
+8	yathā	_	_	_	_	10	mark	_	_
+9	kṛta	_	_	_	_	10	acl	_	_
+10	dviṣṭā	_	_	_	_	6	advcl	_	_
+11	asaḥ	_	_	_	_	10	cop	_	_
+12	amuṣmai	_	_	_	_	13	det	_	_
+13	śepyāvate	_	_	_	_	10	iobj	_	_
+
+# sent_id = ŚS_5_4_4
+# text = hiraṇyayī nauḥ acarat hiraṇya bandhanā divi
+1	hiraṇyayī	_	_	_	_	2	amod	_	_
+2	nauḥ	_	_	_	_	3	nsubj	_	_
+3	acarat	_	_	_	_	0	root	_	_
+4	hiraṇya	_	_	_	_	5	nmod	_	_
+5	bandhanā	_	_	_	_	2	acl	_	_
+6	divi	_	_	_	_	3	obl	_	_
+
+# sent_id = AB_1_13_24
+# text = avīra hā pra cara soma duryān iti
+1	avīra	_	_	_	_	2	nmod	_	_
+2	hā	_	_	_	_	4	xcomp	_	_
+3	pra	_	_	_	_	4	compound	_	_
+4	cara	_	_	_	_	0	root	_	_
+5	soma	_	_	_	_	4	vocative	_	_
+6	duryān	_	_	_	_	4	obl	_	_
+7	iti	_	_	_	_	4	mark	_	_
+
+# sent_id = AB_1_13_2
+# text = bhadrāt abhi śreyaḥ prehi iti anvāha
+1	bhadrāt	_	_	_	_	4	obl	_	_
+2	abhi	_	_	_	_	4	advmod	_	_
+3	śreyaḥ	_	_	_	_	2	obl	_	_
+4	prehi	_	_	_	_	6	ccomp	_	_
+5	iti	_	_	_	_	4	mark	_	_
+6	anvāha	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_21_10
+# text = tat u traiṣṭubham
+1	tat	_	_	_	_	3	nsubj	_	_
+2	u	_	_	_	_	3	advmod	_	_
+3	traiṣṭubham	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_1_3_1_2
+# text = vajraḥ vai eṣa yat yūpaḥ
+1	vajraḥ	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	eṣa	_	_	_	_	1	nsubj	_	_
+4	yat	_	_	_	_	5	nsubj	_	_
+5	yūpaḥ	_	_	_	_	3	acl	_	_
+
+# sent_id = MS_2_5_7_50
+# text = tāḥ asmai kāmam samardhayanti yad kāmaḥ bhavati
+1	tāḥ	_	_	_	_	4	nsubj	_	_
+2	asmai	_	_	_	_	4	iobj	_	_
+3	kāmam	_	_	_	_	4	obj	_	_
+4	samardhayanti	_	_	_	_	0	root	_	_
+5	yad	_	_	_	_	6	nmod	_	_
+6	kāmaḥ	_	_	_	_	7	xcomp	_	_
+7	bhavati	_	_	_	_	2	acl	_	_
+
+# sent_id = ŚS_1_4_4
+# text = apsu bheṣajam
+1	apsu	_	_	_	_	0	root	_	_
+2	bheṣajam	_	_	_	_	1	nsubj	_	_
+
+# sent_id = ŚB_1_8_1_25
+# text = sa vai catuḥ upahvayamānaḥ atha nānā iva upahvayate ajāmitāyai
+1	sa	_	_	_	_	8	nsubj	_	_
+2	vai	_	_	_	_	4	discourse	_	_
+3	catuḥ	_	_	_	_	4	advmod	_	_
+4	upahvayamānaḥ	_	_	_	_	1	acl	_	_
+5	atha	_	_	_	_	8	advmod	_	_
+6	nānā	_	_	_	_	8	advmod	_	_
+7	iva	_	_	_	_	6	advmod	_	_
+8	upahvayate	_	_	_	_	0	root	_	_
+9	ajāmitāyai	_	_	_	_	8	advcl	_	_
+
+# sent_id = ṚV_1_1_4
+# text = agne yam yajñam adhvaram viśvatas paribhūḥ asi saḥ id deveṣu gacchati
+1	agne	_	_	_	_	6	vocative	_	_
+2	yam	_	_	_	_	3	det	_	_
+3	yajñam	_	_	_	_	6	obj	_	_
+4	adhvaram	_	_	_	_	3	conj	_	_
+5	viśvatas	_	_	_	_	6	advmod	_	_
+6	paribhūḥ	_	_	_	_	8	acl	_	_
+7	asi	_	_	_	_	6	cop	_	_
+8	saḥ	_	_	_	_	11	nsubj	_	_
+9	id	_	_	_	_	8	discourse	_	_
+10	deveṣu	_	_	_	_	11	obl	_	_
+11	gacchati	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_9_4_6
+# text = somena pūrṇam kalaśam bibharṣi tvaṣṭā rūpāṇām janitā paśūnām
+1	somena	_	_	_	_	2	obl	_	_
+2	pūrṇam	_	_	_	_	3	acl	_	_
+3	kalaśam	_	_	_	_	4	obj	_	_
+4	bibharṣi	_	_	_	_	0	root	_	_
+5	tvaṣṭā	_	_	_	_	4	advcl	_	_
+6	rūpāṇām	_	_	_	_	5	nmod	_	_
+7	janitā	_	_	_	_	5	conj	_	_
+8	paśūnām	_	_	_	_	7	nmod	_	_
+
+# sent_id = ŚS_4_37_10_1
+# text = piśācān sarvān oṣadhe pra mṛṇīhi sahasva ca
+1	piśācān	_	_	_	_	5	obj	_	_
+2	sarvān	_	_	_	_	1	det	_	_
+3	oṣadhe	_	_	_	_	5	vocative	_	_
+4	pra	_	_	_	_	5	advmod	_	_
+5	mṛṇīhi	_	_	_	_	0	root	_	_
+6	sahasva	_	_	_	_	5	conj	_	_
+7	ca	_	_	_	_	6	cc	_	_
+
+# sent_id = ŚS_7_52_2_1_2
+# text = mā yutsmahi manasā daivyena
+1	mā	_	_	_	_	2	advmod	_	_
+2	yutsmahi	_	_	_	_	0	root	_	_
+3	manasā	_	_	_	_	2	obl	_	_
+4	daivyena	_	_	_	_	3	amod	_	_
+
+# sent_id = AB_7_14_7
+# text = tasya ha dantāḥ punar jajñire
+1	tasya	_	_	_	_	3	nmod	_	_
+2	ha	_	_	_	_	5	discourse	_	_
+3	dantāḥ	_	_	_	_	5	nsubj	_	_
+4	punar	_	_	_	_	5	advmod	_	_
+5	jajñire	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_9_5
+# text = vapāyai yajati
+1	vapāyai	_	_	_	_	2	iobj	_	_
+2	yajati	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_8_11
+# text = saḥ indrāya vṛtrature ālabheta
+1	saḥ	_	_	_	_	4	nsubj	_	_
+2	indrāya	_	_	_	_	4	iobj	_	_
+3	vṛtrature	_	_	_	_	2	flat	_	_
+4	ālabheta	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_21_16_1_2
+# text = tān eva asmin tat dadhāti
+1	tān	_	_	_	_	5	obj	_	_
+2	eva	_	_	_	_	5	advmod	_	_
+3	asmin	_	_	_	_	5	obl	_	_
+4	tat	_	_	_	_	5	advmod	_	_
+5	dadhāti	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_8_38
+# text = svā enam devatā rājyam gamayati
+1	svā	_	_	_	_	3	amod	_	_
+2	enam	_	_	_	_	5	obj	_	_
+3	devatā	_	_	_	_	5	nsubj	_	_
+4	rājyam	_	_	_	_	5	obl	_	_
+5	gamayati	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_10_184_1_1_2_3
+# text = dhātā garbham dadhātu te
+1	dhātā	_	_	_	_	3	nsubj	_	_
+2	garbham	_	_	_	_	3	obj	_	_
+3	dadhātu	_	_	_	_	0	root	_	_
+4	te	_	_	_	_	3	iobj	_	_
+
+# sent_id = AB_2_5_3
+# text = vājī san pari nīyate iti
+1	vājī	_	_	_	_	2	xcomp	_	_
+2	san	_	_	_	_	4	nsubj	_	_
+3	pari	_	_	_	_	4	compound	_	_
+4	nīyate	_	_	_	_	0	root	_	_
+5	iti	_	_	_	_	4	mark	_	_
+
+# sent_id = ŚS_10_10_19
+# text = ūrdhvaḥ binduḥ ud acarat brahmaṇaḥ kakudāt adhi
+1	ūrdhvaḥ	_	_	_	_	2	acl	_	_
+2	binduḥ	_	_	_	_	4	nsubj	_	_
+3	ud	_	_	_	_	4	advmod	_	_
+4	acarat	_	_	_	_	0	root	_	_
+5	brahmaṇaḥ	_	_	_	_	6	nmod	_	_
+6	kakudāt	_	_	_	_	4	obl	_	_
+7	adhi	_	_	_	_	6	case	_	_
+
+# sent_id = ŚS_15_6_1_1
+# text = bhūmeḥ ca vai saḥ agneḥ ca oṣadhīnām ca vanaspatīnām ca vānaspatyānām ca vīrudhām ca priyam dhāma bhavati yaḥ evam veda
+1	bhūmeḥ	_	_	_	_	16	nmod	_	_
+2	ca	_	_	_	_	1	cc	_	_
+3	vai	_	_	_	_	17	discourse	_	_
+4	saḥ	_	_	_	_	17	nsubj	_	_
+5	agneḥ	_	_	_	_	1	conj	_	_
+6	ca	_	_	_	_	5	cc	_	_
+7	oṣadhīnām	_	_	_	_	1	conj	_	_
+8	ca	_	_	_	_	7	cc	_	_
+9	vanaspatīnām	_	_	_	_	1	conj	_	_
+10	ca	_	_	_	_	9	cc	_	_
+11	vānaspatyānām	_	_	_	_	1	conj	_	_
+12	ca	_	_	_	_	11	cc	_	_
+13	vīrudhām	_	_	_	_	1	conj	_	_
+14	ca	_	_	_	_	13	cc	_	_
+15	priyam	_	_	_	_	16	amod	_	_
+16	dhāma	_	_	_	_	17	xcomp	_	_
+17	bhavati	_	_	_	_	0	root	_	_
+18	yaḥ	_	_	_	_	20	nsubj	_	_
+19	evam	_	_	_	_	20	advmod	_	_
+20	veda	_	_	_	_	4	acl	_	_
+
+# sent_id = ŚS_15_14_1_1
+# text = sa yat prācīm diśam anuvyacalat mārutam śardhaḥ bhūtvā anuvyacalat manaḥ anna ādam kṛtvā
+1	sa	_	_	_	_	5	nsubj	_	_
+2	yat	_	_	_	_	5	mark	_	_
+3	prācīm	_	_	_	_	4	amod	_	_
+4	diśam	_	_	_	_	5	obl	_	_
+5	anuvyacalat	_	_	_	_	9	advcl	_	_
+6	mārutam	_	_	_	_	7	amod	_	_
+7	śardhaḥ	_	_	_	_	9	nsubj	_	_
+8	bhūtvā	_	_	_	_	9	advcl	_	_
+9	anuvyacalat	_	_	_	_	0	root	_	_
+10	manaḥ	_	_	_	_	13	obj	_	_
+11	anna	_	_	_	_	12	obj	_	_
+12	ādam	_	_	_	_	13	xcomp	_	_
+13	kṛtvā	_	_	_	_	9	advcl	_	_
+
+# sent_id = MS_2_5_8_17
+# text = rājanyam grāma kāmam yājayet
+1	rājanyam	_	_	_	_	4	obj	_	_
+2	grāma	_	_	_	_	3	nmod	_	_
+3	kāmam	_	_	_	_	1	acl	_	_
+4	yājayet	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_6_90_3_1_2_3
+# text = namaḥ nipatitāyai
+1	namaḥ	_	_	_	_	2	nsubj	_	_
+2	nipatitāyai	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_9_6_1
+# text = sarvaiḥ vai chandobhiḥ iṣṭvā devāḥ svargam lokam ajayan
+1	sarvaiḥ	_	_	_	_	3	det	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	chandobhiḥ	_	_	_	_	4	obl	_	_
+4	iṣṭvā	_	_	_	_	8	advcl	_	_
+5	devāḥ	_	_	_	_	8	nsubj	_	_
+6	svargam	_	_	_	_	8	obj	_	_
+7	lokam	_	_	_	_	6	flat	_	_
+8	ajayan	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_3_2_1
+# text = pareṇa datvatī rajjuḥ pareṇa aghāyuḥ arṣatu
+1	pareṇa	_	_	_	_	3	orphan	_	_
+2	datvatī	_	_	_	_	3	amod	_	_
+3	rajjuḥ	_	_	_	_	0	root	_	_
+4	pareṇa	_	_	_	_	6	obl	_	_
+5	aghāyuḥ	_	_	_	_	6	nsubj	_	_
+6	arṣatu	_	_	_	_	3	conj	_	_
+
+# sent_id = ŚS_9_8_11_1
+# text = yakṣmāṇām sarveṣām viṣam niḥ avocam aham tvat
+1	yakṣmāṇām	_	_	_	_	3	nmod	_	_
+2	sarveṣām	_	_	_	_	1	det	_	_
+3	viṣam	_	_	_	_	5	obj	_	_
+4	niḥ	_	_	_	_	5	advmod	_	_
+5	avocam	_	_	_	_	0	root	_	_
+6	aham	_	_	_	_	5	nsubj	_	_
+7	tvat	_	_	_	_	5	obl	_	_
+
+# sent_id = AB_1_7_15_1_2
+# text = sarvāḥ diśaḥ kalpante
+1	sarvāḥ	_	_	_	_	2	det	_	_
+2	diśaḥ	_	_	_	_	3	nsubj	_	_
+3	kalpante	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_12_14
+# text = medasaḥ ca hi eva hi ghṛtasya ca bhavanti
+1	medasaḥ	_	_	_	_	0	root	_	_
+2	ca	_	_	_	_	1	cc	_	_
+3	hi	_	_	_	_	1	advmod	_	_
+4	eva	_	_	_	_	1	advmod	_	_
+5	hi	_	_	_	_	1	advmod	_	_
+6	ghṛtasya	_	_	_	_	1	conj	_	_
+7	ca	_	_	_	_	6	cc	_	_
+8	bhavanti	_	_	_	_	1	cop	_	_
+
+# sent_id = ŚB_1_8_1_5_1_2_3_4_5
+# text = tena etam uttaram girim atidudrāva
+1	tena	_	_	_	_	5	obl	_	_
+2	etam	_	_	_	_	4	det	_	_
+3	uttaram	_	_	_	_	4	amod	_	_
+4	girim	_	_	_	_	5	obl	_	_
+5	atidudrāva	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_25_11
+# text = ghnantaḥ vai etābhiḥ devāḥ puraḥ bhindantaḥ āyan yat upasadaḥ
+1	ghnantaḥ	_	_	_	_	4	amod	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	etābhiḥ	_	_	_	_	7	obl	_	_
+4	devāḥ	_	_	_	_	7	nsubj	_	_
+5	puraḥ	_	_	_	_	6	obj	_	_
+6	bhindantaḥ	_	_	_	_	1	conj	_	_
+7	āyan	_	_	_	_	0	root	_	_
+8	yat	_	_	_	_	9	advmod	_	_
+9	upasadaḥ	_	_	_	_	3	acl	_	_
+
+# sent_id = AB_1_24_4_1_2
+# text = te vyutkramya amantrayanta
+1	te	_	_	_	_	3	nsubj	_	_
+2	vyutkramya	_	_	_	_	3	advcl	_	_
+3	amantrayanta	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_8_98_11
+# text = adha te sumnam īmahe
+1	adha	_	_	_	_	4	advmod	_	_
+2	te	_	_	_	_	3	nmod	_	_
+3	sumnam	_	_	_	_	4	obj	_	_
+4	īmahe	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_13_5_1_2_3
+# text = dviṣantam eva asmai tat pāpmānam bhrātṛvyam apabādhate adharam pādayati
+1	dviṣantam	_	_	_	_	6	amod	_	_
+2	eva	_	_	_	_	1	advmod	_	_
+3	asmai	_	_	_	_	7	iobj	_	_
+4	tat	_	_	_	_	7	advmod	_	_
+5	pāpmānam	_	_	_	_	1	conj	_	_
+6	bhrātṛvyam	_	_	_	_	7	obj	_	_
+7	apabādhate	_	_	_	_	0	root	_	_
+8	adharam	_	_	_	_	9	obj	_	_
+9	pādayati	_	_	_	_	7	conj	_	_
+
+# sent_id = ŚS_15_17_10
+# text = ekam tat eṣām amṛta tvam
+1	ekam	_	_	_	_	0	root	_	_
+2	tat	_	_	_	_	5	det	_	_
+3	eṣām	_	_	_	_	5	nmod	_	_
+4	amṛta	_	_	_	_	5	nmod	_	_
+5	tvam	_	_	_	_	1	nsubj	_	_
+
+# sent_id = ŚS_3_8_4_1_2_3
+# text = asmai kāmāya upa kāminīḥ viśve vaḥ devāḥ upasaṃyantu
+1	asmai	_	_	_	_	2	det	_	_
+2	kāmāya	_	_	_	_	8	iobj	_	_
+3	upa	_	_	_	_	4	case	_	_
+4	kāminīḥ	_	_	_	_	7	nmod	_	_
+5	viśve	_	_	_	_	7	det	_	_
+6	vaḥ	_	_	_	_	8	obl	_	_
+7	devāḥ	_	_	_	_	8	nsubj	_	_
+8	upasaṃyantu	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_15_11_10
+# text = yat enam āha vrātya yathā te nikāmaḥ tathā astu iti nikāmam eva tena avarunddhe
+1	yat	_	_	_	_	3	mark	_	_
+2	enam	_	_	_	_	3	iobj	_	_
+3	āha	_	_	_	_	14	advcl	_	_
+4	vrātya	_	_	_	_	8	vocative	_	_
+5	yathā	_	_	_	_	7	mark	_	_
+6	te	_	_	_	_	7	nmod	_	_
+7	nikāmaḥ	_	_	_	_	8	advcl	_	_
+8	tathā	_	_	_	_	3	ccomp	_	_
+9	astu	_	_	_	_	8	cop	_	_
+10	iti	_	_	_	_	8	mark	_	_
+11	nikāmam	_	_	_	_	14	obj	_	_
+12	eva	_	_	_	_	14	advmod	_	_
+13	tena	_	_	_	_	14	advmod	_	_
+14	avarunddhe	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_2_30_10
+# text = asmākebhiḥ satvabhiḥ śūra śūraiḥ vīryā kṛdhi yāni te kartvāni
+1	asmākebhiḥ	_	_	_	_	2	amod	_	_
+2	satvabhiḥ	_	_	_	_	6	obl	_	_
+3	śūra	_	_	_	_	6	vocative	_	_
+4	śūraiḥ	_	_	_	_	2	conj	_	_
+5	vīryā	_	_	_	_	6	obj	_	_
+6	kṛdhi	_	_	_	_	0	root	_	_
+7	yāni	_	_	_	_	9	nsubj	_	_
+8	te	_	_	_	_	9	iobj	_	_
+9	kartvāni	_	_	_	_	5	acl	_	_
+
+# sent_id = AB_1_16_2
+# text = abhi tvā deva savitar iti sāvitrīm anvāha
+1	abhi	_	_	_	_	2	advmod	_	_
+2	tvā	_	_	_	_	7	ccomp	_	_
+3	deva	_	_	_	_	4	nmod	_	_
+4	savitar	_	_	_	_	2	vocative	_	_
+5	iti	_	_	_	_	2	mark	_	_
+6	sāvitrīm	_	_	_	_	7	obj	_	_
+7	anvāha	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_4_15
+# text = tāḥ asmai prajām khananti
+1	tāḥ	_	_	_	_	4	nsubj	_	_
+2	asmai	_	_	_	_	4	iobj	_	_
+3	prajām	_	_	_	_	4	obj	_	_
+4	khananti	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_13_18_1
+# text = ṛtubhiḥ vardhatu kṣayam iti
+1	ṛtubhiḥ	_	_	_	_	2	obl	_	_
+2	vardhatu	_	_	_	_	0	root	_	_
+3	kṣayam	_	_	_	_	2	obj	_	_
+4	iti	_	_	_	_	2	mark	_	_
+
+# sent_id = ŚS_15_3_4
+# text = tasyāḥ grīṣmaḥ ca vasantaḥ ca dvau pādau āstām śarad ca varṣāḥ ca dvau bṛhat ca rathantaram ca anūcye āstām yajñāyajñiyam ca vāmadevyam ca tiraścye ṛcaḥ prāñcaḥ tantavaḥ yajūṃṣi tiryañcaḥ vedaḥ āstaraṇam brahma upabarhaṇam sāma āsādaḥ udgīthaḥ apaśrayaḥ
+1	tasyāḥ	_	_	_	_	7	nmod	_	_
+2	grīṣmaḥ	_	_	_	_	7	nsubj	_	_
+3	ca	_	_	_	_	2	cc	_	_
+4	vasantaḥ	_	_	_	_	2	conj	_	_
+5	ca	_	_	_	_	4	cc	_	_
+6	dvau	_	_	_	_	7	nummod	_	_
+7	pādau	_	_	_	_	0	root	_	_
+8	āstām	_	_	_	_	7	cop	_	_
+9	śarad	_	_	_	_	13	nsubj	_	_
+10	ca	_	_	_	_	9	cc	_	_
+11	varṣāḥ	_	_	_	_	9	conj	_	_
+12	ca	_	_	_	_	11	cc	_	_
+13	dvau	_	_	_	_	7	conj	_	_
+14	bṛhat	_	_	_	_	18	nsubj	_	_
+15	ca	_	_	_	_	14	cc	_	_
+16	rathantaram	_	_	_	_	14	conj	_	_
+17	ca	_	_	_	_	16	cc	_	_
+18	anūcye	_	_	_	_	7	conj	_	_
+19	āstām	_	_	_	_	18	cop	_	_
+20	yajñāyajñiyam	_	_	_	_	24	nsubj	_	_
+21	ca	_	_	_	_	20	cc	_	_
+22	vāmadevyam	_	_	_	_	20	conj	_	_
+23	ca	_	_	_	_	22	cc	_	_
+24	tiraścye	_	_	_	_	18	conj	_	_
+25	ṛcaḥ	_	_	_	_	27	nsubj	_	_
+26	prāñcaḥ	_	_	_	_	27	amod	_	_
+27	tantavaḥ	_	_	_	_	7	conj	_	_
+28	yajūṃṣi	_	_	_	_	29	nsubj	_	_
+29	tiryañcaḥ	_	_	_	_	27	conj	_	_
+30	vedaḥ	_	_	_	_	31	nsubj	_	_
+31	āstaraṇam	_	_	_	_	7	conj	_	_
+32	brahma	_	_	_	_	33	nsubj	_	_
+33	upabarhaṇam	_	_	_	_	31	conj	_	_
+34	sāma	_	_	_	_	35	nsubj	_	_
+35	āsādaḥ	_	_	_	_	7	conj	_	_
+36	udgīthaḥ	_	_	_	_	37	nsubj	_	_
+37	apaśrayaḥ	_	_	_	_	35	conj	_	_
+
+# sent_id = ŚS_5_18_8
+# text = jihvā jyā bhavati kulmalam vāc nāḍīkāḥ dantāḥ
+1	jihvā	_	_	_	_	2	nsubj	_	_
+2	jyā	_	_	_	_	0	root	_	_
+3	bhavati	_	_	_	_	2	cop	_	_
+4	kulmalam	_	_	_	_	2	conj	_	_
+5	vāc	_	_	_	_	4	nsubj	_	_
+6	nāḍīkāḥ	_	_	_	_	2	conj	_	_
+7	dantāḥ	_	_	_	_	6	nsubj	_	_
+
+# sent_id = MS_2_5_8_21
+# text = pṛśni sakthaḥ bhavati
+1	pṛśni	_	_	_	_	2	amod	_	_
+2	sakthaḥ	_	_	_	_	3	nsubj	_	_
+3	bhavati	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_10_8_1
+# text = vanaspatim yajati
+1	vanaspatim	_	_	_	_	2	obj	_	_
+2	yajati	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_37_6
+# text = ā iyam agan oṣadhīnām vīrudhām vīryāvatī
+1	ā	_	_	_	_	3	advmod	_	_
+2	iyam	_	_	_	_	3	nsubj	_	_
+3	agan	_	_	_	_	0	root	_	_
+4	oṣadhīnām	_	_	_	_	6	nmod	_	_
+5	vīrudhām	_	_	_	_	4	conj	_	_
+6	vīryāvatī	_	_	_	_	2	nmod	_	_
+
+# sent_id = ŚS_1_8_1_1
+# text = yaḥ idam strī pumān akaḥ iha sa stuvatām janaḥ
+1	yaḥ	_	_	_	_	3	det	_	_
+2	idam	_	_	_	_	5	obj	_	_
+3	strī	_	_	_	_	5	nsubj	_	_
+4	pumān	_	_	_	_	3	conj	_	_
+5	akaḥ	_	_	_	_	9	acl	_	_
+6	iha	_	_	_	_	8	advmod	_	_
+7	sa	_	_	_	_	9	det	_	_
+8	stuvatām	_	_	_	_	0	root	_	_
+9	janaḥ	_	_	_	_	8	nsubj	_	_
+
+# sent_id = MS_2_5_1_3
+# text = oṣadhayaḥ paśavaḥ
+1	oṣadhayaḥ	_	_	_	_	2	nsubj	_	_
+2	paśavaḥ	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_16_44
+# text = tāsām tris prathamām anvāha tris uttamām
+1	tāsām	_	_	_	_	3	nmod	_	_
+2	tris	_	_	_	_	4	nummod	_	_
+3	prathamām	_	_	_	_	4	obj	_	_
+4	anvāha	_	_	_	_	0	root	_	_
+5	tris	_	_	_	_	6	advmod	_	_
+6	uttamām	_	_	_	_	3	conj	_	_
+
+# sent_id = ŚS_2_26_3
+# text = saṃsrāvyeṇa haviṣā juhomi
+1	saṃsrāvyeṇa	_	_	_	_	2	amod	_	_
+2	haviṣā	_	_	_	_	3	obl	_	_
+3	juhomi	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_10_1_27_1
+# text = uta pūrvasya nighnataḥ ni hanti aparaḥ prati
+1	uta	_	_	_	_	2	discourse	_	_
+2	pūrvasya	_	_	_	_	5	obl	_	_
+3	nighnataḥ	_	_	_	_	2	acl	_	_
+4	ni	_	_	_	_	5	advmod	_	_
+5	hanti	_	_	_	_	0	root	_	_
+6	aparaḥ	_	_	_	_	5	nsubj	_	_
+7	prati	_	_	_	_	5	advmod	_	_
+
+# sent_id = MS_2_5_4_16
+# text = dyāvāpṛthivīye dhenū saṃmātarā ālabheta anna kāmaḥ
+1	dyāvāpṛthivīye	_	_	_	_	4	xcomp	_	_
+2	dhenū	_	_	_	_	4	obj	_	_
+3	saṃmātarā	_	_	_	_	2	acl	_	_
+4	ālabheta	_	_	_	_	0	root	_	_
+5	anna	_	_	_	_	6	nmod	_	_
+6	kāmaḥ	_	_	_	_	4	advcl	_	_
+
+# sent_id = ŚS_2_9_2_1
+# text = jīvānām vrātam api agāt
+1	jīvānām	_	_	_	_	2	nmod	_	_
+2	vrātam	_	_	_	_	4	obl	_	_
+3	api	_	_	_	_	4	advmod	_	_
+4	agāt	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_10_10_29
+# text = caturdhā retaḥ abhavat vaśāyāḥ
+1	caturdhā	_	_	_	_	3	xcomp	_	_
+2	retaḥ	_	_	_	_	3	nsubj	_	_
+3	abhavat	_	_	_	_	0	root	_	_
+4	vaśāyāḥ	_	_	_	_	2	nmod	_	_
+
+# sent_id = ŚS_15_13_4
+# text = tat yasya evam vidvān vrātyaḥ caturthīm rātrim atithiḥ gṛhe vasati ye puṇyānām puṇyāḥ lokāḥ tān eva tena avarunddhe
+1	tat	_	_	_	_	18	advmod	_	_
+2	yasya	_	_	_	_	9	nmod	_	_
+3	evam	_	_	_	_	4	advmod	_	_
+4	vidvān	_	_	_	_	5	acl	_	_
+5	vrātyaḥ	_	_	_	_	10	nsubj	_	_
+6	caturthīm	_	_	_	_	7	amod	_	_
+7	rātrim	_	_	_	_	10	obl	_	_
+8	atithiḥ	_	_	_	_	5	acl	_	_
+9	gṛhe	_	_	_	_	10	obl	_	_
+10	vasati	_	_	_	_	18	advcl	_	_
+11	ye	_	_	_	_	14	det	_	_
+12	puṇyānām	_	_	_	_	13	nmod	_	_
+13	puṇyāḥ	_	_	_	_	14	amod	_	_
+14	lokāḥ	_	_	_	_	15	acl	_	_
+15	tān	_	_	_	_	18	obj	_	_
+16	eva	_	_	_	_	18	advmod	_	_
+17	tena	_	_	_	_	18	advmod	_	_
+18	avarunddhe	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_13_23
+# text = gaya sphānaḥ prataraṇaḥ su vīraḥ iti gavām naḥ sphāvayitā pratārayitā edhi iti eva tat āha
+1	gaya	_	_	_	_	2	nmod	_	_
+2	sphānaḥ	_	_	_	_	15	ccomp	_	_
+3	prataraṇaḥ	_	_	_	_	5	amod	_	_
+4	su	_	_	_	_	5	advmod	_	_
+5	vīraḥ	_	_	_	_	2	conj	_	_
+6	iti	_	_	_	_	2	mark	_	_
+7	gavām	_	_	_	_	9	nmod	_	_
+8	naḥ	_	_	_	_	7	nmod	_	_
+9	sphāvayitā	_	_	_	_	2	conj	_	_
+10	pratārayitā	_	_	_	_	9	conj	_	_
+11	edhi	_	_	_	_	9	cop	_	_
+12	iti	_	_	_	_	9	mark	_	_
+13	eva	_	_	_	_	15	advmod	_	_
+14	tat	_	_	_	_	15	advmod	_	_
+15	āha	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_10_30_13
+# text = prati yat āpaḥ adṛśram āyatīḥ ghṛtam payāṃsi bibhratīḥ madhūni adhvaryubhiḥ manasā saṃvidānāḥ indrāya somam su sutam bharantīḥ ā imāḥ agman revatīḥ jīva dhanyāḥ
+1	prati	_	_	_	_	4	advmod	_	_
+2	yat	_	_	_	_	4	mark	_	_
+3	āpaḥ	_	_	_	_	4	nsubj	_	_
+4	adṛśram	_	_	_	_	20	advcl	_	_
+5	āyatīḥ	_	_	_	_	4	advcl	_	_
+6	ghṛtam	_	_	_	_	8	obj	_	_
+7	payāṃsi	_	_	_	_	6	conj	_	_
+8	bibhratīḥ	_	_	_	_	5	conj	_	_
+9	madhūni	_	_	_	_	6	conj	_	_
+10	adhvaryubhiḥ	_	_	_	_	12	obl	_	_
+11	manasā	_	_	_	_	12	obl	_	_
+12	saṃvidānāḥ	_	_	_	_	5	conj	_	_
+13	indrāya	_	_	_	_	17	iobj	_	_
+14	somam	_	_	_	_	17	obj	_	_
+15	su	_	_	_	_	16	advmod	_	_
+16	sutam	_	_	_	_	14	acl	_	_
+17	bharantīḥ	_	_	_	_	5	conj	_	_
+18	ā	_	_	_	_	20	advmod	_	_
+19	imāḥ	_	_	_	_	20	nsubj	_	_
+20	agman	_	_	_	_	0	root	_	_
+21	revatīḥ	_	_	_	_	19	acl	_	_
+22	jīva	_	_	_	_	23	iobj	_	_
+23	dhanyāḥ	_	_	_	_	21	conj	_	_
+
+# sent_id = ŚS_5_13_4_1
+# text = viṣeṇa hanmi te viṣam
+1	viṣeṇa	_	_	_	_	2	obl	_	_
+2	hanmi	_	_	_	_	0	root	_	_
+3	te	_	_	_	_	4	nmod	_	_
+4	viṣam	_	_	_	_	2	obj	_	_
+
+# sent_id = AB_2_17_7
+# text = apa pāpmānam hate yaḥ evam veda
+1	apa	_	_	_	_	3	compound	_	_
+2	pāpmānam	_	_	_	_	3	obj	_	_
+3	hate	_	_	_	_	0	root	_	_
+4	yaḥ	_	_	_	_	6	nsubj	_	_
+5	evam	_	_	_	_	6	advmod	_	_
+6	veda	_	_	_	_	3	ccomp	_	_
+
+# sent_id = MS_2_5_2_45
+# text = iyam vai aditiḥ
+1	iyam	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	aditiḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = MS_2_5_11_52
+# text = saḥ asmai paśūn prajanayati
+1	saḥ	_	_	_	_	4	nsubj	_	_
+2	asmai	_	_	_	_	4	iobj	_	_
+3	paśūn	_	_	_	_	4	obj	_	_
+4	prajanayati	_	_	_	_	0	root	_	_
+
+# sent_id = ŚB_1_8_1_24_1_2_3
+# text = tasmāt catuḥ upahvayate
+1	tasmāt	_	_	_	_	3	advmod	_	_
+2	catuḥ	_	_	_	_	3	advmod	_	_
+3	upahvayate	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_9_41
+# text = yāvat eva brahma tena enam sarveṇa abhicarati
+1	yāvat	_	_	_	_	4	acl	_	_
+2	eva	_	_	_	_	1	discourse	_	_
+3	brahma	_	_	_	_	1	nsubj	_	_
+4	tena	_	_	_	_	7	obl	_	_
+5	enam	_	_	_	_	7	obl	_	_
+6	sarveṇa	_	_	_	_	4	acl	_	_
+7	abhicarati	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_15_5_4_1
+# text = ugraḥ enam devaḥ iṣvāsaḥ udīcyāḥ diśaḥ antardeśāt anuṣṭhātā anutiṣṭhati
+1	ugraḥ	_	_	_	_	3	amod	_	_
+2	enam	_	_	_	_	9	obl	_	_
+3	devaḥ	_	_	_	_	9	nsubj	_	_
+4	iṣvāsaḥ	_	_	_	_	3	appos	_	_
+5	udīcyāḥ	_	_	_	_	6	amod	_	_
+6	diśaḥ	_	_	_	_	7	nmod	_	_
+7	antardeśāt	_	_	_	_	9	obl	_	_
+8	anuṣṭhātā	_	_	_	_	3	acl	_	_
+9	anutiṣṭhati	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_2_32
+# text = saṃvatsaram paryālabhyante
+1	saṃvatsaram	_	_	_	_	2	obl	_	_
+2	paryālabhyante	_	_	_	_	0	root	_	_
+
+# sent_id = AB_7_15_4
+# text = cara eva iti vai mā brāhmaṇaḥ avocat iti
+1	cara	_	_	_	_	7	ccomp	_	_
+2	eva	_	_	_	_	1	discourse	_	_
+3	iti	_	_	_	_	1	mark	_	_
+4	vai	_	_	_	_	7	discourse	_	_
+5	mā	_	_	_	_	7	iobj	_	_
+6	brāhmaṇaḥ	_	_	_	_	7	nsubj	_	_
+7	avocat	_	_	_	_	0	root	_	_
+8	iti	_	_	_	_	7	mark	_	_
+
+# sent_id = AB_1_24_1_1
+# text = jitayaḥ vai nāma etāḥ yat upasadaḥ
+1	jitayaḥ	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	nāma	_	_	_	_	1	advmod	_	_
+4	etāḥ	_	_	_	_	1	nsubj	_	_
+5	yat	_	_	_	_	6	advmod	_	_
+6	upasadaḥ	_	_	_	_	4	acl	_	_
+
+# sent_id = ŚS_15_14_1
+# text = manasā anna ādena annam atti yaḥ evam veda
+1	manasā	_	_	_	_	5	obl	_	_
+2	anna	_	_	_	_	3	obj	_	_
+3	ādena	_	_	_	_	1	acl	_	_
+4	annam	_	_	_	_	5	obj	_	_
+5	atti	_	_	_	_	0	root	_	_
+6	yaḥ	_	_	_	_	8	nsubj	_	_
+7	evam	_	_	_	_	8	advmod	_	_
+8	veda	_	_	_	_	5	csubj	_	_
+
+# sent_id = AB_1_29_7_1
+# text = somaḥ vai rājā induḥ
+1	somaḥ	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	rājā	_	_	_	_	1	appos	_	_
+4	induḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_2_6_15_1
+# text = aṅgāni eva asya tat gātrāṇi prīṇāti
+1	aṅgāni	_	_	_	_	6	obj	_	_
+2	eva	_	_	_	_	6	advmod	_	_
+3	asya	_	_	_	_	1	nmod	_	_
+4	tat	_	_	_	_	6	advmod	_	_
+5	gātrāṇi	_	_	_	_	1	conj	_	_
+6	prīṇāti	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_11_28
+# text = agniḥ vai sṛṣṭaḥ na vyarocata
+1	agniḥ	_	_	_	_	5	csubj	_	_
+2	vai	_	_	_	_	3	discourse	_	_
+3	sṛṣṭaḥ	_	_	_	_	1	acl	_	_
+4	na	_	_	_	_	5	advmod	_	_
+5	vyarocata	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_4_4
+# text = ucchuṣma oṣadhīnām sārāḥ ṛṣabhāṇām
+1	ucchuṣma	_	_	_	_	2	amod	_	_
+2	oṣadhīnām	_	_	_	_	3	nmod	_	_
+3	sārāḥ	_	_	_	_	0	root	_	_
+4	ṛṣabhāṇām	_	_	_	_	2	conj	_	_
+
+# sent_id = ŚS_5_22_9_1_2_3
+# text = abhūt u prārthaḥ takmā
+1	abhūt	_	_	_	_	0	root	_	_
+2	u	_	_	_	_	1	discourse	_	_
+3	prārthaḥ	_	_	_	_	1	xcomp	_	_
+4	takmā	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_1_1_12_1_2
+# text = eṣā u ekā dīkṣā
+1	eṣā	_	_	_	_	4	nsubj	_	_
+2	u	_	_	_	_	1	cc	_	_
+3	ekā	_	_	_	_	4	nummod	_	_
+4	dīkṣā	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_16_7
+# text = tṛcam āgneyam gāyatram anvāha agnau mathyamāne
+1	tṛcam	_	_	_	_	4	obl	_	_
+2	āgneyam	_	_	_	_	1	amod	_	_
+3	gāyatram	_	_	_	_	2	conj	_	_
+4	anvāha	_	_	_	_	0	root	_	_
+5	agnau	_	_	_	_	6	nsubj	_	_
+6	mathyamāne	_	_	_	_	4	advcl	_	_
+
+# sent_id = AB_2_12_17
+# text = abhi eva enān tat vaṣaṭkaroti yathā somasya agne vīhi iti
+1	abhi	_	_	_	_	3	case	_	_
+2	eva	_	_	_	_	5	advmod	_	_
+3	enān	_	_	_	_	5	obl	_	_
+4	tat	_	_	_	_	5	advmod	_	_
+5	vaṣaṭkaroti	_	_	_	_	0	root	_	_
+6	yathā	_	_	_	_	5	advcl	_	_
+7	somasya	_	_	_	_	9	obl	_	_
+8	agne	_	_	_	_	9	vocative	_	_
+9	vīhi	_	_	_	_	6	ccomp	_	_
+10	iti	_	_	_	_	9	mark	_	_
+
+# sent_id = ŚB_1_8_1_28_1
+# text = ete hi enam tanvate
+1	ete	_	_	_	_	4	nsubj	_	_
+2	hi	_	_	_	_	4	discourse	_	_
+3	enam	_	_	_	_	4	obj	_	_
+4	tanvate	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_3_12_1_2_3_4_5_6_7_8
+# text = tasmāt tasya aśitavyam ca eva līpsitavyam ca
+1	tasmāt	_	_	_	_	3	advmod	_	_
+2	tasya	_	_	_	_	3	iobj	_	_
+3	aśitavyam	_	_	_	_	0	root	_	_
+4	ca	_	_	_	_	3	cc	_	_
+5	eva	_	_	_	_	6	discourse	_	_
+6	līpsitavyam	_	_	_	_	3	conj	_	_
+7	ca	_	_	_	_	6	cc	_	_
+
+# sent_id = AB_2_11_10
+# text = tat āhuḥ yat eṣa haviḥ eva yat paśuḥ atha asya bahu apaiti lomāni tvac asṛk kuṣṭhikāḥ śaphāḥ viṣāṇe skandati piśitam kena asya tat āpūryate iti
+1	tat	_	_	_	_	2	obj	_	_
+2	āhuḥ	_	_	_	_	0	root	_	_
+3	yat	_	_	_	_	5	nsubj	_	_
+4	eṣa	_	_	_	_	5	nsubj	_	_
+5	haviḥ	_	_	_	_	1	acl	_	_
+6	eva	_	_	_	_	5	advmod	_	_
+7	yat	_	_	_	_	8	nsubj	_	_
+8	paśuḥ	_	_	_	_	4	acl	_	_
+9	atha	_	_	_	_	12	advmod	_	_
+10	asya	_	_	_	_	11	nmod	_	_
+11	bahu	_	_	_	_	12	nsubj	_	_
+12	apaiti	_	_	_	_	5	conj	_	_
+13	lomāni	_	_	_	_	11	conj	_	_
+14	tvac	_	_	_	_	11	conj	_	_
+15	asṛk	_	_	_	_	11	conj	_	_
+16	kuṣṭhikāḥ	_	_	_	_	11	conj	_	_
+17	śaphāḥ	_	_	_	_	11	conj	_	_
+18	viṣāṇe	_	_	_	_	11	conj	_	_
+19	skandati	_	_	_	_	12	conj	_	_
+20	piśitam	_	_	_	_	19	nsubj	_	_
+21	kena	_	_	_	_	24	obl	_	_
+22	asya	_	_	_	_	21	nmod	_	_
+23	tat	_	_	_	_	24	nsubj	_	_
+24	āpūryate	_	_	_	_	5	conj	_	_
+25	iti	_	_	_	_	5	mark	_	_
+
+# sent_id = MS_2_5_1_73
+# text = yat vāyave vāyuḥ eva asmai prāṇam ninayati
+1	yat	_	_	_	_	2	mark	_	_
+2	vāyave	_	_	_	_	7	advcl	_	_
+3	vāyuḥ	_	_	_	_	7	nsubj	_	_
+4	eva	_	_	_	_	7	discourse	_	_
+5	asmai	_	_	_	_	7	iobj	_	_
+6	prāṇam	_	_	_	_	7	obj	_	_
+7	ninayati	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_26_1_1
+# text = a prayājam ananuyājam bhavati iṣvai saṃśityai a pratiśarāya
+1	a	_	_	_	_	2	advmod	_	_
+2	prayājam	_	_	_	_	4	xcomp	_	_
+3	ananuyājam	_	_	_	_	2	conj	_	_
+4	bhavati	_	_	_	_	0	root	_	_
+5	iṣvai	_	_	_	_	6	nmod	_	_
+6	saṃśityai	_	_	_	_	4	iobj	_	_
+7	a	_	_	_	_	8	advmod	_	_
+8	pratiśarāya	_	_	_	_	6	conj	_	_
+
+# sent_id = ŚS_1_34_5
+# text = pari tvā paritatnunā ikṣuṇā agām a vidviṣe yathā mām kāminī asaḥ yathā mat na apagā asaḥ
+1	pari	_	_	_	_	2	case	_	_
+2	tvā	_	_	_	_	5	obj	_	_
+3	paritatnunā	_	_	_	_	4	amod	_	_
+4	ikṣuṇā	_	_	_	_	5	obl	_	_
+5	agām	_	_	_	_	0	root	_	_
+6	a	_	_	_	_	7	advmod	_	_
+7	vidviṣe	_	_	_	_	5	iobj	_	_
+8	yathā	_	_	_	_	10	mark	_	_
+9	mām	_	_	_	_	10	obj	_	_
+10	kāminī	_	_	_	_	5	advcl	_	_
+11	asaḥ	_	_	_	_	10	cop	_	_
+12	yathā	_	_	_	_	15	mark	_	_
+13	mat	_	_	_	_	15	obl	_	_
+14	na	_	_	_	_	15	advmod	_	_
+15	apagā	_	_	_	_	10	conj	_	_
+16	asaḥ	_	_	_	_	15	cop	_	_
+
+# sent_id = MS_2_5_10_9
+# text = yaḥ tejaskāmaḥ syāt saḥ etān aindrān ṛṣabhān ālabheta
+1	yaḥ	_	_	_	_	2	nsubj	_	_
+2	tejaskāmaḥ	_	_	_	_	8	advcl	_	_
+3	syāt	_	_	_	_	2	cop	_	_
+4	saḥ	_	_	_	_	8	nsubj	_	_
+5	etān	_	_	_	_	7	det	_	_
+6	aindrān	_	_	_	_	8	xcomp	_	_
+7	ṛṣabhān	_	_	_	_	8	obj	_	_
+8	ālabheta	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_15_14
+# text = atho khalu yadā eva adhvaryuḥ upākuryāt atha anubrūyāt
+1	atho	_	_	_	_	8	advmod	_	_
+2	khalu	_	_	_	_	8	advmod	_	_
+3	yadā	_	_	_	_	6	mark	_	_
+4	eva	_	_	_	_	6	advmod	_	_
+5	adhvaryuḥ	_	_	_	_	6	nsubj	_	_
+6	upākuryāt	_	_	_	_	8	advcl	_	_
+7	atha	_	_	_	_	8	advmod	_	_
+8	anubrūyāt	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_5_14_5_1
+# text = sukhaḥ rathaḥ iva vartatām kṛtyā kṛtyā kṛtam punar
+1	sukhaḥ	_	_	_	_	2	amod	_	_
+2	rathaḥ	_	_	_	_	4	advcl	_	_
+3	iva	_	_	_	_	2	case	_	_
+4	vartatām	_	_	_	_	0	root	_	_
+5	kṛtyā	_	_	_	_	4	nsubj	_	_
+6	kṛtyā	_	_	_	_	7	obj	_	_
+7	kṛtam	_	_	_	_	4	obl	_	_
+8	punar	_	_	_	_	4	advmod	_	_
+
+# sent_id = MS_2_5_7_8
+# text = atha u āhuḥ vasā vai sā āsīt tat vasā vai etāḥ iti
+1	atha	_	_	_	_	3	advmod	_	_
+2	u	_	_	_	_	3	cc	_	_
+3	āhuḥ	_	_	_	_	0	root	_	_
+4	vasā	_	_	_	_	3	ccomp	_	_
+5	vai	_	_	_	_	4	discourse	_	_
+6	sā	_	_	_	_	4	nsubj	_	_
+7	āsīt	_	_	_	_	4	cop	_	_
+8	tat	_	_	_	_	9	advmod	_	_
+9	vasā	_	_	_	_	4	parataxis	_	_
+10	vai	_	_	_	_	9	discourse	_	_
+11	etāḥ	_	_	_	_	9	nsubj	_	_
+12	iti	_	_	_	_	9	mark	_	_
+
+# sent_id = ŚB_1_8_1_37_1_2_3
+# text = tasmāt āha juṣantām iti
+1	tasmāt	_	_	_	_	2	advmod	_	_
+2	āha	_	_	_	_	0	root	_	_
+3	juṣantām	_	_	_	_	2	ccomp	_	_
+4	iti	_	_	_	_	3	mark	_	_
+
+# sent_id = AB_2_6_8
+# text = paśuḥ vai nīyamānaḥ sa mṛtyum prāpaśyat sa devān na anvakāmayata etum
+1	paśuḥ	_	_	_	_	6	nsubj	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	nīyamānaḥ	_	_	_	_	1	acl	_	_
+4	sa	_	_	_	_	1	conj	_	_
+5	mṛtyum	_	_	_	_	6	obj	_	_
+6	prāpaśyat	_	_	_	_	0	root	_	_
+7	sa	_	_	_	_	10	nsubj	_	_
+8	devān	_	_	_	_	11	obj	_	_
+9	na	_	_	_	_	10	advmod	_	_
+10	anvakāmayata	_	_	_	_	6	conj	_	_
+11	etum	_	_	_	_	10	advcl	_	_
+
+# sent_id = MS_2_5_4_22
+# text = vāyuḥ vai anayoḥ vatsaḥ
+1	vāyuḥ	_	_	_	_	4	nsubj	_	_
+2	vai	_	_	_	_	4	discourse	_	_
+3	anayoḥ	_	_	_	_	4	nmod	_	_
+4	vatsaḥ	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_19_1_1
+# text = brahma vai bṛhaspatiḥ
+1	brahma	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	bṛhaspatiḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = ṚV_1_16_1
+# text = ā tvā vahantu harayaḥ vṛṣaṇam soma pītaye indra tvā sūra cakṣasaḥ
+1	ā	_	_	_	_	3	advmod	_	_
+2	tvā	_	_	_	_	3	obj	_	_
+3	vahantu	_	_	_	_	0	root	_	_
+4	harayaḥ	_	_	_	_	3	nsubj	_	_
+5	vṛṣaṇam	_	_	_	_	2	nmod	_	_
+6	soma	_	_	_	_	7	obj	_	_
+7	pītaye	_	_	_	_	3	advcl	_	_
+8	indra	_	_	_	_	11	orphan	_	_
+9	tvā	_	_	_	_	11	orphan	_	_
+10	sūra	_	_	_	_	11	nmod	_	_
+11	cakṣasaḥ	_	_	_	_	3	conj	_	_
+
+# sent_id = ṚV_2_35_1_1
+# text = joṣiṣat hi
+1	joṣiṣat	_	_	_	_	0	root	_	_
+2	hi	_	_	_	_	1	discourse	_	_
+
+# sent_id = MS_2_5_6_7
+# text = saḥ eka śiti pād abhavat
+1	saḥ	_	_	_	_	5	nsubj	_	_
+2	eka	_	_	_	_	3	amod	_	_
+3	śiti	_	_	_	_	4	amod	_	_
+4	pād	_	_	_	_	5	xcomp	_	_
+5	abhavat	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_7_7
+# text = agnim yajati
+1	agnim	_	_	_	_	2	obj	_	_
+2	yajati	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_1_16_3
+# text = indram prātar havāmahe indram prayati adhvare indram somasya pītaye
+1	indram	_	_	_	_	3	obj	_	_
+2	prātar	_	_	_	_	3	advmod	_	_
+3	havāmahe	_	_	_	_	0	root	_	_
+4	indram	_	_	_	_	3	conj	_	_
+5	prayati	_	_	_	_	4	orphan	_	_
+6	adhvare	_	_	_	_	5	nsubj	_	_
+7	indram	_	_	_	_	3	conj	_	_
+8	somasya	_	_	_	_	9	nmod	_	_
+9	pītaye	_	_	_	_	7	orphan	_	_
+
+# sent_id = ŚS_10_10_10
+# text = yat indram aiḥ āt tvā ṛṣabhaḥ ahvayat tasmāt te vṛtrahā payaḥ kṣīram kruddhaḥ aharat vaśe
+1	yat	_	_	_	_	3	mark	_	_
+2	indram	_	_	_	_	3	obj	_	_
+3	aiḥ	_	_	_	_	7	advcl	_	_
+4	āt	_	_	_	_	7	advmod	_	_
+5	tvā	_	_	_	_	7	obj	_	_
+6	ṛṣabhaḥ	_	_	_	_	7	nsubj	_	_
+7	ahvayat	_	_	_	_	14	advcl	_	_
+8	tasmāt	_	_	_	_	14	advmod	_	_
+9	te	_	_	_	_	11	nmod	_	_
+10	vṛtrahā	_	_	_	_	14	nsubj	_	_
+11	payaḥ	_	_	_	_	14	obj	_	_
+12	kṣīram	_	_	_	_	11	conj	_	_
+13	kruddhaḥ	_	_	_	_	10	acl	_	_
+14	aharat	_	_	_	_	0	root	_	_
+15	vaśe	_	_	_	_	14	vocative	_	_
+
+# sent_id = AB_1_16_25
+# text = jātaḥ itaraḥ jātavedāḥ itaraḥ
+1	jātaḥ	_	_	_	_	0	root	_	_
+2	itaraḥ	_	_	_	_	1	nsubj	_	_
+3	jātavedāḥ	_	_	_	_	1	conj	_	_
+4	itaraḥ	_	_	_	_	3	nsubj	_	_
+
+# sent_id = ṚV_1_15_1
+# text = indra somam piba ṛtunā
+1	indra	_	_	_	_	3	vocative	_	_
+2	somam	_	_	_	_	3	obj	_	_
+3	piba	_	_	_	_	0	root	_	_
+4	ṛtunā	_	_	_	_	3	obl	_	_
+
+# sent_id = ŚS_4_4_8
+# text = aśvasya aśvatarasya ajasya petvasya ca atha ṛṣabhasya ye vājāḥ tān asmin dhehi tanū vaśin
+1	aśvasya	_	_	_	_	9	nmod	_	_
+2	aśvatarasya	_	_	_	_	1	conj	_	_
+3	ajasya	_	_	_	_	1	conj	_	_
+4	petvasya	_	_	_	_	1	conj	_	_
+5	ca	_	_	_	_	4	cc	_	_
+6	atha	_	_	_	_	7	cc	_	_
+7	ṛṣabhasya	_	_	_	_	1	conj	_	_
+8	ye	_	_	_	_	9	nsubj	_	_
+9	vājāḥ	_	_	_	_	10	acl	_	_
+10	tān	_	_	_	_	12	obj	_	_
+11	asmin	_	_	_	_	12	obl	_	_
+12	dhehi	_	_	_	_	0	root	_	_
+13	tanū	_	_	_	_	14	nmod	_	_
+14	vaśin	_	_	_	_	12	vocative	_	_
+
+# sent_id = ŚS_6_26_3_1_2
+# text = yam u dviṣmaḥ tam id jahi
+1	yam	_	_	_	_	3	obj	_	_
+2	u	_	_	_	_	1	discourse	_	_
+3	dviṣmaḥ	_	_	_	_	4	acl	_	_
+4	tam	_	_	_	_	6	obj	_	_
+5	id	_	_	_	_	4	discourse	_	_
+6	jahi	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_5_62_2_1
+# text = īrmā tasthuṣīḥ ahabhiḥ duduhre
+1	īrmā	_	_	_	_	2	obl	_	_
+2	tasthuṣīḥ	_	_	_	_	4	advcl	_	_
+3	ahabhiḥ	_	_	_	_	4	obl	_	_
+4	duduhre	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_2_7_5
+# text = tvam naḥ asi bhārata agne vaśābhiḥ ukṣabhiḥ aṣṭāpadībhiḥ āhutaḥ
+1	tvam	_	_	_	_	9	nsubj	_	_
+2	naḥ	_	_	_	_	9	iobj	_	_
+3	asi	_	_	_	_	9	aux	_	_
+4	bhārata	_	_	_	_	5	nmod	_	_
+5	agne	_	_	_	_	9	vocative	_	_
+6	vaśābhiḥ	_	_	_	_	9	obl	_	_
+7	ukṣabhiḥ	_	_	_	_	6	conj	_	_
+8	aṣṭāpadībhiḥ	_	_	_	_	6	conj	_	_
+9	āhutaḥ	_	_	_	_	0	root	_	_
+
+# sent_id = ŚB_1_8_1_29_1_2_3_4_5
+# text = mānuṣam ha kuryāt yat nāma gṛhṇīyāt
+1	mānuṣam	_	_	_	_	3	obj	_	_
+2	ha	_	_	_	_	3	discourse	_	_
+3	kuryāt	_	_	_	_	0	root	_	_
+4	yat	_	_	_	_	6	mark	_	_
+5	nāma	_	_	_	_	6	obj	_	_
+6	gṛhṇīyāt	_	_	_	_	3	advcl	_	_
+
+# sent_id = MS_2_5_3_29
+# text = āgneyam tu pūrvam ajam ālabheta
+1	āgneyam	_	_	_	_	5	xcomp	_	_
+2	tu	_	_	_	_	5	discourse	_	_
+3	pūrvam	_	_	_	_	4	acl	_	_
+4	ajam	_	_	_	_	5	obj	_	_
+5	ālabheta	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_11_7_1_2
+# text = anaḍuhi akramata
+1	anaḍuhi	_	_	_	_	2	obl	_	_
+2	akramata	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_19_1_1_2_3_4_5_6_7_8
+# text = tam āpaḥ anūdāyan
+1	tam	_	_	_	_	3	obl	_	_
+2	āpaḥ	_	_	_	_	3	nsubj	_	_
+3	anūdāyan	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_21_12_1_2
+# text = tat u traiṣṭubham
+1	tat	_	_	_	_	3	nsubj	_	_
+2	u	_	_	_	_	3	advmod	_	_
+3	traiṣṭubham	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_3_46_2_1
+# text = ekaḥ viśvasya bhuvanasya rājā sa yodhayā ca kṣayayā ca janān
+1	ekaḥ	_	_	_	_	4	nummod	_	_
+2	viśvasya	_	_	_	_	3	det	_	_
+3	bhuvanasya	_	_	_	_	4	nmod	_	_
+4	rājā	_	_	_	_	5	acl	_	_
+5	sa	_	_	_	_	6	nsubj	_	_
+6	yodhayā	_	_	_	_	0	root	_	_
+7	ca	_	_	_	_	6	cc	_	_
+8	kṣayayā	_	_	_	_	6	conj	_	_
+9	ca	_	_	_	_	8	cc	_	_
+10	janān	_	_	_	_	6	obj	_	_
+
+# sent_id = AB_1_28_39
+# text = agnim eva tat sarvatas goptāram paridatte ātmane ca yajamānāya ca yatra evam vidvān etayā paridadhāti
+1	agnim	_	_	_	_	6	obj	_	_
+2	eva	_	_	_	_	6	advmod	_	_
+3	tat	_	_	_	_	6	advmod	_	_
+4	sarvatas	_	_	_	_	6	advmod	_	_
+5	goptāram	_	_	_	_	6	xcomp	_	_
+6	paridatte	_	_	_	_	0	root	_	_
+7	ātmane	_	_	_	_	6	iobj	_	_
+8	ca	_	_	_	_	7	cc	_	_
+9	yajamānāya	_	_	_	_	7	conj	_	_
+10	ca	_	_	_	_	9	cc	_	_
+11	yatra	_	_	_	_	15	mark	_	_
+12	evam	_	_	_	_	13	advmod	_	_
+13	vidvān	_	_	_	_	15	nsubj	_	_
+14	etayā	_	_	_	_	15	obl	_	_
+15	paridadhāti	_	_	_	_	6	advcl	_	_
+
+# sent_id = AB_1_19_6_1
+# text = yat yajñe abhirūpam tat samṛddham
+1	yat	_	_	_	_	3	nsubj	_	_
+2	yajñe	_	_	_	_	3	obl	_	_
+3	abhirūpam	_	_	_	_	4	acl	_	_
+4	tat	_	_	_	_	5	nsubj	_	_
+5	samṛddham	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_15_14_10_1
+# text = sa yat devān anuvyacalat īśānaḥ bhūtvā anuvyacalat manyum anna ādam kṛtvā
+1	sa	_	_	_	_	4	nsubj	_	_
+2	yat	_	_	_	_	4	mark	_	_
+3	devān	_	_	_	_	4	obl	_	_
+4	anuvyacalat	_	_	_	_	7	advcl	_	_
+5	īśānaḥ	_	_	_	_	7	nsubj	_	_
+6	bhūtvā	_	_	_	_	7	advcl	_	_
+7	anuvyacalat	_	_	_	_	0	root	_	_
+8	manyum	_	_	_	_	11	obj	_	_
+9	anna	_	_	_	_	10	obj	_	_
+10	ādam	_	_	_	_	11	xcomp	_	_
+11	kṛtvā	_	_	_	_	7	advcl	_	_
+
+# sent_id = ŚS_3_1_2
+# text = yūyam ugrāḥ marutaḥ īdṛśe stha
+1	yūyam	_	_	_	_	2	nsubj	_	_
+2	ugrāḥ	_	_	_	_	0	root	_	_
+3	marutaḥ	_	_	_	_	2	vocative	_	_
+4	īdṛśe	_	_	_	_	2	iobj	_	_
+5	stha	_	_	_	_	2	cop	_	_
+
+# sent_id = AB_1_5_8_1_2_3
+# text = trayaḥ ime ūrdhvāḥ ekaviṃśāḥ lokāḥ
+1	trayaḥ	_	_	_	_	0	root	_	_
+2	ime	_	_	_	_	5	det	_	_
+3	ūrdhvāḥ	_	_	_	_	5	amod	_	_
+4	ekaviṃśāḥ	_	_	_	_	5	nummod	_	_
+5	lokāḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = ŚS_6_3_2_1
+# text = pātām naḥ dyāvāpṛthivī abhiṣṭaye
+1	pātām	_	_	_	_	0	root	_	_
+2	naḥ	_	_	_	_	1	obj	_	_
+3	dyāvāpṛthivī	_	_	_	_	1	nsubj	_	_
+4	abhiṣṭaye	_	_	_	_	1	advcl	_	_
+
+# sent_id = MS_2_5_11_7
+# text = yat vāruṇaḥ varuṇāt eva enam tena muñcati
+1	yat	_	_	_	_	2	mark	_	_
+2	vāruṇaḥ	_	_	_	_	7	advcl	_	_
+3	varuṇāt	_	_	_	_	7	obl	_	_
+4	eva	_	_	_	_	7	discourse	_	_
+5	enam	_	_	_	_	7	obj	_	_
+6	tena	_	_	_	_	7	obl	_	_
+7	muñcati	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_1_1_4
+# text = sam śrutena gamemahi
+1	sam	_	_	_	_	3	advmod	_	_
+2	śrutena	_	_	_	_	3	obl	_	_
+3	gamemahi	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_19_4_1
+# text = prāṇam eva asmin tat dadhāti
+1	prāṇam	_	_	_	_	5	obj	_	_
+2	eva	_	_	_	_	5	advmod	_	_
+3	asmin	_	_	_	_	5	obl	_	_
+4	tat	_	_	_	_	5	advmod	_	_
+5	dadhāti	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_13_13
+# text = annam vai pitu dakṣiṇā vai pitu
+1	annam	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	pitu	_	_	_	_	1	nsubj	_	_
+4	dakṣiṇā	_	_	_	_	1	conj	_	_
+5	vai	_	_	_	_	4	advmod	_	_
+6	pitu	_	_	_	_	4	nsubj	_	_
+
+# sent_id = AB_2_2_28_1
+# text = deva yāḥ vipraḥ ud iyarti vācam iti
+1	deva	_	_	_	_	2	nmod	_	_
+2	yāḥ	_	_	_	_	3	acl	_	_
+3	vipraḥ	_	_	_	_	5	nsubj	_	_
+4	ud	_	_	_	_	5	compound	_	_
+5	iyarti	_	_	_	_	0	root	_	_
+6	vācam	_	_	_	_	5	obj	_	_
+7	iti	_	_	_	_	5	mark	_	_
+
+# sent_id = ŚS_6_50_2_1
+# text = pataṅga hai
+1	pataṅga	_	_	_	_	0	root	_	_
+2	hai	_	_	_	_	1	discourse	_	_
+
+# sent_id = ŚB_1_8_1_38_1
+# text = na agnau juhvati
+1	na	_	_	_	_	3	advmod	_	_
+2	agnau	_	_	_	_	3	obl	_	_
+3	juhvati	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_2_49_1
+# text = indriyam vīryam garbhaḥ
+1	indriyam	_	_	_	_	3	nsubj	_	_
+2	vīryam	_	_	_	_	1	conj	_	_
+3	garbhaḥ	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_34_1_1_2_3
+# text = chandāṃsi pakṣau
+1	chandāṃsi	_	_	_	_	2	nsubj	_	_
+2	pakṣau	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_38_6_1_2_3
+# text = ime te stokāḥ bahulāḥ
+1	ime	_	_	_	_	3	nsubj	_	_
+2	te	_	_	_	_	3	iobj	_	_
+3	stokāḥ	_	_	_	_	0	root	_	_
+4	bahulāḥ	_	_	_	_	3	amod	_	_
+
+# sent_id = ŚS_1_24_4
+# text = śyāmā sarūpaṃkaraṇī pṛthivyāḥ adhi udbhṛtā
+1	śyāmā	_	_	_	_	5	nsubj	_	_
+2	sarūpaṃkaraṇī	_	_	_	_	1	conj	_	_
+3	pṛthivyāḥ	_	_	_	_	5	obl	_	_
+4	adhi	_	_	_	_	3	case	_	_
+5	udbhṛtā	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_5_4_2_1
+# text = viduḥ hi takma nāśanam
+1	viduḥ	_	_	_	_	0	root	_	_
+2	hi	_	_	_	_	1	discourse	_	_
+3	takma	_	_	_	_	4	obj	_	_
+4	nāśanam	_	_	_	_	1	obj	_	_
+
+# sent_id = AB_2_17_4
+# text = sapta ca vai śatāni viṃśatiḥ ca saṃvatsarasya ahorātrāḥ
+1	sapta	_	_	_	_	0	root	_	_
+2	ca	_	_	_	_	1	cc	_	_
+3	vai	_	_	_	_	1	advmod	_	_
+4	śatāni	_	_	_	_	1	flat	_	_
+5	viṃśatiḥ	_	_	_	_	1	flat	_	_
+6	ca	_	_	_	_	5	cc	_	_
+7	saṃvatsarasya	_	_	_	_	8	nmod	_	_
+8	ahorātrāḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_2_8_3_1
+# text = sa goḥ ālabdhāt udakrāmat
+1	sa	_	_	_	_	4	nsubj	_	_
+2	goḥ	_	_	_	_	4	obl	_	_
+3	ālabdhāt	_	_	_	_	2	acl	_	_
+4	udakrāmat	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_5_9
+# text = pratitiṣṭhati yaḥ evam vidvān anuṣṭubhau kurute
+1	pratitiṣṭhati	_	_	_	_	0	root	_	_
+2	yaḥ	_	_	_	_	6	nsubj	_	_
+3	evam	_	_	_	_	4	advmod	_	_
+4	vidvān	_	_	_	_	2	amod	_	_
+5	anuṣṭubhau	_	_	_	_	6	obj	_	_
+6	kurute	_	_	_	_	1	ccomp	_	_
+
+# sent_id = AB_1_19_11
+# text = ekaviṃśaḥ ayam puruṣaḥ
+1	ekaviṃśaḥ	_	_	_	_	0	root	_	_
+2	ayam	_	_	_	_	3	det	_	_
+3	puruṣaḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = MS_2_5_1_12
+# text = somaḥ eva asmai retaḥ dadhāti
+1	somaḥ	_	_	_	_	5	nsubj	_	_
+2	eva	_	_	_	_	5	discourse	_	_
+3	asmai	_	_	_	_	5	iobj	_	_
+4	retaḥ	_	_	_	_	5	obj	_	_
+5	dadhāti	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_10_10_27_1
+# text = tathā hi yajñaḥ sarva pād duhe dātre an apasphuran
+1	tathā	_	_	_	_	6	advmod	_	_
+2	hi	_	_	_	_	6	discourse	_	_
+3	yajñaḥ	_	_	_	_	6	nsubj	_	_
+4	sarva	_	_	_	_	5	det	_	_
+5	pād	_	_	_	_	3	acl	_	_
+6	duhe	_	_	_	_	0	root	_	_
+7	dātre	_	_	_	_	6	iobj	_	_
+8	an	_	_	_	_	9	advmod	_	_
+9	apasphuran	_	_	_	_	6	advcl	_	_
+
+# sent_id = ṚV_1_15_5
+# text = brāhmaṇāt indra rādhasaḥ piba somam ṛtūṃr anu
+1	brāhmaṇāt	_	_	_	_	3	amod	_	_
+2	indra	_	_	_	_	4	vocative	_	_
+3	rādhasaḥ	_	_	_	_	4	obl	_	_
+4	piba	_	_	_	_	0	root	_	_
+5	somam	_	_	_	_	4	obj	_	_
+6	ṛtūṃr	_	_	_	_	4	obl	_	_
+7	anu	_	_	_	_	6	case	_	_
+
+# sent_id = ŚS_1_30_2
+# text = ye vaḥ devāḥ pitaraḥ ye ca putrāḥ sacetasaḥ me śṛṇutā idam uktam
+1	ye	_	_	_	_	4	nsubj	_	_
+2	vaḥ	_	_	_	_	1	nmod	_	_
+3	devāḥ	_	_	_	_	4	vocative	_	_
+4	pitaraḥ	_	_	_	_	10	csubj	_	_
+5	ye	_	_	_	_	7	nsubj	_	_
+6	ca	_	_	_	_	7	cc	_	_
+7	putrāḥ	_	_	_	_	4	conj	_	_
+8	sacetasaḥ	_	_	_	_	10	advcl	_	_
+9	me	_	_	_	_	10	obl	_	_
+10	śṛṇutā	_	_	_	_	0	root	_	_
+11	idam	_	_	_	_	12	det	_	_
+12	uktam	_	_	_	_	10	obj	_	_
+
+# sent_id = MS_2_5_1_68
+# text = śvetam vāyave niyutvate ālabheta
+1	śvetam	_	_	_	_	4	obj	_	_
+2	vāyave	_	_	_	_	4	iobj	_	_
+3	niyutvate	_	_	_	_	2	flat	_	_
+4	ālabheta	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_13_9
+# text = bhūyasībhiḥ ha asya āhutibhiḥ iṣṭam bhavati kevalena ha asya paśunā iṣṭam bhavati yaḥ evam veda
+1	bhūyasībhiḥ	_	_	_	_	4	amod	_	_
+2	ha	_	_	_	_	4	advmod	_	_
+3	asya	_	_	_	_	5	nmod	_	_
+4	āhutibhiḥ	_	_	_	_	0	root	_	_
+5	iṣṭam	_	_	_	_	4	nsubj	_	_
+6	bhavati	_	_	_	_	4	cop	_	_
+7	kevalena	_	_	_	_	10	amod	_	_
+8	ha	_	_	_	_	10	advmod	_	_
+9	asya	_	_	_	_	11	nmod	_	_
+10	paśunā	_	_	_	_	4	conj	_	_
+11	iṣṭam	_	_	_	_	10	nsubj	_	_
+12	bhavati	_	_	_	_	10	cop	_	_
+13	yaḥ	_	_	_	_	15	nsubj	_	_
+14	evam	_	_	_	_	15	advmod	_	_
+15	veda	_	_	_	_	9	acl	_	_
+
+# sent_id = MS_2_5_5_35
+# text = yat saumāpauṣṇaḥ svayā eva asmai devatayā indriyam vīryam āptvā avarunddhe
+1	yat	_	_	_	_	2	mark	_	_
+2	saumāpauṣṇaḥ	_	_	_	_	10	advcl	_	_
+3	svayā	_	_	_	_	6	amod	_	_
+4	eva	_	_	_	_	10	discourse	_	_
+5	asmai	_	_	_	_	10	iobj	_	_
+6	devatayā	_	_	_	_	10	obl	_	_
+7	indriyam	_	_	_	_	9	obj	_	_
+8	vīryam	_	_	_	_	7	conj	_	_
+9	āptvā	_	_	_	_	10	advcl	_	_
+10	avarunddhe	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_15_1_7
+# text = nīlam asya udaram
+1	nīlam	_	_	_	_	0	root	_	_
+2	asya	_	_	_	_	3	nmod	_	_
+3	udaram	_	_	_	_	1	nsubj	_	_
+
+# sent_id = ŚS_4_20_1_1_2
+# text = parā paśyati
+1	parā	_	_	_	_	2	advmod	_	_
+2	paśyati	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_3_6_1_2
+# text = nīcā āyat śaśayuḥ mṛgaḥ
+1	nīcā	_	_	_	_	2	advmod	_	_
+2	āyat	_	_	_	_	0	root	_	_
+3	śaśayuḥ	_	_	_	_	4	amod	_	_
+4	mṛgaḥ	_	_	_	_	2	nsubj	_	_
+
+# sent_id = ŚS_4_11_7_1_2_3_4_5_6_7
+# text = indraḥ rūpeṇa
+1	indraḥ	_	_	_	_	0	root	_	_
+2	rūpeṇa	_	_	_	_	1	obl	_	_
+
+# sent_id = MS_2_5_3_2
+# text = te vai samāvat eva yajñe kurvāṇāḥ āyan
+1	te	_	_	_	_	6	nsubj	_	_
+2	vai	_	_	_	_	6	discourse	_	_
+3	samāvat	_	_	_	_	6	advmod	_	_
+4	eva	_	_	_	_	3	discourse	_	_
+5	yajñe	_	_	_	_	6	obl	_	_
+6	kurvāṇāḥ	_	_	_	_	0	root	_	_
+7	āyan	_	_	_	_	6	aux	_	_
+
+# sent_id = ŚS_3_1_2_1_2_3
+# text = nāthitāḥ ime
+1	nāthitāḥ	_	_	_	_	0	root	_	_
+2	ime	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_1_3_21
+# text = tat āhuḥ na pūrva dīkṣiṇaḥ saṃsavaḥ asti parigṛhītaḥ vai etasya yajñaḥ parigṛhītāḥ devatāḥ na etasya ārtiḥ asti apara dīkṣiṇaḥ eva yathā tathā iti
+1	tat	_	_	_	_	2	obj	_	_
+2	āhuḥ	_	_	_	_	0	root	_	_
+3	na	_	_	_	_	7	advmod	_	_
+4	pūrva	_	_	_	_	5	acl	_	_
+5	dīkṣiṇaḥ	_	_	_	_	6	nmod	_	_
+6	saṃsavaḥ	_	_	_	_	7	nsubj	_	_
+7	asti	_	_	_	_	8	parataxis	_	_
+8	parigṛhītaḥ	_	_	_	_	12	parataxis	_	_
+9	vai	_	_	_	_	8	discourse	_	_
+10	etasya	_	_	_	_	8	obl	_	_
+11	yajñaḥ	_	_	_	_	8	nsubj	_	_
+12	parigṛhītāḥ	_	_	_	_	17	parataxis	_	_
+13	devatāḥ	_	_	_	_	12	nsubj	_	_
+14	na	_	_	_	_	17	advmod	_	_
+15	etasya	_	_	_	_	16	nmod	_	_
+16	ārtiḥ	_	_	_	_	17	nsubj	_	_
+17	asti	_	_	_	_	2	ccomp	_	_
+18	apara	_	_	_	_	19	acl	_	_
+19	dīkṣiṇaḥ	_	_	_	_	17	advcl	_	_
+20	eva	_	_	_	_	19	discourse	_	_
+21	yathā	_	_	_	_	19	case	_	_
+22	tathā	_	_	_	_	17	advmod	_	_
+23	iti	_	_	_	_	17	mark	_	_
+
+# sent_id = AB_1_8_10
+# text = samyañcaḥ vai ime lokāḥ
+1	samyañcaḥ	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	ime	_	_	_	_	4	det	_	_
+4	lokāḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = ŚS_1_12_4_1
+# text = śam astu avarāya me
+1	śam	_	_	_	_	4	nsubj	_	_
+2	astu	_	_	_	_	4	cop	_	_
+3	avarāya	_	_	_	_	4	amod	_	_
+4	me	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_37_2_1_2
+# text = sarvān gandhena nāśaya
+1	sarvān	_	_	_	_	3	obj	_	_
+2	gandhena	_	_	_	_	3	obl	_	_
+3	nāśaya	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_28_28_1_2
+# text = yajñam eva tat ṛjudhā pratiṣṭhāpayati
+1	yajñam	_	_	_	_	5	obj	_	_
+2	eva	_	_	_	_	5	advmod	_	_
+3	tat	_	_	_	_	5	advmod	_	_
+4	ṛjudhā	_	_	_	_	5	advmod	_	_
+5	pratiṣṭhāpayati	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_3_19
+# text = muṣṭī kurute
+1	muṣṭī	_	_	_	_	2	obj	_	_
+2	kurute	_	_	_	_	0	root	_	_
+
+# sent_id = ŚB_1_8_1_25_1_2_3
+# text = upa u asmāṁ iḍā hvayatām iti
+1	upa	_	_	_	_	5	advmod	_	_
+2	u	_	_	_	_	5	cc	_	_
+3	asmāṁ	_	_	_	_	5	iobj	_	_
+4	iḍā	_	_	_	_	5	nsubj	_	_
+5	hvayatām	_	_	_	_	0	root	_	_
+6	iti	_	_	_	_	5	mark	_	_
+
+# sent_id = ŚS_2_3_3_1_2
+# text = tat u rogam anīnaśat
+1	tat	_	_	_	_	4	nsubj	_	_
+2	u	_	_	_	_	4	cc	_	_
+3	rogam	_	_	_	_	4	obj	_	_
+4	anīnaśat	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_1_16_4_1
+# text = sute hi tvā havāmahe
+1	sute	_	_	_	_	4	advcl	_	_
+2	hi	_	_	_	_	1	mark	_	_
+3	tvā	_	_	_	_	4	obj	_	_
+4	havāmahe	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_14_1
+# text = anyataraḥ anaḍvān yuktaḥ syāt anyataraḥ vimuktaḥ
+1	anyataraḥ	_	_	_	_	2	amod	_	_
+2	anaḍvān	_	_	_	_	3	nsubj	_	_
+3	yuktaḥ	_	_	_	_	0	root	_	_
+4	syāt	_	_	_	_	3	cop	_	_
+5	anyataraḥ	_	_	_	_	6	nsubj	_	_
+6	vimuktaḥ	_	_	_	_	3	conj	_	_
+
+# sent_id = ŚB_1_8_1_17_1_2
+# text = tayā ātman śṛtayā hotā yajamānāya āśiṣam āśāste
+1	tayā	_	_	_	_	3	det	_	_
+2	ātman	_	_	_	_	3	obl	_	_
+3	śṛtayā	_	_	_	_	7	obl	_	_
+4	hotā	_	_	_	_	7	nsubj	_	_
+5	yajamānāya	_	_	_	_	7	iobj	_	_
+6	āśiṣam	_	_	_	_	7	obj	_	_
+7	āśāste	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_1_14_1_2
+# text = tāvān saṃvatsaraḥ
+1	tāvān	_	_	_	_	0	root	_	_
+2	saṃvatsaraḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_1_9_8_1_2
+# text = etāni hi yajñe pratamām iva kriyante
+1	etāni	_	_	_	_	6	nsubj	_	_
+2	hi	_	_	_	_	6	discourse	_	_
+3	yajñe	_	_	_	_	6	obl	_	_
+4	pratamām	_	_	_	_	6	advmod	_	_
+5	iva	_	_	_	_	4	advmod	_	_
+6	kriyante	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_13_15
+# text = ājarasam ha asmai vājinam na apacchidyate yaḥ evam veda
+1	ājarasam	_	_	_	_	6	advmod	_	_
+2	ha	_	_	_	_	1	advmod	_	_
+3	asmai	_	_	_	_	6	iobj	_	_
+4	vājinam	_	_	_	_	6	nsubj	_	_
+5	na	_	_	_	_	6	advmod	_	_
+6	apacchidyate	_	_	_	_	0	root	_	_
+7	yaḥ	_	_	_	_	9	nsubj	_	_
+8	evam	_	_	_	_	9	advmod	_	_
+9	veda	_	_	_	_	3	acl	_	_
+
+# sent_id = ŚS_4_34_3_1
+# text = āste yame
+1	āste	_	_	_	_	0	root	_	_
+2	yame	_	_	_	_	1	obl	_	_
+
+# sent_id = ŚS_2_27_2
+# text = suparṇaḥ tvā anu avindat
+1	suparṇaḥ	_	_	_	_	4	nsubj	_	_
+2	tvā	_	_	_	_	4	obj	_	_
+3	anu	_	_	_	_	4	advmod	_	_
+4	avindat	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_6_7
+# text = pra asmai agnim bharata iti
+1	pra	_	_	_	_	4	compound	_	_
+2	asmai	_	_	_	_	4	iobj	_	_
+3	agnim	_	_	_	_	4	obj	_	_
+4	bharata	_	_	_	_	0	root	_	_
+5	iti	_	_	_	_	4	mark	_	_
+
+# sent_id = AB_1_11_4
+# text = tasmāt prayājavat eva anuyājavat kartavyam
+1	tasmāt	_	_	_	_	5	advmod	_	_
+2	prayājavat	_	_	_	_	5	nsubj	_	_
+3	eva	_	_	_	_	5	discourse	_	_
+4	anuyājavat	_	_	_	_	2	conj	_	_
+5	kartavyam	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_7_5
+# text = sa yadi kīrtayet upāṃśu kīrtayet
+1	sa	_	_	_	_	5	nsubj	_	_
+2	yadi	_	_	_	_	3	mark	_	_
+3	kīrtayet	_	_	_	_	5	advcl	_	_
+4	upāṃśu	_	_	_	_	5	advmod	_	_
+5	kīrtayet	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_38_3_1_2
+# text = yā āyaiḥ parinṛtyati ādadānā kṛtam glahāt sā naḥ kṛtāni sīṣatī prahām āpnotu māyayā
+1	yā	_	_	_	_	3	nsubj	_	_
+2	āyaiḥ	_	_	_	_	3	obl	_	_
+3	parinṛtyati	_	_	_	_	7	acl	_	_
+4	ādadānā	_	_	_	_	3	advcl	_	_
+5	kṛtam	_	_	_	_	4	obj	_	_
+6	glahāt	_	_	_	_	4	obl	_	_
+7	sā	_	_	_	_	12	nsubj	_	_
+8	naḥ	_	_	_	_	10	iobj	_	_
+9	kṛtāni	_	_	_	_	10	obj	_	_
+10	sīṣatī	_	_	_	_	7	acl	_	_
+11	prahām	_	_	_	_	12	obj	_	_
+12	āpnotu	_	_	_	_	0	root	_	_
+13	māyayā	_	_	_	_	12	obl	_	_
+
+# sent_id = AB_2_16_1_1_2_3_4_5
+# text = tāḥ sarvāḥ devatāḥ prāmodanta
+1	tāḥ	_	_	_	_	3	det	_	_
+2	sarvāḥ	_	_	_	_	3	det	_	_
+3	devatāḥ	_	_	_	_	4	nsubj	_	_
+4	prāmodanta	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_25_2_1_2_3
+# text = tayā puraḥ bhindantaḥ āyan
+1	tayā	_	_	_	_	3	obl	_	_
+2	puraḥ	_	_	_	_	3	obj	_	_
+3	bhindantaḥ	_	_	_	_	0	root	_	_
+4	āyan	_	_	_	_	3	aux	_	_
+
+# sent_id = ŚS_4_36_3_1
+# text = ye āgare mṛgayante pratikrośe amāvāsye kravyādaḥ anyān dipsataḥ sarvān tān sahasā sahe
+1	ye	_	_	_	_	3	nsubj	_	_
+2	āgare	_	_	_	_	3	obl	_	_
+3	mṛgayante	_	_	_	_	6	acl	_	_
+4	pratikrośe	_	_	_	_	2	conj	_	_
+5	amāvāsye	_	_	_	_	2	nmod	_	_
+6	kravyādaḥ	_	_	_	_	10	nmod	_	_
+7	anyān	_	_	_	_	8	obj	_	_
+8	dipsataḥ	_	_	_	_	6	acl	_	_
+9	sarvān	_	_	_	_	10	det	_	_
+10	tān	_	_	_	_	12	obj	_	_
+11	sahasā	_	_	_	_	12	obl	_	_
+12	sahe	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_2_3_1_2
+# text = tat āhutīnām āhuti tvam
+1	tat	_	_	_	_	4	nsubj	_	_
+2	āhutīnām	_	_	_	_	4	nmod	_	_
+3	āhuti	_	_	_	_	4	nmod	_	_
+4	tvam	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_15_11_6
+# text = yat enam āha vrātya yathā te priyam tathā astu iti priyam eva tena avarunddhe
+1	yat	_	_	_	_	3	mark	_	_
+2	enam	_	_	_	_	3	iobj	_	_
+3	āha	_	_	_	_	14	advcl	_	_
+4	vrātya	_	_	_	_	8	vocative	_	_
+5	yathā	_	_	_	_	7	mark	_	_
+6	te	_	_	_	_	7	nmod	_	_
+7	priyam	_	_	_	_	8	advcl	_	_
+8	tathā	_	_	_	_	3	ccomp	_	_
+9	astu	_	_	_	_	8	cop	_	_
+10	iti	_	_	_	_	8	mark	_	_
+11	priyam	_	_	_	_	14	obj	_	_
+12	eva	_	_	_	_	14	advmod	_	_
+13	tena	_	_	_	_	14	advmod	_	_
+14	avarunddhe	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_22_3
+# text = ayam astu dhanapatiḥ dhanānām
+1	ayam	_	_	_	_	3	nsubj	_	_
+2	astu	_	_	_	_	3	cop	_	_
+3	dhanapatiḥ	_	_	_	_	0	root	_	_
+4	dhanānām	_	_	_	_	3	nmod	_	_
+
+# sent_id = MS_2_5_3_28
+# text = yaḥ pāpmanā tamasā gṛhītaḥ manyeta saḥ etam aindram ṛṣabham ālabheta
+1	yaḥ	_	_	_	_	5	nsubj	_	_
+2	pāpmanā	_	_	_	_	4	obl	_	_
+3	tamasā	_	_	_	_	2	appos	_	_
+4	gṛhītaḥ	_	_	_	_	5	xcomp	_	_
+5	manyeta	_	_	_	_	10	advcl	_	_
+6	saḥ	_	_	_	_	10	nsubj	_	_
+7	etam	_	_	_	_	9	det	_	_
+8	aindram	_	_	_	_	10	xcomp	_	_
+9	ṛṣabham	_	_	_	_	10	obj	_	_
+10	ālabheta	_	_	_	_	0	root	_	_
+
+# sent_id = ŚB_1_8_1_18_1_2_3_4_5
+# text = purā rakṣobhyaḥ purā rakṣobhyaḥ iti
+1	purā	_	_	_	_	2	case	_	_
+2	rakṣobhyaḥ	_	_	_	_	0	root	_	_
+3	purā	_	_	_	_	4	case	_	_
+4	rakṣobhyaḥ	_	_	_	_	2	parataxis	_	_
+5	iti	_	_	_	_	4	mark	_	_
+
+# sent_id = MS_2_5_1_9
+# text = yaḥ traitānām uttamaḥ jāyeta tam saumāpauṣṇam ālabheta paśu kāmaḥ
+1	yaḥ	_	_	_	_	4	nsubj	_	_
+2	traitānām	_	_	_	_	3	nmod	_	_
+3	uttamaḥ	_	_	_	_	4	acl	_	_
+4	jāyeta	_	_	_	_	7	advcl	_	_
+5	tam	_	_	_	_	7	obj	_	_
+6	saumāpauṣṇam	_	_	_	_	7	xcomp	_	_
+7	ālabheta	_	_	_	_	0	root	_	_
+8	paśu	_	_	_	_	9	nmod	_	_
+9	kāmaḥ	_	_	_	_	7	advcl	_	_
+
+# sent_id = MS_2_5_10_7
+# text = yat lalāmāḥ ālabhyanta mukhataḥ asmin taiḥ tejaḥ adadhāt yat śiti kakudaḥ upariṣṭāt taiḥ yat śveta anūkāśāḥ paścāt taiḥ
+1	yat	_	_	_	_	3	mark	_	_
+2	lalāmāḥ	_	_	_	_	3	nsubj	_	_
+3	ālabhyanta	_	_	_	_	8	advcl	_	_
+4	mukhataḥ	_	_	_	_	8	obl	_	_
+5	asmin	_	_	_	_	8	obl	_	_
+6	taiḥ	_	_	_	_	8	obl	_	_
+7	tejaḥ	_	_	_	_	8	obj	_	_
+8	adadhāt	_	_	_	_	0	root	_	_
+9	yat	_	_	_	_	11	mark	_	_
+10	śiti	_	_	_	_	11	nmod	_	_
+11	kakudaḥ	_	_	_	_	13	advcl	_	_
+12	upariṣṭāt	_	_	_	_	13	orphan	_	_
+13	taiḥ	_	_	_	_	8	conj	_	_
+14	yat	_	_	_	_	16	mark	_	_
+15	śveta	_	_	_	_	16	amod	_	_
+16	anūkāśāḥ	_	_	_	_	18	advcl	_	_
+17	paścāt	_	_	_	_	18	orphan	_	_
+18	taiḥ	_	_	_	_	8	conj	_	_
+
+# sent_id = ṚV_10_2_3_1_2_3_4
+# text = saḥ adhvarān saḥ ṛtūn kalpayāti
+1	saḥ	_	_	_	_	0	root	_	_
+2	adhvarān	_	_	_	_	1	orphan	_	_
+3	saḥ	_	_	_	_	5	nsubj	_	_
+4	ṛtūn	_	_	_	_	5	obj	_	_
+5	kalpayāti	_	_	_	_	1	conj	_	_
+
+# sent_id = AB_2_1_7
+# text = puṣyati prajām ca paśūn ca yaḥ evam vidvān bailvam yūpam kurute
+1	puṣyati	_	_	_	_	0	root	_	_
+2	prajām	_	_	_	_	1	obj	_	_
+3	ca	_	_	_	_	2	cc	_	_
+4	paśūn	_	_	_	_	2	conj	_	_
+5	ca	_	_	_	_	4	cc	_	_
+6	yaḥ	_	_	_	_	11	nsubj	_	_
+7	evam	_	_	_	_	8	advmod	_	_
+8	vidvān	_	_	_	_	6	acl	_	_
+9	bailvam	_	_	_	_	11	xcomp	_	_
+10	yūpam	_	_	_	_	11	obj	_	_
+11	kurute	_	_	_	_	1	csubj	_	_
+
+# sent_id = MS_2_5_11_55
+# text = paśūnām eva asmai rūpāṇi āptvā avarunddhe
+1	paśūnām	_	_	_	_	4	nmod	_	_
+2	eva	_	_	_	_	5	discourse	_	_
+3	asmai	_	_	_	_	5	iobj	_	_
+4	rūpāṇi	_	_	_	_	5	obj	_	_
+5	āptvā	_	_	_	_	6	advcl	_	_
+6	avarunddhe	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_3_3_1_2
+# text = tatas vai devāḥ yūpam vajram apaśyan
+1	tatas	_	_	_	_	6	advmod	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	devāḥ	_	_	_	_	6	nsubj	_	_
+4	yūpam	_	_	_	_	6	obj	_	_
+5	vajram	_	_	_	_	6	xcomp	_	_
+6	apaśyan	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_16_40_1
+# text = yadi ha vai api a brāhmaṇa uktaḥ yadi durukta uktaḥ yajate atha ha eṣā āhutiḥ gacchatī eva devān na pāpmanā saṃsṛjyate
+1	yadi	_	_	_	_	11	mark	_	_
+2	ha	_	_	_	_	1	advmod	_	_
+3	vai	_	_	_	_	1	advmod	_	_
+4	api	_	_	_	_	11	advmod	_	_
+5	a	_	_	_	_	6	advmod	_	_
+6	brāhmaṇa	_	_	_	_	7	nmod	_	_
+7	uktaḥ	_	_	_	_	11	nsubj	_	_
+8	yadi	_	_	_	_	10	mark	_	_
+9	durukta	_	_	_	_	10	nmod	_	_
+10	uktaḥ	_	_	_	_	7	conj	_	_
+11	yajate	_	_	_	_	16	advcl	_	_
+12	atha	_	_	_	_	16	advmod	_	_
+13	ha	_	_	_	_	16	advmod	_	_
+14	eṣā	_	_	_	_	15	det	_	_
+15	āhutiḥ	_	_	_	_	16	nsubj	_	_
+16	gacchatī	_	_	_	_	0	root	_	_
+17	eva	_	_	_	_	16	advmod	_	_
+18	devān	_	_	_	_	16	obl	_	_
+19	na	_	_	_	_	21	advmod	_	_
+20	pāpmanā	_	_	_	_	21	obl	_	_
+21	saṃsṛjyate	_	_	_	_	16	conj	_	_
+
+# sent_id = ŚS_5_5_3
+# text = vṛkṣam vṛkṣam ā rohasi vṛṣaṇyantī iva kanyalā
+1	vṛkṣam	_	_	_	_	4	obl	_	_
+2	vṛkṣam	_	_	_	_	1	conj	_	_
+3	ā	_	_	_	_	4	advmod	_	_
+4	rohasi	_	_	_	_	0	root	_	_
+5	vṛṣaṇyantī	_	_	_	_	7	acl	_	_
+6	iva	_	_	_	_	7	case	_	_
+7	kanyalā	_	_	_	_	4	advcl	_	_
+
+# sent_id = MS_2_5_7_91
+# text = ahorātre vai mitrāvaruṇau
+1	ahorātre	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	mitrāvaruṇau	_	_	_	_	1	nsubj	_	_
+
+# sent_id = ṚV_1_16_6
+# text = ime somāsaḥ indavaḥ sutāsaḥ adhi barhiṣi
+1	ime	_	_	_	_	2	det	_	_
+2	somāsaḥ	_	_	_	_	4	nsubj	_	_
+3	indavaḥ	_	_	_	_	2	conj	_	_
+4	sutāsaḥ	_	_	_	_	0	root	_	_
+5	adhi	_	_	_	_	6	case	_	_
+6	barhiṣi	_	_	_	_	4	obl	_	_
+
+# sent_id = AB_2_12_15
+# text = havya juṣṭim eva āśāste
+1	havya	_	_	_	_	2	nmod	_	_
+2	juṣṭim	_	_	_	_	4	obj	_	_
+3	eva	_	_	_	_	4	advmod	_	_
+4	āśāste	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_13_6_1
+# text = teṣām vapāyām eva hutāyām svargaḥ lokaḥ prākhyāyata
+1	teṣām	_	_	_	_	7	obl	_	_
+2	vapāyām	_	_	_	_	4	nsubj	_	_
+3	eva	_	_	_	_	2	discourse	_	_
+4	hutāyām	_	_	_	_	7	advcl	_	_
+5	svargaḥ	_	_	_	_	7	nsubj	_	_
+6	lokaḥ	_	_	_	_	5	flat	_	_
+7	prākhyāyata	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_22_2_1_2_3
+# text = indra śatrum randhaya sarvam asmai
+1	indra	_	_	_	_	3	vocative	_	_
+2	śatrum	_	_	_	_	3	obj	_	_
+3	randhaya	_	_	_	_	0	root	_	_
+4	sarvam	_	_	_	_	2	det	_	_
+5	asmai	_	_	_	_	3	iobj	_	_
+
+# sent_id = ŚS_4_38_5
+# text = sūryasya raśmīn anu yāḥ saṃcaranti marīcīḥ vā yāḥ anusaṃcaranti yāsām ṛṣabhaḥ dūratas vājinīvān sadyas sarvān lokān paryeti rakṣan sa naḥ aitu homam imam juṣāṇaḥ antarikṣeṇa saha vājinīvān
+1	sūryasya	_	_	_	_	2	nmod	_	_
+2	raśmīn	_	_	_	_	5	obl	_	_
+3	anu	_	_	_	_	2	case	_	_
+4	yāḥ	_	_	_	_	5	nsubj	_	_
+5	saṃcaranti	_	_	_	_	10	acl	_	_
+6	marīcīḥ	_	_	_	_	9	obl	_	_
+7	vā	_	_	_	_	9	cc	_	_
+8	yāḥ	_	_	_	_	9	nsubj	_	_
+9	anusaṃcaranti	_	_	_	_	5	conj	_	_
+10	yāsām	_	_	_	_	11	nmod	_	_
+11	ṛṣabhaḥ	_	_	_	_	17	nsubj	_	_
+12	dūratas	_	_	_	_	17	advmod	_	_
+13	vājinīvān	_	_	_	_	11	amod	_	_
+14	sadyas	_	_	_	_	17	advmod	_	_
+15	sarvān	_	_	_	_	16	det	_	_
+16	lokān	_	_	_	_	17	obl	_	_
+17	paryeti	_	_	_	_	19	acl	_	_
+18	rakṣan	_	_	_	_	17	advcl	_	_
+19	sa	_	_	_	_	21	nsubj	_	_
+20	naḥ	_	_	_	_	21	obl	_	_
+21	aitu	_	_	_	_	0	root	_	_
+22	homam	_	_	_	_	24	obj	_	_
+23	imam	_	_	_	_	22	det	_	_
+24	juṣāṇaḥ	_	_	_	_	21	advcl	_	_
+25	antarikṣeṇa	_	_	_	_	24	obl	_	_
+26	saha	_	_	_	_	25	case	_	_
+27	vājinīvān	_	_	_	_	24	advcl	_	_
+
+# sent_id = ṚV_10_117_4
+# text = apa asmāt preyāt
+1	apa	_	_	_	_	2	case	_	_
+2	asmāt	_	_	_	_	3	obl	_	_
+3	preyāt	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_15_5_6
+# text = tasmai ūrdhvāyāḥ diśaḥ antardeśāt mahādevam iṣvāsam anuṣṭhātāram akurvan
+1	tasmai	_	_	_	_	8	iobj	_	_
+2	ūrdhvāyāḥ	_	_	_	_	3	amod	_	_
+3	diśaḥ	_	_	_	_	4	nmod	_	_
+4	antardeśāt	_	_	_	_	8	obl	_	_
+5	mahādevam	_	_	_	_	8	obj	_	_
+6	iṣvāsam	_	_	_	_	5	appos	_	_
+7	anuṣṭhātāram	_	_	_	_	8	xcomp	_	_
+8	akurvan	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_3_19_5
+# text = eṣām aham āyudhā sam syāmi
+1	eṣām	_	_	_	_	3	nmod	_	_
+2	aham	_	_	_	_	5	nsubj	_	_
+3	āyudhā	_	_	_	_	5	obj	_	_
+4	sam	_	_	_	_	5	advmod	_	_
+5	syāmi	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_11_5_1
+# text = tena jyotiṣā yajamānaḥ puras jyotiḥ svargam lokam eti
+1	tena	_	_	_	_	2	det	_	_
+2	jyotiṣā	_	_	_	_	8	obl	_	_
+3	yajamānaḥ	_	_	_	_	8	nsubj	_	_
+4	puras	_	_	_	_	5	advmod	_	_
+5	jyotiḥ	_	_	_	_	3	acl	_	_
+6	svargam	_	_	_	_	8	obj	_	_
+7	lokam	_	_	_	_	6	flat	_	_
+8	eti	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_7_49_2
+# text = uta gnāḥ vyantu deva patnīḥ indrāṇī agnāyī aśvinī rāj
+1	uta	_	_	_	_	3	cc	_	_
+2	gnāḥ	_	_	_	_	3	nsubj	_	_
+3	vyantu	_	_	_	_	0	root	_	_
+4	deva	_	_	_	_	5	nmod	_	_
+5	patnīḥ	_	_	_	_	2	acl	_	_
+6	indrāṇī	_	_	_	_	2	nmod	_	_
+7	agnāyī	_	_	_	_	6	conj	_	_
+8	aśvinī	_	_	_	_	6	conj	_	_
+9	rāj	_	_	_	_	8	appos	_	_
+
+# sent_id = ŚS_4_6_8_1
+# text = vadhriḥ tvam asi oṣadhe
+1	vadhriḥ	_	_	_	_	0	root	_	_
+2	tvam	_	_	_	_	1	nsubj	_	_
+3	asi	_	_	_	_	1	cop	_	_
+4	oṣadhe	_	_	_	_	1	vocative	_	_
+
+# sent_id = ŚS_2_4_3_1_2
+# text = ayam naḥ viśva bheṣajaḥ jaṅgiḍaḥ pātu aṃhasaḥ
+1	ayam	_	_	_	_	5	det	_	_
+2	naḥ	_	_	_	_	6	obj	_	_
+3	viśva	_	_	_	_	4	nmod	_	_
+4	bheṣajaḥ	_	_	_	_	5	acl	_	_
+5	jaṅgiḍaḥ	_	_	_	_	6	nsubj	_	_
+6	pātu	_	_	_	_	0	root	_	_
+7	aṃhasaḥ	_	_	_	_	6	obl	_	_
+
+# sent_id = AB_1_8_16_1_2_3
+# text = iyam hi aditiḥ
+1	iyam	_	_	_	_	0	root	_	_
+2	hi	_	_	_	_	1	discourse	_	_
+3	aditiḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = MS_2_5_7_93
+# text = etat vai ahnaḥ rūpam yat śuklam yat kṛṣṇam tat rātreḥ
+1	etat	_	_	_	_	4	nsubj	_	_
+2	vai	_	_	_	_	4	discourse	_	_
+3	ahnaḥ	_	_	_	_	4	nmod	_	_
+4	rūpam	_	_	_	_	0	root	_	_
+5	yat	_	_	_	_	6	nsubj	_	_
+6	śuklam	_	_	_	_	1	acl	_	_
+7	yat	_	_	_	_	8	nsubj	_	_
+8	kṛṣṇam	_	_	_	_	9	acl	_	_
+9	tat	_	_	_	_	4	conj	_	_
+10	rātreḥ	_	_	_	_	9	orphan	_	_
+
+# sent_id = AB_2_14_3
+# text = sā pañca avattā bhavati
+1	sā	_	_	_	_	3	nsubj	_	_
+2	pañca	_	_	_	_	3	nummod	_	_
+3	avattā	_	_	_	_	0	root	_	_
+4	bhavati	_	_	_	_	3	cop	_	_
+
+# sent_id = ŚS_15_14_9_1
+# text = vaṣaṭkāreṇa anna ādena annam atti yaḥ evam veda
+1	vaṣaṭkāreṇa	_	_	_	_	5	obl	_	_
+2	anna	_	_	_	_	3	obj	_	_
+3	ādena	_	_	_	_	1	acl	_	_
+4	annam	_	_	_	_	5	obj	_	_
+5	atti	_	_	_	_	0	root	_	_
+6	yaḥ	_	_	_	_	8	nsubj	_	_
+7	evam	_	_	_	_	8	advmod	_	_
+8	veda	_	_	_	_	5	csubj	_	_
+
+# sent_id = ŚS_1_24_3_1_2
+# text = sarūpā nāma te mātā
+1	sarūpā	_	_	_	_	4	nsubj	_	_
+2	nāma	_	_	_	_	1	advmod	_	_
+3	te	_	_	_	_	4	nmod	_	_
+4	mātā	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_15_3_2
+# text = saḥ abravīt āsandīm me saṃbharantu iti
+1	saḥ	_	_	_	_	2	nsubj	_	_
+2	abravīt	_	_	_	_	0	root	_	_
+3	āsandīm	_	_	_	_	5	obj	_	_
+4	me	_	_	_	_	5	iobj	_	_
+5	saṃbharantu	_	_	_	_	2	ccomp	_	_
+6	iti	_	_	_	_	5	mark	_	_
+
+# sent_id = AB_2_12_9_1_2
+# text = agniḥ vai devānām hotā
+1	agniḥ	_	_	_	_	4	nsubj	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	devānām	_	_	_	_	4	nmod	_	_
+4	hotā	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_9_74_7_1_2_3
+# text = divaḥ kavandham ava darṣat udriṇam
+1	divaḥ	_	_	_	_	2	nmod	_	_
+2	kavandham	_	_	_	_	4	obj	_	_
+3	ava	_	_	_	_	4	advmod	_	_
+4	darṣat	_	_	_	_	0	root	_	_
+5	udriṇam	_	_	_	_	2	amod	_	_
+
+# sent_id = AB_7_16_11_1
+# text = saḥ aśvinau tuṣṭāva atas uttareṇa tṛcena
+1	saḥ	_	_	_	_	3	nsubj	_	_
+2	aśvinau	_	_	_	_	3	iobj	_	_
+3	tuṣṭāva	_	_	_	_	0	root	_	_
+4	atas	_	_	_	_	6	advmod	_	_
+5	uttareṇa	_	_	_	_	6	amod	_	_
+6	tṛcena	_	_	_	_	3	obl	_	_
+
+# sent_id = ŚS_4_7_7_1
+# text = tat vaḥ etat puras dadhe
+1	tat	_	_	_	_	5	advmod	_	_
+2	vaḥ	_	_	_	_	5	obj	_	_
+3	etat	_	_	_	_	5	advmod	_	_
+4	puras	_	_	_	_	5	advmod	_	_
+5	dadhe	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_12_3_1
+# text = tāni ekayā ṛcā avārurutsanta
+1	tāni	_	_	_	_	4	obj	_	_
+2	ekayā	_	_	_	_	3	nummod	_	_
+3	ṛcā	_	_	_	_	4	obl	_	_
+4	avārurutsanta	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_11_4
+# text = tasya ulmukam purastāt dharanti
+1	tasya	_	_	_	_	4	obl	_	_
+2	ulmukam	_	_	_	_	4	obj	_	_
+3	purastāt	_	_	_	_	1	case	_	_
+4	dharanti	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_2_26_5_1
+# text = āhārṣam dhānyam rasam
+1	āhārṣam	_	_	_	_	0	root	_	_
+2	dhānyam	_	_	_	_	3	amod	_	_
+3	rasam	_	_	_	_	1	obj	_	_
+
+# sent_id = AB_2_14_6_1_2
+# text = tat pañca sampadyante
+1	tat	_	_	_	_	3	advmod	_	_
+2	pañca	_	_	_	_	3	nummod	_	_
+3	sampadyante	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_13_35
+# text = yajñasya eva tat barsau nahyati sthemne balāya a visraṃsāya
+1	yajñasya	_	_	_	_	4	nmod	_	_
+2	eva	_	_	_	_	5	advmod	_	_
+3	tat	_	_	_	_	5	advmod	_	_
+4	barsau	_	_	_	_	5	obj	_	_
+5	nahyati	_	_	_	_	0	root	_	_
+6	sthemne	_	_	_	_	5	iobj	_	_
+7	balāya	_	_	_	_	6	conj	_	_
+8	a	_	_	_	_	9	advmod	_	_
+9	visraṃsāya	_	_	_	_	6	conj	_	_
+
+# sent_id = AB_1_3_20_1_2
+# text = tat yat muṣṭī kurute yajñam ca eva tat sarvāḥ ca devatāḥ muṣṭyoḥ kurute
+1	tat	_	_	_	_	4	advmod	_	_
+2	yat	_	_	_	_	4	mark	_	_
+3	muṣṭī	_	_	_	_	4	obj	_	_
+4	kurute	_	_	_	_	13	advcl	_	_
+5	yajñam	_	_	_	_	13	obj	_	_
+6	ca	_	_	_	_	5	cc	_	_
+7	eva	_	_	_	_	13	discourse	_	_
+8	tat	_	_	_	_	13	advmod	_	_
+9	sarvāḥ	_	_	_	_	11	det	_	_
+10	ca	_	_	_	_	9	cc	_	_
+11	devatāḥ	_	_	_	_	5	conj	_	_
+12	muṣṭyoḥ	_	_	_	_	13	obl	_	_
+13	kurute	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_10_9_1
+# text = sapatneṣu vajram arpaya etam
+1	sapatneṣu	_	_	_	_	3	obl	_	_
+2	vajram	_	_	_	_	3	obj	_	_
+3	arpaya	_	_	_	_	0	root	_	_
+4	etam	_	_	_	_	2	det	_	_
+
+# sent_id = ŚS_5_29_10_1_2
+# text = chinattu somaḥ śiraḥ asya dhṛṣṇuḥ
+1	chinattu	_	_	_	_	0	root	_	_
+2	somaḥ	_	_	_	_	1	nsubj	_	_
+3	śiraḥ	_	_	_	_	1	obj	_	_
+4	asya	_	_	_	_	3	nmod	_	_
+5	dhṛṣṇuḥ	_	_	_	_	2	amod	_	_
+
+# sent_id = MS_2_5_5_30
+# text = paṇḍakam yājayet
+1	paṇḍakam	_	_	_	_	2	obj	_	_
+2	yājayet	_	_	_	_	0	root	_	_
+
+# sent_id = ŚB_1_8_1_43
+# text = pāka yajñiyayā iva vai etat iḍayā acāriṣuḥ
+1	pāka	_	_	_	_	2	nmod	_	_
+2	yajñiyayā	_	_	_	_	6	amod	_	_
+3	iva	_	_	_	_	2	advmod	_	_
+4	vai	_	_	_	_	7	discourse	_	_
+5	etat	_	_	_	_	7	advmod	_	_
+6	iḍayā	_	_	_	_	7	obl	_	_
+7	acāriṣuḥ	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_10_1_10_1
+# text = draviṇam mā upa tiṣṭhatu
+1	draviṇam	_	_	_	_	4	nsubj	_	_
+2	mā	_	_	_	_	4	obl	_	_
+3	upa	_	_	_	_	4	advmod	_	_
+4	tiṣṭhatu	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_10_6_1_2_3
+# text = hiraṇyānām ekaḥ asi
+1	hiraṇyānām	_	_	_	_	2	nmod	_	_
+2	ekaḥ	_	_	_	_	0	root	_	_
+3	asi	_	_	_	_	2	cop	_	_
+
+# sent_id = MS_2_5_7_30
+# text = brāhmaṇaspatyaḥ brāhmaṇaḥ devatayā
+1	brāhmaṇaspatyaḥ	_	_	_	_	0	root	_	_
+2	brāhmaṇaḥ	_	_	_	_	1	nsubj	_	_
+3	devatayā	_	_	_	_	1	obl	_	_
+
+# sent_id = ŚB_1_8_1_12_1_2
+# text = pāṅktāḥ vai paśavaḥ
+1	pāṅktāḥ	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	paśavaḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = MS_2_5_7_27
+# text = tam brāhmaṇaspatyam ālabheta
+1	tam	_	_	_	_	3	obj	_	_
+2	brāhmaṇaspatyam	_	_	_	_	3	xcomp	_	_
+3	ālabheta	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_5_43
+# text = yatra vai adaḥ indraḥ vṛṣaṇaśvasya menā āsīt tat enam nirṛtiḥ pāpmā agṛhṇāt
+1	yatra	_	_	_	_	6	mark	_	_
+2	vai	_	_	_	_	6	discourse	_	_
+3	adaḥ	_	_	_	_	1	advmod	_	_
+4	indraḥ	_	_	_	_	6	nsubj	_	_
+5	vṛṣaṇaśvasya	_	_	_	_	6	nmod	_	_
+6	menā	_	_	_	_	12	advcl	_	_
+7	āsīt	_	_	_	_	6	cop	_	_
+8	tat	_	_	_	_	12	advmod	_	_
+9	enam	_	_	_	_	12	obj	_	_
+10	nirṛtiḥ	_	_	_	_	12	nsubj	_	_
+11	pāpmā	_	_	_	_	10	appos	_	_
+12	agṛhṇāt	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_3_43
+# text = sa tiryaṅ vyaiṣat
+1	sa	_	_	_	_	3	nsubj	_	_
+2	tiryaṅ	_	_	_	_	1	acl	_	_
+3	vyaiṣat	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_6_4_1
+# text = paśuḥ vai medhaḥ yajamānaḥ medha patiḥ
+1	paśuḥ	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	medhaḥ	_	_	_	_	1	nsubj	_	_
+4	yajamānaḥ	_	_	_	_	1	conj	_	_
+5	medha	_	_	_	_	6	nmod	_	_
+6	patiḥ	_	_	_	_	4	nsubj	_	_
+
+# sent_id = MS_2_5_9_39
+# text = brahma vai brahmaṇaspatiḥ
+1	brahma	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	brahmaṇaspatiḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = ŚS_1_25_4
+# text = yaḥ anyedyus ubhayadyus abhyeti tṛtīyakāya namaḥ astu takmane
+1	yaḥ	_	_	_	_	4	nsubj	_	_
+2	anyedyus	_	_	_	_	4	advmod	_	_
+3	ubhayadyus	_	_	_	_	2	conj	_	_
+4	abhyeti	_	_	_	_	8	acl	_	_
+5	tṛtīyakāya	_	_	_	_	8	amod	_	_
+6	namaḥ	_	_	_	_	8	nsubj	_	_
+7	astu	_	_	_	_	8	cop	_	_
+8	takmane	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_6_63_8_1_2
+# text = stutaḥ ca vām mādhvī suṣṭutiḥ ca rasāḥ ca ye vām anu rātim agman
+1	stutaḥ	_	_	_	_	3	nsubj	_	_
+2	ca	_	_	_	_	1	cc	_	_
+3	vām	_	_	_	_	0	root	_	_
+4	mādhvī	_	_	_	_	3	vocative	_	_
+5	suṣṭutiḥ	_	_	_	_	1	conj	_	_
+6	ca	_	_	_	_	5	cc	_	_
+7	rasāḥ	_	_	_	_	1	conj	_	_
+8	ca	_	_	_	_	7	cc	_	_
+9	ye	_	_	_	_	13	nsubj	_	_
+10	vām	_	_	_	_	12	nmod	_	_
+11	anu	_	_	_	_	12	case	_	_
+12	rātim	_	_	_	_	13	obl	_	_
+13	agman	_	_	_	_	7	acl	_	_
+
+# sent_id = ṚV_10_30_12
+# text = kratum ca bhadram bibhṛtha amṛtam ca
+1	kratum	_	_	_	_	4	obj	_	_
+2	ca	_	_	_	_	1	cc	_	_
+3	bhadram	_	_	_	_	1	amod	_	_
+4	bibhṛtha	_	_	_	_	0	root	_	_
+5	amṛtam	_	_	_	_	1	conj	_	_
+6	ca	_	_	_	_	5	cc	_	_
+
+# sent_id = AB_1_17_6
+# text = tayoḥ juṣāṇena eva yajati
+1	tayoḥ	_	_	_	_	2	nmod	_	_
+2	juṣāṇena	_	_	_	_	4	obl	_	_
+3	eva	_	_	_	_	2	advmod	_	_
+4	yajati	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_28_10
+# text = ayam iha prathamaḥ dhāyi dhātṛbhiḥ iti jagatīm vaiśyasya anubrūyāt
+1	ayam	_	_	_	_	4	nsubj	_	_
+2	iha	_	_	_	_	4	advmod	_	_
+3	prathamaḥ	_	_	_	_	1	acl	_	_
+4	dhāyi	_	_	_	_	9	ccomp	_	_
+5	dhātṛbhiḥ	_	_	_	_	4	obl	_	_
+6	iti	_	_	_	_	4	mark	_	_
+7	jagatīm	_	_	_	_	9	xcomp	_	_
+8	vaiśyasya	_	_	_	_	9	obl	_	_
+9	anubrūyāt	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_5_8_4_1
+# text = avim vṛkaḥ iva mathnīta
+1	avim	_	_	_	_	2	orphan	_	_
+2	vṛkaḥ	_	_	_	_	4	advcl	_	_
+3	iva	_	_	_	_	2	case	_	_
+4	mathnīta	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_3_1_4
+# text = prasūtaḥ indra pravatā haribhyām pra te vajraḥ pramṛṇan etu śatrūn
+1	prasūtaḥ	_	_	_	_	7	acl	_	_
+2	indra	_	_	_	_	1	vocative	_	_
+3	pravatā	_	_	_	_	1	obl	_	_
+4	haribhyām	_	_	_	_	1	obl	_	_
+5	pra	_	_	_	_	9	advmod	_	_
+6	te	_	_	_	_	7	nmod	_	_
+7	vajraḥ	_	_	_	_	9	nsubj	_	_
+8	pramṛṇan	_	_	_	_	9	advcl	_	_
+9	etu	_	_	_	_	0	root	_	_
+10	śatrūn	_	_	_	_	8	obj	_	_
+
+# sent_id = MS_2_5_7_38
+# text = brahmaṇaḥ rūpam
+1	brahmaṇaḥ	_	_	_	_	2	nmod	_	_
+2	rūpam	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_11_16
+# text = tam eva bhāgadheyena upāsarat
+1	tam	_	_	_	_	4	obl	_	_
+2	eva	_	_	_	_	4	discourse	_	_
+3	bhāgadheyena	_	_	_	_	4	obl	_	_
+4	upāsarat	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_7_44
+# text = chandasām vai eṣa rasaḥ
+1	chandasām	_	_	_	_	4	nmod	_	_
+2	vai	_	_	_	_	4	discourse	_	_
+3	eṣa	_	_	_	_	4	nsubj	_	_
+4	rasaḥ	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_14_4
+# text = ājyasya upariṣṭāt abhighārayati
+1	ājyasya	_	_	_	_	3	obl	_	_
+2	upariṣṭāt	_	_	_	_	3	advmod	_	_
+3	abhighārayati	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_2_9_3_1_2
+# text = adhi jīva purā agan
+1	adhi	_	_	_	_	4	advmod	_	_
+2	jīva	_	_	_	_	3	nmod	_	_
+3	purā	_	_	_	_	4	obl	_	_
+4	agan	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_11_3
+# text = yat vāyave vāyuḥ eva enam bhūtyai ninayati
+1	yat	_	_	_	_	2	mark	_	_
+2	vāyave	_	_	_	_	7	advcl	_	_
+3	vāyuḥ	_	_	_	_	7	nsubj	_	_
+4	eva	_	_	_	_	7	discourse	_	_
+5	enam	_	_	_	_	7	obj	_	_
+6	bhūtyai	_	_	_	_	7	advcl	_	_
+7	ninayati	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_12_18
+# text = tat yat stokāḥ ścotanti sarva devatyāḥ vai stokāḥ tasmāt iyam stokaśas vṛṣṭiḥ vibhaktā upācarati
+1	tat	_	_	_	_	14	advmod	_	_
+2	yat	_	_	_	_	4	mark	_	_
+3	stokāḥ	_	_	_	_	4	nsubj	_	_
+4	ścotanti	_	_	_	_	14	advcl	_	_
+5	sarva	_	_	_	_	6	det	_	_
+6	devatyāḥ	_	_	_	_	4	conj	_	_
+7	vai	_	_	_	_	6	advmod	_	_
+8	stokāḥ	_	_	_	_	6	nsubj	_	_
+9	tasmāt	_	_	_	_	14	advmod	_	_
+10	iyam	_	_	_	_	12	det	_	_
+11	stokaśas	_	_	_	_	13	advmod	_	_
+12	vṛṣṭiḥ	_	_	_	_	14	nsubj	_	_
+13	vibhaktā	_	_	_	_	12	advcl	_	_
+14	upācarati	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_10_2_2_1_2
+# text = mandhātā asi draviṇaḥ dāḥ ṛtāvā
+1	mandhātā	_	_	_	_	0	root	_	_
+2	asi	_	_	_	_	1	cop	_	_
+3	draviṇaḥ	_	_	_	_	4	obj	_	_
+4	dāḥ	_	_	_	_	1	acl	_	_
+5	ṛtāvā	_	_	_	_	1	amod	_	_
+
+# sent_id = ŚS_15_2_2_1_2_3_4_5_6
+# text = sa dakṣiṇām diśam anuvyacalat
+1	sa	_	_	_	_	4	nsubj	_	_
+2	dakṣiṇām	_	_	_	_	3	amod	_	_
+3	diśam	_	_	_	_	4	obl	_	_
+4	anuvyacalat	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_1_42
+# text = sarvāṇi enam paśūnām rūpāṇi upatiṣṭhante
+1	sarvāṇi	_	_	_	_	4	det	_	_
+2	enam	_	_	_	_	5	obl	_	_
+3	paśūnām	_	_	_	_	4	nmod	_	_
+4	rūpāṇi	_	_	_	_	5	nsubj	_	_
+5	upatiṣṭhante	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_10_10_7_1_2
+# text = ūdhar te bhadre parjanyaḥ
+1	ūdhar	_	_	_	_	4	nsubj	_	_
+2	te	_	_	_	_	1	nmod	_	_
+3	bhadre	_	_	_	_	4	vocative	_	_
+4	parjanyaḥ	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_1_13_4_1
+# text = tasyai te namaḥ astu devi
+1	tasyai	_	_	_	_	2	det	_	_
+2	te	_	_	_	_	0	root	_	_
+3	namaḥ	_	_	_	_	2	nsubj	_	_
+4	astu	_	_	_	_	2	cop	_	_
+5	devi	_	_	_	_	2	vocative	_	_
+
+# sent_id = ṚV_2_41_12
+# text = indraḥ āśābhyas pari sarvābhyaḥ abhayam karat
+1	indraḥ	_	_	_	_	6	nsubj	_	_
+2	āśābhyas	_	_	_	_	6	obl	_	_
+3	pari	_	_	_	_	2	case	_	_
+4	sarvābhyaḥ	_	_	_	_	2	det	_	_
+5	abhayam	_	_	_	_	6	obj	_	_
+6	karat	_	_	_	_	0	root	_	_
+
+# sent_id = ŚB_1_8_1_23
+# text = upahūtaḥ sakhā bhakṣaḥ iti
+1	upahūtaḥ	_	_	_	_	0	root	_	_
+2	sakhā	_	_	_	_	3	nmod	_	_
+3	bhakṣaḥ	_	_	_	_	1	nsubj	_	_
+4	iti	_	_	_	_	1	mark	_	_
+
+# sent_id = ṚV_10_2_4
+# text = yat vaḥ vayam pra mināma vratāni viduṣām devau aviduṣṭarāsaḥ agniḥ ṭat viśvam ā pṛṇāti vidvān yebhiḥ devāṁ ṛtubhiḥ kalpayāti
+1	yat	_	_	_	_	5	mark	_	_
+2	vaḥ	_	_	_	_	6	nmod	_	_
+3	vayam	_	_	_	_	5	nsubj	_	_
+4	pra	_	_	_	_	5	advmod	_	_
+5	mināma	_	_	_	_	14	advcl	_	_
+6	vratāni	_	_	_	_	5	obj	_	_
+7	viduṣām	_	_	_	_	2	acl	_	_
+8	devau	_	_	_	_	5	vocative	_	_
+9	aviduṣṭarāsaḥ	_	_	_	_	3	acl	_	_
+10	agniḥ	_	_	_	_	14	nsubj	_	_
+11	ṭat	_	_	_	_	12	det	_	_
+12	viśvam	_	_	_	_	14	obj	_	_
+13	ā	_	_	_	_	14	advmod	_	_
+14	pṛṇāti	_	_	_	_	0	root	_	_
+15	vidvān	_	_	_	_	10	acl	_	_
+16	yebhiḥ	_	_	_	_	18	det	_	_
+17	devāṁ	_	_	_	_	19	obj	_	_
+18	ṛtubhiḥ	_	_	_	_	19	obl	_	_
+19	kalpayāti	_	_	_	_	14	ccomp	_	_
+
+# sent_id = MS_2_5_6_33
+# text = mṛtyuḥ vai yamaḥ
+1	mṛtyuḥ	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	yamaḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_1_10_6
+# text = virāḍbhyām vai iṣṭvā devāḥ svargam lokam ajayan
+1	virāḍbhyām	_	_	_	_	3	obl	_	_
+2	vai	_	_	_	_	7	discourse	_	_
+3	iṣṭvā	_	_	_	_	7	advcl	_	_
+4	devāḥ	_	_	_	_	7	nsubj	_	_
+5	svargam	_	_	_	_	7	obj	_	_
+6	lokam	_	_	_	_	5	flat	_	_
+7	ajayan	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_7_7
+# text = yaḥ ayam rākṣasīm vācam vadati sa
+1	yaḥ	_	_	_	_	5	nsubj	_	_
+2	ayam	_	_	_	_	1	conj	_	_
+3	rākṣasīm	_	_	_	_	4	amod	_	_
+4	vācam	_	_	_	_	5	obj	_	_
+5	vadati	_	_	_	_	6	acl	_	_
+6	sa	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_4_11_3_1
+# text = suprajāḥ san saḥ udāre na sarṣat yaḥ na aśnīyāt anaḍuhaḥ vijānan
+1	suprajāḥ	_	_	_	_	3	acl	_	_
+2	san	_	_	_	_	1	cop	_	_
+3	saḥ	_	_	_	_	6	nsubj	_	_
+4	udāre	_	_	_	_	6	obl	_	_
+5	na	_	_	_	_	6	advmod	_	_
+6	sarṣat	_	_	_	_	0	root	_	_
+7	yaḥ	_	_	_	_	9	nsubj	_	_
+8	na	_	_	_	_	9	advmod	_	_
+9	aśnīyāt	_	_	_	_	3	acl	_	_
+10	anaḍuhaḥ	_	_	_	_	9	obl	_	_
+11	vijānan	_	_	_	_	9	advcl	_	_
+
+# sent_id = AB_1_7_12
+# text = yat savitāram yajati tasmāt uttaratas paścāt ayam bhūyiṣṭham pavamānaḥ pavate
+1	yat	_	_	_	_	3	mark	_	_
+2	savitāram	_	_	_	_	3	obj	_	_
+3	yajati	_	_	_	_	10	advcl	_	_
+4	tasmāt	_	_	_	_	10	advmod	_	_
+5	uttaratas	_	_	_	_	10	advmod	_	_
+6	paścāt	_	_	_	_	5	conj	_	_
+7	ayam	_	_	_	_	9	det	_	_
+8	bhūyiṣṭham	_	_	_	_	10	advmod	_	_
+9	pavamānaḥ	_	_	_	_	10	nsubj	_	_
+10	pavate	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_2_3_3_1
+# text = tat āsrāvasya bheṣajam
+1	tat	_	_	_	_	3	nsubj	_	_
+2	āsrāvasya	_	_	_	_	3	nmod	_	_
+3	bheṣajam	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_5_13_11_1_2
+# text = tastuvam na tastuvam
+1	tastuvam	_	_	_	_	0	root	_	_
+2	na	_	_	_	_	3	advmod	_	_
+3	tastuvam	_	_	_	_	1	conj	_	_
+
+# sent_id = ṚV_2_7_2_1
+# text = mā naḥ arātiḥ īśata devasya martyasya ca
+1	mā	_	_	_	_	4	advmod	_	_
+2	naḥ	_	_	_	_	4	obj	_	_
+3	arātiḥ	_	_	_	_	4	nsubj	_	_
+4	īśata	_	_	_	_	0	root	_	_
+5	devasya	_	_	_	_	3	nmod	_	_
+6	martyasya	_	_	_	_	3	conj	_	_
+7	ca	_	_	_	_	6	cc	_	_
+
+# sent_id = AB_2_8_3_1_2_3_4_5_6_7
+# text = saḥ aveḥ ālabdhāt udakrāmat
+1	saḥ	_	_	_	_	4	nsubj	_	_
+2	aveḥ	_	_	_	_	4	obl	_	_
+3	ālabdhāt	_	_	_	_	2	acl	_	_
+4	udakrāmat	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_15_3
+# text = nava kapālaḥ bhavati prāṇānām kﾱptyai prāṇānām pratiprajñātyai
+1	nava	_	_	_	_	2	nummod	_	_
+2	kapālaḥ	_	_	_	_	3	nsubj	_	_
+3	bhavati	_	_	_	_	0	root	_	_
+4	prāṇānām	_	_	_	_	5	nmod	_	_
+5	kﾱptyai	_	_	_	_	3	iobj	_	_
+6	prāṇānām	_	_	_	_	7	nmod	_	_
+7	pratiprajñātyai	_	_	_	_	5	conj	_	_
+
+# sent_id = AB_2_6_14
+# text = ekadhā asya tvacam purā nābhyāḥ apiśasaḥ vapām utkhidatāt
+1	ekadhā	_	_	_	_	8	advmod	_	_
+2	asya	_	_	_	_	3	nmod	_	_
+3	tvacam	_	_	_	_	8	obj	_	_
+4	purā	_	_	_	_	6	advmod	_	_
+5	nābhyāḥ	_	_	_	_	6	obl	_	_
+6	apiśasaḥ	_	_	_	_	8	advcl	_	_
+7	vapām	_	_	_	_	6	obj	_	_
+8	utkhidatāt	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_13_2
+# text = yāḥ eva etāḥ anvāha etāḥ puronuvākyāḥ yaḥ praiṣaḥ sa praiṣaḥ yā yājyā sā yājyā
+1	yāḥ	_	_	_	_	4	obj	_	_
+2	eva	_	_	_	_	4	advmod	_	_
+3	etāḥ	_	_	_	_	1	conj	_	_
+4	anvāha	_	_	_	_	5	acl	_	_
+5	etāḥ	_	_	_	_	6	nsubj	_	_
+6	puronuvākyāḥ	_	_	_	_	0	root	_	_
+7	yaḥ	_	_	_	_	8	nsubj	_	_
+8	praiṣaḥ	_	_	_	_	9	acl	_	_
+9	sa	_	_	_	_	10	nsubj	_	_
+10	praiṣaḥ	_	_	_	_	6	conj	_	_
+11	yā	_	_	_	_	12	nsubj	_	_
+12	yājyā	_	_	_	_	13	acl	_	_
+13	sā	_	_	_	_	14	nsubj	_	_
+14	yājyā	_	_	_	_	6	conj	_	_
+
+# sent_id = AB_7_14_8_1_2
+# text = sa tathā iti uktvā putram āmantrayāmāsa tata ayam vai mahyam tvām adadāt hanta tvayā aham imam yajai iti
+1	sa	_	_	_	_	6	nsubj	_	_
+2	tathā	_	_	_	_	4	ccomp	_	_
+3	iti	_	_	_	_	2	mark	_	_
+4	uktvā	_	_	_	_	6	advcl	_	_
+5	putram	_	_	_	_	6	obl	_	_
+6	āmantrayāmāsa	_	_	_	_	0	root	_	_
+7	tata	_	_	_	_	12	vocative	_	_
+8	ayam	_	_	_	_	12	nsubj	_	_
+9	vai	_	_	_	_	12	discourse	_	_
+10	mahyam	_	_	_	_	12	iobj	_	_
+11	tvām	_	_	_	_	12	obj	_	_
+12	adadāt	_	_	_	_	6	ccomp	_	_
+13	hanta	_	_	_	_	17	discourse	_	_
+14	tvayā	_	_	_	_	17	obl	_	_
+15	aham	_	_	_	_	17	nsubj	_	_
+16	imam	_	_	_	_	17	obj	_	_
+17	yajai	_	_	_	_	12	parataxis	_	_
+18	iti	_	_	_	_	17	mark	_	_
+
+# sent_id = MS_2_5_2_25
+# text = apannadatī bhavati sarva tvāya an adhiskannā samṛddhyai
+1	apannadatī	_	_	_	_	2	advcl	_	_
+2	bhavati	_	_	_	_	0	root	_	_
+3	sarva	_	_	_	_	4	nmod	_	_
+4	tvāya	_	_	_	_	2	advcl	_	_
+5	an	_	_	_	_	6	advmod	_	_
+6	adhiskannā	_	_	_	_	2	conj	_	_
+7	samṛddhyai	_	_	_	_	6	orphan	_	_
+
+# sent_id = MS_2_5_10_23_1_2
+# text = virāj etāni eva
+1	virāj	_	_	_	_	2	nsubj	_	_
+2	etāni	_	_	_	_	0	root	_	_
+3	eva	_	_	_	_	2	discourse	_	_
+
+# sent_id = ŚS_5_29_13_1
+# text = agne virapśinam medhyam ayakṣmam kṛṇu
+1	agne	_	_	_	_	5	vocative	_	_
+2	virapśinam	_	_	_	_	5	xcomp	_	_
+3	medhyam	_	_	_	_	2	conj	_	_
+4	ayakṣmam	_	_	_	_	2	conj	_	_
+5	kṛṇu	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_2_4_4
+# text = devaiḥ dattena maṇinā jaṅgiḍena mayobhuvā viṣkandham sarvā rakṣāṃsi vyāyāme sahāmahe
+1	devaiḥ	_	_	_	_	2	obl	_	_
+2	dattena	_	_	_	_	3	acl	_	_
+3	maṇinā	_	_	_	_	4	nmod	_	_
+4	jaṅgiḍena	_	_	_	_	10	obl	_	_
+5	mayobhuvā	_	_	_	_	4	amod	_	_
+6	viṣkandham	_	_	_	_	10	obj	_	_
+7	sarvā	_	_	_	_	8	det	_	_
+8	rakṣāṃsi	_	_	_	_	6	conj	_	_
+9	vyāyāme	_	_	_	_	10	obl	_	_
+10	sahāmahe	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_22_10_1_2
+# text = te devāḥ prājijñāsanta
+1	te	_	_	_	_	2	det	_	_
+2	devāḥ	_	_	_	_	3	nsubj	_	_
+3	prājijñāsanta	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_7_78
+# text = brāhmaṇaspatyaḥ brāhmaṇaḥ devatayā
+1	brāhmaṇaspatyaḥ	_	_	_	_	0	root	_	_
+2	brāhmaṇaḥ	_	_	_	_	1	nsubj	_	_
+3	devatayā	_	_	_	_	1	obl	_	_
+
+# sent_id = MS_2_5_7_83
+# text = brahmaṇaḥ rūpam
+1	brahmaṇaḥ	_	_	_	_	2	nmod	_	_
+2	rūpam	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_5_8
+# text = ime
+1	ime	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_1_37
+# text = gardabhasya iva karṇau
+1	gardabhasya	_	_	_	_	0	root	_	_
+2	iva	_	_	_	_	1	case	_	_
+3	karṇau	_	_	_	_	1	nsubj	_	_
+
+# sent_id = ŚS_1_30_1_1
+# text = uta ādityāḥ jāgṛta yūyam asmin
+1	uta	_	_	_	_	3	cc	_	_
+2	ādityāḥ	_	_	_	_	3	vocative	_	_
+3	jāgṛta	_	_	_	_	0	root	_	_
+4	yūyam	_	_	_	_	3	nsubj	_	_
+5	asmin	_	_	_	_	3	obl	_	_
+
+# sent_id = ŚS_2_26_5
+# text = ā harāmi gavām kṣīram
+1	ā	_	_	_	_	2	advmod	_	_
+2	harāmi	_	_	_	_	0	root	_	_
+3	gavām	_	_	_	_	4	nmod	_	_
+4	kṣīram	_	_	_	_	2	obj	_	_
+
+# sent_id = ŚB_1_8_1_12
+# text = sā vai pañcāvattā bhavati
+1	sā	_	_	_	_	3	nsubj	_	_
+2	vai	_	_	_	_	3	discourse	_	_
+3	pañcāvattā	_	_	_	_	0	root	_	_
+4	bhavati	_	_	_	_	3	cop	_	_
+
+# sent_id = ŚS_4_38_7_1_2_3
+# text = iha vatsām ni badhnīmaḥ
+1	iha	_	_	_	_	4	advmod	_	_
+2	vatsām	_	_	_	_	4	obj	_	_
+3	ni	_	_	_	_	4	advmod	_	_
+4	badhnīmaḥ	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_7_113_2_1
+# text = viṣā viṣātakī asi parivṛktā yathā asasi ṛṣabhasya vaśā iva
+1	viṣā	_	_	_	_	0	root	_	_
+2	viṣātakī	_	_	_	_	1	conj	_	_
+3	asi	_	_	_	_	1	cop	_	_
+4	parivṛktā	_	_	_	_	1	advcl	_	_
+5	yathā	_	_	_	_	4	mark	_	_
+6	asasi	_	_	_	_	4	cop	_	_
+7	ṛṣabhasya	_	_	_	_	8	obl	_	_
+8	vaśā	_	_	_	_	4	obl	_	_
+9	iva	_	_	_	_	8	case	_	_
+
+# sent_id = AB_2_7_2
+# text = tat āhuḥ na yajñe rakṣasām kīrtayet kāni rakṣāṃsi ṛterakṣāḥ vai yajñaḥ iti
+1	tat	_	_	_	_	2	obj	_	_
+2	āhuḥ	_	_	_	_	0	root	_	_
+3	na	_	_	_	_	6	advmod	_	_
+4	yajñe	_	_	_	_	6	obl	_	_
+5	rakṣasām	_	_	_	_	6	obj	_	_
+6	kīrtayet	_	_	_	_	2	ccomp	_	_
+7	kāni	_	_	_	_	8	amod	_	_
+8	rakṣāṃsi	_	_	_	_	6	conj	_	_
+9	ṛterakṣāḥ	_	_	_	_	6	conj	_	_
+10	vai	_	_	_	_	9	advmod	_	_
+11	yajñaḥ	_	_	_	_	9	nsubj	_	_
+12	iti	_	_	_	_	6	mark	_	_
+
+# sent_id = AB_1_10_7
+# text = te trayastriṃśat akṣare bhavataḥ
+1	te	_	_	_	_	4	nsubj	_	_
+2	trayastriṃśat	_	_	_	_	3	nummod	_	_
+3	akṣare	_	_	_	_	4	xcomp	_	_
+4	bhavataḥ	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_2_26_2
+# text = imam goṣṭham paśavaḥ sam sravantu
+1	imam	_	_	_	_	2	det	_	_
+2	goṣṭham	_	_	_	_	5	obl	_	_
+3	paśavaḥ	_	_	_	_	5	nsubj	_	_
+4	sam	_	_	_	_	5	advmod	_	_
+5	sravantu	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_1_6
+# text = samām samām vai bilvaḥ gṛbhītaḥ
+1	samām	_	_	_	_	5	obl	_	_
+2	samām	_	_	_	_	1	conj	_	_
+3	vai	_	_	_	_	1	discourse	_	_
+4	bilvaḥ	_	_	_	_	5	nsubj	_	_
+5	gṛbhītaḥ	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_6_49
+# text = āmayāvinam yājayet
+1	āmayāvinam	_	_	_	_	2	obj	_	_
+2	yājayet	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_5_1
+# text = gāyatryau sviṣṭakṛtaḥ saṃyājye kurvīta tejaskāmaḥ brahmavarcasa kāmaḥ
+1	gāyatryau	_	_	_	_	4	obj	_	_
+2	sviṣṭakṛtaḥ	_	_	_	_	3	nmod	_	_
+3	saṃyājye	_	_	_	_	4	iobj	_	_
+4	kurvīta	_	_	_	_	0	root	_	_
+5	tejaskāmaḥ	_	_	_	_	4	nsubj	_	_
+6	brahmavarcasa	_	_	_	_	7	nmod	_	_
+7	kāmaḥ	_	_	_	_	5	conj	_	_
+
+# sent_id = AB_7_17_7
+# text = sa ha uvāca śunaḥśepaḥ saṃjānāneṣu vai brūyāḥ sauhardyāya me śriyai yathā aham bharata ṛṣabha upeyām tava putra tām iti
+1	sa	_	_	_	_	4	det	_	_
+2	ha	_	_	_	_	3	discourse	_	_
+3	uvāca	_	_	_	_	0	root	_	_
+4	śunaḥśepaḥ	_	_	_	_	3	nsubj	_	_
+5	saṃjānāneṣu	_	_	_	_	7	obl	_	_
+6	vai	_	_	_	_	7	discourse	_	_
+7	brūyāḥ	_	_	_	_	3	ccomp	_	_
+8	sauhardyāya	_	_	_	_	15	advcl	_	_
+9	me	_	_	_	_	10	nmod	_	_
+10	śriyai	_	_	_	_	8	conj	_	_
+11	yathā	_	_	_	_	15	mark	_	_
+12	aham	_	_	_	_	15	nsubj	_	_
+13	bharata	_	_	_	_	14	nmod	_	_
+14	ṛṣabha	_	_	_	_	15	vocative	_	_
+15	upeyām	_	_	_	_	7	advcl	_	_
+16	tava	_	_	_	_	18	nmod	_	_
+17	putra	_	_	_	_	18	nmod	_	_
+18	tām	_	_	_	_	15	obl	_	_
+19	iti	_	_	_	_	7	mark	_	_
+
+# sent_id = ŚS_15_8_1
+# text = saḥ arajyata
+1	saḥ	_	_	_	_	2	nsubj	_	_
+2	arajyata	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_13_34
+# text = prajāpati āyatanābhiḥ eva ābhiḥ rādhnoti yaḥ evam veda
+1	prajāpati	_	_	_	_	2	nmod	_	_
+2	āyatanābhiḥ	_	_	_	_	5	obl	_	_
+3	eva	_	_	_	_	2	advmod	_	_
+4	ābhiḥ	_	_	_	_	2	det	_	_
+5	rādhnoti	_	_	_	_	0	root	_	_
+6	yaḥ	_	_	_	_	8	nsubj	_	_
+7	evam	_	_	_	_	8	advmod	_	_
+8	veda	_	_	_	_	5	ccomp	_	_
+
+# sent_id = AB_2_9_11_1
+# text = paśavaḥ vai iﾱā
+1	paśavaḥ	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	iﾱā	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_1_19_1_1_2
+# text = brahmaṇā eva enam tat bhiṣajyati
+1	brahmaṇā	_	_	_	_	5	obl	_	_
+2	eva	_	_	_	_	1	advmod	_	_
+3	enam	_	_	_	_	5	obj	_	_
+4	tat	_	_	_	_	5	advmod	_	_
+5	bhiṣajyati	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_5_5_1_1_2
+# text = aryamā te pitāmahaḥ
+1	aryamā	_	_	_	_	3	nsubj	_	_
+2	te	_	_	_	_	3	nmod	_	_
+3	pitāmahaḥ	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_4_5
+# text = tat tat na ādṛtyam
+1	tat	_	_	_	_	4	nsubj	_	_
+2	tat	_	_	_	_	1	conj	_	_
+3	na	_	_	_	_	4	advmod	_	_
+4	ādṛtyam	_	_	_	_	0	root	_	_
+
+# sent_id = AB_7_18_2_1_2_3
+# text = vaiśvāmitrāḥ dasyūnām bhūyiṣṭhāḥ
+1	vaiśvāmitrāḥ	_	_	_	_	0	root	_	_
+2	dasyūnām	_	_	_	_	3	nmod	_	_
+3	bhūyiṣṭhāḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = ŚS_3_23_1
+# text = yena vehat babhūvitha nāśayāmasi tat tvat
+1	yena	_	_	_	_	3	obl	_	_
+2	vehat	_	_	_	_	3	xcomp	_	_
+3	babhūvitha	_	_	_	_	5	acl	_	_
+4	nāśayāmasi	_	_	_	_	0	root	_	_
+5	tat	_	_	_	_	4	obj	_	_
+6	tvat	_	_	_	_	4	obl	_	_
+
+# sent_id = AB_1_21_13
+# text = īḍe dyāvāpṛthivī pūrva cittaye iti sūktam
+1	īḍe	_	_	_	_	6	ccomp	_	_
+2	dyāvāpṛthivī	_	_	_	_	1	obj	_	_
+3	pūrva	_	_	_	_	4	amod	_	_
+4	cittaye	_	_	_	_	1	iobj	_	_
+5	iti	_	_	_	_	1	mark	_	_
+6	sūktam	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_8_19
+# text = mārutī viś
+1	mārutī	_	_	_	_	0	root	_	_
+2	viś	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_2_18_6_1_2
+# text = tābhiḥ āhuti bhāgāḥ prīṇāti
+1	tābhiḥ	_	_	_	_	4	obl	_	_
+2	āhuti	_	_	_	_	3	nmod	_	_
+3	bhāgāḥ	_	_	_	_	4	obj	_	_
+4	prīṇāti	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_6_62_1
+# text = vaiśvānaraḥ raśmibhiḥ naḥ punātu vātaḥ prāṇena iṣiraḥ nabhobhiḥ
+1	vaiśvānaraḥ	_	_	_	_	4	nsubj	_	_
+2	raśmibhiḥ	_	_	_	_	4	obl	_	_
+3	naḥ	_	_	_	_	4	obj	_	_
+4	punātu	_	_	_	_	0	root	_	_
+5	vātaḥ	_	_	_	_	4	conj	_	_
+6	prāṇena	_	_	_	_	5	orphan	_	_
+7	iṣiraḥ	_	_	_	_	5	acl	_	_
+8	nabhobhiḥ	_	_	_	_	7	obl	_	_
+
+# sent_id = ŚS_4_31_3
+# text = sahasva manyo abhimātim asmai
+1	sahasva	_	_	_	_	0	root	_	_
+2	manyo	_	_	_	_	1	vocative	_	_
+3	abhimātim	_	_	_	_	1	obj	_	_
+4	asmai	_	_	_	_	1	iobj	_	_
+
+# sent_id = ŚB_1_8_1_16
+# text = etat ha vai manuḥ bibhayāṃcakāra idam vai me taniṣṭham yajñasya yat iyam iḍā pāka yajñiyā yat vai me iha rakṣāṃsi yajñam na hiṃsyuḥ iti
+1	etat	_	_	_	_	5	advmod	_	_
+2	ha	_	_	_	_	5	discourse	_	_
+3	vai	_	_	_	_	2	fixed	_	_
+4	manuḥ	_	_	_	_	5	nsubj	_	_
+5	bibhayāṃcakāra	_	_	_	_	0	root	_	_
+6	idam	_	_	_	_	9	nsubj	_	_
+7	vai	_	_	_	_	9	discourse	_	_
+8	me	_	_	_	_	10	nmod	_	_
+9	taniṣṭham	_	_	_	_	5	ccomp	_	_
+10	yajñasya	_	_	_	_	9	nmod	_	_
+11	yat	_	_	_	_	13	nsubj	_	_
+12	iyam	_	_	_	_	13	det	_	_
+13	iḍā	_	_	_	_	6	acl	_	_
+14	pāka	_	_	_	_	15	nmod	_	_
+15	yajñiyā	_	_	_	_	13	acl	_	_
+16	yat	_	_	_	_	23	mark	_	_
+17	vai	_	_	_	_	23	discourse	_	_
+18	me	_	_	_	_	21	nmod	_	_
+19	iha	_	_	_	_	23	advmod	_	_
+20	rakṣāṃsi	_	_	_	_	23	nsubj	_	_
+21	yajñam	_	_	_	_	23	obj	_	_
+22	na	_	_	_	_	23	advmod	_	_
+23	hiṃsyuḥ	_	_	_	_	9	parataxis	_	_
+24	iti	_	_	_	_	23	mark	_	_
+
+# sent_id = ŚS_4_11_7_1_2_3
+# text = saḥ adṛṃhayata
+1	saḥ	_	_	_	_	2	nsubj	_	_
+2	adṛṃhayata	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_2_35_5
+# text = asmai tisraḥ avyathyāya nārīḥ devāya devīḥ didhiṣanti annam
+1	asmai	_	_	_	_	5	det	_	_
+2	tisraḥ	_	_	_	_	4	nummod	_	_
+3	avyathyāya	_	_	_	_	5	amod	_	_
+4	nārīḥ	_	_	_	_	6	nmod	_	_
+5	devāya	_	_	_	_	7	iobj	_	_
+6	devīḥ	_	_	_	_	7	nsubj	_	_
+7	didhiṣanti	_	_	_	_	0	root	_	_
+8	annam	_	_	_	_	7	obj	_	_
+
+# sent_id = AB_1_7_3_1_2_3_4_5_6_7_8_9
+# text = vara vṛtaḥ hi asyāḥ
+1	vara	_	_	_	_	2	xcomp	_	_
+2	vṛtaḥ	_	_	_	_	0	root	_	_
+3	hi	_	_	_	_	2	discourse	_	_
+4	asyāḥ	_	_	_	_	2	iobj	_	_
+
+# sent_id = ŚS_5_5_5
+# text = bhadrāt plakṣāt niḥ tiṣṭhasi aśvatthāt khadirāt dhavāt bhadrāt nyagrodhāt parṇāt
+1	bhadrāt	_	_	_	_	2	amod	_	_
+2	plakṣāt	_	_	_	_	4	obl	_	_
+3	niḥ	_	_	_	_	4	advmod	_	_
+4	tiṣṭhasi	_	_	_	_	0	root	_	_
+5	aśvatthāt	_	_	_	_	2	conj	_	_
+6	khadirāt	_	_	_	_	2	conj	_	_
+7	dhavāt	_	_	_	_	2	conj	_	_
+8	bhadrāt	_	_	_	_	9	amod	_	_
+9	nyagrodhāt	_	_	_	_	2	conj	_	_
+10	parṇāt	_	_	_	_	2	conj	_	_
+
+# sent_id = AB_1_13_29_1_2_3_4
+# text = vācam eva tat āruhya tayā svargam lokam abhi saṃtarati
+1	vācam	_	_	_	_	4	obj	_	_
+2	eva	_	_	_	_	4	advmod	_	_
+3	tat	_	_	_	_	4	advmod	_	_
+4	āruhya	_	_	_	_	9	advcl	_	_
+5	tayā	_	_	_	_	9	obl	_	_
+6	svargam	_	_	_	_	9	obj	_	_
+7	lokam	_	_	_	_	6	conj	_	_
+8	abhi	_	_	_	_	9	compound	_	_
+9	saṃtarati	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_10_10_29_1_2_3
+# text = yajñaḥ turīyam
+1	yajñaḥ	_	_	_	_	2	nsubj	_	_
+2	turīyam	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_21_7
+# text = upa aśvinoḥ priyam dhāma gacchati jayati paramam lokam yaḥ evam veda
+1	upa	_	_	_	_	5	advmod	_	_
+2	aśvinoḥ	_	_	_	_	4	nmod	_	_
+3	priyam	_	_	_	_	4	amod	_	_
+4	dhāma	_	_	_	_	5	obj	_	_
+5	gacchati	_	_	_	_	0	root	_	_
+6	jayati	_	_	_	_	5	conj	_	_
+7	paramam	_	_	_	_	8	amod	_	_
+8	lokam	_	_	_	_	6	obj	_	_
+9	yaḥ	_	_	_	_	11	nsubj	_	_
+10	evam	_	_	_	_	11	advmod	_	_
+11	veda	_	_	_	_	5	ccomp	_	_
+
+# sent_id = AB_1_28_16
+# text = agamam yā purā gandharveṣu avāksam iti eva tat vāc prabrūte
+1	agamam	_	_	_	_	10	ccomp	_	_
+2	yā	_	_	_	_	5	nsubj	_	_
+3	purā	_	_	_	_	5	advmod	_	_
+4	gandharveṣu	_	_	_	_	5	obl	_	_
+5	avāksam	_	_	_	_	1	ccomp	_	_
+6	iti	_	_	_	_	1	mark	_	_
+7	eva	_	_	_	_	10	advmod	_	_
+8	tat	_	_	_	_	10	advmod	_	_
+9	vāc	_	_	_	_	10	nsubj	_	_
+10	prabrūte	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_5_2
+# text = bhūti kāmam yājayet
+1	bhūti	_	_	_	_	2	nmod	_	_
+2	kāmam	_	_	_	_	3	obj	_	_
+3	yājayet	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_9_67_28
+# text = pra pyāyasva
+1	pra	_	_	_	_	2	advmod	_	_
+2	pyāyasva	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_17_12
+# text = iḍā antam bhavati
+1	iḍā	_	_	_	_	2	nmod	_	_
+2	antam	_	_	_	_	3	nsubj	_	_
+3	bhavati	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_9_67_29
+# text = upa priyam panipnatam yuvānam āhutī vṛdham aganma bibhrataḥ namaḥ
+1	upa	_	_	_	_	4	case	_	_
+2	priyam	_	_	_	_	4	amod	_	_
+3	panipnatam	_	_	_	_	4	acl	_	_
+4	yuvānam	_	_	_	_	7	obl	_	_
+5	āhutī	_	_	_	_	6	obj	_	_
+6	vṛdham	_	_	_	_	4	acl	_	_
+7	aganma	_	_	_	_	0	root	_	_
+8	bibhrataḥ	_	_	_	_	7	advcl	_	_
+9	namaḥ	_	_	_	_	8	obj	_	_
+
+# sent_id = ŚB_1_8_1_38_1_2_3
+# text = na id paśūn agnau pravṛṇajāma iti
+1	na	_	_	_	_	5	advmod	_	_
+2	id	_	_	_	_	1	discourse	_	_
+3	paśūn	_	_	_	_	5	obj	_	_
+4	agnau	_	_	_	_	5	obl	_	_
+5	pravṛṇajāma	_	_	_	_	0	root	_	_
+6	iti	_	_	_	_	5	mark	_	_
+
+# sent_id = ŚS_6_86_2_1_2_3
+# text = tvam eka vṛṣaḥ bhava
+1	tvam	_	_	_	_	4	nsubj	_	_
+2	eka	_	_	_	_	3	det	_	_
+3	vṛṣaḥ	_	_	_	_	4	xcomp	_	_
+4	bhava	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_1_4_1
+# text = ambayaḥ yanti adhvabhiḥ jāmayaḥ adhvarīyatām pṛñcatīḥ madhunā payaḥ
+1	ambayaḥ	_	_	_	_	2	nsubj	_	_
+2	yanti	_	_	_	_	0	root	_	_
+3	adhvabhiḥ	_	_	_	_	2	obl	_	_
+4	jāmayaḥ	_	_	_	_	1	nmod	_	_
+5	adhvarīyatām	_	_	_	_	4	nmod	_	_
+6	pṛñcatīḥ	_	_	_	_	2	advcl	_	_
+7	madhunā	_	_	_	_	6	obl	_	_
+8	payaḥ	_	_	_	_	6	obj	_	_
+
+# sent_id = ŚS_15_17_6
+# text = yaḥ asya ṣaṣṭhaḥ vyānaḥ te ārtavāḥ
+1	yaḥ	_	_	_	_	4	nsubj	_	_
+2	asya	_	_	_	_	4	nmod	_	_
+3	ṣaṣṭhaḥ	_	_	_	_	4	amod	_	_
+4	vyānaḥ	_	_	_	_	5	acl	_	_
+5	te	_	_	_	_	6	nsubj	_	_
+6	ārtavāḥ	_	_	_	_	0	root	_	_
+
+# sent_id = ṚV_2_14_10
+# text = adhvaryavaḥ payasā udhar yathā goḥ somebhiḥ īm pṛṇata bhojam indram
+1	adhvaryavaḥ	_	_	_	_	8	vocative	_	_
+2	payasā	_	_	_	_	3	orphan	_	_
+3	udhar	_	_	_	_	8	advcl	_	_
+4	yathā	_	_	_	_	3	case	_	_
+5	goḥ	_	_	_	_	3	nmod	_	_
+6	somebhiḥ	_	_	_	_	8	obl	_	_
+7	īm	_	_	_	_	8	obj	_	_
+8	pṛṇata	_	_	_	_	0	root	_	_
+9	bhojam	_	_	_	_	10	amod	_	_
+10	indram	_	_	_	_	8	obj	_	_
+
+# sent_id = AB_1_17_15_1
+# text = atiriktam tat
+1	atiriktam	_	_	_	_	0	root	_	_
+2	tat	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_1_9_8_1
+# text = anu anyāni
+1	anu	_	_	_	_	0	root	_	_
+2	anyāni	_	_	_	_	1	nsubj	_	_
+
+# sent_id = ṚV_1_112_25
+# text = dyubhiḥ aktubhiḥ pari pātam asmān ariṣṭebhiḥ aśvinā saubhagebhiḥ
+1	dyubhiḥ	_	_	_	_	4	obl	_	_
+2	aktubhiḥ	_	_	_	_	1	conj	_	_
+3	pari	_	_	_	_	4	advmod	_	_
+4	pātam	_	_	_	_	0	root	_	_
+5	asmān	_	_	_	_	4	obj	_	_
+6	ariṣṭebhiḥ	_	_	_	_	8	amod	_	_
+7	aśvinā	_	_	_	_	4	vocative	_	_
+8	saubhagebhiḥ	_	_	_	_	4	obl	_	_
+
+# sent_id = MS_2_5_9_13
+# text = atha yaḥ aparasyām ekāṣṭakāyām jāyeta tam evam eva utsṛjya atha indrāya vṛtrature ālabheta
+1	atha	_	_	_	_	5	advmod	_	_
+2	yaḥ	_	_	_	_	5	nsubj	_	_
+3	aparasyām	_	_	_	_	4	amod	_	_
+4	ekāṣṭakāyām	_	_	_	_	5	obl	_	_
+5	jāyeta	_	_	_	_	9	advcl	_	_
+6	tam	_	_	_	_	9	obj	_	_
+7	evam	_	_	_	_	9	advmod	_	_
+8	eva	_	_	_	_	9	discourse	_	_
+9	utsṛjya	_	_	_	_	13	advcl	_	_
+10	atha	_	_	_	_	13	advmod	_	_
+11	indrāya	_	_	_	_	13	iobj	_	_
+12	vṛtrature	_	_	_	_	11	flat	_	_
+13	ālabheta	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_10_2_1_2
+# text = tebhyaḥ ha yaḥ a nivedya svargam lokam eti īśvarāḥ ha enam ni vā roddhoḥ vi vā mathitoḥ
+1	tebhyaḥ	_	_	_	_	5	iobj	_	_
+2	ha	_	_	_	_	1	discourse	_	_
+3	yaḥ	_	_	_	_	8	nsubj	_	_
+4	a	_	_	_	_	5	advmod	_	_
+5	nivedya	_	_	_	_	8	advcl	_	_
+6	svargam	_	_	_	_	8	obl	_	_
+7	lokam	_	_	_	_	6	flat	_	_
+8	eti	_	_	_	_	11	acl	_	_
+9	īśvarāḥ	_	_	_	_	0	root	_	_
+10	ha	_	_	_	_	9	discourse	_	_
+11	enam	_	_	_	_	14	obj	_	_
+12	ni	_	_	_	_	14	advmod	_	_
+13	vā	_	_	_	_	12	cc	_	_
+14	roddhoḥ	_	_	_	_	9	advcl	_	_
+15	vi	_	_	_	_	17	advmod	_	_
+16	vā	_	_	_	_	15	cc	_	_
+17	mathitoḥ	_	_	_	_	14	conj	_	_
+
+# sent_id = MS_2_5_11_5
+# text = yat aindraḥ indriyeṇa eva enam vīryeṇa samardhayati
+1	yat	_	_	_	_	2	mark	_	_
+2	aindraḥ	_	_	_	_	7	advcl	_	_
+3	indriyeṇa	_	_	_	_	7	obl	_	_
+4	eva	_	_	_	_	7	discourse	_	_
+5	enam	_	_	_	_	7	obj	_	_
+6	vīryeṇa	_	_	_	_	3	conj	_	_
+7	samardhayati	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_3_5_1
+# text = surabhi ghṛtam manuṣyāṇām
+1	surabhi	_	_	_	_	2	amod	_	_
+2	ghṛtam	_	_	_	_	3	nsubj	_	_
+3	manuṣyāṇām	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_3_8_1
+# text = ā yātu mitraḥ ṛtubhiḥ kalpamānaḥ saṃveśayan pṛthivīm usriyābhiḥ
+1	ā	_	_	_	_	2	advmod	_	_
+2	yātu	_	_	_	_	0	root	_	_
+3	mitraḥ	_	_	_	_	2	nsubj	_	_
+4	ṛtubhiḥ	_	_	_	_	5	obl	_	_
+5	kalpamānaḥ	_	_	_	_	3	acl	_	_
+6	saṃveśayan	_	_	_	_	5	conj	_	_
+7	pṛthivīm	_	_	_	_	6	obj	_	_
+8	usriyābhiḥ	_	_	_	_	6	obl	_	_
+
+# sent_id = AB_1_1_1
+# text = agniḥ vai devānām avamaḥ viṣṇuḥ paramaḥ
+1	agniḥ	_	_	_	_	4	nsubj	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	devānām	_	_	_	_	4	nmod	_	_
+4	avamaḥ	_	_	_	_	0	root	_	_
+5	viṣṇuḥ	_	_	_	_	6	nsubj	_	_
+6	paramaḥ	_	_	_	_	4	conj	_	_
+
+# sent_id = ŚS_1_9_3_1
+# text = sajātānām śraiṣṭhye ā dhehi enam
+1	sajātānām	_	_	_	_	2	nmod	_	_
+2	śraiṣṭhye	_	_	_	_	4	obl	_	_
+3	ā	_	_	_	_	4	advmod	_	_
+4	dhehi	_	_	_	_	0	root	_	_
+5	enam	_	_	_	_	4	obj	_	_
+
+# sent_id = AB_2_10_11
+# text = paśavaḥ vai iﾱā
+1	paśavaḥ	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	iﾱā	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_1_8_9_1
+# text = svargyā eva ūrdhvā diś
+1	svargyā	_	_	_	_	0	root	_	_
+2	eva	_	_	_	_	1	discourse	_	_
+3	ūrdhvā	_	_	_	_	4	amod	_	_
+4	diś	_	_	_	_	1	nsubj	_	_
+
+# sent_id = MS_2_5_7_34
+# text = brahma vai bṛhaspatiḥ
+1	brahma	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	bṛhaspatiḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_2_16_4_1
+# text = te devāḥ abibhayuḥ
+1	te	_	_	_	_	2	det	_	_
+2	devāḥ	_	_	_	_	3	nsubj	_	_
+3	abibhayuḥ	_	_	_	_	0	root	_	_
+
+# sent_id = AB_7_15_5_1_2_3_4
+# text = cara eva iti
+1	cara	_	_	_	_	0	root	_	_
+2	eva	_	_	_	_	1	advmod	_	_
+3	iti	_	_	_	_	1	mark	_	_
+
+# sent_id = ŚS_2_27_2_1_2_3
+# text = arasān kṛṇu oṣadhe
+1	arasān	_	_	_	_	2	xcomp	_	_
+2	kṛṇu	_	_	_	_	0	root	_	_
+3	oṣadhe	_	_	_	_	2	vocative	_	_
+
+# sent_id = AB_1_1_7_1
+# text = aṣṭa akṣarā vai gāyatrī
+1	aṣṭa	_	_	_	_	2	nummod	_	_
+2	akṣarā	_	_	_	_	0	root	_	_
+3	vai	_	_	_	_	2	discourse	_	_
+4	gāyatrī	_	_	_	_	2	nsubj	_	_
+
+# sent_id = MS_2_5_8_15
+# text = vṛtratūr iti hi etam āhuḥ yaḥ svārājyam gacchati
+1	vṛtratūr	_	_	_	_	5	ccomp	_	_
+2	iti	_	_	_	_	1	mark	_	_
+3	hi	_	_	_	_	5	discourse	_	_
+4	etam	_	_	_	_	5	obj	_	_
+5	āhuḥ	_	_	_	_	0	root	_	_
+6	yaḥ	_	_	_	_	8	nsubj	_	_
+7	svārājyam	_	_	_	_	8	obl	_	_
+8	gacchati	_	_	_	_	4	acl	_	_
+
+# sent_id = ŚS_4_6_1_1_2
+# text = sa cakāra arasam viṣam
+1	sa	_	_	_	_	2	nsubj	_	_
+2	cakāra	_	_	_	_	0	root	_	_
+3	arasam	_	_	_	_	2	xcomp	_	_
+4	viṣam	_	_	_	_	2	obj	_	_
+
+# sent_id = MS_2_5_4_19
+# text = te eva bhāgadheyena upāsarat
+1	te	_	_	_	_	4	obl	_	_
+2	eva	_	_	_	_	4	discourse	_	_
+3	bhāgadheyena	_	_	_	_	4	obl	_	_
+4	upāsarat	_	_	_	_	0	root	_	_
+
+# sent_id = MS_2_5_3_37
+# text = aindrāḥ vai paśavaḥ
+1	aindrāḥ	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	paśavaḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_1_6_6_1
+# text = ṛtam vāva dīkṣā
+1	ṛtam	_	_	_	_	0	root	_	_
+2	vāva	_	_	_	_	1	discourse	_	_
+3	dīkṣā	_	_	_	_	1	nsubj	_	_
+
+# sent_id = ŚS_1_16_4
+# text = yadi naḥ gām haṃsi yadi aśvam yadi pūruṣam tam tvā sīsena vidhyāmaḥ yathā naḥ asaḥ a vīra hā
+1	yadi	_	_	_	_	4	mark	_	_
+2	naḥ	_	_	_	_	3	nmod	_	_
+3	gām	_	_	_	_	4	obj	_	_
+4	haṃsi	_	_	_	_	12	advcl	_	_
+5	yadi	_	_	_	_	6	orphan	_	_
+6	aśvam	_	_	_	_	4	conj	_	_
+7	yadi	_	_	_	_	8	orphan	_	_
+8	pūruṣam	_	_	_	_	4	conj	_	_
+9	tam	_	_	_	_	10	det	_	_
+10	tvā	_	_	_	_	12	obj	_	_
+11	sīsena	_	_	_	_	12	obl	_	_
+12	vidhyāmaḥ	_	_	_	_	0	root	_	_
+13	yathā	_	_	_	_	18	mark	_	_
+14	naḥ	_	_	_	_	18	iobj	_	_
+15	asaḥ	_	_	_	_	18	cop	_	_
+16	a	_	_	_	_	18	advmod	_	_
+17	vīra	_	_	_	_	18	obj	_	_
+18	hā	_	_	_	_	12	advcl	_	_
+
+# sent_id = ŚB_1_8_1_8_1_2
+# text = āvayoḥ brūṣva iti
+1	āvayoḥ	_	_	_	_	2	xcomp	_	_
+2	brūṣva	_	_	_	_	0	root	_	_
+3	iti	_	_	_	_	2	mark	_	_
+
+# sent_id = AB_1_19_3_1_2
+# text = brahma vai bṛhaspatiḥ
+1	brahma	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	bṛhaspatiḥ	_	_	_	_	1	nsubj	_	_
+
+# sent_id = AB_7_14_1
+# text = atha enam uvāca varuṇam rājānam upadhāva putraḥ me jāyatām tena tvā yajai iti
+1	atha	_	_	_	_	3	advmod	_	_
+2	enam	_	_	_	_	3	iobj	_	_
+3	uvāca	_	_	_	_	0	root	_	_
+4	varuṇam	_	_	_	_	6	obl	_	_
+5	rājānam	_	_	_	_	4	appos	_	_
+6	upadhāva	_	_	_	_	3	ccomp	_	_
+7	putraḥ	_	_	_	_	9	nsubj	_	_
+8	me	_	_	_	_	7	nmod	_	_
+9	jāyatām	_	_	_	_	6	parataxis	_	_
+10	tena	_	_	_	_	12	obl	_	_
+11	tvā	_	_	_	_	12	obj	_	_
+12	yajai	_	_	_	_	9	parataxis	_	_
+13	iti	_	_	_	_	12	mark	_	_
+
+# sent_id = ŚS_4_3_1_1_2
+# text = hiruk namantu śatravaḥ
+1	hiruk	_	_	_	_	2	advmod	_	_
+2	namantu	_	_	_	_	0	root	_	_
+3	śatravaḥ	_	_	_	_	2	nsubj	_	_
+
+# sent_id = MS_2_5_6_1
+# text = prajāpatiḥ prajāḥ asṛjata
+1	prajāpatiḥ	_	_	_	_	3	nsubj	_	_
+2	prajāḥ	_	_	_	_	3	obj	_	_
+3	asṛjata	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_3_19_7_1_2
+# text = tīkṣṇa iṣavaḥ abala dhanvanaḥ hata ugra āyudhāḥ abalān ugra bāhavaḥ
+1	tīkṣṇa	_	_	_	_	2	amod	_	_
+2	iṣavaḥ	_	_	_	_	5	advcl	_	_
+3	abala	_	_	_	_	4	amod	_	_
+4	dhanvanaḥ	_	_	_	_	5	obj	_	_
+5	hata	_	_	_	_	0	root	_	_
+6	ugra	_	_	_	_	7	amod	_	_
+7	āyudhāḥ	_	_	_	_	5	conj	_	_
+8	abalān	_	_	_	_	7	orphan	_	_
+9	ugra	_	_	_	_	10	amod	_	_
+10	bāhavaḥ	_	_	_	_	7	conj	_	_
+
+# sent_id = AB_1_7_5
+# text = pathyām yajati
+1	pathyām	_	_	_	_	2	obj	_	_
+2	yajati	_	_	_	_	0	root	_	_
+
+# sent_id = AB_7_14_3
+# text = tam ha uvāca ajani vai te putraḥ yajasva mā anena iti
+1	tam	_	_	_	_	3	iobj	_	_
+2	ha	_	_	_	_	3	discourse	_	_
+3	uvāca	_	_	_	_	0	root	_	_
+4	ajani	_	_	_	_	3	ccomp	_	_
+5	vai	_	_	_	_	4	discourse	_	_
+6	te	_	_	_	_	7	nmod	_	_
+7	putraḥ	_	_	_	_	4	nsubj	_	_
+8	yajasva	_	_	_	_	4	parataxis	_	_
+9	mā	_	_	_	_	8	obj	_	_
+10	anena	_	_	_	_	8	obl	_	_
+11	iti	_	_	_	_	8	mark	_	_
+
+# sent_id = AB_2_16_6
+# text = tat āhuḥ sa vai hotā syāt yaḥ etasyām ṛci sarvāṇi chandāṃsi prajanayet iti
+1	tat	_	_	_	_	2	obj	_	_
+2	āhuḥ	_	_	_	_	0	root	_	_
+3	sa	_	_	_	_	5	nsubj	_	_
+4	vai	_	_	_	_	3	advmod	_	_
+5	hotā	_	_	_	_	2	ccomp	_	_
+6	syāt	_	_	_	_	5	cop	_	_
+7	yaḥ	_	_	_	_	12	nsubj	_	_
+8	etasyām	_	_	_	_	9	det	_	_
+9	ṛci	_	_	_	_	12	obl	_	_
+10	sarvāṇi	_	_	_	_	11	det	_	_
+11	chandāṃsi	_	_	_	_	12	obj	_	_
+12	prajanayet	_	_	_	_	3	acl	_	_
+13	iti	_	_	_	_	5	mark	_	_
+
+# sent_id = ṚV_7_46_3_1
+# text = mā tokeṣu tanayeṣu rīriṣaḥ
+1	mā	_	_	_	_	4	advmod	_	_
+2	tokeṣu	_	_	_	_	4	obl	_	_
+3	tanayeṣu	_	_	_	_	2	amod	_	_
+4	rīriṣaḥ	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_10_11_1_2_3
+# text = paśūn yajamāne dadhāti dadhāti
+1	paśūn	_	_	_	_	3	obj	_	_
+2	yajamāne	_	_	_	_	3	obl	_	_
+3	dadhāti	_	_	_	_	0	root	_	_
+4	dadhāti	_	_	_	_	3	conj	_	_
+
+# sent_id = ŚS_4_11_4_1_2_3_4_5
+# text = dakṣiṇā dohaḥ asya
+1	dakṣiṇā	_	_	_	_	2	nsubj	_	_
+2	dohaḥ	_	_	_	_	0	root	_	_
+3	asya	_	_	_	_	2	nmod	_	_
+
+# sent_id = AB_1_3_11
+# text = yoniḥ vai eṣā dīkṣitasya yat dīkṣita vimitam
+1	yoniḥ	_	_	_	_	0	root	_	_
+2	vai	_	_	_	_	1	discourse	_	_
+3	eṣā	_	_	_	_	1	nsubj	_	_
+4	dīkṣitasya	_	_	_	_	1	nmod	_	_
+5	yat	_	_	_	_	7	nsubj	_	_
+6	dīkṣita	_	_	_	_	7	nmod	_	_
+7	vimitam	_	_	_	_	3	acl	_	_
+
+# sent_id = ṚV_1_98_1_1_2
+# text = itas jātaḥ viśvam idam vi caṣṭe
+1	itas	_	_	_	_	2	advmod	_	_
+2	jātaḥ	_	_	_	_	6	advcl	_	_
+3	viśvam	_	_	_	_	4	det	_	_
+4	idam	_	_	_	_	6	obj	_	_
+5	vi	_	_	_	_	6	advmod	_	_
+6	caṣṭe	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_13_9
+# text = eṣa vai brāhmaṇānām sabhāsāhaḥ sakhā yat somaḥ rājā
+1	eṣa	_	_	_	_	5	nsubj	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	brāhmaṇānām	_	_	_	_	5	nmod	_	_
+4	sabhāsāhaḥ	_	_	_	_	5	amod	_	_
+5	sakhā	_	_	_	_	0	root	_	_
+6	yat	_	_	_	_	7	nsubj	_	_
+7	somaḥ	_	_	_	_	1	acl	_	_
+8	rājā	_	_	_	_	7	appos	_	_
+
+# sent_id = AB_2_12_3
+# text = juṣasva saprathastamam iti anvāha
+1	juṣasva	_	_	_	_	4	ccomp	_	_
+2	saprathastamam	_	_	_	_	1	obj	_	_
+3	iti	_	_	_	_	1	mark	_	_
+4	anvāha	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_13_4_1_2
+# text = brahma eva asmai etat etat purogavam akaḥ
+1	brahma	_	_	_	_	7	obj	_	_
+2	eva	_	_	_	_	7	advmod	_	_
+3	asmai	_	_	_	_	7	iobj	_	_
+4	etat	_	_	_	_	7	advmod	_	_
+5	etat	_	_	_	_	7	advmod	_	_
+6	purogavam	_	_	_	_	7	xcomp	_	_
+7	akaḥ	_	_	_	_	0	root	_	_
+
+# sent_id = AB_2_6_14_1
+# text = paśuṣu eva tat prāṇān dadhāti
+1	paśuṣu	_	_	_	_	5	obl	_	_
+2	eva	_	_	_	_	5	advmod	_	_
+3	tat	_	_	_	_	5	advmod	_	_
+4	prāṇān	_	_	_	_	5	obj	_	_
+5	dadhāti	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_30_8
+# text = somam vai rājānam praṇīyamānam antareṇa eva sadaḥ havirdhānāni asurāḥ rakṣāṃsi ajighāṃsan
+1	somam	_	_	_	_	11	obj	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	rājānam	_	_	_	_	1	appos	_	_
+4	praṇīyamānam	_	_	_	_	1	acl	_	_
+5	antareṇa	_	_	_	_	8	case	_	_
+6	eva	_	_	_	_	5	advmod	_	_
+7	sadaḥ	_	_	_	_	8	nmod	_	_
+8	havirdhānāni	_	_	_	_	4	advcl	_	_
+9	asurāḥ	_	_	_	_	11	nsubj	_	_
+10	rakṣāṃsi	_	_	_	_	9	conj	_	_
+11	ajighāṃsan	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_4_8
+# text = agniḥ mukham prathamaḥ devatānām agniḥ ca viṣṇo tapaḥ uttamam mahaḥ iti āgnāvaiṣṇavasya haviṣaḥ yājyā anuvākye bhavataḥ
+1	agniḥ	_	_	_	_	2	nsubj	_	_
+2	mukham	_	_	_	_	8	parataxis	_	_
+3	prathamaḥ	_	_	_	_	1	nmod	_	_
+4	devatānām	_	_	_	_	3	nmod	_	_
+5	agniḥ	_	_	_	_	8	orphan	_	_
+6	ca	_	_	_	_	5	cc	_	_
+7	viṣṇo	_	_	_	_	5	conj	_	_
+8	tapaḥ	_	_	_	_	16	ccomp	_	_
+9	uttamam	_	_	_	_	8	amod	_	_
+10	mahaḥ	_	_	_	_	9	conj	_	_
+11	iti	_	_	_	_	8	mark	_	_
+12	āgnāvaiṣṇavasya	_	_	_	_	13	amod	_	_
+13	haviṣaḥ	_	_	_	_	15	nmod	_	_
+14	yājyā	_	_	_	_	15	nmod	_	_
+15	anuvākye	_	_	_	_	16	nsubj	_	_
+16	bhavataḥ	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_12_3
+# text = tasya krītasya manuṣyān abhi upāvartamānasya diśaḥ vīryāṇi indriyāṇi vyudasīdan
+1	tasya	_	_	_	_	2	det	_	_
+2	krītasya	_	_	_	_	7	nmod	_	_
+3	manuṣyān	_	_	_	_	5	obj	_	_
+4	abhi	_	_	_	_	5	advmod	_	_
+5	upāvartamānasya	_	_	_	_	2	conj	_	_
+6	diśaḥ	_	_	_	_	9	obl	_	_
+7	vīryāṇi	_	_	_	_	9	nsubj	_	_
+8	indriyāṇi	_	_	_	_	7	conj	_	_
+9	vyudasīdan	_	_	_	_	0	root	_	_
+
+# sent_id = ŚS_3_19_8_1_2_3_4
+# text = mā amīṣām moci kaścana
+1	mā	_	_	_	_	3	advmod	_	_
+2	amīṣām	_	_	_	_	4	nmod	_	_
+3	moci	_	_	_	_	0	root	_	_
+4	kaścana	_	_	_	_	3	nsubj	_	_
+
+# sent_id = ŚS_4_7_1
+# text = vāḥ idam vārayātai varaṇāvatyām adhi
+1	vāḥ	_	_	_	_	3	nsubj	_	_
+2	idam	_	_	_	_	1	det	_	_
+3	vārayātai	_	_	_	_	0	root	_	_
+4	varaṇāvatyām	_	_	_	_	3	obl	_	_
+5	adhi	_	_	_	_	4	case	_	_
+
+# sent_id = AB_2_17_9_1_2
+# text = prajāpateḥ vai etat uktham yat prātaranuvākaḥ
+1	prajāpateḥ	_	_	_	_	4	nmod	_	_
+2	vai	_	_	_	_	1	advmod	_	_
+3	etat	_	_	_	_	4	nsubj	_	_
+4	uktham	_	_	_	_	0	root	_	_
+5	yat	_	_	_	_	6	nsubj	_	_
+6	prātaranuvākaḥ	_	_	_	_	3	acl	_	_
+
+# sent_id = ŚS_4_4_5
+# text = uta ārśam asi vṛṣṇyam
+1	uta	_	_	_	_	4	discourse	_	_
+2	ārśam	_	_	_	_	4	amod	_	_
+3	asi	_	_	_	_	4	cop	_	_
+4	vṛṣṇyam	_	_	_	_	0	root	_	_
+
+# sent_id = AB_1_16_46_1
+# text = yajñasya eva tat barsau nahyati sthemne balāya a visraṃsāya
+1	yajñasya	_	_	_	_	4	nmod	_	_
+2	eva	_	_	_	_	5	advmod	_	_
+3	tat	_	_	_	_	5	advmod	_	_
+4	barsau	_	_	_	_	5	obj	_	_
+5	nahyati	_	_	_	_	0	root	_	_
+6	sthemne	_	_	_	_	5	iobj	_	_
+7	balāya	_	_	_	_	6	conj	_	_
+8	a	_	_	_	_	9	advmod	_	_
+9	visraṃsāya	_	_	_	_	6	conj	_	_
+
+# sent_id = ŚS_15_2_3_1_2_3_4_5_6_7
+# text = tasya pratīcyām diśi irā puṃścalī hasaḥ māgadhaḥ vijñānam vāsaḥ ahar uṣṇīṣam rātrī keśāḥ haritau pravartau kalmaliḥ maṇiḥ ahar ca rātrī ca pariṣkandau manaḥ vipatham mātariśvā ca pavamānaḥ ca vipatha vāhau vātaḥ sārathiḥ reṣmā pratodaḥ kīrtiḥ ca yaśaḥ ca puraḥsarau
+1	tasya	_	_	_	_	5	nmod	_	_
+2	pratīcyām	_	_	_	_	3	amod	_	_
+3	diśi	_	_	_	_	5	obl	_	_
+4	irā	_	_	_	_	5	nsubj	_	_
+5	puṃścalī	_	_	_	_	0	root	_	_
+6	hasaḥ	_	_	_	_	7	nsubj	_	_
+7	māgadhaḥ	_	_	_	_	5	conj	_	_
+8	vijñānam	_	_	_	_	9	nsubj	_	_
+9	vāsaḥ	_	_	_	_	5	conj	_	_
+10	ahar	_	_	_	_	11	nsubj	_	_
+11	uṣṇīṣam	_	_	_	_	5	conj	_	_
+12	rātrī	_	_	_	_	13	nsubj	_	_
+13	keśāḥ	_	_	_	_	5	conj	_	_
+14	haritau	_	_	_	_	15	nsubj	_	_
+15	pravartau	_	_	_	_	5	conj	_	_
+16	kalmaliḥ	_	_	_	_	17	nsubj	_	_
+17	maṇiḥ	_	_	_	_	5	conj	_	_
+18	ahar	_	_	_	_	22	nsubj	_	_
+19	ca	_	_	_	_	18	cc	_	_
+20	rātrī	_	_	_	_	18	conj	_	_
+21	ca	_	_	_	_	20	cc	_	_
+22	pariṣkandau	_	_	_	_	5	conj	_	_
+23	manaḥ	_	_	_	_	24	nsubj	_	_
+24	vipatham	_	_	_	_	5	conj	_	_
+25	mātariśvā	_	_	_	_	30	nsubj	_	_
+26	ca	_	_	_	_	25	cc	_	_
+27	pavamānaḥ	_	_	_	_	25	conj	_	_
+28	ca	_	_	_	_	27	cc	_	_
+29	vipatha	_	_	_	_	30	nmod	_	_
+30	vāhau	_	_	_	_	5	conj	_	_
+31	vātaḥ	_	_	_	_	32	nsubj	_	_
+32	sārathiḥ	_	_	_	_	5	conj	_	_
+33	reṣmā	_	_	_	_	34	nsubj	_	_
+34	pratodaḥ	_	_	_	_	5	conj	_	_
+35	kīrtiḥ	_	_	_	_	39	nsubj	_	_
+36	ca	_	_	_	_	35	cc	_	_
+37	yaśaḥ	_	_	_	_	35	conj	_	_
+38	ca	_	_	_	_	37	cc	_	_
+39	puraḥsarau	_	_	_	_	5	conj	_	_
+
