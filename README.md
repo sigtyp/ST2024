@@ -159,10 +159,12 @@ The shared task is hosted on CodaLab. Following the authors of GLUE and SuperGLU
 |Detailed morphological annotation|Macro-average of Accuracy @1 per tag|
 |Lemmatisation|Accuracy @1, Accuracy @3|
 |Filling the gaps (word-level)|Accuracy @1, Accuracy @3|
-|Filling the gaps (chaacter-level)|Accuracy @1, Accuracy @3|
+|Filling the gaps (character-level)|Accuracy @1, Accuracy @3|
 
-## Submission format
-You should submit a `.zip` file with the following folder structure:
+## Submission Format
+
+### Unconstrained Subtask & Phase 1 of the Constrained Subtask
+You should submit a `.zip` file with the following folder structure. Please make sure that your folder & file names are exactly as displayed below!
 
 ```
 📂 fill_mask_char
@@ -193,12 +195,15 @@ You should submit a `.zip` file with the following folder structure:
 
 ```
 
-**NB!** Please make sure that your folder & file names are exactly as displayed above! For the **constrained subtask**, you should also upload your pretrained embeddings as binary files, and a Python function to load them. Your code should be compatible with `Python 3.9`. If any additional libraries are required for loading your embedding models, please specify them and their versions in the `requirements.txt` file.
+### Phase 2 of the Constrained Subtask
+
+For the Phase 2 of the constrained subtask, you should upload your pretrained embeddings as binary files and a Python function to load them. Your code should be compatible with `Python 3.9`. Your function should take a path to the model file as input and return an iterable. If any additional libraries are required for loading your embedding models, please specify them and their versions in the `requirements.txt` file. We kindly ask you to provide a short description of your model in the `metadata.txt` file.
 
 ```
 📂 embeddings
     ├── load_embeddings.py
     ├── requirements.txt
+    ├── metadata.txt
     ├── chu.bin
     ├── cop.bin
     ├── fro.bin
