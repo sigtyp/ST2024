@@ -381,6 +381,15 @@ Paper submission instructions will be the same as for the workshop. Each team pa
  - **21/22 Mar 2024:** SIGTYP workshop
  
 ## Important Links
+
+Constrained subtask on CodaLab
+
+[**Constrained**](https://codalab.lisn.upsaclay.fr/competitions/16822)
+
+Unconstrained task on CodaLab
+
+[**Unconstrained**](https://codalab.lisn.upsaclay.fr/competitions/16818)
+
 To register for the Shared Task, please fill in the form on the link below.
 
 [**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
