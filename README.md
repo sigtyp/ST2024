@@ -401,8 +401,8 @@ Paper submission instructions will be the same as for the workshop. Each team pa
 ## Important Dates
  - **05 Nov 2023:** Release of training and validation data
  - **02 Jan 2024:** Release of test data
- - **09 Jan 2024:** Submission of results for the unconstrained task and phase 1 of the constrained subtask
- - **12 Jan 2024:** Submission of results for phase 2 of the constrained subtask
+ - **09 Jan 2024:** Submission of results for Phase 1 of the Constrained Subtask
+ - **12 Jan 2024:** Submission of results for Phase 2 of the Constrained Subtask and for the Unconstrained Subtask
  - **13 Jan 2024:** Notification of results
  - **20 Jan 2024:** Submission of shared task papers
  - **27 Jan 2024:** Notification of acceptance to authors
