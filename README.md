@@ -401,12 +401,12 @@ Paper submission instructions will be the same as for the workshop. Each team pa
 ## Important Dates
  - **05 Nov 2023:** Release of training and validation data
  - **02 Jan 2024:** Release of test data
- - **09 Jan 2024:** Submission of results for Phase 1 of the Constrained Subtask
- - **12 Jan 2024:** Submission of results for Phase 2 of the Constrained Subtask and for the Unconstrained Subtask
- - **13 Jan 2024:** Notification of results
- - **20 Jan 2024:** Submission of shared task papers
- - **27 Jan 2024:** Notification of acceptance to authors
- - **03 Feb 2024:** Camera-ready
+ - **~~08~~ 12 Jan 2024:** Submission of results for Phase 1 of the Constrained Subtask and for the Unconstrained Subtask
+ - **~~12~~ 15 Jan 2024:** Submission of results for Phase 2 of the Constrained Subtask (unconstrained/constrained subtask)
+ - **~~13~~ 12/15 Jan 2024:** Notification of results
+ - **~~20~~ 22 Jan 2024:** Submission of shared task papers
+ - **~~27~~ 29 Jan 2024:** Notification of acceptance to authors
+ - **~~03~~ 05 Feb 2024:** Camera-ready
  - **15 Mar 2024:** Video recordings due
  - **21/22 Mar 2024:** SIGTYP workshop
  
