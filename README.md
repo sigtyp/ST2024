@@ -280,7 +280,7 @@ You should submit a `.json` file with a list of sentences. Each sentence is a li
 ```
 
 ### Detailed morphological annotation
-Your submission is a `.json` file again, but with a bit more complicated structure. It is a list of sentences, and each sentence is a list of tokens, while each token is a dictionary that contains the form, its POS-tag and all morphological features. The inventory of morphological feautures, as well as their names, are specific to each language (please refer to the training data). `UPOS` and `Form` keys are universal, i.e. valid for every language. **NB!** You have to submit UPOS in this task, but you don't have to submit lemma.
+Your submission is a `.json` file again, but with a bit more complicated structure. It is a list of sentences, and each sentence is a list of tokens, while each token is a dictionary that contains the form, its POS-tag and all morphological features. The inventory of morphological feautures, as well as their names, are specific to each language (please refer to the training data). `UPOS` and `Token` keys are universal, i.e. valid for every language. **NB!** You have to submit UPOS in this task, but you don't have to submit lemma.
 
 ```
 [
@@ -290,7 +290,7 @@ Your submission is a `.json` file again, but with a bit more complicated structu
             "Gender": "Fem",
             "Number": "Sing",
             "UPOS": "NOUN",
-            "Form": "hospitalitatem"
+            "Token": "hospitalitatem"
         },
         {
             "Case": "Nom",
@@ -300,20 +300,20 @@ Your submission is a `.json` file again, but with a bit more complicated structu
             "VerbForm": "Part",
             "Voice": "Act",
             "UPOS": "VERB",
-            "Form": "sectantes"
+            "Token": "sectantes"
         }
     ],
     [
         {
             "UPOS": "ADP",
-            "Form": "secundum"
+            "Token": "secundum"
         },
         {
             "Case": "Acc",
             "Gender": "Masc",
             "Number": "Sing",
             "UPOS": "NOUN",
-            "Form": "hominem"
+            "Token": "hominem"
         },
         {
             "Mood": "Ind",
@@ -323,7 +323,7 @@ Your submission is a `.json` file again, but with a bit more complicated structu
             "VerbForm": "Fin",
             "Voice": "Act",
             "UPOS": "VERB",
-            "Form": "dico"
+            "Token": "dico"
         }
     ]
 ]
