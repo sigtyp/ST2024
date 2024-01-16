@@ -341,14 +341,15 @@ Submissions should be `json` files with a list of sentences, where each sentence
 ## Paper submission 
 Participants will be invited to describe their system in a paper for the SIGTYP workshop proceedings. The task organisers will write an overview paper that describes the task and summarises the different approaches taken, and analyses their results. 
 
-Paper submission instructions will be the same as for the workshop. Each team participating in the shared task is expected to submit a paper of 4 to 8 pages, plus additional pages for references, formatted according to the workshop guidelines. The paper should describe the system and the resources used along with the libraries used to develop the system. The methodology/strategy should be documented in such a way that the readers and other researchers are able to replicate the work from the system description in the paper. 
+Paper submission instructions will be the same as for the workshop. Each team participating in the shared task is expected to submit a paper of 4 to 8 pages, plus unlimited additional pages for references, formatted according to the workshop guidelines: https://github.com/acl-org/acl-style-files. Both long and short paper submissions must follow the two-column format of ACL proceedings. All submissions must be in PDF format. 
+
+The paper should describe the system and the resources used along with the libraries used to develop the system. The methodology/strategy should be documented in such a way that the readers and other researchers are able to replicate the work from the system description in the paper. 
 
 ## Important Dates
  - **05 Nov 2023:** Release of training and validation data
  - **02 Jan 2024:** Release of test data
- - **~~08~~ 12 Jan 2024:** Submission of results for Phase 1 of the Constrained Subtask and for the Unconstrained Subtask
- - **~~12~~ 15 Jan 2024:** Submission of results for Phase 2 of the Constrained Subtask (unconstrained/constrained subtask)
- - **~~13~~ 12/15 Jan 2024:** Notification of results
+ - **~~12~~ 15 Jan 2024:** Submission of results
+ - **~~13~~ 15 Jan 2024:** Notification of results
  - **~~20~~ 22 Jan 2024:** Submission of shared task papers
  - **~~27~~ 29 Jan 2024:** Notification of acceptance to authors
  - **~~03~~ 05 Feb 2024:** Camera-ready
@@ -372,6 +373,10 @@ To register for the Shared Task, please fill in the form on the link below.
 Please cite these if you are using the dataset (APA-style citations can be found in the list of references below).
 
 [**Bibliography**](https://github.com/sigtyp/ST2024/blob/main/bibliography.bib)
+
+SIGTYP 2024 paper formatting guidelines
+
+[**Style guide**](https://github.com/acl-org/acl-style-files)
 
 ## Task Organizers 
 * **Oksana Dereza**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
