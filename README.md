@@ -373,7 +373,7 @@ The paper should describe the system and the resources used along with the libra
 * **John P. McCrae**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
 
 ## Acknowledgements
-This shared task is in part supported by the Irish Research Council under grant number IRCLA/2017/129 ([CARDAMOM-Comparative Deep Models of Language for Minority and Historical Languages](https://www.cardamom-project.org/)) and co-funded by Science Foundation Ireland (SFI) under Grant Number SFI/12/RC/2289 (Insight) and SFI/12/RC/2289_P2 (Insight_2). 
+This shared task is in part supported by the Irish Research Council under grant number IRCLA/2017/129 ([CARDAMOM-Comparative Deep Models of Language for Minority and Historical Languages](https://www.cardamom-project.org/)) and co-funded by Science Foundation Ireland (SFI) under Grant Number SFI/12/RC/2289 (Insight) and SFI/12/RC/2289_P2 (Insight_2). We would also like to thank Universal Dependencies, University College Cork, Royal Irish Academy and HAS Research Institute for Linguistics for providing the source data.
 
 ## References 
 1. Acadamh Ríoga na hÉireann. (2017). Corpas Stairiúil na Gaeilge 1600-1926. Acadamh Ríoga na hÉireann. http://corpas.ria.ie/index.php?fsg_function=1
