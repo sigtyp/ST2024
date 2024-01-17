@@ -358,25 +358,11 @@ The paper should describe the system and the resources used along with the libra
  
 ## Important Links
 
-Constrained subtask on CodaLab
-
-[**Constrained**](https://codalab.lisn.upsaclay.fr/competitions/16822)
-
-Unconstrained task on CodaLab
-
-[**Unconstrained**](https://codalab.lisn.upsaclay.fr/competitions/16818)
-
-To register for the Shared Task, please fill in the form on the link below.
-
-[**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
-
-Please cite these if you are using the dataset (APA-style citations can be found in the list of references below).
-
-[**Bibliography**](https://github.com/sigtyp/ST2024/blob/main/bibliography.bib)
-
-SIGTYP 2024 paper formatting guidelines
-
-[**Style guide**](https://github.com/acl-org/acl-style-files)
+* [**Constrained subtask on CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/16822)
+* [**Unconstrained subtask on CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/16818)
+* [**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
+* [**SIGTYP 2024 style guide**](https://github.com/acl-org/acl-style-files)
+* Please cite [**these**](https://github.com/sigtyp/ST2024/blob/main/bibliography.bib) if you are using the dataset (APA-style citations can be found in the list of references below).
 
 ## Task Organizers 
 * **Oksana Dereza**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
