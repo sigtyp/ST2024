@@ -407,7 +407,7 @@ Paper submission instructions will be the same as for the workshop. Each team pa
  - **~~20~~ 22 Jan 2024:** Submission of shared task papers
  - **~~27~~ 29 Jan 2024:** Notification of acceptance to authors
  - **~~03~~ 05 Feb 2024:** Camera-ready
- - **15 Mar 2024:** Video recordings due
+ - **~~15 Mar~~ 18 Feb 2024:** Video recordings due on Underline
  - **21/22 Mar 2024:** SIGTYP workshop
  
 ## Important Links
@@ -427,6 +427,8 @@ To register for the Shared Task, please fill in the form on the link below.
 Please cite these if you are using the dataset (APA-style citations can be found in the list of references below).
 
 [**Bibliography**](https://github.com/sigtyp/ST2024/blob/main/bibliography.bib)
+
+[**Underline Form**](https://eacl2024workshops.paperform.co/)
 
 ## Task Organizers 
 * **Oksana Dereza**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
