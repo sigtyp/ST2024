@@ -363,8 +363,8 @@ The paper should describe the system and the resources used along with the libra
 * [**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
 * [**SIGTYP 2024 style guide**](https://github.com/acl-org/acl-style-files)
 * Please cite [**these**](https://github.com/sigtyp/ST2024/blob/main/bibliography.bib) if you are using the dataset (APA-style citations can be found in the list of references below).
-
-[**Underline Form**](https://eacl2024workshops.paperform.co/)
+* [**Underline Form**](https://eacl2024workshops.paperform.co/)
+* Need help in uploading the presentation on Underline, see the [**this**](https://docs.google.com/presentation/d/10Zmo5g1M8vJmAIY0FdDzyrlDQJ3GzWiS0lEHGvP9NZA/edit?usp=sharing).
 
 ## Task Organizers 
 * **Oksana Dereza**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
