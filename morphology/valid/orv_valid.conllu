@@ -6404,7 +6404,7 @@
 16	погаными	поганыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	14	advmod	_	ref=264.6
 
 # sent_id = Delo_duel_1637-43
-# text = И в Иноземской приказ по Михайло Цыпра с товарищи память посылана, и генваря в 10 день в Приказе сбору ратных людей боярину Ивану Петровичу Шереметеву да дьяком ... Иноземского приказу пристав Иван Патрекеев подал память, а в памяти пишет:
+# text = И в Иноземской приказ по Михайло Цыпра с товарищи память посылана, и генваря в 10 день в Приказе сбору ратных людей боярину Ивану Петровичу Шереметеву да дьяком [...] Иноземского приказу пристав Иван Патрекеев подал память, а в памяти пишет:
 1	И	и	CCONJ	_	_	11	cc	_	_
 2	в	въ	ADP	_	_	4	case	_	_
 3	Иноземской	иноземский	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
@@ -6433,9 +6433,9 @@
 26	Шереметеву	Шереметевъ	PROPN	Animacylex=Anim	Case=Dat|Gender=Masc|Number=Sing	24	flat:name	_	_
 27	да	да	CCONJ	_	_	28	cc	_	_
 28	дьяком	дьякъ	NOUN	Animacylex=Anim	Case=Ins|Gender=Masc|Number=Sing	24	appos	_	_
-29			PUNCT	_	_	28	punct	_	SpaceAfter=No
+29	[	[	PUNCT	_	_	28	punct	_	SpaceAfter=No
 30	...	...	PUNCT	_	_	28	punct	_	SpaceAfter=No
-31			PUNCT	_	_	28	punct	_	_
+31	]	]	PUNCT	_	_	28	punct	_	_
 32	Иноземского	иноземский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	33	amod	_	_
 33	приказу	приказъ	NOUN	Animacylex=Inan	Case=Gen|Gender=Masc|Number=Sing	37	obj	_	_
 34	пристав	приставъ	NOUN	Animacylex=Anim	Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	_
@@ -14963,7 +14963,7 @@
 # newpar
 # sent_id = Kungur_akty_73-58
 # text = VIII.
-1			PUNCT	_	_	2	punct	_	Norm=""|SpaceAfter=No
+1	[	[	PUNCT	_	_	2	punct	_	Norm="["|SpaceAfter=No
 2	VIII	VIII	NUM	_	Case=Nom|NumForm=Roman	0	root	_	Norm="VIII"|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Norm="."
 
@@ -17178,7 +17178,7 @@
 7	кобꙑлѹ	кобыла	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	wf="кобꙑлѹ"|addr="959:2"
 
 # sent_id = Kungur_akty_73-23
-# text = Въ нынѣшнемъ, государь, въ 206 году, генваря въ 3 день, билъ челомъ тебѣ великому государю полная на Кунгурѣ въ приказной избѣ подалъ челобитную мнѣ холопу твоему кунгурецъ посадцкой человѣкъ Ивашко Флоровъ.
+# text = Въ нынѣшнемъ, государь, въ 206 году, генваря въ 3 день, билъ челомъ тебѣ великому государю [полная] на Кунгурѣ въ приказной избѣ подалъ челобитную мнѣ холопу твоему кунгурецъ посадцкой человѣкъ Ивашко Флоровъ.
 1	Въ	въ	ADP	_	_	8	case	_	Norm="Въ"
 2	нынѣшнемъ	нынѣшний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	Norm="нынѣшнемъ"|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	Norm=","
@@ -17198,9 +17198,9 @@
 17	тебѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	15	iobj	_	Norm="тебѣ"
 18	великому	великий	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	19	amod	_	Norm="великому"
 19	государю	государь	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	17	appos	_	Norm="государю"
-20			PUNCT	_	_	21	punct	_	Norm=""|SpaceAfter=No
+20	[	[	PUNCT	_	_	21	punct	_	Norm="["|SpaceAfter=No
 21	полная	полный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	19	parataxis	_	Norm="полная"|SpaceAfter=No
-22			PUNCT	_	_	21	punct	_	Norm=""
+22	]	]	PUNCT	_	_	21	punct	_	Norm="]"
 23	на	на	ADP	_	_	24	case	_	Norm="на"
 24	Кунгурѣ	Кунгуръ	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	28	obl	_	Norm="Кунгурѣ"
 25	въ	въ	ADP	_	_	27	case	_	Norm="въ"

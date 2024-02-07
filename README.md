@@ -164,7 +164,7 @@ The shared task is hosted on CodaLab. Following the authors of GLUE and SuperGLU
 ## Submission Format
 
 ### Unconstrained Subtask & Phase 1 of the Constrained Subtask
-You should submit a `.zip` file with the following folder structure. Please make sure that your folder & file names are exactly as displayed below!
+You should submit a `.zip` file with the following folder structure. Please make sure that your folder & file names are exactly as displayed below, ans that the subfolders are in the root directory!
 
 ```
 📂 fill_mask_char
@@ -197,62 +197,7 @@ You should submit a `.zip` file with the following folder structure. Please make
 
 ### Phase 2 of the Constrained Subtask
 
-For the Phase 2 of the constrained subtask, you should upload your pretrained embeddings as binary files and a Python function to load them. Your code should be compatible with `Python 3.9`. Your function should take a path to the model file as input and return a loaded model object, where vectors can be accessed by keys (= words from the model's vocabulary). If any additional libraries are required to load your embedding models, please specify them and their versions in the `requirements.txt` file. We kindly ask you to provide a short description of your models in the `metadata.txt` file.
-
-```
-📂 embeddings
-    ├── load_embeddings.py
-    ├── requirements.txt
-    ├── metadata.txt
-    ├── chu.bin
-    ├── cop.bin
-    ├── fro.bin
-    └── ...
-```
-
-Here is an example of a load function (uses `gensim==4.3.0`):
-
-```
-import gensim
-
-def load_model(model_path, binary=True):
-    """
-    Loads a pretrained word2vec model.
-    :param model_path: str, path tot the model file
-    :param binary: if the model is compressed, is it in binary or text format
-    :return: KeyedVectors object
-    """
-    return gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=binary)
-```
-
-Here is an example of how we should be able to use your function:
-
-```
-> model = load_model(model_path)
-> model['ocus']
-
-[Out]: array([ 1.5733392 , -0.8281076 ,  3.14848   ,  0.2219027 ,  0.5242622 ,
-        1.6347595 , -0.4801302 , -0.47291416, -0.2864287 ,  1.4071647 ,
-        0.5106803 ,  0.63692063, -0.23320669,  0.94002354, -0.5531442 ,
-        1.7095504 ,  0.7174922 , -1.8853649 ,  0.9951415 ,  2.1806333 ,
-       -1.1936942 ,  0.23348695,  0.7454169 ,  0.44898587,  2.4976215 ,
-        0.53814757,  2.072146  ,  1.2090036 , -0.10769089,  0.97834873,
-       -0.20169446, -1.7276735 ,  0.36428085,  0.8504869 , -1.2741064 ,
-       -0.7176749 ,  1.2578478 ,  1.4141568 ,  2.3510249 , -1.2755529 ,
-        0.3206452 ,  0.6595537 , -1.3546827 ,  0.45805138, -0.1383015 ,
-        0.21479964, -0.4529127 , -1.0392785 , -1.9884776 , -1.7070132 ,
-        0.4793383 , -2.1326056 , -1.457751  ,  0.10569981, -2.7827444 ,
-       -0.57717484, -1.9276508 ,  0.71045595, -0.41069573,  0.48718056,
-       -1.2526991 , -0.79434067,  2.0833015 , -2.0765586 , -2.348544  ,
-        1.0221741 ,  0.6412075 , -0.19687717,  0.7608868 , -0.6060138 ,
-        2.066918  ,  0.25159642, -1.186929  ,  1.5634978 ,  0.31453454,
-       -2.011479  ,  0.11616329,  1.073292  , -1.5631199 ,  0.21954271,
-       -2.356843  , -1.2546052 , -0.3317857 , -0.894448  ,  2.7144961 ,
-       -0.51580656,  2.1599793 ,  1.7939224 ,  2.3818297 , -0.33923644,
-       -0.25269115,  0.32848105, -0.37058732,  0.06037209,  0.682728  ,
-       -1.103239  ,  0.705506  , -1.9009618 , -1.4850595 ,  0.58235765],
-      dtype=float32)
-```
+Please upload your embeddings to [this folder](https://www.dropbox.com/request/eGcvRJmlqEgXDXYwLoGB). Please upload a zip archive with the same name as your username on CodaLab.
 
 ### POS-tagging
 You should submit a `.json` file with a list of sentences. Each sentence is a list of `(token, POS-tag)` tuples.
@@ -396,14 +341,15 @@ Submissions should be `json` files with a list of sentences, where each sentence
 ## Paper submission 
 Participants will be invited to describe their system in a paper for the SIGTYP workshop proceedings. The task organisers will write an overview paper that describes the task and summarises the different approaches taken, and analyses their results. 
 
-Paper submission instructions will be the same as for the workshop. Each team participating in the shared task is expected to submit a paper of 4 to 8 pages, plus additional pages for references, formatted according to the workshop guidelines. The paper should describe the system and the resources used along with the libraries used to develop the system. The methodology/strategy should be documented in such a way that the readers and other researchers are able to replicate the work from the system description in the paper. 
+Paper submission instructions will be the same as for the workshop. Each team participating in the shared task is expected to submit a paper of 4 to 8 pages, plus unlimited additional pages for references, formatted according to the workshop guidelines: https://github.com/acl-org/acl-style-files. Both long and short paper submissions must follow the two-column format of ACL proceedings. All submissions must be in PDF format. 
+
+The paper should describe the system and the resources used along with the libraries used to develop the system. The methodology/strategy should be documented in such a way that the readers and other researchers are able to replicate the work from the system description in the paper. 
 
 ## Important Dates
  - **05 Nov 2023:** Release of training and validation data
  - **02 Jan 2024:** Release of test data
- - **~~08~~ 12 Jan 2024:** Submission of results for Phase 1 of the Constrained Subtask and for the Unconstrained Subtask
- - **~~12~~ 15 Jan 2024:** Submission of results for Phase 2 of the Constrained Subtask (unconstrained/constrained subtask)
- - **~~13~~ 12/15 Jan 2024:** Notification of results
+ - **~~12~~ 15 Jan 2024:** Submission of results
+ - **~~13~~ 15 Jan 2024:** Notification of results
  - **~~20~~ 22 Jan 2024:** Submission of shared task papers
  - **~~27~~ 29 Jan 2024:** Notification of acceptance to authors
  - **~~03~~ 05 Feb 2024:** Camera-ready
@@ -412,21 +358,11 @@ Paper submission instructions will be the same as for the workshop. Each team pa
  
 ## Important Links
 
-Constrained subtask on CodaLab
-
-[**Constrained**](https://codalab.lisn.upsaclay.fr/competitions/16822)
-
-Unconstrained task on CodaLab
-
-[**Unconstrained**](https://codalab.lisn.upsaclay.fr/competitions/16818)
-
-To register for the Shared Task, please fill in the form on the link below.
-
-[**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
-
-Please cite these if you are using the dataset (APA-style citations can be found in the list of references below).
-
-[**Bibliography**](https://github.com/sigtyp/ST2024/blob/main/bibliography.bib)
+* [**Constrained subtask on CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/16822)
+* [**Unconstrained subtask on CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/16818)
+* [**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSdINgMfzzZGIZ-uBVQhvyndB6yeaaj-wT7v45A6UB4F2h6QBQ/viewform?usp=sf_link)
+* [**SIGTYP 2024 style guide**](https://github.com/acl-org/acl-style-files)
+* Please cite [**these**](https://github.com/sigtyp/ST2024/blob/main/bibliography.bib) if you are using the dataset (APA-style citations can be found in the list of references below).
 
 [**Underline Form**](https://eacl2024workshops.paperform.co/)
 
@@ -437,6 +373,9 @@ Please cite these if you are using the dataset (APA-style citations can be found
 * **Adrian Doyle**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
 * **Pádraic Moran**, School of Languages, Literatures and Cultures, Moore Institute, University of Galway
 * **John P. McCrae**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
+
+## Acknowledgements
+This shared task is in part supported by the Irish Research Council under grant number IRCLA/2017/129 ([CARDAMOM-Comparative Deep Models of Language for Minority and Historical Languages](https://www.cardamom-project.org/)) and co-funded by Science Foundation Ireland (SFI) under Grant Number SFI/12/RC/2289 (Insight) and SFI/12/RC/2289_P2 (Insight_2). We would also like to thank Universal Dependencies, University College Cork, Royal Irish Academy and HAS Research Institute for Linguistics for providing the source data.
 
 ## References 
 1. Acadamh Ríoga na hÉireann. (2017). Corpas Stairiúil na Gaeilge 1600-1926. Acadamh Ríoga na hÉireann. http://corpas.ria.ie/index.php?fsg_function=1
