@@ -354,7 +354,7 @@ The paper should describe the system and the resources used along with the libra
  - **~~27~~ 29 Jan 2024:** Notification of acceptance to authors
  - **~~03~~ 05 Feb 2024:** Camera-ready
  - **~~15 Mar~~ 18 Feb 2024:** Video recordings due on Underline
- - **21/22 Mar 2024:** SIGTYP workshop
+ - **22 Mar 2024:** SIGTYP workshop
  
 ## Important Links
 
